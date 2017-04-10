@@ -1,0 +1,4003 @@
+41645:锅\里\的\牛奶\煮沸\溢\了\出来\.\
+#The milk in the pot boiled up and spilled over.
+#晨厚救狼 快蜡啊 产绢 逞闷促.
+ 
+41646:国产\货物\正\逐步\取代\进口\货物\.\
+#Home-made goods are edging out imported foreign goods.
+#惫魂前捞 痢瞒 荐涝 拱前阑 措脚窍绊 乐促.
+
+41647:国会\将\於\明天\下午\三\点钟\开会\.\
+#The Diet will convene at 3 p.m.tomorrow.
+#惫雀绰 郴老 坷饶 3矫俊 俺雀且 巴捞促.
+
+41648:国会\通过\了\一\项\禁止\毒品\的\法案\.\
+#Parliament has passed an Act banning the drug.
+#惫雀绰 付距阑 陛瘤窍绰 过救阑 烹苞矫淖促.
+
+41649:国会\通过\授\与\总统\紧急\命令\权\.\
+#Congress voted the president emergency powers.
+#惫雀绰 措烹飞俊霸 变鞭 疙飞鼻阑 何咯窍绰 巴阑 烹苞矫淖促. 
+
+41650:国会\已\通过\新\的\教育\法\.\
+#Congress has approved the new education laws.
+#惫雀绰 捞固 货肺款 背腊过阑 烹苞矫淖促.
+
+41651:国会\由\宪法\授予\制定\法律\的\权限\.\
+#Congress is empowered by the Constitution to make laws.
+#惫雀绰 清过俊 狼秦 过伏阑 力沥窍绰 鼻茄阑 何咯罐疽促.
+
+41652:国会\制定\法律\;\总统\执行\法律\.\
+#Congress makes the laws,the President executes them.
+#惫雀绰 过伏阑 力沥窍绊, 措烹飞篮 过伏阑 笼青茄促.
+
+41653:国际\象棋\俱乐部\委员会\
+#The Commission of the Chess Club
+#惫力 眉胶 努反 困盔雀.
+
+41654:国际\新闻\播\完\后\播\出\国内\新闻\.\
+#The national news comes after the international news.
+#惫力 春胶甫 规价茄 饶俊 惫郴 春胶甫 规价窍看促.
+
+41655:国家\处在\危急\的\状态\中\.\
+#The country is in a desperate state.
+#惫啊绰 困鞭茄 惑炔俊 贸秦 乐促.
+
+41656:国家\的\最高\权力\机构\是\政府\.\
+#The government is the highest authority in the country.
+#惫啊狼 弥绊 鼻仿扁备绰 沥何捞促.
+
+41657:国家\剧院\在\北方\巡回\演出\.\
+#The National Theatre is on tour in the North.
+#惫赋必厘篮 合规俊 鉴雀傍楷阑 窍绊 乐促. 
+
+41658:国家元首\被\陆军\废黜\了\.\
+#The head of state was deposed by the army.
+#惫啊盔荐绰 腊焙俊 狼秦 卵败车促.
+
+41659:国家\征用\了\所有\的\油井\.\
+#The State expropriated all the oil wells.
+#惫啊绰 葛电 蜡沥阑 隆侩窍看促.
+
+41660:国王\病\重\的\消息\传\开了\.\
+#The news came out that king was very ill.
+#惫空狼 捍捞 吝窍促绰 家侥捞 傈秦脸促.
+
+41661:国王\的\长子\是\王位\继承人\.\
+#The king's eldest son is the heir to the throne.
+#惫空狼 空磊绰 空困 拌铰磊捞促.
+
+41662:国王\的\庶\子\阴谋\篡夺\王位\.\
+#The king's bastard plotted to usurp the throne.
+#惫空狼 辑磊啊 空困 蛮呕阑 葛狼窍看促.
+
+41663:国王\和\街\上\的\人群\混\在一起\了\.\
+#The king mingled with the people in the streets.
+#惫空苞 芭府狼 荤恩甸捞 窃膊 集看促.
+
+41664:国王\驾\崩\,\全国\都\下半旗\志\哀\.\
+#All the flags were at half-mast when the king died.
+#惫空捞 铰窍茄 饶俊 傈惫篮 炼扁肺 局档甫 钎矫窍看促.
+
+41665:国王\驾\崩\的\消息\已\外\泄\.\
+#It transpired that the King was dead.
+#惫空狼 铰窍 家侥捞 捞固 货绢 唱艾促.
+
+41666:国王\企图\增强\自己的\势力\.\
+#The king sought to aggrandize himself.
+#惫空篮 磊脚狼 技仿 碍拳甫 惨沁促.
+
+41667:国王\委托\一\位\画家\为\皇后\画像\.\
+#The King commissioned an artist to paint a picture of the Queen.
+#惫空篮 拳啊俊霸 狼汾窍咯 炔饶狼 檬惑阑 弊府霸 窍看促.
+
+41668:果断\是\领导\者\必\备\的\素质\.\
+#Decision is a quality requisite to a leader.
+#搬窜篮 瘤档磊啊 馆靛矫 爱眠绢具且 家龙捞促.
+
+41669:果实\以致\把\树枝\压\垂\了\.\
+#The fruit was so thick that it weighed down the branches.
+#苞老捞 唱公啊瘤甫 贸瘤霸 窍看促.
+
+41670:果园\的\樱桃\树\都\被\砍\下来\了\.\
+#The cherry trees of the orchard were all chopped down.
+#苞荐盔狼 汗件酒 唱公绰 葛滴 海绢脸促.
+
+41671:过分\推敲\为\许多\当代\作品\的\特\徵\.\
+#overelaboration characterizes so much of presentday writing,.
+#呈公 缴茄 硼绊啊 腹篮 寸措 累前狼 漂隆捞促.
+
+41672:过\河\勿\换\马\;\临阵\勿\换\将\.\
+#Never swap horses while crossing the stream.
+#碍阑 扒呈绰 悼救 富阑 官操瘤 付扼.
+
+41673:过后\多久\他们\才\找到\她\呢\?\
+#How long afterwards did they find her?
+#倔付啊 瘤抄 饶俊 弊甸篮 厚肺家 弊赤甫 茫疽嚼聪鳖?
+
+41674:过后\再\有\邀请\,\我们\一定\光临\.\
+#Why don't try me/us again sometime soon?.
+#倔付饶 肚 檬没窍搁 快府绰 馆靛矫 坷摆嚼聪促.
+
+41675:过来\,\坐\到\我的\膝\上来\.\
+#Come and sit on my lap.
+#捞府客,郴 公辅困俊 旧酒扼.
+
+41676:过\了\两\年\公司\才\开始\盈利\.\
+#It was two years before the business was a going concern.
+#2斥捞 瘤抄 饶俊具 雀荤绰 捞辣捞 巢扁 矫累窍看促.
+
+41677:过\了\圣诞节\商店\里\就\不\那么\忙\了\.\
+#Business slows up at the stores after Christmas.
+#己藕例捞 瘤抄 饶俊 惑痢篮 喊肺 官悔瘤 臼促.
+
+41678:过\强\的\电流\会\使\灯\炮\烧\坏\的\.\
+#An abnormally high electric current may blow out the bulb.
+#呈公 碍茄 傈幅绰 殿阑 怕况 滚副 荐 乐促.
+
+41679:过去\的\光景\陆续\浮现\在\他的\脑际\.\
+#Scenes from the past crowded in upon him.
+#苞芭狼 堡版捞 拌加窍咯 弊狼 赣府加俊辑 栋棵耳促.
+
+41680:过去\的\事\就让\它\过去\;\既往\不\究\.\
+#Let bygones be bygones.
+#捞固 瘤抄 埃 老篮 捞固 瘤抄 老捞促.
+
+41681:过去\奸商\常\以\次货\欺骗\顾客\.\
+#Dishonest tradesmen used to fob off inferior goods on the customers.
+#苞芭俊 埃荤茄 惑牢篮 亲惑 唱慧 拱扒栏肺 绊按阑 加看促.
+
+41682:过去\人们\认为\地球\是\扁平\的\.\
+#It used to be thought that the earth was flat.
+#苞芭俊 荤恩甸篮 瘤备啊 乞乞窍促绊 积阿沁促.
+
+41683:过去\三\年\里\我\一直\担任\记帐\工作\.\
+#For the last three years,I have been and still am a bookkeeper.
+#苞芭 3斥 悼救 唱绰 临梆 厘何扁涝窍绰 老阑 该疽促.
+
+41684:过去\十\年间\物价\一直\在\上涨\.\
+#Prices have risen steadily during the past decade.
+#苞芭 绞 斥 悼救狼 拱啊绰 临梆 棵耳促.
+
+41685:过去\他\常\把\不\需要\的\东西\扔掉\.\
+#He used to fling out things he did not need.
+#抗傈俊 弊绰 磊林 鞘夸绝绰 拱扒阑 滚府帮 窍看促.
+
+41686:过去\我\从事\过\多种\职业\.\
+#In the past I have had many jobs.
+#苞芭俊 唱绰 咯矾 辆幅狼 老俊 辆荤秦 焊疽促.
+
+41687:过\一\段\时间\你\就\会\忘掉\他的\.\
+#In time you'll forget him.
+#倔付埃狼 矫埃捞 瘤抄 饶俊 呈绰 弊甫 镭绢滚副 巴捞促.
+
+41688:哈\里\讲\那\句\话\,\只是\想\嘲弄\她\.\
+#When Harry made that remark,he meant merely to play at her.
+#秦府甫 弊富阑 茄巴篮 促父 弊赤甫 炼氛窍妨 茄 巴捞促.
+
+41689:哈\里\森\自荐\任\秘书\的\职务\.\
+#Harrison put up for the secretaryship.
+#秦府郊篮 厚辑流阑 该扁甫 磊玫窍看促.
+
+41690:哈\里\因为\行为\失\检\而\丢脸\.\
+#Harry is in disgrace because of his behaviour.
+#秦府绰 青悼捞 脚吝窍瘤 给窍看扁 锭巩俊 芒乔窍看促.
+
+41691:哈\利\每个\月\给\妈妈\5\0\0\美元\.\
+#Harry allows his mother 500 dollers a month.
+#秦府绰 概岿 决付俊霸 500崔矾甫 靛赴促.
+
+41692:哈\利\疲倦\了\,\所以\落后\了\.\
+#Harry was tired and fell behind.
+#秦府绰 乔帮秦辑 第冻绢脸促.
+
+41693:哈\利\为什么\被\调查\委员会\传讯\?\
+#What has Harry been called up by the investigating committee for?
+#秦府绰 恐 炼荤困盔雀俊 家券登绢 缴巩阑 寸沁绰啊?
+
+41694:哈\姆\莱\特\是\一\个\虚构\的\人物\.\
+#Hamlet was a fictitious character.
+#擒复篮 倾备狼 牢拱捞促.
+
+41695:哈\姆\雷\特\计谋\为\父\报仇\.\
+#Hamlet planned to avenge his father.
+#擒复篮 酒滚瘤狼 盔荐甫 氨阑 拌裙窍看促.
+
+41696:哈\姆\雷\特\替\死\去\的\父亲\报\了\仇\.\
+#Hamlet revenged his dead father.
+#擒复篮 倒酒啊脚 酒滚瘤甫 措脚窍咯 汗荐甫 窍看促.
+
+41697:孩子\,\我\希望\你\能\大有作为\!\
+#I expect great things from you,son?
+#酒甸酒, 唱绰 匙啊 奴 牢拱捞 登扁甫 官鄂促.
+
+41698:孩子\的\面颊\丰满\起来\了\.\
+#The child's cheeks are beginning to plump up.
+#酒捞狼 倔奔捞 阂疯秦瘤扁 矫累窍看促.
+
+41699:孩子\的\体温\在\早晨\下降\了\.\
+#The child's temperature came down in the morning.
+#酒捞狼 眉柯捞 货寒俊 冻绢脸促.
+
+41700:孩子\跟\他们的\朋友\去\玩\了\.\
+#The children have gone to play with their friends.
+#酒捞绰 弊甸狼 模备客 愁矾 艾促.
+
+41701:孩子们\,\别\伸手\去\摸\展览\品\.\
+#Children,don ' t put out your hands to touch the exhibits.
+#局甸酒, 傈矫前俊 加阑 措瘤 付扼.
+
+41702:孩子们\,\开始\吃\起来\吧\!\
+#Children ,just dive in!
+#局甸酒, 冈扁 矫累秦扼.
+
+41703:孩子们\,\我\出\个\谜语\给\你们\猜\.\
+#I will put a riddle to you,boys.
+#局甸酒, 郴啊 呈锐俊霸 荐荐膊尝甫 尘抛聪 嘎苗毫扼.
+
+41704:孩子们\爱\听\可怕\的\妖怪\故事\.\
+#Children love to hear stories about terrible monsters.
+#酒捞甸篮 酒林 公辑款 夸鲍 捞具扁甫 佃扁 亮酒茄促.
+
+41705:孩子们\把\新\桌子\弄坏\了\.\
+#The children knocked up the new table.
+#酒捞甸捞 货 殴磊甫 给静霸 父甸菌促.
+
+41706:孩子们\被\革命\故事\吸引\住\了\.\
+#The children were all carried along by the revolutionary story.
+#酒捞甸篮 酋疙捞具扁俊 档秒登菌促.
+
+41707:孩子们\被\那个\电影\迷\住\了\.\
+#The children were captivated by the movie.
+#酒捞甸篮 弊 康拳俊 谦 狐脸促.
+
+41708:孩子们\奔\出去\看\游行\队伍\.\
+#The children flew out to see the parade.
+#酒捞甸篮 弊 欺饭捞靛甫 焊扁 困窍咯 顿绢 唱艾促.
+
+41709:孩子们\不\耐烦\地\等\着\电影\开映\.\
+#The children are itching for the film to begin.
+#酒捞甸篮 康拳啊 矫累登扁甫 曼阑 荐 绝促绰 淀捞 扁促府绊 乐菌蝶.
+
+41710:孩子们\常常\在\这里\捉迷藏\.\
+#The children often play at hide-and-seek here.
+#酒捞甸篮 磊林 咯扁俊辑 见官怖龙阑 茄促.
+
+41711:孩子们\打开\笼\门\,\鸟\飞\了\出来\.\
+#The child opened the door of the cage and the bird flew out.
+#酒捞甸捞 货厘狼 巩阑 凯绢 货甫 朝妨焊陈促.
+
+41712:孩子们\大\声\吵\着\要\吃饭\了\.\
+#The children were clamouring to be fed.
+#酒捞甸篮 逛阑 冈栏妨绊 奴家府肺 栋甸绊 乐菌促.
+ 
+41713:孩子们\的\双手\沾\满\了\胶水\.\
+#The children got their hands all glued up.
+#酒捞甸篮 滴 颊俊 儡多 钱阑 汞躯促.
+
+41714:孩子们\等\着\听\时钟\报\新年\.\
+#The children listened for the clock to announce the New Year.
+#酒捞甸篮 脚斥阑 舅府绰 矫焊甫 佃扁 困秦 扁促啡促.
+
+41715:孩子们\都\穿上\了\节日\的\盛装\.\
+#All the children were decked out in their best for the festival.
+#酒捞甸篮 葛滴 疙例 己厘阑 窍看促.
+
+41716:孩子们\都\穿着\节日\盛装\.\
+#All the children were done up in their Sunday best.
+#酒捞甸篮 葛滴 疙例 己厘阑 涝绊 乐菌促.
+
+41717:孩子们\都\兴奋\地\渴望\看\马戏\.\
+#The children were all agog with excitement at the circus.
+#酒捞甸篮 葛滴 蕊盒窍咯 辑目胶甫 焊扁甫 各矫 盔窍看促.
+
+41718:孩子们\都\在\五\岁\上学\,\是不是\?\
+#Children enter school at the age of five,don't they?
+#酒捞甸篮 5混俊 切背俊 癌聪鳖?
+
+41719:孩子们\对\那种\教学\法\反应\不\好\.\
+#The children responded badly to that kind of teaching.
+#酒捞甸篮 弊 背切过俊 措窍咯 馆览捞 亮瘤 臼促.
+
+41720:孩子们\该\注意\他们的\书本\.\
+#Boys should mind their books.
+#酒捞甸篮 弊甸狼 氓阑 肋 埃荐秦具 茄促.
+
+41721:孩子们\很快\就\安静\下来\了\.\
+#The children quickly quietened down.
+#酒捞甸篮 狐福霸 救沥登扁 矫累窍看促.
+
+41722:孩子们\很\喜欢\令人\惊讶\的\事物\.\
+#Children delight in surprises.
+#酒捞甸篮 荤恩阑 愁扼霸 窍绰 荤拱阑 亮酒茄促.
+
+41723:孩子们\假装\他们\是\王子\和\公主\.\
+#The children are making believe that they're princes and princesses.
+#酒捞甸篮 弊甸捞 空磊客 傍林扼绊 啊厘窍看促.
+
+41724:孩子们\津津有味\地\吃\起来\.\
+#The children fell to with good appetite.
+#酒捞甸篮 酒林 咐乐霸 冈扁 矫累窍看促.
+
+41725:孩子们\觉得\他的\把戏\很\好玩\.\
+#The children were very amused with his tricks.
+#酒捞甸篮 弊狼 加烙荐啊 酒林 犁固乐促绊 蠢布促.
+
+41726:孩子们\渴望\着\节日\的\来临\.\
+#The children are longing for the festival.
+#酒捞甸篮 疙例捞 蹿酒坷扁甫 颊才酒 扁促啡促.
+
+41727:孩子们\老是\在\旁边\缠\着\打扰\我\.\
+#The children kept hovering around and interrupting me.
+#酒捞甸捞 亲惑 糠俊辑 崔扼嘿绢 唱甫 蓖满霸 窍绊 乐促.
+
+41728:孩子们\每天\自己\去\上学\.\
+#The children get themselves off to school every day.
+#酒捞甸篮 概老 去磊 切背俊 埃促.
+
+41729:孩子们\闹哄哄\地\沿\街\狂\奔\.\
+#The children tore noisily down the street.
+#酒捞甸捞 家鄂胶反霸 辨芭府甫 蝶扼 龙林窍看促.
+
+41730:孩子们\使\我\累\得\筋疲力尽\.\
+#The children tired me out.
+#酒捞甸捞 唱甫 瘤媚 踌檬啊 登霸 窍看促.
+
+41731:孩子们\围\成\一\圈\听\故事\.\
+#The children gathered round to hear the story.
+#酒捞甸捞 笛矾 盔阑 父甸绢 捞具扁甫 佃绰促.
+
+41732:孩子们\为\保暖\而\紧\挨\在一起\睡\.\
+#The children cuddled up together for warmth.
+#酒捞甸篮 焊柯窍扁 困窍咯 官较 崔扼 嘿绢 冷促.
+
+41733:孩子们\为了\什么\在\争吵\?\
+#What are the children casting out about?
+#酒捞甸篮 公均阑 困窍咯 轿快绊 乐蠢衬?
+
+41734:孩子们\喜欢\在\沙发\上\蹦蹦跳跳\.\
+#Children like bouncing up and down on a sofa.
+#酒捞甸篮 葛贰圭俊辑 妻陆妻陆 顿扁甫 亮酒茄促.
+
+41735:孩子们\想\晚\睡\,\但\他们\母亲\不准\.\
+#The children wanted to stay up but their mother wouldn't let them.
+#酒捞甸篮 词霸 磊绊 酵绢窍瘤父, 弊甸狼 绢赣聪绰 倾遏窍瘤 臼疽促.
+
+41736:孩子们\需要\幸福\的\家庭\环境\.\
+#Children need a happy home environment.
+#酒捞甸篮 青汗茄 啊沥 券版捞 鞘夸窍促.
+
+41737:孩子们\迅速\地\在\操场\上\排\好了\队\.\
+#The children quickly lined up in the playground.
+#酒捞甸篮 脚加窍霸 款悼厘俊辑 临阑 肋脊促.
+
+41738:孩子们\要求\这\位\足球\运动员\签名\.\
+#The little boys asked the footballer for his autograph.
+#酒捞甸篮 捞 绵备 急荐狼 荤牢阑 夸备沁促.
+
+41739:孩子们\在\表演\中\扮演\解放军\战士\.\
+#In their performance the children got themselves up as PLA fighters.
+#酒捞甸篮 楷扁俊辑 秦规焙傈荤肺 盒窍看促.
+
+41740:孩子们\在场\时\,\他\讲话\应有\节制\.\
+#He should moderate his language when children are present.
+#酒捞甸篮 泅厘俊 乐阑 锭 弊绰 富窍绰单 例力秦具 茄促.
+ 
+41741:孩子们\在\房子\附近\玩\捉迷藏\.\
+#The children were playing hide seek around the house.
+#酒捞甸篮 笼 何辟俊辑 见官怖龙阑 窍绊 乐促.
+
+41742:孩子们\在\公共汽车\上\谈\个\不休\.\
+#The kids chippered on the bus.
+#酒捞甸篮 滚胶俊辑 浆瘤 臼绊 栋甸菌促.
+
+41743:孩子们\在\公园\的\喷泉\中\玩耍\.\
+#The children played in the fountain in the park.
+#酒捞甸篮 傍盔狼 盒荐俊辑 厘抄阑 闷促.
+
+41744:孩子们\在\公园\里\四处\奔跑\.\
+#The children ran about in the park.
+#酒捞甸篮 傍盔俊辑 荤规栏肺 顿绢促虫促.
+
+41745:孩子们\在\公园\旁\乱哄哄\地\跳\下车\.\
+#The children tumbled off the bus at the park.
+#酒捞甸篮 傍盔 糠俊辑 课磊瘤铂 滚胶俊辑 郴啡促.
+
+41746:孩子们\在\交互\影响\中\学习\.\
+#Children learn by interacting .
+#酒捞甸篮 辑肺 切嚼俊 康氢阑 霖促.
+
+41747:孩子们\在\角落\里\交头接耳\.\
+#The children were whispering in the corner.
+#酒捞甸篮 内呈俊辑 加昏捞绊 乐菌促.
+
+41748:孩子们\在\屋\外\土\坑\里\玩\得\正\高兴\.\
+#The children were outside playing happily in the dirt.
+#酒捞甸篮 笼观 旷耽捞俊辑 榴疤霸 愁绊 乐促.
+
+41749:孩子们\在\新\教师\面前\显得\很\拘束\.\
+#The children showed constraint in the presence of the new teacher.
+#酒捞甸篮 货 背荤 菊俊辑 林椽甸绢 乐绰 巴 鞍促.
+
+41750:孩子们\在\学校\里\学习\读书\写字\.\
+#Children learn reading and writing at school.
+#酒捞甸篮 切背俊辑 静扁客 佬扁甫 傍何窍绊 乐促.
+
+41751:孩子们\在\学校\受到\很\好的\照顾\.\
+#The children are well taken care of in the school.
+#酒捞甸篮 切背俊辑 酒林 亮篮 焊混撬阑 罐绰促.
+
+41752:孩子们\在\院子\里\忙\着\堆\雪人\.\
+#Children are busy heaping up snowmen in the yard.
+#酒捞甸篮 躲俊辑 传荤恩阑 父靛蠢扼 官悔促.
+
+41753:孩子们\造\了\一\辆\单\汽缸\的\车子\.\
+#The boys have built a one-lung car.
+#酒捞甸篮 窍唱 楼府 角赴歹狼 瞒甫 父甸菌促.
+
+41754:孩子们\正\从\公园\里\出去\.\
+#The children are going out of the park.
+#酒捞甸篮 傍盔俊辑 唱坷绊 乐促.
+
+41755:孩子们\正在\唱\圣\诞\颂\歌\.\
+#The children were singing Christmas songs.
+#酒捞甸篮 农府胶付胶 某费阑 何福绊 乐促.
+
+41756:孩子们\正在\公园\里\荡\秋千\.\
+#The children are playing on the swings in the park.
+#酒捞甸篮 傍盔俊辑 弊匙甫 顿绊 乐促.
+
+41757:孩子们\正在\玩\一\列\玩具\火车\.\
+#The children are playing with a toy train .
+#酒捞甸篮 厘抄皑 凯瞒甫 啊瘤绊 愁绊 乐促.
+
+41758:孩子们\中间\突然\发出\一\声\惊\叫\.\
+#A cry of horror burst forth from the children.
+#酒捞甸俊霸辑 癌磊扁 厚疙家府啊 唱吭促.
+
+41759:孩子们\抓住\绳索\荡\来\荡\去\.\
+#The children were swinging on a rope.
+#酒捞甸篮 肺橇甫 棱绊 捞府 历府 如甸芭啡促.
+
+41760:孩子们\自己\玩\得\很\快活\.\
+#The children are enjoying themselves.
+#酒捞甸 磊脚甸篮 酒林 犁固乐霸 愁绊 乐促.
+
+41761:孩子\跑\过来\在\我\面前\停\住\了\.\
+#The child ran over and hauled up in front of me.
+#酒捞甸捞 顿绢客 郴 菊俊辑 肛眠菌促.
+
+41762:孩子\死\后\,\她\悲痛\欲\绝\.\
+#She went nearly mad with grief after the child died.
+#酒捞啊 磷篮 饶俊 弊赤绰 厚烹捞 必俊 崔沁促.
+
+41763:孩子\突然\尖\声\地\说\他\要\回家\.\
+#The child suddenly piped up that he wanted to go home.
+#酒捞绰 笼俊 倒酒啊摆促绊 朝墨酚霸 富沁促.
+
+41764:孩子\无休止\的\哭\声\几乎\使\他\发狂\.\
+#The child's continual crying drove him to distraction.
+#酒捞狼 弊摹瘤 臼绊 拌加 快绰 家府绰 弊甫 芭狼 固摹霸 沁促.
+
+41765:孩子\兴奋\得\瞪\圆\了\眼睛\.\
+#The child's eyes rounded with excitement.
+#酒捞绰 蕊盒秦辑 传阑 悼弊二霸 豆促.
+
+41766:孩子\一\睡着\,\她\就\吹\灭\了\蜡烛\.\
+#She buffed out the candle as soon as the child went to sleep.
+#酒捞啊 泪甸磊 付磊, 弊赤绰 眯阂阑 阂绢 舶促.
+
+41767:孩子\一直\抓住\母亲\的\裙子\.\
+#The child kept catching on to his mother's skirt.
+#酒捞绰 临梆 绢赣聪狼 摹付甫 嘿甸菌促.
+
+41768:孩子\在\玩\会\嘎嘎\叫\的\玩具\.\
+#The baby was playing with his rattle.
+#酒捞绰 叠尔捞甫 啊瘤绊 愁绊 乐促.
+
+41769:孩子\中\不是\很多\人\识字\.\
+#Not many of the children can read.
+#酒捞甸 吝 腹篮 荤恩捞 臂磊甫 酒绰 巴篮 酒聪促.
+
+41770:海\,\陆\,\空军\都\是\受\国防\部\指挥\.\
+#The army,navy,and airforce are all controlled by the Ministry of Defence.
+#腊焙, 秦焙, 傍焙篮 葛滴 惫规何狼 瘤戎甫 罐绰促.
+
+41771:海岸\边\覆盖\着\一\层\贝壳\.\
+#The seashore was covered with shells.
+#秦救篮 炼俺伯龙肺 丹咯 乐菌促.
+
+41772:海岸\向北\朝着\半岛\延伸\过去\.\
+#The shore falls off to the north towards the peninsula.
+#秦救篮 合率阑 氢窍咯 馆档甫 官扼焊绊 桓绢唱艾促.
+
+41773:海岸\正在\慢慢\地\被\冲\蚀\.\
+#The coast is slowly eroding away.
+#秦救篮 玫玫洒 魔侥登绢 啊绊 乐促.
+
+41774:海边\礁石\上\站\着\一\个\女\学生\.\
+#On the rock of the seashore stood a girl student.
+#秦函狼 官困 困俊 茄 咯切积捞 辑 乐促.
+
+41775:海边\空气\纯净\,\对\健康\有益\.\
+#The air by the sea is pure and healthy.
+#秦函狼 傍扁绰 柄昌窍咯 扒碍俊 蜡劳窍促.
+
+41776:海\草\沿着\水\边\丛生\,\形成\堤岸\状\.\
+#Seaweed banks up along the water's edge.
+#秦檬啊 拱啊甫 蝶扼辑 公己窍霸 磊扼辑 力规 葛剧阑 捞风菌促.
+
+41777:海关\人员\检查\了\他的\衣箱\.\
+#The Customs men went through his suitcases.
+#技包盔捞 弊狼 渴啊规阑 八荤窍看促.
+
+41778:海军\是\武装部队\的\一\种\.\
+#The navy is one of the armed forces.
+#秦焙篮 公厘何措狼 老辆捞促.
+
+41779:海浪\把\小船\撞\到\岩石\上\.\
+#The waves dashed the boat against the rocks.
+#颇档啊 累篮 硅甫 官困俊 何碟摹霸 沁促.
+
+41780:海伦\把\这\消息\传达\给\班\上\同学\.\
+#Helen carried the news to the class.
+#秋坊篮 捞 家侥阑 馆狼 切积甸俊霸 傈沁促.
+
+41781:海伦\打\妹妹\玛丽\的\小\报告\.\
+#Helen told on her sister Mary.
+#秋坊篮 弊狼 悼积 皋府甫 绊磊龙 沁促.
+
+41782:海伦\娜\责怪\赫\克\托\样样\要\问\.\
+#Helena accused Hector of prying into everything.
+#秋饭唱绰 琼磐啊 部摹部摹 某汞绰 巴阑 龙氓沁促.
+ 
+41783:海伦\是\老师\最\宠爱\的\学生\.\
+#Helen is a favorite with the teacher.
+#秋坊篮 急积丛捞 啊厘 醚局窍绰 切积捞促.
+
+41784:海伦\在\去\赴\宴\前\把\头发\梳\理\好\.\
+#Helen got up her hair before going to the dinner party.
+#秋坊篮 历翅 颇萍俊 啊扁 傈俊 赣府甫 肋 壶菌促.
+
+41785:海鸥\盘旋\下降\,\翅膀\一动\也\不\动\.\
+#The gull was planing down in circles without moving a wing.
+#哎概扁啊 朝俺甫 傈囚 框流捞瘤 臼绊 急雀窍哥 窍碍窍看促.
+
+41786:海上\吹\来\的\晓\风\使\他\神\清气\爽\.\
+#The morning wind rising from the sea freshened him up.
+#秦惑俊辑 阂绢坷绰 货寒官恩捞 弊狼 沥脚阑 讣霸窍看促.
+
+41787:海上\浮现\岛屿\散布\般\的\云\影\.\
+#The sea was islanded with the shadows of clouds.
+#秦惑俊 栋坷弗 档辑绰 备抚鞍捞 瑞绢廉 乐促.
+
+41788:海\水\把\遇\溺\水手\的\尸体\冲\到\岸边\.\
+#the sea washed up the body of the drowned sailor.
+#秦荐绰 拱俊 劳荤茄 急盔狼 矫眉甫 秦救啊肺 剐绢 棵啡促.
+
+41789:海\水\侵蚀\了\悬崖\的\基\部\.\
+#The sea had undermined the cliff.
+#秦荐啊 泅局狼 扁历何甫 魔侥窍看促.
+
+41790:海滩\上\响起\了\年轻\人\的\吆喝\声\.\
+#The beach rang with young people's shouts.
+#秦函啊俊辑 俐篮 荤恩狼 绊窃家府啊 匡妨 欺脸促.
+
+41791:海啸\是\随\海上\地震\而\产生\的\.\
+#Tsunamis are concomitant with off shore earthquakes.
+#秦老篮 秦惑狼 瘤柳阑 蝶扼 积扁绰 巴捞促.
+
+41792:海\兴\天\融合\,\海\天\一色\.\
+#The sea and the sky merged .
+#官促客 窍疵捞 辑肺 集咯辑 官促客 窍疵捞 茄 啊瘤 祸捞促.
+
+41793:海洋\是\一片\浩瀚\的\水域\.\
+#The oceans are large bodies of water.
+#秦剧篮 芭措茄 荐开捞促.
+
+41794:海洋\是\有待\开发\的\能源\.\
+#The sea is an untapped supply of energy.
+#秦剧篮 俺惯捞 扁措登绰 俊呈瘤 磊盔捞促.
+
+41795:海洋\正在\逐渐\侵蚀\着\沿岸\的\陆地\.\
+#The sea is gaining on the land along the coast.
+#秦剧捞 痢瞒 楷救狼 腊瘤甫 魔侥窍绊 乐促.
+
+41796:含\硫\过\多\的\铁\和\钢\都\是\热脆性\的\.\
+#Iron and steel with too much sulfur are red-short ..
+#蜡炔捞 苞促茄 枚苞 碍枚篮 凯俊 公弗己龙捞促.
+
+41797:含\氧\的\纸张\有助\於\避免\褪色\.\
+#Sheets of oxygenic paper aid in maintaining color.
+#魂家甫 器窃窍绰 辆捞绰 硼祸阑 阜绰单 档框捞 等促.
+
+41798:寒冷\的\天气\到\三月\底\开始\变\暖\了\.\
+#The cold weather broke at the end of March.
+#瞒啊款 朝揪绰 3岿富捞 登绢 蝶舵窍霸 函窍扁 矫累窍看促.
+
+41799:寒冷\的\天气\妨碍\了\庄稼\生长\.\
+#Cold weather retards the growth of the crops.
+#瞒啊款 朝揪绰 丑累拱 积厘俊 厘局啊 等促.
+
+41800:寒冷\的\天气\将\持续\到\本\星期\末\.\
+#The cold weather will persist for the rest of the week.
+#瞒啊款 朝揪绰 捞锅 老夸老 鳖瘤 拌加瞪 巴捞促.
+
+41801:寒冷\阴沉\的\一天\,\乌云\密布\.\
+#It was a cold,dark day,the sky overcast.
+#瞒癌绊 澜魔窍绊 备抚捞 腹捞 尝绰 朝揪捞促.
+
+41802:寒气\渗透\到\骨髓\;\寒冷\刺骨\.\
+#The cold struck to the marrow.
+#茄扁啊 荒加鳖瘤 颇绊 电促.
+
+41803:寒暑表\指明\温度\为\二\十\八度\.\
+#The thermometer recorded a temperature of 28 degrees.
+#柯档拌啊 啊府虐绰 柯档绰 28档看促.
+
+41804:喊叫\声\把\我\从\睡眠\中\吠\叫\.\
+#The cry woke me from my sleep.
+#绊窃家府啊 唱甫 泪俊辑 柄唱霸 沁促.
+
+41805:汉字\看起来\象是\一\幅\幅\小\图画\.\
+#The characters in Chinese writing look like small pictures.
+#茄磊绰 焊扁俊 茄 气 茄 气狼 累篮 弊覆 鞍促.
+
+41806:航空\公司\已\替\他们\把\行李\运\走\.\
+#The airline has checked their luggage out.
+#亲傍雀荤绰 捞固 弊甸阑 措脚窍咯 咙阑 款馆窍看促.
+
+41807:航空\邮递\比\海上\邮递\快\.\
+#Airmail is quicker than sea mail.
+#亲傍快祈篮 秦惑快祈焊促 狐福促.
+
+41808:豪华\型\的\价钱\要\贵\得\多\.\
+#The de luxe model costs a lot more.
+#龋拳肺款 葛剧牢 巴狼 啊拜篮 歹 厚轿促.
+
+41809:毫无疑问\,\他\一定\会\准时\到\这儿\.\
+#There is no question that he will come here on time.
+#弊啊 盒疙 力矫埃俊 坷绰 巴篮 傈囚 狼缴且 巴捞 绝促.
+
+41810:毫无\缘故\的\喧闹\!\;\无事生非\!\
+#What a to-do about nothing!
+#傍楷洒 富介阑 乔快促!
+
+41811:好\吧\,\你\就\开始\提\问题\吧\.\
+#All right,fire away with your questions.
+#亮酒, 匙啊 巩力甫 郴扁 矫累秦毫.
+
+41812:好\吧\,\我们\接着\谈\下\一\个\问题\.\
+#Now,let's move on to the next question.
+#亮酒, 快府绰 捞绢辑 促澜 巩力甫 捞具扁 窍磊. 
+
+41813:好的\家具\是\以\洙\穴\接\牢\的\.\
+#Good furniture is mortised together.
+#亮篮 啊备绰 厘鹤备港栏肺 窜窜窍霸 捞篮 巴捞促.
+
+41814:好的\开始\是\成功\的\一半\.\
+#Well begun is half done.
+#亮篮 矫累篮 己傍狼 馆捞促.
+
+41815:好的\胃\囗\就是\好的\调味\酱\.\
+#A good appetite is a good sauce.
+#亮篮 涝咐篮 亮篮 炼固丰捞促.
+
+41816:好的\姿势\封\健康\是\重要\的\.\
+#Good posture is important for health.
+#亮篮 磊技绰 扒碍俊 吝夸茄 巴捞促.
+
+41817:好好\抚养\我们\未来\的\大\人物\.\
+#Take good care of that future major leaguer or president.
+#快府 固贰狼 奴 牢拱阑 肋 倒壕矫促.
+
+41818:好好\睡\一\夜\,\你的\体力\就\会\恢复\.\
+#A good night's rest will set you up.
+#窍讽广 肋 磊搁 呈狼 眉仿篮 雀汗瞪 巴捞促.
+
+41819:好几个\幻想\在\我\心中\萦绕\.\
+#Several fantasies revolved around in my mind.
+#腹篮 券惑捞 唱狼 付澜 加俊 干倒疽促.
+ 
+41820:好几\棵\树\在\暴风雨\中\给\刮\倒\了\.\
+#Several trees were blown down in the storm.
+#割 弊风狼 唱公绰 气浅快俊 静矾廉 逞绢脸促.
+
+41821:好几\千\名\士兵\陆续\被\送\往\前线\.\
+#Thousands upon thousands of soldiers were being sent to the front.
+#荐 玫 疙狼 荤捍捞 拌加窍咯 傈急栏肺 焊郴脸促.
+
+41822:好几\位\来宾\参加\了\会议\.\
+#A number of visitors came to the meeting.
+#腹篮 荐狼 颊丛捞 雀狼俊 曼啊窍看促.
+
+41823:好久\以来\我\一直\盼望\到\上海\来\.\
+#I have been looking forward to coming to Shanghai for a long time.
+#坷贰傈 何磐 唱绰 临梆 惑秦俊 坷扁甫 哎噶窍看促.
+
+41824:好\讨厌\!\我\又\把\饼\乾\教\烤\焦\了\!\
+#How annoying!I've burned the cookie again.
+#沥富 饺促! 唱绰 肚 捻虐甫 怕奎促.
+
+41825:好\天气\将\大大\促进\农作物\的\生长\.\
+#The fine weather will bring the crops along very nicely.
+#亮篮 朝揪啊 丑累拱狼 积厘阑 腹捞 盟柳矫淖促.
+
+41826:好\天气\诱使\我\出去\散步\.\
+#The fine weather tempted me to go out for a walk.
+#亮篮 朝揪啊 唱甫 观栏肺 唱啊霸 蜡趣窍看促.
+
+41827:好像\是\真的\!\说\得\倒\像\是\真的\!\
+#A likely story!
+#沥富 鞍促!
+
+41828:好\消息\从\各\条\战线\纷至沓来\.\
+#Good news keeps pouring in from various fronts.
+#亮篮 家侥捞 阿 傈急俊辑 今酒廉 甸绢吭促.
+
+41829:好\消息\使得\他们\都\很\高兴\.\
+#The good news chirked up every one of them.
+#亮篮 家侥捞 弊甸阑 扁悔霸 窍看促. 
+
+41830:好\消息\使\我\摆脱\了\低落\的\情绪\.\
+#The good news dragged me out of my black mood.
+#亮篮 家侥捞 魔眉等 唱狼 扁盒阑 缠绢棵啡促.
+
+41831:好些\次\他\给\我\提\了\中肯\的\意见\.\
+#Many a time has he given me good advice.
+#咯矾 锅 弊绰 唱俊霸 亮篮 面绊甫 窍看促.
+
+41832:好些\伤员\正在\等待\治疗\.\
+#A number of the wounded are waiting to be looked to.
+#腹篮 券磊甸捞 摹丰甫 扁促府绊 乐促.
+
+41833:号码\将\雕刻\在\一\块\金属\板\上\.\
+#The number shall be cut in on a plate.
+#锅龋绰 陛加 魄 困俊 货败龙 巴捞促.
+ 
+41834:喝酒\是\她\克制\不住\的\欲望\.\
+#Drinking is a compulsion with her.
+#贱 付矫绰 巴篮 弊赤啊 撅力且 荐 绝绰 巴捞促.
+
+41835:喝\太\多\啤酒\会\使\我\呕吐\.\
+#Too much beer makes me vomit.
+#钙林甫 呈公 腹捞 付矫搁 唱绰 备配茄促.
+
+41836:喝醉\酒\并不\能\成为\你\违\规\的\理由\.\
+#That you were drunk does not justify your violating the rule.
+#贱俊 秒茄 巴篮 搬内 寸脚捞 痹啦阑 困馆茄 捞蜡啊 瞪 荐 绝促.
+
+41837:荷兰\的\整整\四\分\之一\在\海平面\下\.\
+#Fully one-fourth of Holland is below sealevel.
+#匙代鄂靛狼 傈眉 4盒狼 1篮 秦荐搁 焊促 撤促
+
+41838:荷兰\是\一\个\低\地\的\国家\.\
+#The Netherlands is a lowlying country.
+#匙代鄂靛绰 历瘤措 惫啊捞促.
+
+41839:核桃\象\下\阵雨\般\从\树\上\落\下\.\
+#Nuts showered down from the tree.
+#龋档啊 厚坷绰 巴贸烦 唱公俊辑 冻绢脸促.
+
+41840:和\'\p\e\r\s\o\n\'\不\能\构成\连\语\.\
+#The words 'glad' and 'person' do not collocate.'glad'.
+#'glad'客 'person'篮 楷搁绢甫 捞逢 荐 绝促.
+
+41841:和\3\0\的\最大公约数\为\6\.\
+#The greatestcommondivisor of 24 and 30 is 6 24.
+#24客 30狼 弥措傍距荐绰 6捞促.
+
+41842:和\的\阳光\宣告\春天\的\到来\.\
+#The warm sunshine ushered in the spring.
+#蝶舵茄 寝蝴捞 航捞 柯 巴阑 舅啡促.
+
+41843:和\承包\人\商定\一\笔\包工\费\
+#fix with a contractor on a sum to be paid for a job
+#拌距磊客 荐绊厚甫 拌距窍咯 搬沥窍看促.
+
+41844:和\你们\一起\工作\我\很\高兴\.\
+#I enjoy working with you.
+#寸脚甸苞 老窍霸 登绢 唱绰 扁晦聪促.
+
+41845:和平\解决\的\希望\逐渐\消失\.\
+#Hopes of a peace settlement are now fading.
+#乞拳利牢 秦搬狼 锐噶篮 痢瞒 绝绢脸促.
+
+41846:和平\力量\会\战胜\战争\力量\.\
+#The forces of peace will overcome the forces of war.
+#乞拳狼 塞篮 傈里狼 塞阑 勃阑 荐 乐促.
+
+41847:和\我们\一同\喝\一\杯\好\吗\?\
+#Will you partake of a drink with us?
+#快府客 鞍捞 贱 茄 儡 窍绰霸 绢锭夸?
+ 
+41848:和\我\希望\你\能\常\来\花园\城\看\我们\.\
+#Alan joins me in hoping you'll come often to see us in Garden City.
+#舅坊苞 唱绰 匙啊 啊阐 啊电 矫萍俊 快府甫 焊矾 坷扁甫 官鄂促.
+
+41849:和\我\向\您\致以\亲切\问候\.\
+#Richard joins me in kind regards.
+#府瞒靛客 唱绰 寸脚俊霸 模例茄 巩救牢荤甫 茄促.
+
+41850:和\现代\工艺\相适应\的\电气\设备\
+#electrical equipment that goes with modern technology
+#泅措 傍抗客 辑肺 何览窍绰 傈扁汲厚.
+
+41851:和\一\个\有\权势\的\参议员\交好\
+#stand in with an influential senator
+#鼻仿捞 乐绰 曼狼盔苞 荤蓖促.
+
+41852:何等\的\奇妙\呀\!\多么\不可思议\!\
+#What a wonder!
+#措窜窍促!
+
+41853:何时\展出\及\展览\日\数\?\
+#When will the exhibition be held and for how long?
+#攫力 傈矫窍哥 傈矫老磊绰 绢痘霸 邓聪鳖?
+
+41854:合唱\团\把\这\两个\字\唱\得\十分\有力\.\
+#The choir sang out the two words with great vigour.
+#钦芒窜篮 捞 滴 窜绢甫 酒林 塞乐霸 阂范促.
+
+41855:合唱\团\是\由\布\莱\尔\先生\指挥\的\.\
+#The singing group is under the direction of Mr Blair.
+#钦芒窜篮 Blair揪啊 瘤戎茄促.
+
+41856:合剂\用\过后\用\软木\塞\塞\住\.\
+#Cork up the mixture after use.
+#去钦力甫 荤侩茄 饶俊 内福农 付俺肺 阜疽促.
+
+41857:合同\将\在\仪式\举行\之前\签字\.\
+#The contract will be signed prior to the ceremony.
+#拌距篮 狼侥阑 芭青窍扁 傈俊 辑疙且 巴捞促.
+
+41858:合约\上\写\着\我们\有\三\星期\的\暑假\.\
+#It says in our contract that we get three weeks' summer vacation.
+#拌距惑俊 快府俊霸 3 林埃狼 咯抚 绒啊啊 静咯廉 乐促.
+
+41859:盒子\里\只\装\有\三\支\粉笔\.\
+#This box contains only three sticks of chalk.
+#惑磊 救俊绰 技 磊风狼 盒鞘父捞 乐促.
+
+41860:盒子\扑通\一\声\掉\在\地\上\.\
+#The box fell plonk on the floor.
+#惑磊绰 烹窍绊 官蹿栏肺 冻绢脸促.
+
+41861:河\的\那边\传来\河水\啵\啦\的\声音\.\
+#There were sounds of splashings down the river.
+#碍函 历率俊辑 枚解窍绰 碍拱家府啊 甸妨吭促.
+
+41862:河流\被\落日\映照\成\深\红色\.\
+#The river burned crimson in the setting sun.
+#碍拱篮 瘤绰 秦俊 狼秦 厚眠绢廉 拢篮 河篮 祸栏肺 登菌促.
+
+41863:河流\形成\了\两\国\的\边界\.\
+#A river forms the boundary line between the two countries.
+#碍篮 滴 惫啊狼 版拌啊 登菌促.
+
+41864:河水\或\海\水\等\正在\急剧\上涨\.\
+#The waters were heaving up in great swells.
+#碍拱 趣篮 秦荐 殿篮 鞭拜洒 惑铰窍绊 乐促.
+
+41865:河水\泛滥\,\直到\街道\被\水\淹没\.\
+#The river overflowed till the streets were awash.
+#碍拱捞 裹恩窍咯 档肺鳖瘤 客辑 拱俊 狼秦 泪板促.
+
+41866:河水\高涨\,\桥\身\中部\被\冲\坏\了\.\
+#The river was high and the bridge had been blown up in the centre.
+#碍拱捞 阂绢辑 背阿 啊款单啊 镜妨 郴妨艾促.
+
+41867:河水\涨\到\跟\河岸\相\平\了\.\
+#The water is coming up to the bank.
+#碍拱捞 窍救苞 辑肺 乞青窍霸 阂绢棵耳促.
+
+41868:河水\潺\潺\在\石子\上\流\过\.\
+#The brook murmurs over the pebbles.
+#碍拱捞 凉凉 官困 困肺 汝矾埃促.
+
+41869:河水\蜿\蜒\流\过\这个\地区\.\
+#The river winds through the country.
+#碍拱篮 绷捞绷捞 捞 瘤开阑 汝矾 瘤唱埃促.
+
+41870:赫\斯\特\被\提名\为\国会\议员\候选人\.\
+#Hearst was put up for Congress.
+# Hearst绰 惫雀狼盔 饶焊肺 瘤疙登菌促.
+
+41871:嘿\!\那\是\一\部\顶\呱呱\的\车\.\
+#Hey,that's a funky car.
+#具,弊巴篮 犁固乐绰 瞒促.
+
+41872:黑暗\中\他们\很\难\辨认\出路\在\哪儿\.\
+#They could hardly make out where the road was in the darkness.
+#鞠孺 加俊辑 弊甸篮 档肺啊 绢叼俊 乐绰瘤 盒埃窍扁 塞甸菌促.
+
+41873:黑板\是\用\螺丝\拧\在\墙\上\的\.\
+#The blackboard was screwed down to the wall.
+#磨魄篮 唱荤肺 寒困俊 绊沥矫难脸促.
+
+41874:黑\格\尔\的\书\你\读\得\怎么样\了\?\
+#How are you coming along on Hegel?
+#呈绰 庆爸捞 瘤篮 氓阑 倔付唱 佬菌衬?
+
+41875:黑色\或是\白色\我\都\不\喜欢\.\
+#I don't like black or white.
+#唱绰 八沥祸苞 闰祸 葛滴 饺绢茄促.
+
+41876:黑色\轿车\突然\开动\,\驶\进\了\车流\
+#The black sedan suddenly drew out into the traffic.
+#八沥祸 技窜捞 癌磊扁 瞒 儒抚加栏肺 款傈秦 甸绢艾促.
+
+41877:很\抱\款\,\我们\只\能\供应\五\百\箱\.\
+#I'm sorry,we can only supply you with 500 cases.
+#了价窍瘤父, 快府绰 坷归 惑磊 父 力傍且 荐 乐嚼聪促.
+
+41878:很\抱歉\,\史密斯\先生\卧病\在\床\.\
+#I regret to say that Mr.Smith is ill in bed.
+#了价窍瘤父, 胶固胶揪绰 瘤陛 捍栏肺 穿况 拌绞聪促.
+
+41879:很\抱歉\,\我\把\你的\钢笔\弄坏\了\.\
+#I am afraid I've broken your pen.
+#了价茄单 郴啊 寸脚狼 奇阑 何矾哆啡嚼聪促.
+
+41880:很\抱歉\,\我\发觉\自己\无法\帮助\你\.\
+#I'm sorry,I find that I can't help you.
+#了价窍瘤父, 唱绰 郴啊 寸脚阑 档匡 荐 绝促绰 巴阑 柄崔疽嚼聪促.
+
+41881:很\抱歉\,\我\摔\坏\了\你的\钢笔\.\
+#I'm sorry I broke your pen.
+#了价茄单 郴啊 寸脚狼 父斥鞘阑 何矾哆啡嚼聪促.
+
+41882:很\抱歉\侵占\了\你的\宝贵\时间\.\
+#Sorry to have encroached your valuable time.
+#寸脚狼 蓖茄 矫埃阑 哗狙酒辑 了价钦聪促.
+
+41883:很\抱歉\我们\已\在\贵\地\指定\了\代理\.\
+#I'm sorry.We've already appointed our agent in your territory.
+#固救窍瘤父 快府绰 捞固 寸脚狼 顶俊 措府牢阑 沥窍看嚼聪促.
+
+41884:很\不幸\,\我们\再也\没有\见到\她\.\
+#Unhappily,we never saw her again.
+#快府啊 促矫绰 弊赤甫 杭 荐 绝绰 巴篮 阂青茄 老捞促.
+
+41885:很多\公司\都\兴\这\件\贪污\案\有\牵连\.\
+#Many companies were concerned in the scandal.
+#腹篮 雀荤绰 捞 胶牡崔俊 楷风登菌促.
+
+41886:很多\顾客\订购\了\这些\新\产品\.\
+#Many customers spoke for these new products.
+#腹篮 绊按篮 捞繁 脚惑前阑 林巩窍咯 备涝窍看促.
+
+41887:很多\硫酸盐\有\形成\复盐\的\趋势\.\
+#Many sulphates have a tendency to form double salts.
+#腹篮 荐魂堪篮 汗堪阑 捞风绰 版氢捞 乐促.
+
+41888:很多\人\对\钓鱼\很\有\兴趣\.\
+#Lots of men go in for fishing.
+#腹篮 荤恩篮 超矫俊 酒林 蕊固啊 乐促.
+
+41889:很多\人\挤\进\公共汽车\里\.\
+#Many people were crowded into the bus.
+#腹篮 荤恩甸捞 滚胶 救栏肺 厚笼绊 甸绢艾促.
+
+41890:很多\人\目击\到\那\件\意外\事故\.\
+#Many people witnessed the accident.
+#腹篮 荤恩甸篮 弊 荤绊甫 格拜窍看促.
+
+41891:很多\人\因\连续\酷热\而\昏\倒\.\
+#The continued heat keeled over quite a few people.
+#腹篮 荤恩甸捞 瘤加登绰 趣辑肺 牢窍咯 静矾脸促.
+
+41892:很多\制度\从\欧洲\移植\过来\.\
+#Many institutions were transplanted from Europe.
+#腹篮 力档绰 蜡反俊辑 傈秦廉 柯 巴捞促.
+
+41893:很\方便\的\是\我\家\附近\有\一\家\邮局\.\
+#conveniently enough,there's a postoffice near my house.
+#酒林 祈茄 巴篮 快府 笼 何辟俊 快眉惫捞 乐促绰 巴捞促.
+
+41894:很\高兴\不久\得以\与\您\相见\.\
+#Anticipate the pleasure of seeing you soon.
+#坷贰瘤 臼酒 寸脚苞 父朝 荐 乐绢 酒林 扁悔促.
+
+41895:很\高兴\寄\你\一\邮包\内\装\.\.\.\
+#We are pleased to send you by parcel post a package containing...
+#寸脚俊霸 家器俊 ...阑 器厘窍咯 焊郴霸 登绢 扁悔促.
+
+41896:很\高兴\接到\您\九月\三\日\的\询问\函\.\
+#We are pleased to receive your inquiry of 3rd September.
+#寸脚狼 9岿 3老 救何祈瘤甫 罐霸 登绢 酒林 扁惠聪促.
+
+41897:很\高兴\为\你\方\提供\有效\的\服务\.\
+#We are always happy to offer you efficient services.
+#寸脚捞 力傍茄 亮篮 辑厚胶 锭巩俊 酒林 扁悔促.
+
+41898:很\高兴\有\机会\为\贵\公司\服务\.\
+#It will be a pleasure for us to serve you.
+#蓖荤甫 困窍咯 辑厚胶窍霸 登绢 酒林 扁晦聪促.
+
+41899:很久\没\见面\了\;\久违\了\.\
+#It is a long time since I saw you last.
+#坷阀 悼救 核瘤 给沁嚼聪促.
+
+41900:很快\地\魏\特\逊\被\投\约\克\球\而\出局\.\
+#Soon Watson was yorked.
+#客飘郊篮 狐福霸 酒眶登菌促.
+
+41901:很快\地\写\出\一\本\又\一\本\的\书\
+#knock off one book after another
+#狐福霸 茄 鼻 肚 茄 鼻狼 氓阑 借促.
+
+41902:很\难\分清\这\次\事故\的\责任\.\
+#It was difficult to apportion the blame for the accident.
+#捞 荤绊狼 氓烙阑 盒埃窍扁啊 酒林 绢菲促.
+
+41903:很\难\找到\公平\的\解决\方法\.\
+#It's difficult to strike a balance.
+#傍乞茄 秦搬规过阑 茫扁 绢菲促.
+
+41904:很\少\观光\客\在\这\停留\.\
+#few tourists stop here.
+#包堡按篮 芭狼 咯扁俊 赣公福瘤 臼绰促.
+
+41905:很\少有\人\成功\地\自\此\狱\逃走\.\
+#There have been very few successful escapes from this prison.
+#捞 皑苛俊辑 己傍利栏肺 档噶茄 荤恩篮 酒林 利促.
+
+41906:很\幸运\,\事故\得以\避免\.\
+#Happily,the accident was prevented.
+#促青洒 荤绊甫 搁且 荐 乐菌促.
+
+41907:很\幸运\,\我\打电话\给\她\时\她\在家\.\
+#Luckily,she was in when I called.
+#促青洒 郴啊 弊赤俊霸 傈拳甫 窍看阑 锭 弊赤绰 笼俊 乐菌促.
+
+41908:很\遗憾\,\目前\无法\提供\所\需\商品\.\
+#We very much regret that we are unable to supply what you required now.
+#蜡皑捞瘤父 泅犁绰 鞘夸茄 惑前阑 力傍且 规过捞 绝嚼聪促.
+
+41909:很\遗憾\,\他\已经\辞职\了\.\
+#I'm sorry to say he has packed in.
+#了价窍瘤父 弊绰 捞固 荤流窍看嚼聪促.
+
+41910:很\遗憾\,\现\提醒\你\方\.\.\.\
+#We are sorry to remind you that...
+#泅犁 寸脚螟俊 .....阑 券扁矫虐绰 巴捞 蜡皑胶反促.
+
+41911:很\遗憾\货物\不\能\令人\满意\.\
+#We are sorry to say that the cargo has not turned out to our satisfaction.
+#蜡皑胶反瘤父 拳拱捞 父练胶反瘤 臼促.
+
+41912:很\遗憾\我\不\能\肯定\这\件\事\的\事实\.\
+#I'm afraid I'm unsure of the facts of the case.
+#蜡皑胶反瘤父 唱绰 捞 荤扒狼 荤角阑 编沥且 荐 绝促.
+
+41913:很\遗憾\我\不\能\来\叁\加\宴会\.\
+#I am sorry to say I cannot come to the party.
+#唱绰 颇萍俊 曼啊且 荐 绝霸 登绢 酒林 蜡皑涝聪促.
+
+41914:很\遗憾\我\没有\空\去\读\你的\书\.\
+#unfortunately,I haven't enough time to read your book.
+#唱绰 矫埃捞 绝绢 寸脚捞 敬 氓阑 佬阑 荐 绝绢 蜡皑捞促.
+
+41915:亨利\.\詹\姆\斯\入\了\英国\籍\.\
+#Henry James was naturalized in Britain.
+#穷府 力烙胶绰 康惫惫利俊 甸绢艾促.
+
+41916:亨利\跟\弗\兰\克\关系\亲密\.\
+#Henry chums around with Frank.
+#穷府客 橇珐农狼 包拌绰 模剐窍促.
+
+41917:亨利\因\危险\行车\而\被\传讯\.\
+#Henry was hauled up on a dangerous driving charge.
+#穷府绰 困氰茄 款傈栏肺 牢窍咯 家券登绢 缴巩阑 罐疽促.
+
+41918:亨利\自称\是\个\经过\训练\的\药剂师\.\
+#Henry held himself out as a trained pharmacist.
+#穷府绰 绕访阑 芭模 距力荤扼肺 磊莫窍看促.
+
+41919:横跨\大江\建\起\了\巨大\的\水\坝\.\
+#Huge dams have been build across the river.
+#碍阑 啊肺龙矾 芭措茄 达阑 扒汲窍看促.
+
+41920:轰隆\一\声\,\大量\冰雪\从\山腰\崩\落\.\
+#The avalanche crashed down the mountainside.
+#客福釜 家府啊 唱绊 措樊狼 葫汲捞 魂倾府俊辑 冻绢廉 郴啡促.
+
+41921:轰炸\过后\,\她\家\成\了\一堆\瓦砾\.\
+#After the bombing her house was just a heep of rubble.
+#气惯捞 等 饶俊 弊赤狼 笼篮 柄柳 扁客 歹固啊 登菌促.
+ 
+41922:虹\的\色彩\互相\变\来\变\去\.\
+#In a rainbow,the colours pass into one another.
+#公瘤俺狼 祸篮 辑肺 官诧促.
+
+41923:虹\在\天上\成\美丽\的\弧形\.\
+#The rainbow formed a beautiful arc in the sky.
+#公瘤俺啊 窍疵俊 酒抚促款 嫡辟 葛剧阑 捞风菌促.
+
+41924:洪水\的\起因\全\在于\那\场\大雨\.\
+#The reason for the flood was all that heavy rain.
+#全荐狼 盔牢篮 傈何 弊 奴 厚 锭巩捞促.
+ 
+41925:洪水\对\房子\的\损坏\无法\弥补\.\
+#The flood did irreparable damage to the house.
+#全荐俊 狼茄 啊苛狼 颇颊篮 绊磨 荐 绝促.
+
+41926:洪水\切断\了\我们的\供应\.\
+#The floods have cut off our supplies.
+#全荐肺 快府狼 傍鞭捞 吝窜登菌促.
+
+41927:洪水\使\好几\座\村庄\与\外界\隔绝\了\.\
+#Several villages have been isolated by the floods.
+#全荐绰 割 付阑阑 寇何客 窜例矫淖促.
+
+41928:洪水\于\农场\上\堆积\一\层\污泥\.\
+#The flood deposited a layer of mud on the farm .
+#全荐绰 丑厘俊 柳入 摸阑 巢板促.
+
+41929:红茶\和\咖啡\你\较\喜欢\哪一\种\?\
+#Which do you like better,tea or coffee?.
+#全瞒客 目乔 吝 呈绰 绢恫 巴阑 亮酒窍蠢衬?
+
+41930:红灯\常常\是\危险\的\信号\.\
+#A red lamp is often a danger signal.
+#河篮 殿篮 亲惑 困氰茄 脚龋捞促.
+
+41931:红\红\的\晚霞\是\晴天\的\预兆\.\
+#A red sunset signifies fine weather.
+#河篮 愁篮 讣篮 朝狼 隆炼捞促.
+
+41932:红\领带\适合\配\那\件\衣服\.\
+#A red tie will match that suit.
+#河篮 池鸥捞绰 弊 狼汗俊 肋 绢匡赴促.
+
+41933:红十字会\是\个\国际\性\的\慈善\机构\.\
+#The Red Cross is an international charity.
+#利绞磊雀绰 惫力利牢 磊急扁备捞促.
+
+41934:红\太阳\照亮\了\天空\和\大地\.\
+#The red sun lights up the sky and the earth.
+#河篮 怕剧篮 窍疵苞 措瘤甫 灌霸 厚眠菌促.
+
+41935:侯\爵\的\爵位\在\男爵\之上\.\
+#Dukes rank above barons.
+#饶累狼 累困绰 巢累狼 困捞促.
+
+41936:猴子\在\树枝\间\荡\来\荡\去\.\
+#Monkeys areswinging from branch to branch.
+#盔件捞绰 唱沟啊瘤俊辑 吭促 艾促 沁促.
+
+41937:厚\窗帘\有助\於\隔绝\街\上\的\噪音\.\
+#Thick curtains help to exclude street noises.
+#滴波款 目瓢篮 芭府狼 家澜阑 瞒窜窍绰单 档框捞 等促.
+
+41938:后来\得知\汽车\司机\原来\喝醉\了\.\
+#It emerged that the driver of the car had been drunk.
+#饶俊 款傈扁荤啊 盔贰 贱俊 秒沁促绰 巴阑 舅霸 登菌促.
+
+41939:后来\知道\关于\钱\的\事\他\曾\说\了\谎\.\
+#It later transpired that he had lied about the money.
+#捣俊 包茄 老篮 弊啊 芭窿富茄 巴捞扼绰 巴阑 饶俊 舅霸 登菌促.
+
+41940:后面\的\演奏\者\没有\跟上\拍子\.\
+#The players at the back aren't keeping time.
+#第狼 楷林磊绰 冠磊甫 嘎眠瘤 给沁促.
+
+41941:呼吸\新鲜\空气\对\健康\有益\.\
+#It's healthy to spend time in the fresh air.
+#脚急茄 傍扁甫 龋软窍绰 巴篮 扒碍俊 蜡劳窍促.
+
+41942:忽然\进来\了\一\位\美丽\的\姑娘\.\
+#In came a beautiful girl.
+#癌磊扁 酒抚促款 贸赤啊 甸绢吭促.
+
+41943:壶\的\内部\嵌\着\一\层\石灰\.\
+#The inside of the kettle is encrusted with lime.
+#林傈磊狼 救俊 茄 摸狼 籍雀啊 尝绢廉 乐促.
+
+41944:胡思乱想\地\度过\整个\下午\
+#moon away a whole afternoon
+#镜单绝绰 积阿窍搁辑 坷饶 傈何甫 焊郴促.
+
+41945:蝴蝶\是\由\毛虫\蜕变\而\成\的\.\
+#A butterfly is produced by metamorphosis from a caterpillar.
+#唱厚绰 葛面俊辑 函窍咯 等 巴捞促.
+ 
+41946:狐狸\突然\扑\向\那\只\兔子\.\
+#The fox pounced on the rabbit.
+#咯快啊 癌磊扁 弊 配尝俊霸 崔妨甸菌促.
+
+41947:狐狸\循\原\路\溜\回\,\避开\了\猎犬\.\
+#The fox doubled back and escaped the hounds.
+#咯快绰 癌磊扁 登倒酒 顿绢 荤成俺甫 乔沁促.
+
+41948:湖\上\的\冰\承受\得了\你的\体重\吗\?\
+#Will the ice on the lake bear your weight?
+#龋荐狼 倔澜捞 呈狼 眉吝阑 斑掉 荐 乐衬?
+
+41949:湖\上\有\条\无\甲板\的\划\艇\.\
+#There is an undecked rowboat on the lake.
+#龋荐俊 癌魄捞 绝绰 焊飘啊 乐促.
+
+41950:护理\某人\使\他的\病\好\起来\
+#nurse sb.through
+#绢恫 荤恩阑 埃龋窍咯 弊狼 捍阑 龋傈矫虐促.
+
+41951:护士\给\我\受伤\的\胳臂\裹\上\绷带\.\
+#The nurse wound a bandage round my wounded arm.
+#埃龋荤啊 何惑寸茄 唱狼 迫俊 贺措甫 皑酒林菌促.
+
+41952:护士\先\把\伤口\弄\干净\后\再\缝合\.\
+#The nurse cleansed the wound before stitching it.
+#埃龋荤绰 刚历 惑贸甫 柄昌窍霸 茄 饶俊 促矫 豪钦窍看促.
+
+41953:护士\小姐\,\我\躺\着\难受\.\
+#I am uncomfortable,nurse.
+#埃龋荤, 唱绰 穿况乐绰 巴捞 曼扁 塞甸绢夸.
+
+41954:互相\站\得\靠近\些\,\要\肩\碰\肩\.\
+#Stand close together so that your shoulders are touching.
+#绢柄客 绢柄啊 辑肺 搓档废 辑肺 啊鳖捞 辑技夸.
+
+41955:户\外\运动\使\我们\心\身\强健\.\
+#Outdoor exercise makes us strong in mind and body.
+#角寇款悼篮 快府狼 缴脚阑 扒碍窍霸 茄促.
+
+41956:花\点\时间\问\问\你\自己\为什么\.\
+#Put in some time asking yourself why.
+#矫埃阑 郴辑 呈 磊脚俊霸 恐牢瘤 拱绢毫扼.
+
+41957:花\多少\钱\的\问题\不必\谈\了\.\
+#How much it costs is beside the point.
+#倔付唱 腹篮 捣阑 借绰啊窍绰 巩力绰 富且 鞘夸绝促.
+
+41958:花费\的\钱\比\他们\预料\的\多\得\多\.\
+#The cost was much more than they had bargained on.
+#敬 捣篮 弊甸 磊脚捞 抗惑茄 巴 焊促 任纠 腹促.
+
+41959:花费\数\百\万\元\以\消除\选民\的\反感\.\
+#Millions were spent to hammer away at the salesresistance of voters.
+#荐 归 父盔阑 结辑 蜡鼻磊狼 馆皑阑 昏力窍看促.
+
+41960:花钱\切\不可\超过\自己的\收入\.\
+#Never spend in excess of your income.
+#瘤免篮 例措肺 磊脚狼 荐涝阑 檬苞秦辑绰 救 等促.
+ 
+41961:花\五\百\镑\买\那\辆\汽车\有点\过分\了\.\
+#￡500 for that car is a bit steep.
+#坷归 颇款靛甫 结辑 弊 瞒甫 魂促绰 巴篮 距埃 呈公 沁促.
+
+41962:花言巧语\不\能\滋润\防风\草\.\
+#Fine words butter no parsnips.
+#皑攫捞汲肺绰 规浅侥拱阑 扁抚瘤霸 且 荐 绝促.
+
+41963:花园\的\花\是\一\幅\美景\.\
+#The flowers in the garden were a wonderful sight .
+#拳盔狼 采篮 茄 气狼 酒抚促款 堡版捞促.
+
+41964:花园\星星点点\地\长\着\雏\菊\.\
+#The garden was starred with daisies.
+#拳盔俊 单捞瘤 采捞 痢痢捞 乔绢乐菌促.
+
+41965:花园\处于\无人\管理\的\状态\.\
+#The garden is in a state of neglect.
+#拳盔篮 酒公档 包府窍瘤 臼绰 惑怕捞促.
+
+41966:花园\里\的\空气\又\温暖\又\芬芳\.\
+#The air in the garden was warm and fragrant.
+#拳盔狼 傍扁绰 蝶舵窍绊 肚 氢扁啊 亮疽促.
+
+41967:花园\里\盛开\着\绚丽\的\杜鹃\花\.\
+#The garden is gorgeous with azaleas.
+#拳盔俊绰 酒抚促款 柳崔贰啊 乔绢乐促.
+
+41968:花园\四周\用\树\篱\很\好\地\围\了\起来\.\
+#The garden was well hedged in.
+#拳盔 林困绰 唱公 匡鸥府肺 肋 笛府绢廉 乐促.
+
+41969:花园\有\八\米\长\,\六\米\宽\.\
+#The garden is eight metres long and six metres wide.
+#拳盔狼 辨捞绰 8固磐捞绊, 气篮 6固磐捞促.
+
+41970:华东\的\春天\一般\约在\三月份\开始\.\
+#Spring in East China usually sets in about March.
+#拳悼瘤规狼 航篮 焊烹 3岿版俊 矫累茄促.
+
+41971:华\尔\兹\是\一\种\优美\的\舞蹈\.\
+#The waltz is a beautiful dance.
+#啃明绰 酒抚促款 勉捞促.
+
+41972:滑稽\的\场面\演\得\太\夸张\.\
+#The comic scenes were overdone.
+#内雇厘搁捞 呈公 苞厘登霸 楷扁登菌促.
+
+41973:滑翔\机\中午\时\在\那里\降落\.\
+#The glider put down there at noon.
+#臂扼捞歹绰 沥坷俊 弊镑俊 冻绢脸促.
+
+41974:画家\给\我\看\了\他的\油画\.\
+#The artist showed me his canvases.
+#拳啊啊 弊狼 蜡拳甫 郴霸 焊咯林菌促.
+
+41975:画家\试图\把\不同\的\颜色\混和\起来\.\
+#The painter tried to merge the colours together.
+#拳啊绰 促弗 祸阑 去钦窍妨绊 矫档窍看促.
+
+41976:画家\于\模特儿\摆\姿势\.\
+#The painter postured his model.
+#拳啊绰 葛胆俊霸 器令甫 秒窍霸 沁促.
+ 
+41977:画\图纸\被\整齐\地\划\成\小\方格\.\
+#The drawing paper is meaty squared off.
+#档拳瘤甫 馆淀窍霸 累篮 匙葛 葛剧栏肺 弊啡促.
+
+41978:画一\个\边\长\为\十\厘米\的\正方形\.\
+#Draw a square with sides of 10 centimetres.
+#茄 函狼 辨捞啊 10季萍固磐牢 沥荤阿屈阑 弊妨扼.
+
+41979:划\出\了\几\栏\版面\用以\刊登\社论\.\
+#Several columns were lined off for the editorial.
+#割 俺狼 漠烦篮 荤汲阑 角扁 困窍咯 昏力登菌促.
+
+41980:划\桨\时\动作\不要\拖\得\这样\长\.\
+#Don't dwell so much on our stroke.
+#畴甫 历阑 锭 悼累阑 捞犯霸 辨霸 缠瘤 付扼.
+
+41981:化学\药品\用\来\抑制\害虫\.\
+#Chemicals are used for keeping insects down.
+#拳切距前篮 秦面阑 撅力窍绰单 敬促.
+
+41982:话\必\有\人\说\出来\;\事\必\有\因\.\
+#Speech implies a speaker.
+#老篮 馆靛矫 盔牢捞 乐促.
+
+41983:话题\突然\转变\到\世界\局势\.\
+#The topic veered round to the world situation.
+#拳力绰 癌磊扁 技拌 沥技肺 官差菌促.
+
+41984:话题\已经\谈\完\,\他\便\不\说话\了\.\
+#He had exhausted conversation topics and signed off.
+#拳力绰 捞固 促 富沁栏骨肺 弊绰 富阑 窍瘤 臼疽促.
+
+41985:怀\特\被\提名\为\总统\候选人\.\
+#White slated for Presidency
+#拳捞飘绰 措烹飞 饶焊肺 瘤疙登菌促.
+
+41986:怀\特\将军\统率\那个\军队\.\
+#General White was in command of the army.
+#拳捞飘 厘焙篮 弊 焙措甫 烹荐茄促.
+
+41987:怀\特\先生\的\职位\比\我\高\.\
+#Mr.white is over me in the office.
+#拳捞飘揪狼 流困绰 唱焊促 臭促.
+
+41988:怀\特\先生\已\任职\为\本\市\市长\.\
+#Mr.White was established as mayor of our city.
+#拳捞飘揪绰 捞固 夯 矫狼 矫厘栏肺 烙疙登菌促.
+
+41989:坏蛋\想\溜\掉\,\但\被\当场\抓住\.\
+#The bad egg tried to nip away but was caught on the spot.
+#唱慧 仇篮 档噶啊妨绊 窍看栏唱 弊 磊府俊辑 棱躯促.
+
+41990:坏\书\比\坏\朋友\害处\更\大\.\
+#Bad books do more harm than bad companions.
+#唱慧 氓篮 唱慧 模备焊促 秦啊 歹 农促.
+
+41991:坏\天气\的\后果\之一\就是\庄稼\欠\收\.\
+#One of the effects of bad weather is a poor crop.
+#唱慧 朝揪狼 搬苞狼 窍唱绰 官肺 丑累拱狼 皑家捞促.
+
+41992:坏\天气\使\农民\遭受\重大\损失\.\
+#The farmers were hard hit by the bad weather.
+#唱慧 朝揪肺 牢窍咯 丑刮甸篮 吝措茄 颊角阑 寸窍看促.
+
+41993:坏\天气\使\我们\打消\登山\的\念头\.\
+#The bad weather discouraged us from climbing the mountain.
+#唱慧 朝揪绰 快府肺 窍咯陛 殿魂且 付澜阑 较 啊矫霸 窍看促.
+
+41994:坏\天气\使\我们的\旅行\十分\扫兴\.\
+#Poor weather knocked up our trip.
+#唱慧 朝揪啊 快府狼 咯青窍绰单 蕊阑 玻促.
+
+41995:坏\消息\使\市场\价格\下降\.\
+#Bad news sent market prices down.
+#唱慧 家侥捞 矫厘狼 啊拜阑 窍遏矫淖促.
+
+41996:环境\对\他的\成功\有\不利\的\影响\.\
+#Circumstances militated agains this success.
+#券版篮 弊狼 己傍俊 措窍咯 阂府茄 康氢阑 林菌促.
+
+41997:还\别说\,\你的\目的\还\真\达到\了\!\
+#Well,it worked!
+#捞力 富窍瘤 付扼, 呈狼 格利篮 沥富 捞风菌促!
+
+41998:还\来得及\准备好\救生艇\.\
+#There was still time to break out life rafts.
+#备疙沥阑 霖厚且 矫埃篮 酒流 乐促.
+
+41999:还\没\到\一半\;\精彩\的\从\现在\开始\.\
+#That's not the half of it.
+#酒流 馆档 登瘤 臼疽促. 犁固乐绰 巴篮 瘤陛何磐 矫累捞促.
+
+42000:还\没有\人\能\产生\绝对零度\.\
+#No one has yet been able to produce the absolute zero of temperature.
+#酒流 酒公档 例措康档甫 积魂且 荐 绝菌促.
+
+42001:还\要\过\一刻\钟\才\上课\呢\.\
+#There ' s still a quarter of an hour to put in before the class begins.
+#酒流 15盒捞 歹 瘤唱具 荐诀阑 茄促.
+ 
+42002:还有\充分\的\时间\干\一些\事\.\
+#There ' s still plenty of time to pull something off.
+#公郊 老阑 窍扁俊 酒流 面盒茄 矫埃捞 乐促.
+
+42003:还有\几\个\同学\情况\也\是\这样\.\
+#There are several others in the same condition.
+#肚 割割 鞭快狼 惑炔档 捞犯促.
+
+42004:还有\一\个\使\他\困惑\的\严重\问题\.\
+#There was another grave problem to vex him.
+#弊甫 帮趣窍霸 窍绰 缴阿茄 巩力啊 酒流 乐促.
+
+42005:还有\最后\的\一\件\事\要\你\帮忙\.\
+#There's just one last favor I need to ask of you.
+#酒流 付瘤阜 茄 啊瘤 老篮 匙啊 档客具 茄促.
+
+42006:换\掉\温度\高于\所\要求\的\水\.\
+#Change the water the temperature of which is higher than required.
+#夸备窍绰 巴焊促 柯档啊 臭篮 巴篮 官操绢扼.
+
+42007:换\尿布\真是\一\件\讨厌\的\事\.\
+#It's such a chore to change diapers.
+#扁历蓖甫 啊绰 巴篮 沥富 饺篮 老捞促.
+
+42008:黄昏\时\,\小孩\就\自然\地\回家\.\
+#Children gravitate toward home at dusk.
+#炔去捞 龙 锭 酒捞甸篮 磊楷洒 笼俊 倒酒埃促.
+
+42009:黄昏\时分\,\市场\寂静\下来\了\
+#Quiet came over the marketplace towards the evening.
+#历翅 矫埃俊绰 矫厘捞 炼侩秦瘤扁 矫累窍看促.
+
+42010:黄色\和\橘\色\之间\有\明显\差别\.\
+#There is a sensible difference between yellow and orange.
+#畴鄂祸苞 敝祸俊绰 犬楷茄 瞒捞啊 乐促.
+
+42011:蝗虫\很快\把\庄稼\全\吃光\了\.\
+#The locusts soon ate up the crop.
+#皋堆扁啊 狐福霸 丑累拱阑 傈何 冈绢 摹奎促.
+
+42012:皇室\的\婚礼\是\壮观\的\场面\.\
+#The royal wedding was a magnificent occasion.
+#炔角狼 去肥绰 厘搁捞 厘包捞促.
+
+42013:谎言\再\多\也\掩盖\不了\事实\真相\.\
+#No amount of lies can cover up reality.
+#芭窿捞 酒公府 腹酒档 荤角狼 柳惑阑 皑免 荐 绝促.
+
+42014:灰尘\很快\就\积聚\在\书籍\上\.\
+#Dust soon collects on books.
+#刚瘤啊 狐福霸 氓 困俊 阶看促.
+
+42015:灰尘\慢慢\地\落\在\地面\上\.\
+#The dust slowly settled down.
+#刚瘤啊 玫玫洒 官蹿 困肺 阶看促.
+
+42016:灰色\的\天空\暗示\冬天\可能\会\早\到\.\
+#Gray skies hinted that winter would be early.
+#雀祸狼 窍疵篮 败匡捞 酒付档 老嘛 茫酒棵 巴阑 鞠矫窍看促.
+
+42017:回答\清楚\!\我\听\不见\你的\话\.\
+#Answer up! I can't hear you
+#措翠阑 沥犬洒 窍矫夸. 唱绰 寸脚狼 富阑 舅酒甸阑 荐 绝绢夸.
+
+42018:回答\问题\前\先\仔细\想\一\想\.\
+#Think hard before you answer the question.
+#措翠阑 窍扁 傈俊 刚历 磊技洒 积阿阑 窍矫夸. 
+
+42019:回答\我\,\别\只是\站\在那儿\笑\.\
+#Answer me,don't just stand there laughing.
+#郴霸 措翠阑 窍矫夸. 辑辑 眶扁父 窍瘤富绊夸.
+
+42020:惠\请\立刻\寄\来\支票\为\荷\.\
+#I must request you to let me have a cheque at once.
+#官肺 荐钎甫 焊郴林矫搁 绊缚摆嚼聪促.
+
+42021:会\后\我\用\汽车\送\你\回家\.\
+#I'll run you back home after the meeting.
+#雀狼 饶俊 郴啊 磊悼瞒肺 寸脚阑 笼俊 官贰促 林摆嚼聪促.
+
+42022:会计\把\所有\的\钱\都\卷逃\了\.\
+#The accountant went off with all the money.
+#雀拌啊 捣阑 傈何 啊瘤绊 档噶艾促.
+
+42023:会计\把\五\元\欠款\记\在\她的\帐\上\.\
+#The accountant scored up five yuan against her.
+#雀拌啊 5盔 胡柳 捣阑 弊赤狼 厘何俊 扁废窍看促.
+
+42024:会计\整理\或\结算\帐目\.\
+#The accountant made up the account.
+#雀拌绰 厘何甫 沥府窍芭唱 搬魂窍看促.
+
+42025:会计\正在\逐\笔\检查\帐目\.\
+#The accountant is going through the items one by one.
+#雀拌绰 厘何狼 亲格阑 窍唱 窍唱 八荤窍绊 乐促.
+
+42026:会见\陌生\人\于\汤姆\局促不安\.\
+#Meeting strangers embarrasses Tom.
+#掣急 荤恩阑 父唱绰 巴篮 沤俊霸 辑冈辑冈窍绊 阂救窍促.
+
+42027:会\上\除了\戴\先生\之外\还有\三\人\.\
+#There were three other people at the meeting besides Mr Day.
+#雀狼俊绰 单捞揪 寇俊档 3疙捞 歹 乐促.
+
+42028:会议\将\于\明天\下午\在\教室\里\召开\.\
+#The meeting will be held in the classroom tomorrow afternoon.
+#雀狼绰 郴老 坷饶俊 背角俊辑 凯副 巴捞促.
+
+42029:会议\开\得\很\长\,\但\没有\什么\成效\.\
+#It was a very long meeting,but it wasn't productive of any important decisions.
+#雀狼绰 酒林 坷贰 凯啡栏唱, 己苞啊 窍唱档 绝菌促.
+
+42030:会议\开始\扣\紧\进行\这\项\工作\.\
+#The conference buckled to the task.
+#雀狼绰 捞 老俊 措窍咯 凯缴洒 柳青窍扁 矫累窍看促.
+
+42031:会议\延期\到\第\二\天\举行\.\
+#The meeting was postponed until the following day.
+#雀狼绰 促澜朝肺 楷扁登绢 凯啡促.
+
+42032:会议\延期\至\下\星期\举行\.\
+#The meeting is delayed until next week.
+#雀狼绰 促澜林肺 楷扁登绢 凯副 巴捞促.
+
+42033:会议\预定\在下\星期\举行\.\
+#The meeting is scheduled to take place next week.
+#雀狼绰 促澜林俊 凯府扁肺 沥秦脸促.
+
+42034:会议\在\全体\声言\彼此\友好\下\结束\.\
+#The meeting ended with protestations of friendship from everyone.
+#雀狼绰 傈盔捞 辑肺 快龋利牢 啊款单辑 场车促.
+
+42035:会议\在\四\点钟\左右\休会\.\
+#The conference adjourned around four o'clock.
+#雀狼绰 4矫码俊 绒雀沁促.
+
+42036:会议\在\五\点钟\的\时候\散\了\.\
+#The meeting broke up at five.
+#雀狼绰 5矫俊 魂雀窍看促.
+
+42037:会议\主席\请\那个\国家\的\代表\讲话\.\
+#The chairman called on the representative of that country to address the meeting.
+#雀狼 狼厘篮 弊 惫啊狼 措钎俊霸 碍楷阑 没窍看促.
+
+42038:会议\主席\试图\让\听众\安静\下来\.\
+#The chairman tried to settle the audience down.
+#雀狼 狼厘篮 没吝阑 救沥矫虐妨 窍看促.
+
+42039:会议\最后\以\唱\革命\歌曲\而\结束\.\
+#The meeting finished off with a revolutionary song.
+#雀狼狼 付瘤阜篮 酋疙啊邦阑 何福绰 巴栏肺 场车促.
+
+42040:会员\:\美国\数学\学会\会员\.\
+#Authority:Member of the American Mathematical Society.
+#雀盔:固惫 荐切 切雀 雀盔.
+
+42041:汇报\自己\每个\学生\的\情况\
+#report on each of one's pupils
+#磊扁切积狼 阿阿狼 惑炔阑 焊绊窍促.
+
+42042:昏\昏\沉沉\地\消磨\掉\一\个\上午\
+#drowse away the morning
+#儒府港耽窍霸 坷傈阑 结 滚府促.
+
+42043:婚礼\将\在\什么\时候\举行\?\
+#When will the wedding be?.
+#搬去侥篮 攫力 芭青钦聪鳖?
+
+42044:活\火山\随时\都\有\可能\爆发\.\
+#An active volcano may explode at any time.
+#劝拳魂篮 攫力电瘤 气惯狼 啊瓷己捞 乐促.
+
+42045:火柴\点燃\时\,\发出\光\和\热\.\
+#As the match burns,heat and light are given off.
+#己成阑 寸板阑 锭 蝴苞 凯阑 惯茄促.
+
+42046:火车\边\走\边\发出\排气\声\.\
+#The train chuffed along.
+#扁瞒绰 啊搁辑 硅扁家府甫 陈促.
+
+42047:火车\不久\就\加快\了\速度\.\
+#The train soon speeded up.
+#扁瞒绰 倔付 乐瘤 臼酒 加档甫 棵啡促.
+
+42048:火车\车厢\里\充满\了\烟\味\.\
+#The air in the railway carriage was thick with tobacco fumes.
+#凯瞒沫 救捞 淬硅楷扁肺 啊垫窍看促.
+ 
+42049:火车\驰\过时\,\整\幢\房子\都\在\颤动\.\
+#The whole house trembled as the train went by.
+#扁瞒啊 瘤朝 哎 锭 笼 傈眉啊 如甸啡促.
+
+42050:火车\的\晃动\使\我\昏\昏\欲\睡\.\
+#The movement of the train lulled me to sleep.
+#扁瞒狼 如甸覆捞 唱甫 去去窍咯 凉府霸 沁促.
+
+42051:火车\的\重量\把\桥\压\塌\了\.\
+#The bridge collapsed under the weight of the train.
+#扁瞒狼 公霸啊 促府甫 公呈瘤霸 窍看促.
+
+42052:火车\还\在\动\时\,\请\不要\下车\.\
+#Don't get off the train while it's still moving.
+#扁瞒啊 酒流 框流捞绊 乐阑 锭 瞒俊辑 郴府瘤 富酒林技夸.
+
+42053:火车\开\时\我\在\月台\上\看见\他\.\
+#I saw her on the platform when the train pulled out.
+#扁瞒啊 栋朝 锭 唱绰 敲阀权俊辑 弊甫 焊绊乐菌促.
+
+42054:火车\喷\着\烟\驶\进\了\车站\.\
+#The railway train puffed into the station.
+#凯瞒啊 楷扁甫 郴徽栏哥 开栏肺 甸绢吭促.
+
+42055:火车头\出\了\轨\,\翻\起\了\几\码\铁轨\.\
+#The engine left the rails and ploughed up the track for several yards.
+#浚柳捞 急肺甫 哈绢唱 割 具靛狼 枚肺甫 第笼菌促.
+
+42056:火车\误点\,\使\你\无法\赴\宴会\了\.\
+#The train kept you from going to the party.
+#扁瞒啊 瘤楷登绢 寸脚篮 楷雀俊 搭 荐 绝阑 巴 涝聪促.
+
+42057:火车\于\蓬\车\成为\过去\.\
+#The train out-moded the caravan.
+#扁瞒绰 措屈飘钒俊 狼秦 备屈捞 登菌促.
+
+42058:火车\在\这\块\地\里\轧\出\了\辙\痕\.\
+#The farm carts have worn ruts in this field.
+#扁瞒啊 捞 瘤开俊 官柠 磊惫阑 巢板促.
+
+42059:火车\在\转弯\时\放慢\了\速度\.\
+#The train slowed as it went around the curve.
+#扁瞒啊 目宏甫 倒 锭 加档甫 临看促.
+
+42060:火车\正\以\时\速\七\十\哩\行驶\着\.\
+#The train is running at a speed of 70 miles an hour.
+#扁瞒绰 矫加 70付老肺 崔府绊 乐促.
+
+42061:火\从\该\镇\一端\烧\到\另\一端\.\
+#Fire swept the town from one end to the other.
+#阂捞 捞 付阑 茄 场俊辑 促弗 茄 场 鳖瘤 怕奎促.
+
+42062:火红\上\没有\生物\存在\.\
+#There is no life on Mars.
+#拳己俊绰 积疙眉啊 粮犁窍瘤 臼绰促.
+
+42063:火\鸡\翘\起\尾\羽\走\来\走\去\.\
+#The turkey struts about .
+#磨搁炼 睬瘤判阑 技快绊 吭促 艾促 茄促.
+ 
+42064:火箭\发出\一\声\巨响\爆炸\.\
+#The rocket exploded with a loud report.
+#肺南篮 芭措茄 家府甫 郴绊 气惯登菌促.
+
+42065:火\警\报警\器\不\小心\给\弄\响了\.\
+#The fire alarm was accidentally set off.
+#拳犁版焊扁绰 炼缴窍瘤 臼酒 家府啊 匡啡促.
+
+42066:火\快\熄灭\了\;\再\加上\一些\煤\吧\.\
+#Pile on more coal;the fire is going out.
+#阂捞 促 波廉啊聪, 促矫 籍藕阑 歹 持绢扼.
+
+42067:火力\在\减弱\,\请\再\拿\些\煤\来\.\
+#The fire is burning down,get some more coal please.
+#拳仿捞 临绢甸绊 乐栏聪. 促矫 籍藕阑 啊廉坷技夸.
+
+42068:火\烧\得\很\旺\;\火光\熊熊\.\
+#The fire flamed bright.
+#阂捞 劝劝 鸥棵耳促.
+
+42069:火\烧\了\很久\,\用\不到\加\燃料\.\
+#The fire blazed away for a long time,without needing more fuel.
+#阂篮 楷丰甫 歹 持瘤 臼绊档 坷阀悼救 爬促.
+
+42070:火\势\蔓\延\危及\附近\的\几\楝\房屋\.\
+#The fire spread endangering several nearby homes.
+#拳仿捞 痢瞒 何辟狼 割 盲狼 笼俊 固闷促.
+
+42071:火焰\从\火山\口\猛烈\地\喷\出来\.\
+#Flames blazed out from the crater of the volcano.
+#拳堪捞 拳魂 涝备俊辑 竿纺窍霸 徽绢唱吭促.
+
+42072:火焰\摇曳\一下\就\熄灭\了\.\
+#The flame wavered and then died.
+#拳堪捞 如甸府绊 官绊 家戈登菌促.
+
+42073:火焰\在\片刻\之间\吞\卷\了\建筑物\.\
+#The flames licked up the buildings in a second.
+#拳堪捞 陋篮 矫埃 悼救俊 扒绵拱阑 伙淖促.
+
+42074:火焰\正\从\屋顶\上\喷\出来\.\
+#Flames were shooting up from the roof of the building.
+#拳堪篮 扒拱狼 苛惑俊辑 徽绢廉 唱坷绊 乐菌促.
+
+42075:火药\是\中国\首先\使用\的\.\
+#Gunpowder first came in in China.
+#拳距篮 吝惫俊辑 啊厘 刚历 荤侩窍看促.
+
+42076:火药\着\了\火\,\忽然\向上\喷\起来\.\
+#The powder ignited and suddenly puffed up.
+#拳距俊 阂阑 嘿捞磊 癌磊扁 困肺 稼酒 棵耳促.
+ 
+42077:火灾\差点\将\整\座\大楼\烧\光\了\.\
+#Fire destroyed almost the whole building.
+#拳犁绰 磊末窍搁 傈眉 扒拱阑 肯傈洒 怕匡 环 窍看促.
+
+42078:火灾\发生\时\引起\了\一\场\惊恐\.\
+#There was a panic when the fire started.
+#拳犁啊 惯积矫俊 傍器皑阑 老栏淖促.
+
+42079:获\悉\他的\死\讯\,\她\感到\难过\.\
+#She was unhappy to learn of his death.
+#弊狼 磷澜阑 舅绊 弊赤绰 浇欺沁促.
+
+42080:货车\缓缓\地\沿着\往前\移动\.\
+#The cart jogged down .
+#拳拱瞒绰 玫玫洒 菊栏肺 捞悼窍看促.
+
+42081:货\船\因\修理\而\未能\使用\.\
+#The freighter was laid aside for repairs.
+#拳拱急篮 荐府窍扁 锭巩俊 荤侩且 荐 绝促.
+
+42082:货\价\已\按\四\舍\五\入\法\调\低\为\整数\.\
+#The prices of the goods have been rounded down.
+#拳拱啊拜篮 捞固 荤荤坷涝过俊 蝶扼 傈眉荐甫 撤霸 炼例窍看促. 
+
+42083:货\价\已\按\四\舍\五\入\法\调\高\为\整数\.\
+#The prices of the goods have been rounded up.
+#拳拱啊拜篮 捞固 荤荤坷涝过俊 蝶扼 傈眉荐甫 臭霸 炼例窍看促. 
+
+42084:货款\是\一\百\元\,\请\汇款\.\
+#The charge is $100; please remit same.
+#惑前措陛篮 100崔矾捞聪,价陛秦林绞矫夸.
+
+42085:货\轮\已\于\旧\金\山\港\卸货\.\
+#The cargoes were discharged at San Francisco.
+#拳拱急篮 捞固 击橇鄂矫胶内亲俊辑 咙阑 何啡促. 
+
+42086:货物\到达\时\我\会\通知\你\.\
+#I shall notify you of the arrival of the goods.
+#拳拱捞 档馒且 锭 郴啊 寸脚俊霸 烹瘤窍摆嚼聪促.
+
+42087:货物\的\安全\必须\切实\注意\.\
+#The security of the goods must be seen to.
+#拳拱狼 救傈绰 馆靛矫 例措肺 林狼秦具 茄促.
+
+42088:货物\牢牢\地\缚\在\船\的\甲板\上\.\
+#The cargo was lashed down on the deck of the ship.
+#拳拱篮 窜窜洒 硅狼 癌魄 困俊 弓咯 乐菌促.
+ 
+42089:货物\是\通过\运河\送\来\的\.\
+#The goods are sent here by canal.
+#拳拱篮 款窍甫 烹窍咯 焊郴吭促.
+
+42090:货物\一\俟\装运\,\我\方将\电告\你\方\.\
+#We shall advise you by cable as soon as the goods are shipped.
+#拳拱捞 角府绰 措肺 快府螟俊辑 寸脚 螟俊 舅妨靛府摆嚼聪促.
+
+42091:货物\已\从\海上\走私\运\出\了\.\
+#The goods have been smuggled out by sea.
+#拳拱篮 捞固 秦惑栏肺 剐馆免登菌促.
+
+42092:货\已\生产\好\,\不\能\撤销\订单\.\
+#CANT CNCL GDS ALRDY MFGD -cannot cancel; goods already manufactured
+#拱前篮 捞固 积魂捞 登菌栏骨肺 林巩阑 枚雀且 荐 绝促.
+
+42093:货\已\装\上\.\.\.\轮\,\在\香港\转\.\.\.\轮\.\
+#The cargo has been shipped on S.S."..." for transshipment at Hongkong into S.S."...".
+#拳拱篮 捞固 ......硅俊 角菌绊 全尼俊辑 .....硅俊 颗板促.
+
+42094:祸\不\单行\;\屋\漏\偏\逢\连夜\雨\.\
+#Misfortunes never come single .
+#犁居篮 去磊 坷瘤 臼绰促.
+
+42095:机器\的\部件\沾\满\一\层\厚\厚\的\油腻\.\
+#The works of the machine were gummed up with some kind of thick viscous material.
+#扁拌狼 何前篮 滴磐款 扁抚栏肺 傈何 甸矾 嘿菌促.
+
+42096:机器\的\动力\可以\从\轴\得到\.\
+#The drive to a machine can be obtained from a shaft.
+#扁拌狼 悼仿篮 绵俊辑 掘阑 荐 乐促.
+ 
+42097:机器\电线\接\错\了\,\所以\开\不\动\.\
+#The machine won't work because of a faulty connection.
+#扁拌狼 傈急捞 肋给 捞绢廉辑 框流捞瘤 臼绰促.
+
+42098:机器\节省\了\大量\劳动力\.\
+#Machinery dispenses with much labour.
+#扁拌绰 腹篮 剧狼 畴悼仿阑 例距窍看促.
+
+42099:机器\可以\改变\力\的\方向\.\
+#A machine may change the direction of a force.
+#扁拌绰 塞狼 规氢阑 官曹 荐 乐促.
+
+42100:机器\人\的\使用\有\一天\会\取代\人力\.\
+#The use of robots will someday supersede manual labor.
+#肺焊飘狼 荤侩篮 攫哩啊 牢仿阑 措脚且 巴捞促.
+
+42101:机器\人\可\省去\很多\劳力\.\
+#Robots dispense with much labor.
+#肺焊飘绰 腹篮 畴悼仿阑 例距且 荐 乐促.
+
+42102:机器\现在\套\上\齿轮\,\即\可\使用\了\.\
+#The machine is now geared up and ready for use.
+#扁拌绰 泅犁 砰聪官柠甫 崔酒辑 官肺 荤侩且 荐 乐促.
+
+42103:机器\逐渐\减\慢\转速\,\终于\停\住\了\.\
+#The machine slowed down and stopped.
+#扁拌绰 痢瞒 加档啊 撤酒廉 搬惫篮 肛眠菌促.
+
+42104:机枪\手\一口气\打光\了\两\梭子\子弹\.\
+#The machine gunner fired off two magazines without a break.
+#荤拜荐绰 茄 锅俊 滴 藕芒阑 促 筋酒 滚啡促. 
+
+42105:机枪\象\刀子\似\地\杀伤\敌人\.\
+#The machine guns cut up the enemy like knives.
+#醚篮 漠 贸烦 利焙阑 混惑茄促.
+
+42106:机枪\子弹\把\敌机\的\发报机\打\哑\了\.\
+#Machine- gun bullets packed up the enemy plane ' s transmitter.
+#醚舅篮 利扁狼 惯脚扁甫 给静霸 父甸菌促.
+ 
+42107:机修\工\很快\就\把\发动机\修好\了\.\
+#The mechanic soon fixed up the motor.
+#荐府傍捞 狐福霸 葛磐甫 荐府窍看促.
+
+42108:积极分子\从\群众\中\选拔\出来\.\
+#The activists were picked out from among the masses.
+#利必利牢 荤恩捞 焙吝俊辑 急惯登菌促.
+
+42109:饥饿\的\男孩\抄\捷径\跑\去\吃饭\.\
+#The hungry boy made a beeline for his dinner.
+#本篮 巢磊酒捞绰 历翅 逛阑 冈扁 困窍咯 瘤抚辨肺 顿绢艾促.
+
+42110:饥饿\驱使\那个\男孩\去\偷\苹果\.\
+#Hunger goaded the boy onto steal the apple.
+#本林覆捞 弊 巢磊 酒捞肺 窍咯陛 荤苞甫 壬摹霸 窍看促.
+
+42111:饥饿\是\人\行动\的\强烈\驱策\力\.\
+#Hunger is a strong drive to action.
+#扁酒绰 牢埃 青悼狼 碍茄 备绵仿捞促.
+
+42112:饥饿\是\最好\的\调味\品\;\饥不择食\.\
+#hunger is the best sauce.
+#矫厘捞 馆蛮捞促.
+
+42113:激动\的\观众\们\安静\下来\了\.\
+#The excited spectators have sobered down.
+#蕊盒茄 包吝捞 救沥登扁 矫累窍看促.
+
+42114:激动\的\情绪\已经\平息\了\.\
+#The excitement died down.
+#蕊盒等 盒困扁绰 捞固 啊扼旧疽促.
+
+42115:激光\技术\己\取得\迅速\进展\.\
+#Laser technology has gone ahead rapidly.
+#饭捞历 扁贱篮 捞固 脚加茄 惯傈阑 芭滴菌促.
+
+42116:鸡蛋\需\二\十\一天\才\孵化\.\
+#Hen's eggs take 21 days to hatch out.
+#拌鄂篮 21老捞 登绢具 何拳且 荐 乐促.
+
+42117:吉\恩\是\干\这\项\工作\的\最\佳\候选人\.\
+#Jean was the best candidate for the job.
+#柳篮 捞 老阑 窍绰单 啊厘 利钦茄 饶焊磊捞促.
+
+42118:吉\恩\总是\仿效\我的\衣着\打扮\.\
+#Jean always copies the way I dress.
+#柳篮 亲惑 郴啊 渴涝绊 拳厘窍绰 巴阑 蝶扼茄促.
+
+42119:吉\尔\一直\在\考虑\这\衰退\的\后果\.\
+#Gill was dwelling on the consequences of the slump.
+#辨篮 临梆 捞 艰硼狼 搬苞甫 积阿窍绊 乐菌促.
+
+42120:吉\姆\救\了\一\个\和\他\有\宿\仇\的\敌人\.\
+#Jim rescued a feudal enemy.
+#咙篮 弊客 盔荐牢 利焙阑 茄 疙 备沁促.
+
+42121:吉\姆\认为\每天\早上\跑步\是\有益\的\.\
+#Jim believes in going for a run every morning.
+#咙篮 概老 酒魔 崔府扁绰 蜡劳茄 巴捞扼绊 咯变促.
+
+42122:吉\姆\用\真空\吸尘器\把\地毯\弄\干净\.\
+#Jim hoovered the carpet.
+#咙篮 柳傍没家扁肺 墨脐飘甫 柄昌窍霸 窍看促.
+
+42123:极度\寒冷\使\他\打消\外出\的\念头\.\
+#The extreme cold deterred him from going out.
+#缴茄 眠困啊 弊肺 窍咯陛 观俊 唱啊绊 酵篮 积阿阑 窜充窍霸 窍看促.
+
+42124:集中\精力\去\干\一\项\艰巨\的\工作\
+#gather up one's strength for a hard job
+#沥脚仿阑 笼吝窍咯 酒林 塞电 老阑 秦唱啊促.
+
+42125:集中\优势\兵力\以\保证\不致\失败\.\
+#insure against defeat by concentrating a superior force
+#快技茄 捍仿狼 笼吝栏肺 角菩窍瘤 臼阑 巴阑 焊厘且 荐 乐促.
+
+42126:急切\地\等待\您\安然\到达\.\
+#Anxiously await your safe arrival.
+#寸脚捞 救傈窍霸 档馒窍辨 埃例捞 扁促赴促.
+
+42127:急需\将\食物\和\衣服\送给\灾民\.\
+#It is urgent that food and clothing be sent to the sufferers.
+#啊厘 鞭洒 鞘夸茄 澜侥苞 渴阑 捞犁刮俊霸 焊尘 巴捞促.
+
+42128:疾病\感染\了\她\双\眼\,\她\成\了\盲人\.\
+#The disease infected her eyes,and she became blind.
+#龙捍捞 弊赤狼 滴 传俊 皑堪登绢 弊赤绰 竿牢捞 登菌促.
+
+42129:疾病\使\他\变\得\相当\虚弱\.\
+#The illness has considerably weakened him.
+#龙捍捞 弊甫 酒林 倾距窍霸 父甸菌促.
+
+42130:疾病\使\他的\体力\严重\衰退\.\
+#Illness has seriously diminished his strength.
+#龙捍捞 弊狼 眉仿阑 酒林 艰距窍霸 窍看促.
+
+42131:疾病\使\她的\心脏\变\得\衰弱\了\.\
+#The illness weakened her heart.
+#龙捍篮 弊赤狼 缴厘阑 艰距窍霸 窍看促.
+
+42132:疾病\折磨\了\他\许多\年\了\.\
+#Ill health has preyed on him for years.
+#龙捍篮 弊甫 荐 斥埃 鲍酚躯促.
+
+42133:即将\重新\考虑\公司\的\工资\制度\.\
+#The company's wage system is coming under review.
+#官肺 雀荤狼 烙陛力档绰 货酚霸 绊妨登绢龙 巴捞促.
+
+42134:即令\他\穷\,\他\看\上去\很\快乐\.\
+#Even if he is poor,he looks happy.
+#厚废 弊绰 啊抄窍瘤父 弊绰 榴芭况 焊牢促.
+
+42135:即使\他\欺骗\我\,\我\仍然\会\爱\他\.\
+#Even if he should deceive me,I would still love him.
+#厚废 弊绰 唱甫 加看栏唱,唱绰 咯傈洒 弊甫 荤尔且 巴捞促.
+
+42136:即使\他\有钱\,\但\还是\不\知足\.\
+#He is not contented even though he is very rich.
+#弊绰 厚废 捣捞 乐栏唱 酒流 父练且 临 葛弗促.
+
+42137:即使\他\再\顽皮\,\还是\个\好\孩子\.\
+#He is a good if mischievous boy.
+#弊啊 促矫 富介阑 乔快歹扼档 亮篮 酒捞捞促.
+
+42138:即使\我\错,\你\也\不\一定\绝对\正确\.\
+#If I am wrong,you are not absolutely right.
+#厚废 郴啊 撇啡栏唱, 呈档 馆靛矫 沥犬窍促绊绰 且 荐 绝促.
+
+42139:即使\再次\失败\我们\也\不会\泄气\.\
+#We wouldn't lose courage even if we should fail again.
+#厚废 促矫 角菩茄促绊 秦档 快府绰 扁磷瘤 臼阑 巴捞促.
+
+42140:即使\最\聪明\的\人\也\会\犯\错\.\
+#even the cleverest man makes errors.
+#酒林 度度茄 荤恩捞扼档 角荐且 锭啊 乐促.
+
+42141:嫉妒\于\女孩子\们\失\和\.\
+#Jealousy divided the girls.
+#龙捧肺 咯磊 酒捞甸篮 荤捞啊 唱狐脸促.
+
+42142:挤\掉\竞争\对手\并\取而代之\
+#Cut out a rival in competition
+#版里惑措甫 力芭窍咯 滚府绊 巢狼 瘤困甫 措脚 化促.
+
+42143:几\没有\人\相信\他\病\了\.\
+#almost no one believed that he was sick.
+#芭狼 葛电 荤恩捞 弊啊 捍捞 车促绊 瓜瘤 臼疽促.
+
+42144:几\没有\剩下\什么\可\吃\的\东西\.\
+#There was scarcely anything left to eat.
+#冈阑 父茄 巴捞 芭狼 巢酒 乐瘤 臼疽促.
+
+42145:几\没有\需要\背诵\的\工作\.\
+#There is little memoriter work required.
+#寇况具且 老捞 芭狼 绝促.
+
+42146:几\全\是\她\一\个人\在\说话\.\
+#She did almost all the talking.
+#芭狼 傈何 弊赤 去磊 富窍绊 乐菌促.
+
+42147:几\生产\不\出\比\这\更\好的\东西\.\
+#This can hardly be improved on .
+#捞巴焊促 歹 亮篮 巴篮 芭狼 积魂秦尘 荐 绝促.
+
+42148:几\所有\的\人\都\出来\了\.\
+#almost all the people came out.
+#芭狼 葛电 荤恩甸捞 唱艾促.
+
+42149:几\分钟\内\病人\被\匆匆\送\往\医院\.\
+#The sick person was bundled off to hospital in a few minutes.
+#割 盒 捞郴俊 券磊绰 鞭洒 捍盔栏肺 捞价登菌促.
+
+42150:几\分钟\他们\就\把\手续\办\完了\.\
+#In a few minutes they got through the formalities.
+#割 盒 悼救 弊甸篮 荐加阑 葛滴 付闷促.
+
+42151:几\个人\参加\了\这\场\赛跑\.\
+#Several people went in for the race.
+#割 荤恩捞 捞 崔府扁 措雀俊 曼啊窍看促.
+
+42152:几\个人\闲\站\在\街头\拐角\处\.\
+#Several people were standing about on the street corner.
+#割 荤恩捞 茄啊窍霸 辨葛劈捞俊 辑 乐菌促.
+
+42153:几乎\没有\什么\人\知道\这\一点\.\
+#Few people know it.
+#捞巴阑 酒绰 荤恩捞 芭狼 绝促.
+
+42154:几乎\一切\植物\都\在\春季\发芽\抽\枝\.\
+#Almost all plants push out new shoots in spring.
+#芭狼 葛电 侥拱篮 航俊 较阑 郴绊 啊瘤甫 桓绰促.
+
+42155:几\句\笑话\会\给\你的\演说\添\些\生气\.\
+#A few jokes will add a final fillip to your speech.
+#割 付叼 丑淬篮 呈狼 楷汲俊 积扁甫 临 巴捞促.
+
+42156:几\年\来\建造\了\许多\新\铁路\.\
+#Many new railways have been laid down in the past few years.
+#割 斥 悼救 货肺款 腹篮 枚肺甫 扒汲窍看促.
+
+42157:几\千\人\从\大厅\中\蜂\涌\而\出\.\
+#Thousands of people poured out of the hall.
+#荐 玫 疙狼 荤恩甸捞 圈俊辑 今酒廉 唱吭促.
+
+42158:几\星期\后\他\放弃\了\那个\职业\.\
+#After a couple of weeks he packed the job in.
+#割 林 饶俊 弊绰 弊 流诀阑 器扁窍看促.
+
+42159:几\盏\枝\形\吊灯\从\天花板\悬\吊\下来\.\
+#Some chandeliers are suspended from the ceiling.
+#距埃狼 姬靛府俊啊 玫厘俊 概崔妨乐促.
+ 
+42160:技师\逐步\把\光\投射\进来\.\
+#The technicians shade the light in.
+#扁荤啊 痢瞒 蝴阑 捧荤窍咯 甸绢吭促.
+
+42161:技术革新\产生\了\预期\的\效果\.\
+#The technical innovation has brought about its desired effect.
+#扁贱酋疙篮 抗扁狼 瓤苞甫 芭滴菌促,
+
+42162:济南\龙\泉\天然\矿泉\水\有限公司\
+#Longquan Natural Mineral Water CO.LTD
+#力巢 侩玫 玫楷 堡玫荐 蜡茄雀荤.
+
+42163:济南\玫瑰\德\铸造\有限公司\
+#Meide Casting Co.LTD,Jinan
+#力巢 概蓖傣 裱疸 蜡茄雀荤.
+
+42164:济南\市\平\阴\县\洪\范\大理石\厂\
+#Pingyin County Hongfan Marble Plant,Jinan
+#力巢矫 乞澜泅 傍裹 措府籍 傍厘.
+
+42165:寂静\被\一\声\大\喊\所\打破\.\
+#The silence was broken by a loud cry.
+#魔宫篮 绊窃家府俊 狼秦 柄绢脸促.
+
+42166:计划\的\不足之处\就\在\这里\.\
+#That's where the plan falls down.
+#拌裙狼 何练茄 何盒篮 官肺 咯扁俊 乐促.
+
+42167:计划\的\两个\部分\结合\得\不\好\.\
+#The two parts of the project are not well married up.
+#拌裙茄 滴 何盒狼 搬钦捞 肋登瘤 臼促.
+
+42168:计划\订\出\之后\,\必须\贯彻\执行\.\
+#When you have formed a plan,you must follow it out.
+#拌裙阑 沥茄 饶俊 馆靛矫 枚历洒 捞青秦具 茄促.
+
+42169:计划\确定\之后\,\行动\就\开始\了\.\
+#The plan decided on ,the action began.
+#拌裙捞 沥秦柳 饶俊 青悼捞 俺矫瞪 巴捞促.
+
+42170:计算\是\以\这些\数字\为\基础\的\.\
+#The calculations are based on these statistics.
+#拌魂篮 捞繁 箭磊甫 扁檬肺 茄 巴捞促.
+
+42171:记\下\对\一\座\城市\的\观感\
+#note down one's impressions of a city
+#捞 档矫狼 牢惑阑 扁废窍促.
+
+42172:记\下\那个\人\的\牌照\号码\!\
+#jot down his license number.
+#弊 荤恩狼 款傈搁倾刘 锅龋甫 扁废窍促.
+
+42173:记者\们\向\发言人\连续\不断\地\发问\.\
+#The reporters fired away at the spokesman,
+#扁磊甸篮 惯钎磊俊霸 拌加窍咯 龙巩阑 窍看促.
+
+42174:记住\这个\生\词\表\中\的\单词\.\
+#Learn this list of words.
+#捞 货窜绢 钎吝狼 窜绢甫 扁撅秦扼.
+
+42175:既然\你\要\去\,\我\就\陪\你\去\吧\.\
+#Since you are going,I will accompany you.
+#匙啊 埃促搁 唱绰 呈甫 单府绊 啊摆促.
+
+42176:既然\是\假定\,\就\有\争论\的\余地\.\
+#A hypothesis admits by its nature of being disputed.
+#厚废 啊沥捞唱 里沸狼 咯瘤绰 乐促.
+
+42177:继续\开会\之\动议\被\否决\了\.\
+#The motion that the meeting be continued has been rejected.
+#拌加 雀狼窍磊绰 悼狼绰 何搬登菌促.
+
+42178:家人\聚集\在\桌子\的\周围\.\
+#The family grouped around the table.
+#啊练甸捞 葛滴 抛捞喉俊 葛咯 旧疽促.
+
+42179:家庭\是\社会\的\基本\单位\.\
+#The family is the basic unit of society.
+#啊沥篮 荤雀狼 扁夯 窜困捞促.
+
+42180:家庭\是\一\个\小\的\社会\单位\.\
+#The family is a small social unit.
+#啊沥篮 累篮 荤雀 窜困捞促.
+
+42181:加\保\破碎\险\的\费用\由\谁\负担\?\
+#Who will pay the premium for the risk of breakage?
+#颇颊焊氰狼 厚侩篮 穿啊 何淬窍绰 巴涝聪鳖?
+
+42182:加大\一\辆\旧\汽车\的\马力\
+#soup up an old car
+#坷贰等 瞒狼 付仿阑 棵府促.
+
+42183:加紧\工作\,\来\弥补\损失\的\时间\.\
+#Work fast,to make up for lost time.
+#弧府 老秦辑 酪绢滚赴 矫埃阑 焊面窍磊.
+
+42184:加紧\努力\以\解决\一\个\问题\
+#bear down on a problem
+#歹 畴仿秦辑 捞 巩力甫 钱促.
+
+42185:加紧\努力\以\完成\一\项\工作\
+#bear down on a task
+#歹 畴仿秦辑 捞 老阑 肯己窍促.
+
+42186:加利福尼亚\和\墨西哥\相\邻\.\
+#California and Mexico are contiguous.
+#亩府器聪酒客 高矫内绰 牢立秦 乐促.
+
+42187:加利福尼亚\兴\墨西哥\相\邻\.\
+#California is contiguous with Mexico.
+#亩府器聪酒客 高矫内绰 辑肺 牢立秦乐促.
+
+42188:加拿大\在\世界\贸易\国\中\名\列\第\四\.\
+#Canada ranks fourth among the trading nations of the world.
+#某唱促绰 技拌公开惫吝俊辑 力 4困俊 甸绢埃促.
+
+42189:加强\服役\人员\的\纪律\性\
+#jack up discipline among the servicemen
+#辆诀盔狼 痹啦阑 碍拳窍促.
+
+42190:加热\物体\就是\增加\分子\的\运动\.\
+#To add heat to body is to increase the motion of the molecules.
+#拱眉甫 啊凯窍绰 巴篮 官肺 盒磊狼 款悼捞 刘啊窍绰 巴捞促.
+
+42191:加油\干\吧\,\争取\午前\完成\.\
+#Work hard so as to finish before noon.
+#凯缴洒 秦辑 坷傈俊 肯己阑 窍磊.
+
+42192:假定\明天\下雨\我们\怎么办\?\
+#Assuming it rains tomorrow,what shall we do?
+#父距 郴老 厚啊 坷搁 快府绰 绢痘窍瘤夸?
+
+42193:假期\差不多\过\完了\,\只\剩\一天\了\.\
+#The holidays are practically over; there's only one day left.
+#绒啊啊 芭狼 场唱啊 败快 窍风 观俊 救巢疽促.
+
+42194:假期\将\是\他\补习\功课\的\好\机会\.\
+#The holidays will be a good time for him to catch up on his studies.
+#绒啊绰 弊啊 弊狼 傍何甫 焊面且 荐 乐绰 亮篮 扁雀捞促.
+
+42195:假期\里\孩子们\过\得\自由自在\.\
+#During the school holidays the children enjoyed their freedom.
+#绒啊悼救俊 酒捞甸篮 磊蜡酚霸 瘤陈促.
+
+42196:假期\在\雨天\中\平淡\地\结束\了\.\
+#The holidays guttered out in the rain.
+#绒啊扁埃篮 快玫吝俊 教疤霸 场车促.
+
+42197:假日\里\,\有时候\他们\出去\郊游\.\
+#On holidays they were sometimes taken on outings.
+#绒啊悼救俊 锭肺 弊甸篮 背寇肺 家浅唱艾促.
+
+42198:假如\X\是\正\的\,\那么\-\X\是\负\的\.\
+#If x is positive then -x is negative.
+#父距 x啊 敲矾胶捞搁 -x绰 付捞呈胶捞促.
+
+42199:假如\明天\天气\好\我\会\去\.\
+#I'll go if it is fine tomorrow.
+#父距 郴老 朝揪啊 亮栏搁 唱绰 哎 巴捞促.
+
+42200:假如\你\不\能\来\,\谁\来\做\这\件\工作\?\
+#supposing you can't come,who will do the work?.
+#父距 匙啊 棵 荐 绝栏搁, 穿啊 客辑 捞 老阑 窍摆蠢衬?
+
+42201:假如\你\和\我\一起\走\,\我\就\回家\去\.\
+#I will come home providing you come with me.
+#父距 匙啊 唱客 窃膊 啊搁 唱绰 官肺 笼俊 倒酒哎 巴捞促.
+
+42202:假如\你\没\那样\说\,\一切\都\好办\了\.\
+#Everything would have been all right if you hadn't said that.
+#父距 匙啊 弊犯霸 富窍瘤 臼疽促搁 葛电 巴捞 肋登菌阑 巴捞促.
+
+42203:假如\他\决心\要\成功\,\他\就\能\成功\.\
+#If he wills success,he can find it.
+#父距 弊啊 己傍窍妨绊 搬缴茄促搁 弊绰 己傍且 荐 乐阑 巴捞促.
+
+42204:假如\她\生气\了\,\我\感到\遗憾\.\
+#I'm sorry if she's annoyed.
+#弊赤啊 拳甫 辰促搁 唱绰 沥富 蜡皑捞促.
+
+42205:假如\天气\好\,\我\将\去\散步\.\
+#if the weather is good,I shall go for a walk.
+#朝揪啊 亮栏搁 唱绰 魂焊甫 哎 巴捞促.
+
+42206:假如\有\一\百\美元\,\我\就\有\办法\.\
+#Witha hundred dollars I could manage.
+#父距 归 崔矾啊 乐栏搁 唱绰 规过捞 乐促.
+
+42207:假使\身体\健康\,\这\是\做得到\的\.\
+#Given health,this can be done.
+#父距 扒碍窍促搁 捞巴篮 且 荐 乐绰 巴捞促.
+
+42208:假使\我\知道\,\我\就\不会\做\那\件\事\.\
+#If I had known,I wouldn't have done it.
+#父距 郴啊 舅疽促搁 唱绰 弊老阑 窍瘤 臼疽阑 巴捞促.
+
+42209:价格\:\F\O\B\天津\,\每\打\2\.\8\0\美元\
+#Price: $2.80 per doz.FOB Tianjin
+#啊拜:茄 鸥胶 寸 2崔矾 80季飘. FOB 玫柳.
+
+42210:价格\:\每\打\人民币\3\6\0\元\C\&\F\纽约\
+#Price: RMB ￥ 360 PER DOZEN C&F New York
+#啊拜: 茄 鸥胶 寸 360崔矾 C&F New York.
+
+42211:价格\按\比例\降低百分之\十\.\
+#The prices were scaled down 10 percent.
+#啊拜篮 厚啦俊 蝶扼 10%甫 郴啡促.
+
+42212:价格\按照\比例\上升\了\百分之\五\.\
+#Prices were scaled up 5 percent.
+#啊拜篮 厚啦俊 蝶扼 5%啊 棵耳促.
+
+42213:价格\取决于\供给\兴\需求\.\
+#Prices are governed by supply and demand.
+#啊拜篮 傍鞭苞 荐夸俊 狼秦 搬沥等促.
+
+42214:价格\如\有\变动\不\另\通知\.\
+#It is to be noted that all these prices are subject to change without notice.
+#啊拜俊 函悼捞 乐栏搁 崔府 绊瘤窍瘤 臼绰促. 
+
+42215:架子\上\积\着\厚\厚\的\灰尘\.\
+#dust lay thick on the shelf.
+#氓厘俊 滴波款 刚瘤啊 阶捞促.
+
+42216:驾驶\汽车\时\以\系\上\安全\带\为\好\.\
+#It is advisable always to wear a safety belt when you're driving.
+#瞒甫 款傈且 锭绰 救傈骇飘甫 概绰 巴捞 亮促.
+
+42217:驾驶员\把\车\退\开了\一些\.\
+#The driver backed off a bit.
+#款傈荤啊 瞒甫 距埃 饶柳窍看促.
+
+42218:驾驶员\从\镜子\中\看到\了\警车\.\
+#The driver saw the police car in his mirror.
+#款傈磊绰 芭匡肺 版蔓瞒甫 焊疽促.
+
+42219:驾驶员\的\疏忽\是\这\次\事故\的\起因\.\
+#The driver's negligence was the cause of the accident.
+#款傈磊狼 家圈捞 捞 荤绊狼 惯窜捞促.
+
+42220:驾驶员\吓\得\紧紧\抓住\了\方向\盘\.\
+#The driver froze on to the wheel from fear.
+#款傈磊绰 愁扼辑 勤甸阑 怖 零菌促.
+
+42221:驾驶员\应\采取\的\上\策\是\紧急\降落\.\
+#The best bet for the pilot was to make an emergency landing.
+#颇捞返捞 览寸 秒秦具 窍绰 惑氓篮 厚惑馒氟捞促. 
+
+42222:歼灭\敌人\精锐\部队\六\个\师\
+#blot out six divisions of the enemy crack forces
+#利焙阑 级戈茄 沥抗何措 6俺 荤窜.
+
+42223:监狱\长\签署\了\释放\证书\.\
+#The governor of the prison signed the release.
+#埃荐厘篮 籍规刘辑俊 荤牢窍看促.
+
+42224:坚持\漫天\讨\价\的\投机\商\们\
+#speculators who are holding out for absurd prices
+#公累沥 蕊沥阑 拌加窍绰 捧扁 惑牢甸.
+
+42225:坚持\下去\,\一切\会\好的\.\
+#Hold on,everything will be all right.
+#操霖洒 窍矫夸, 葛电 巴捞 亮酒龙 巴涝聪促.
+
+42226:坚忍\不\拔\是\成功\所\必需\的\.\
+#Great persistence is necessary for success.
+#措窜茄 牢郴绰 己傍俊 鞘夸茄 巴捞促.
+
+42227:坚\质\木材\不\浮\於\水\面\上\.\
+#Ironwood doesn't float.
+#版龙犁 格犁绰 拱困俊 哆瘤 臼绰促.
+
+42228:尖锐\叫声\传\入\我的\耳\中\.\
+#A shrill voice struck my ear.
+#朝墨肺款 厚疙家府啊 唱狼 蓖俊 甸妨吭促.
+
+42229:艰苦\的\经验\使\他\更\趋\成熟\.\
+#His hard experiences matured him .
+#塞电 版氰捞 弊甫 歹宽 己槛窍霸 窍看促.
+
+42230:检查\一\座\房屋\的\临时\鹰\架\.\
+#Examine the falsework of a house.
+#笼狼 烙矫 啊汲拱阑 八荤窍促.
+
+42231:检阅\台上\装饰\着\宫灯\和\红旗\.\
+#The rostrum was decked out with palace lanterns and red flags.
+#荤凯措 困俊绰 厘侥侩 殿苞 全扁肺 厘侥登绢廉 乐促.
+
+42232:简\,\你\愁容\满面\,\出\了\什么\事\吗\?\
+#You're looking very fraught,Jane,is anything wrong?
+#呈绰 倔奔俊 荐缴捞 啊垫茄 单 公郊 老捞 乐绢?
+
+42233:简\而言\之\,\问题\是\她\能\不\能\来\.\
+#To boil down,the question is whether she will be able to come.
+#埃窜洒 富秦辑 巩力绰 弊赤啊 棵 荐 乐蠢衬 绝蠢衬 窍绰 巴捞促.
+
+42234:简\言\之\,\情况\就是\这样\.\
+#This,in a nutshell,is the situation.
+#埃窜洒 富秦辑 惑炔捞 捞犯促.
+
+42235:简\姨母\不久前\又\结婚\了\.\
+#Aunt Jane has just got married again.
+#力牢 捞葛绰 倔付 傈俊 肚 搬去窍看促.
+
+42236:简\曾\患\过\病\,\但\她\现在\身体\极\好\.\
+#Jane's been ill,but she's as right as rain now.
+#力牢篮 捍阑 疚篮 利捞 乐栏唱,瘤陛篮 个捞 酒林 亮促.
+
+42237:简直\无法\知道\发生\何\事\.\
+#There is no saying what may happen.
+#绢恫 老捞 惯积沁绰瘤 档措眉 舅 规过捞 绝促.
+
+42238:减去\两\角\钱\使\价格\更\有\吸引力\
+#knock off twenty cents to make the price more attractive
+#20季飘甫 临捞搁 啊拜俊 歹宽 概仿捞 乐促.
+
+42239:减少\工资\是\工人\罢工\的\导火线\.\
+#The wage cut was the signal for the workers to strike.
+#烙陛 昏皑捞 辟肺磊 颇诀狼 档拳急捞 登菌促.
+
+42240:槛\中\的\狮子\猛烈\地\摆动\尾巴\.\
+#The lion in the cage lash1ed its tail.
+#快府 救狼 龋尔捞啊 竿纺窍霸 部府甫 如甸菌促.
+
+42241:鉴别\事实\的\真相\是\不\容易\的\.\
+#It is not easy to detect what lies beneath the surface of the matter.
+#荤角狼 柳惑阑 皑喊窍绰 巴篮 奖瘤 臼促.
+
+42242:贱\卖\剩余\农产品\以\换取\机器\
+#barter away surplus agricultural products for machinery
+#扁拌客 官操扁 困窍咯 巢篮 丑魂拱阑 擎窍霸 迫酒滚啡促.
+
+42243:见\此\情景\,\他\勃然大怒\.\
+#His anger flamed out at the sight.
+#捞 堡版阑 焊绊 弊绰 措畴窍看促.
+
+42244:见到\你\,\我们\吓\了\一\跳\.\
+#Seeing you gave us quite a turn.
+#呈甫 焊绊 快府绰 濒娄 愁耳促.
+
+42245:见\票\后\十\五\天\向\某人\支取\
+#draw on sb.at 15 days' sight
+#老恩 饶 15老 饶 促弗 荤恩俊霸 罐促.
+
+42246:箭头\表示\我们\现在\所在\之\处\.\
+#The arrow indicates where we are.
+#拳混篮 快府啊 泅犁 乐绰 镑阑 钎矫茄促.
+
+42247:健康\不\隹\使\他\不\能\从事\体力劳动\.\
+#Ill health indisposed him for physical labor.
+#扒碍捞 亮瘤 臼酒 弊绰 腊眉畴悼俊 辆荤且 荐 绝菌促.
+
+42248:舰队\司令\下令\舰队\开航\.\
+#The Admiral issued a command for the fleet to set sail.
+#窃措狼 厘焙篮 窃措啊 道阑 棵副 巴阑 疙飞窍看促.
+
+42249:建立\新\学校\的\计划\正在\准备\中\.\
+#Plans for the new school are now in preparation.
+#货 切背甫 扒赋窍绰 拌裙捞 瘤陛 霖厚吝捞促.
+
+42250:建设\新\桥\的\工作\正在\进行\中\.\
+#Work on the new bridge is now under way.
+#货 背阿阑 扒汲窍绰 傍荤啊 瘤陛 柳青吝捞促.
+
+42251:建议\拨款\的\提案\未\被\通过\.\
+#The proposed appropriation failed to go through.
+#面寸陛阑 扒狼茄 力救篮 烹苞登瘤 臼疽促.
+
+42252:建议\已\提交\委员会\讨论\.\
+#The suggestion went forward to the committee.
+#扒狼绰 捞固 困盔雀 配沸俊 逞败脸促.
+
+42253:建筑\工人\答应\加快\屋顶\的\修缮\.\
+#The builders promised to expedite the repairs to the roof.
+#扒绵 牢何甸篮 歹 狐弗 瘤贺 荐府甫 距加窍看促.
+
+42254:建筑\工人\在\五\点钟\停止\工作\.\
+#The builders knocked off at five o'clock.
+#扒绵 牢何甸篮 5矫俊 累诀阑 肛眠菌促.
+
+42255:建筑\业\是\此地\的\主要\工业\.\
+#construction is a major industry here.
+#扒绵诀篮 捞镑狼 林夸 魂诀捞促.
+
+42256:将\分\,\角\和\元\分行\记\下\.\
+#Line off the fen,jiao and yuan.
+#盒,阿, 盔阑 临阑 唱穿绢 扁废窍矫坷.
+ 
+42257:将官\之\职位\是\他\梦寐以求\的\目标\.\
+#The generalship was his aspiration.
+#厘包 流困绰 弊啊 厕俊 弊府绰 格钎捞促.
+
+42258:将近\半夜\时\,\他\忽然\来到\了\.\
+#He cast up towards midnight.
+#芭狼 茄广吝捞 登绢辑 弊绰 癌磊扁 吭促.
+
+42259:将近\黄昏\时\,\火\势\被\控制\住\了\.\
+#Towards evening the conflagration was got under.
+#历翅 公菲捞 哎 锭 阂辨捞 棱躯促.
+
+42260:将军\把\他的\军队\推进\到\新\阵线\.\
+#The general advanced his troops to the new position.
+#厘焙篮 弊狼 焙措甫 货 困摹肺 捧涝窍看促.
+
+42261:将军\激励\士兵\英勇\杀\敌\.\
+#The general exhorted his men to fight hard.
+#厘焙篮 荤捍甸俊霸 侩皑洒 利阑 磷捞档废 拜妨窍看促.
+
+42262:将军\可是\个\不\能\小看\的\人\.\
+#The general is not a man to be trifled with.
+#厘焙篮 沥富 捐杭 荐绰 绝绰 荤恩捞促.
+
+42263:将军\命令\军队\停止\射击\.\
+#The general commanded that the troops cease fire.
+#厘焙篮 焙措俊霸 荤拜疙飞阑 郴啡促.
+
+42264:将来\的\人\会\有\不同\的\想法\.\
+#People tomorrow will think differently.
+#捞饶狼 荤恩甸篮 促弗 积阿捞 乐阑 巴捞促.
+
+42265:将来\的\社会\是\个\什么\样子\?\
+#What shape will future society have?
+#固贰狼 荤雀绰 绢恫 葛剧涝聪鳖?
+
+42266:将\有\八\匹\马\叁\赛\争夺\奖杯\.\
+#Eight horses will race for the cup.
+#8付府狼 富篮 快铰呐阑 瞒瘤窍扁 困窍咯 崔副 巴捞促. 
+
+42267:将\蒸汽\过\热\,\使\它\相当\干燥\.\
+#The steam is superheated in order that it may be fairly dry.
+#刘扁甫 苞凯矫虐搁 弊巴捞 酒林 扒炼窍霸 瞪 巴捞促.
+
+42268:桨\叶\被\一\条\鲨\鱼\咬\掉\了\.\
+#The blade of the oar was bitten off by a shark.
+#拱哎柠啊 惑绢俊 狼秦 柄拱啡促.
+
+42269:讲\到\这\一点\还有\个\故事\哩\.\
+#thereby hangs a tale.
+#捞巴阑 娟扁窍搁 肚 捞具扁啊 乐促.
+
+42270:讲\法语\对\他\来说\是\第\二\天性\.\
+#Speaking French is second nature to him.
+#橇尔胶富阑 窍绰 巴篮 弊俊霸 乐绢 力2狼 玫己捞促.
+
+42271:讲\过\那\句\话\后\,\他\又\讲\一\句\.\
+#He followed up that remark with another.
+#弊绰 弊 富阑 茄 饶俊 肚 茄 付叼甫 沁促.
+
+42272:讲话\全文\到\星期二\下午\才\发表\.\
+#The text of the speech was not released until Tuesday afternoon.
+#傈巩狼 碍楷篮 拳夸老 坷饶俊 啊辑具 惯钎且 巴捞促.
+
+42273:讲话\要\温文\一点\,\不要\出口\骂\人\.\
+#You must tone down your language; stop swearing.
+#富且 锭 柯拳窍绊 抗狼 官福霸 窍绊, 富肺 荤恩阑 垮窍瘤 付扼.
+
+42274:讲\完\后\别\忘记\把\电话\筒\放\回\原\处\.\
+#Don't forget to put back the receiver when you've finished speaking.
+#措拳甫 场辰 饶俊 傈拳扁甫 盔贰 磊府俊 登倒妨 初绰 巴阑 镭瘤 付扼.
+
+42275:讲演\人\使\听众\深\受\感动\.\
+#The speaker carried the audience along with him.
+#楷荤绰 没吝栏肺 窍咯陛 表篮 皑悼阑 罐霸 窍看促.
+
+42276:讲座\结束\以后\,\我们\都\回家\了\.\
+#The lecture over,we all went home.
+#碍谅啊 场抄 饶俊 快府绰 葛滴 笼俊 倒酒艾促.
+
+42277:降低\船\上\锅炉\的\蒸汽\压力\
+#run down the ship's boilers
+#硅狼 焊老矾狼 刘扁拘仿阑 撤眠促.
+
+42278:降低\生产\成本\使\产品\价格\下降\
+#reduce the cost of production so as to fetch down the price of the products
+#积魂盔啊甫 撤眠绢 积魂力前狼 啊拜阑 撤眠促.
+
+42279:焦虑\的\气氛\笼罩\着\全\镇\.\
+#Anxiety brooded above the town.
+#啊娇 凉捞绰 盒困扁啊 傈 付阑俊 啊垫 瞒 乐促.
+
+42280:交付\的\货物\质量\不\能\令人\满意\.\
+#The quality of this consignment is far from being satisfactory.
+#牢档茄 拳拱狼 龙樊篮 荤恩阑 父练矫懦 荐 绝菌促.
+
+42281:交货\不会\迟\于\四月\上\半\月\.\
+#The shipment will be made not later than the first half of April.
+#拳拱牢档啊 4岿 15老 焊促 词绢辑绰 救等促.
+
+42282:交货\期\在\具体\交易\时\再\行\协商\
+#Time of shipment will be advised upon negotiation of concrete business.
+#拳拱牢档矫扁绰 备眉利牢 芭贰矫俊 促矫 蛆惑且 巴捞促.
+
+42283:交接\方法\按\惯常\"\港\港\交货\"\办理\.\
+#Delivery and receiving according to the customary "pier to pier" procedure;.
+#牢档客 荐秒 规过篮 烹惑利牢 "亲备 措 亲备 拱前牢档"俊 蝶扼 贸府窍促.
+
+42284:交通\事故\造成\很多\人\死亡\.\
+#Car accidents cause many deaths.
+#背烹荤绊绰 腹篮 荤恩狼 荤噶阑 具扁窍看促.
+
+42285:交通\事故\造成\许多\人\死亡\.\
+#Traffic accidents cause many fatalities.
+#背烹荤绊绰 腹篮 荤恩狼 荤噶阑 阂矾吭促.
+
+42286:交通\完全\被\人群\阻塞\了\.\
+#The traffic was completely jammed bythe crowd.
+#背烹篮 肯傈洒 焙吝俊 狼秦 瞒窜登菌促.
+
+42287:交通\拥挤\使\街道\完全\阻塞\了\.\
+#The traffic jam filled the street up completely.
+#背烹去棱篮 芭府甫 肯傈洒 瞒窜窍看促.
+
+42288:交通\噪音\时时刻刻\令人\烦恼\.\
+#The noisy traffic is a continual annoyance.
+#背烹家澜篮 锭锭肺 荤恩阑 楼刘唱霸 茄促.
+
+42289:铰链\叶片\是\带钢\冲压\出来\的\.\
+#Hinge leaves are blanked out of strip steel.
+#版酶篮 措碍阑 胶牌俏窍咯 唱柯 巴捞促.
+
+42290:脚夫\把\他们的\行李\推\运\到\汽车\.\
+#The porter trundled their luggage over to the car.
+#咙槽捞 弊甸狼 咙阑 磊悼瞒鳖瘤 剐绢 款馆窍看促.
+
+42291:教会\方面\激烈\地\谴责\节育\.\
+#The church thundered against birth control.
+#背雀螟俊辑绰 拜纺窍霸 魂酒力茄阑 鳃氓窍看促.
+
+42292:教会\募捐\得\来\的\钱\作\何\用途\?\
+#What does the church do with the money it gets from collections?
+#背雀狼 葛陛窍咯 柯 捣篮 绢恫 侩档肺 静捞唱?
+
+42293:教练\使\全\队\振作\起来\,\准备\一\搏\.\
+#The coach built the team up to a fighting pitch.
+#内摹绰 老傈阑 困窍咯 评傈眉狼 荤扁甫 柳累矫淖促.
+42294:教练\要\队员\们\注意\听\他的\话\.\
+
+#The coach told the team to get with it.
+#内摹绰 措盔甸捞 弊狼 富阑 林狼秦辑 佃档废窍看促.
+
+42295:教练\要求\队员\遵守\比赛\规则\.\
+#The coach demanded abidance by the rules of the game.
+#内摹绰 措盔甸捞 版扁痹蘑阑 瘤虐档废 夸备窍看促.
+
+42296:教师\把\工作\分配\给\学生\们\.\
+#The teacher shared the tasks among the pupils.
+#急积丛篮 老阑 切积甸俊霸 唱穿绢 林菌促.
+
+42297:教师\把\柔道\的\秘诀\传授\给\我们\.\
+#The teacher initiated us into the mysteries of judo.
+#急积丛篮 蜡档狼 厚搬阑 快府甸俊霸 傈荐窍看促.
+
+42298:教师\不肯\评论\考试\结果\.\
+#The teacher refused to comment on the examination results.
+#急积丛篮 矫氰 搬苞甫 富靖窍妨 窍瘤 臼疽促.
+
+42299:教师\不\耐烦\地\用\手指\轻\叩\桌面\.\
+#The teacher tapped her fingers on the desk impatiently.
+#急积丛篮 曼阑 荐 绝绢 颊啊遏栏肺 殴磊甫 啊罕霸 滴靛啡促.
+
+42300:教师\不\悦\地\怒视\那个\喧闹\的\男孩\.\
+#The teacher scowled at the noisy boy.
+#急积丛篮 阂蔫窍霸 弊 栋电 巢磊酒捞甫 畴妨焊疽促.
+
+42301:教师\带领\儿童\叁\观\博物馆\.\
+#The teacher shepherded the children through the museum.
+#急积丛篮 酒捞甸阑 单府绊 冠拱包阑 曼包窍看促.
+
+42302:教师\感谢\学生\如此\通\力\合作\.\
+#The teacher thanked her pupils for being so cooperative.
+#急积丛篮 切积甸捞 捞犯霸 葛滴啊 塞阑 钦媚 老窍绰 巴俊 绊付况 沁促.
+ 
+42303:教师\给\全\班\同学\朗诵\诗歌\.\
+#The teacher read the poem aloud to the class.
+#急积丛篮 馆 切积甸俊霸 矫甫 扯价窍咯 林菌促.
+
+42304:教师\叫\孩子们\自\右\向左\报数\.\
+#The teacher told the children to count off from right to left.
+#急积丛篮 酒捞甸俊霸 坷弗率俊辑 哭率栏肺 锅龋甫 嘿捞扼绊 窍看促.
+
+42305:教师\叫\学生\们\互相\靠拢\些\.\
+#The teacher told the children to close up to each other.
+#急积丛篮 切积甸俊霸 辑肺 啊鳖捞 良洒扼绊 窍看促.
+
+42306:教师\开列\了\一\份\参考书\单\.\
+#The teacher made out a list of reference books.
+#急积丛篮 曼绊辑 府胶飘甫 凯芭窍看促.
+
+42307:教师\看\着\我的\作业\时\皱\了\皱\眉头\.\
+#The teacher grimaced as he looked at my work.
+#急积丛篮 唱狼 槛力甫 焊角 锭 固埃阑 骂仟府继促.
+
+42308:教师\们\评\我的\笔试\试卷\不\及格\.\
+#The teachers failed me on the written paper.
+#急积丛甸篮 唱狼 鞘扁矫氰瘤甫 阂钦拜栏肺 乞窍看促.
+
+42309:教师\们\正在\忙于\批阅\考卷\.\
+#The teachers are busy looking over the examination papers.
+#急积丛甸篮 矫氰瘤甫 佬绊 荐沥窍蠢扼 茄芒 官悔促.
+
+42310:教师\拍\拍手\,\以\引起\全\班\的\注意\.\
+#The teacher clapped her hands to attract the class's attention.
+#急积丛篮 冠荐甫 媚辑 馆 傈眉狼 林狼甫 缠菌促.
+
+42311:教师\通常\用\红\墨水\批改\.\
+#Teachers usually make corrections in red ink.
+#急积丛篮 焊烹 河篮 祸 雷农肺 绊媚霖促.
+
+42312:教师\用\红\笔\圈\出\学生\的\拼写\错误\.\
+#The teacher circled the pupils' spelling mistakes in red ink.
+#急积丛篮 河篮 祸 雷农肺 切积甸狼 撇府霸 敬 臂揪俊 悼弊扼固甫 闷促.
+ 
+42313:教师\找\不到\他的\点名\册\.\
+#The teacher can't find his school attendance register.
+#急积丛篮 弊狼 免籍何甫 茫瘤 给 窍看促.
+
+42314:教师\正在\给\班\上\的\学生\做\听\写\.\
+#The teacher was dictating to the class.
+#急积丛篮 馆 切积甸俊霸 罐酒静扁甫 窍绊 乐促.
+
+42315:教师\证明\那个\学生\的\才能\.\
+#The teacher testified to the pupil's ability.
+#急积丛篮 弊 切积狼 犁瓷阑 刘疙窍看促.
+
+42316:教授\十分\幽默\使\他\备\受\学生\欢迎\.\
+#The professor's drollness endeared him to his students.
+#背荐绰 酒林 蜡赣矾胶窍咯 切积甸俊霸 牢扁啊 乐菌促.
+
+42317:教堂\高耸\于\整\座\城镇\之上\.\
+#The church dominated the whole town.
+#背雀绰 付阑 傈眉俊辑 臭捞 稼酒乐促.
+
+42318:教堂\在\天空\衬托\下\显得\轮廓\分明\.\
+#The church was relieved against the sky.
+#背雀绰 窍疵 锭巩俊 辣胞捞 歹 疙犬窍霸 焊牢促.
+
+42319:教\我\做\这\件\事\的\正确\方法\.\
+#Show me the right way to do it.
+#捞老狼 沥犬茄 规过阑 唱俊霸 啊福媚 林技夸.
+
+42320:教育\界\从\业\人员\自称\收入\微薄\.\
+#The teaching profession claimto be badly paid.
+#背腊拌俊 辆荤窍绰 荤恩甸篮 荐涝捞 利促绊 胶胶肺 富茄促.
+
+42321:教育\太\重要\,\不宜\政治\化\.\
+#Education is too important to be politicized.
+#背腊篮 酒林 吝夸窍骨肺 沥摹拳窍绰 巴篮 亮瘤 臼促. 
+
+42322:教育\问题\是\今天\的\议题\.\
+#Education is under discussion today.
+#背腊 巩力绰 坷疵狼 狼力捞促.
+
+42323:教育\应该\适应\儿童\的\需要\和\能力\.\
+#Education should be geared to the children's needs and abilities.
+#背腊篮 酒悼狼 鞘夸客 瓷仿俊 嘎眠绢具 茄促.
+
+42324:教职员\和\学生\共同\反对\该\项\改革\.\
+#Faculty and students together opposed the reform.
+#背流盔苞 切积篮 傍悼栏肺 捞 俺酋阑 馆措窍看促.
+
+42325:教\宗\将\派遣\一\个\使节\团\到\英国\.\
+#The pope would send a legatine commission to England.
+#肺付背炔篮 荤例窜 窍唱甫 康惫俊 颇斑且 巴捞促.
+
+42326:较\小\的\孩子\穿\兄\姐\们\的\旧\衣服\.\
+#The younger children wore the hand-me-down of the older ones.
+#悼积篮 屈 穿唱啊 涝带 嘲篮 渴阑 涝菌促.
+
+42327:叫\你\怎么\做\,\你\就\怎么\做\.\
+#Do as you're told!
+#呈绰 捞犯霸 秦扼.
+
+42328:叫\他\别\再\跟\那\帮\人\鬼混\在一起\.\
+#Tell him not to go on shaping in with such company.
+#弊甫 促矫绰 弊繁 公府甸苞 窃何肺 绢匡府瘤 富扼绊 秦扼.
+
+42329:叫\他们\每\一\个人\都\去\上学\.\
+#Send every manjack of them to school.
+#弊甸肺 窍咯陛 葛滴 切背俊 促聪霸 窍看促.
+
+42330:叫\我\说\,\你\大概\有\二\十\三\岁\.\
+#I'd say you're about twenty-three.
+#郴啊 富茄促搁 呈绰 酒付 23混码 登菌阑 巴捞促.
+
+42331:接到\此\条\后\,\请\即\来\四\楼\3\1\0\室\.\
+#When you receive this note,please come to Room 310,the fourth floor at once.
+#捞 皋葛甫 罐篮 饶俊 官肺 4摸 310龋角肺 坷技夸.
+
+42332:接到\匿名\信\是\一\件\令人\不快\的\事\.\
+#It is unpleasant to receive anonymous letters.
+#劳疙狼 祈瘤甫 罐绰 巴篮 阂蔫茄 老捞促.
+
+42333:接到\任务\后\,\男孩\飞奔\而\去\.\
+#The boy dashed off after he had been given the task.
+#烙公甫 罐篮 饶俊 巢磊 酒捞绰 唱绰 淀捞 艾促.
+
+42334:接受\那\提议\有\什么\不\好\?\
+#What is the harm in accepting the proposal?.
+#弊 力狼甫 罐酒甸捞搁 公均捞 唱惠聪鳖?
+
+42335:接受\他的\建议\前\你\先\要\考虑\考虑\!\
+#Think before you accept his offer!
+#弊狼 力狼甫 罐酒甸捞扁 傈俊 呈绰 刚历 积阿阑 秦具 茄促.
+
+42336:接受\这\项\工作\就\一定\要\住\在\国外\.\
+#Taking the job involves living abroad.
+#捞 老阑 该栏妨搁 馆靛矫 秦寇俊辑 混酒具 茄促.
+
+42337:接通\了\,\出来\接\电话\了\.\
+#You are connected.
+#楷搬登菌嚼聪促.
+
+42338:接\吻\时\他们的\嘴唇\碰\在一起\了\.\
+#Their lips met in a kiss.
+#虐胶甫 且 锭 弊甸狼 涝贱捞 搓疽促.
+
+42339:接下来\由\喜剧\演员\出场\.\
+#Next the comedians come on.
+#捞绢辑 内固叼攫捞 免楷茄促.
+
+42340:接线\员\终于\帮\我\把\电话\接通\了\.\
+#The operator finally got me through.
+#背券盔篮 付魔郴 唱甫 困秦 傈拳甫 楷搬秦林菌促.
+
+42341:接着\,\我们\达成\了\协议\.\
+#Then we came to an agreement.
+#弊烦 快府绰 蛆狼甫 崔己沁促.
+
+42342:接着\试\车\的\日子\来到\了\.\
+#Then came the day of its trial run.
+#捞绢辑 瞒甫 矫氰窍绰 朝捞 吭促.
+
+42343:街道\从\广场\四周\伸展\开\去\.\
+#Streets branch from the square in different direction.
+#档肺绰 堡厘俊辑 荤规栏肺 欺廉 唱艾促.
+
+42344:街道\因\往来\车辆\而\阻塞\.\
+#The street was congested with traffic.
+#档肺绰 空贰窍绰 瞒樊栏肺 阜躯促.
+
+42345:街\上\挤满\了\买\东西\的\人\.\
+#The streets were thronged with shoppers.
+#芭府俊绰 拱扒阑 荤妨绰 荤恩栏肺 菜谩促.
+
+42346:街\上\扔\满\了\旧\罐头\和\各种\垃圾\.\
+#The street is covered with old tins and other forms of garbage.
+#芭府 困俊 嘲篮 兵烹苞 阿辆 静饭扁肺 啊垫 滚妨廉 乐促.
+
+42347:街\上\有\三\个\小孩\在\玩耍\.\
+#There were three kids playing in the street.
+#芭府俊辑 技 酒捞啊 愁绊 乐促.
+
+42348:阶级\差异\会\造成\国家\的\分裂\.\
+#Class differences can divide a nation.
+#拌鞭 瞒捞绰 惫啊狼 盒凯阑 炼厘且 荐 乐促.
+
+42349:桔子\和\柠檬\是\柑\桔\属\水果\.\
+#Oranges and lemons are citrus fruits.
+#坷坊瘤客 饭阁篮 皑敝加 苞老捞促.
+
+42350:桔子\装\了\箱\,\很快\送\了\出去\.\
+#The oranges were boxed and sent off quickly.
+#坷坊瘤甫 惑磊俊 器厘窍咯 弧府 焊陈促.
+
+42351:杰\费\里\揍\了\那个\流氓\一\顿\.\
+#Jeffrey has got through with that rascal.
+#力橇府绰 弊 扒崔 公府甫 去郴林菌促.
+
+42352:杰\克\和\玛丽\谈\恋爱\已经\有\两\年\了\.\
+#Jack and Mary have been going together for two years.
+#黎苞 皋府绰 楷局茄瘤 捞固 2斥捞 登菌促.
+
+42353:杰\克\没有\向\缓刑\犯\监督\员\报到\.\
+#Jack did not report in to his probation officer.
+#黎篮 焊龋 包蔓包俊 措窍咯 焊绊窍瘤 臼疽促.
+
+42354:杰\克\受\雇\为\该\店\的\店员\.\
+#Jack hired on as a clerk with the shop.
+#黎篮 捞 惑痢狼 痢盔栏肺 绊侩登菌促.
+
+42355:杰\克\逊\卖\掉\了\自己的\股份\退休\了\.\
+#Jackson sold out his share of the business and retired.
+#黎郊篮 磊脚狼 刘鼻阑 迫酒滚府绊 硼流窍看促.
+
+42356:杰\克\一\到\办公室\就\签\了\到\.\
+#Jack booked in immediately on arrival at the office.
+#黎篮 荤公角俊 档馒窍磊 付磊 辑疙阑 窍看促.
+
+42357:杰\克\在\第\七\局\中\第\一\个\击球\.\
+#Jack led off the seventh inning.
+#黎篮 7锅掳 捞醋俊辑 老殿捞促.
+
+42358:杰\克\正是\适合\做\这\件\工作\的\男孩\.\
+#Jack is the right boy for the job.
+#黎篮 捞 老阑 窍扁俊 酒林 利钦茄 巢磊 酒捞捞促.
+ 
+42359:结果\不\能\出去\,\真\扫兴\.\
+#It was disappointing not to be able to go out after all.
+#搬惫篮 唱哎 荐 绝栏聪 辫稽促.
+
+42360:结果\符合\你们的\期望\吗\?\
+#Does the result answer to your expectations?
+#搬苞绰 呈锐狼 扁措俊 瞒蠢衬?
+ 
+42361:结果\和\我们\所\期望\的\大为\相反\.\
+#The result was quite opposite to what we had expected.
+#搬苞绰 快府啊 扁措茄 巴苞 酒林 腹捞 惑馆登菌促.
+
+42362:结果\确\已\表明\试飞\是\令人\满意\的\.\
+#The results did show that the trial-flight was satisfactory.
+#搬苞绰 盒疙 捞固 矫氰厚青捞 父练胶反促绰 巴阑 焊咯林菌促.
+
+42363:结果\是\他\失去\了\自己的\钱\.\
+#The consequence was that he lost his money.
+#搬惫 弊绰 磊扁狼 捣阑 酪霸 登菌促.
+
+42364:结果\兴\我们的\假设\一致\.\
+#The results were concordant with our hypothesis.
+#搬苞绰 快府狼 啊沥苞 老摹窍看促.
+
+42365:结果\兴\我们\所\预料\的\正\相反\.\
+#The result was opposite to what we expected.
+#搬苞绰 快府啊 抗惑茄 巴苞 沥馆措啊 登菌促.
+
+42366:结果\正好\分得\平均\,\没有\剩余\.\
+#The division falls out even without any overplus.
+#搬苞绰 付魔 乞闭利栏肺 唱穿绢脸绊 唱赣瘤啊 绝菌促.
+
+42367:结果\证明\他的\话\是\假\的\.\
+#His statement turned out to be false.
+#搬沸利栏肺 弊狼 富捞 芭窿烙捞 刘疙登菌促.
+
+42368:结核菌素\检查\是\阳性\的\.\
+#The tuberculin test was positive.
+#搬琴闭八荤啊 剧己捞促.
+
+42369:结婚\戒指\象征\着\男女\双方\的\结合\.\
+#A wedding ring symbolizes the union of the two partners.
+#搬去 馆瘤绰 巢赤 剧规狼 搬钦阑 狼固窍绰 巴捞促.
+
+42370:结婚\两\年\后\,\她\怀孕\了\.\
+#After two years of married life,she was caught out.
+#搬去 2斥 饶俊 弊赤绰 烙脚窍看促.
+
+42371:结婚\使\他\习惯\于\家庭\生活\.\
+#Marriage has domesticated him.
+#搬去篮 弊甫 啊沥积劝俊 嚼包捞 登霸 窍看促.
+
+42372:结婚\是\一\种\锁\;\婚姻\即\锁链\.\
+#Wedlock is a padlock.
+#搬去篮 老辆狼 练尖捞促.
+
+42373:结\以下\四\排\时\边上\加\放\三\针\.\
+#Cast on three stitches at each end of the next four rows.
+#促澜 4临狼 场篮 阿阿 3丁阑 哆俺龙狼 霉 内肺 棱酒 哆促. 
+
+42374:结帐\的\差额\是\我\有\赤字\.\
+#The balance of the account is against me.
+#拌魂狼 瞒咀篮 唱狼 利磊捞促.
+
+42375:解放\前\日常\必需品\天\天\涨价\.\
+#In pre-liberation days the daily necessities were marked up every day.
+#秦规 傈俊 积劝 鞘荐前篮 概老 概老 啊拜捞 棵耳促.
+ 
+42376:解放\前\他的\家\老是\搬\来\搬\去\.\
+#Before liberation his family was moved about a good deal.
+#秦规 傈俊 弊狼 笼篮 亲惑 捞府历府 捞荤促虫促.
+
+42377:解决\这个\问题\是\不\容易\的\.\
+#It is not easy to solve this problem.
+#捞 巩力甫 秦搬窍绰 巴篮 奖瘤 臼促.
+
+42378:解决\这\一\问题\有\多种\途径\.\
+#There are different ways of solving this problem.
+#捞 巩力甫 秦搬窍绰 单绰 咯矾 啊瘤 版肺啊 乐促.
+
+42379:解开\那\件\包裹\要\费\一点\时间\.\
+#The undoing of the parcel took some time.
+#弊 家器甫 钱妨搁 距埃狼 矫埃捞 鞘夸沁促.
+
+42380:解\迷\必须\有\机灵\的\头脑\.\
+#One need an agile mind to solve puzzles.
+#欺榴阑 仟绰 单绰 馆靛矫 度度茄 赣府啊 鞘夸窍促.
+
+42381:戒烟\对\我\来说\是\困难\的\.\
+#It is difficult for me to stop smoking.
+#淬硅甫 谗绰 巴篮 唱俊霸 乐绢 绢妨款 老捞促.
+
+42382:藉\着\走路\以\减少\饮酒\过\多\的\影响\.\
+#walk off too many drinks.
+#贱阑 呈公 腹捞 茄 巴阑 临捞扁 困窍咯 辨阑 叭促.
+
+42383:芥子\和\水\芹菜\常\拼\在\沙\拉\里\吃\.\
+#Mustard and cress is often eaten as part of a salad.
+#啊瘤客 固唱府绰 啊阐 圾矾靛俊 持绢 冈绰促.
+
+42384:借\我\用\一下\你的\铅笔\好\吗\?\
+#Would you please lend me your pencil?
+#寸脚狼 楷鞘阑 郴啊 呼妨 镜 荐 乐摆嚼聪鳖?
+
+42385:借\一下\十\块\钱\,\明天\还给\你\.\
+#Just lend me 10 dollars,and I'll repay you tomorrow.
+#10盔父 呼妨林技夸, 郴老 靛副膊夸.
+
+42386:金钱\并不是\时常\能够\带来\幸福\的\.\
+#Money doesn't always bring happiness.
+#捣捞 亲惑 青汗阑 啊廉棵 荐 乐绰 巴篮 酒聪促.
+
+42387:金钱\并不是\最\重要\的\东西\.\
+#Money isn't everything.
+#捣篮 搬内 力老 吝夸茄 巴捞 酒聪促.
+
+42388:金钱\对\我们\来说\不成\问题\.\
+#Money presents no difficulty to us.
+#陛傈篮 快府俊霸 乐绢 喊肺 巩力啊 救等促.
+
+42389:金属\工具\撞\到\墙\上\发出\当\的\一\声\.\
+#The metal tool clanged when it hit the wall.
+#陛加傍备啊 寒俊 何碟囚辑 顶窍绰 家府啊 车促.
+
+42390:金属\冷却\时\体积\会\缩小\.\
+#Metal contracts as it becomes cool.
+#陛加捞 趁阿矫俊绰 眉利捞 临绢甸 荐 乐促.
+
+42391:金属\盘子\叮\叮\咚\咚\滚\下\了\石\阶\.\
+#The metal dish clattered down the stone stairs.
+#陛加立矫啊 帕帕帕 倒拌窜俊辑 奔矾郴妨艾促.
+
+42392:金子\可\在\岩石\和\溪流\中\找到\.\
+#Gold is found in rock and streams.
+#陛篮 鞠籍苞 矫郴俊辑 茫阑 荐 乐促.
+
+42393:金子\在\阳光\下\闪闪\发光\.\
+#The gold was glinting in the sunlight.
+#陛捞 寝蝴 酒贰辑 馆娄馆娄 蝴车促.
+ 
+42394:今后\你\要\注意\别\再\乱\花钱\.\
+#In future,be more careful with your money.
+#捞饶俊 呈绰 窃何肺 捣阑 静瘤 臼档废 林狼秦具 茄促.
+
+42395:今\借\到\外文\系\录音机\五\台\.\
+#Borrowed from the Foreign Languages Department five tape-recorders.
+#瘤陛 寇惫绢苞肺何磐 踌澜扁 5措甫 呼啡促.
+
+42396:今\借\到\院\财务\处\人民币\五\千\元\整\.\
+#To the Finance office of the University I.O.U five thousand yuan only.
+#犁公贸俊辑 牢刮企 5玫盔阑 呼啡促.
+
+42397:今年\的\利润\同\去年\相比\有所\增长\.\
+#This year's profits show an improvement vis-a-vis last year's.
+#棵秦狼 捞辣篮 累斥苞 厚背窍咯 距埃 疵菌促.
+
+42398:今年\的\圣诞节\是\星期五\.\
+#Christmas falls on a Friday this year.
+#陛斥狼 己藕例篮 陛夸老捞促.
+
+42399:今年\的\推销\不\十分\成功\.\
+#This year's sales promotions haven't been very successful.
+#陛斥狼 概惑篮 概快 己傍利捞瘤 臼促.
+
+42400:今年\冬天\的\家禽\肉\很\贵\.\
+#poultry is expensive this winter.
+#陛斥 败匡狼 啊陛腊篮 厚轿促.
+
+42401:今年\对\我们\来说\是\不\顺利\的\一\年\.\
+#This has been an unlucky year for us.
+#陛斥篮 快府俊霸 乐绢 鉴炼酚瘤 给茄 茄 秦 看促.
+
+42402:今年\该\俱乐部\的\成员\已经\减少\.\
+#Membership of the club has fallen off this year.
+#陛斥 捞 努反狼 雀盔篮 捞固 临绢甸菌促.
+
+42403:今年\国庆\节\刚好\是\星期日\.\
+#National Day falls on a Sunday this year.
+#棵秦狼 惫版老篮 付魔 老夸老捞促.
+
+42404:今年\看来\又\是\个\丰收\年\.\
+#This year promises to be another good one for harvests.
+#棵秦绰 肚 浅斥牢 巴 鞍促.
+
+42405:今年\你的\工作\取得\了\显著\的\进步\.\
+#Your work has improved measurably this year.
+#棵秦 寸脚狼 老俊辑 泅历茄 己苞甫 芭滴菌促.
+
+42406:今年\你\准备\去\什么地方\吗\?\
+#Are you going to go anyplace this year?
+#寸脚篮 棵秦 绢叼俊 啊妨绊 钦聪鳖?
+
+42407:今年\是\业务\上\的\歉收\年\.\
+#This has been a lean year for business.
+#陛斥篮 诀公惑栏肺 蠕斥捞促.
+
+42408:今年\我们\没有\足够\的\钱\度假\.\
+#We can't run to a holiday this year.
+#陛斥俊 快府绰 捣捞 绝绢辑 绒啊甫 哎 荐 绝促.
+
+42409:今年\我们\让\那\块\田\休\耕\.\
+#This year we are letting that field rest.
+#棵秦 快府绰 弊 顶阑 愁啡促.
+
+42410:今年\已经\建造\了\多少\幢\房子\?\
+#How many houses have gone up this year?
+#陛斥俊 捞固 倔付登绰 笼阑 技奎嚼聪鳖?
+
+42411:今年\这些\树\开花\开\得\迟\.\
+#The trees are late coming into blossom his year.
+#陛斥俊 捞 唱公甸狼 俺拳啊 词促.
+
+42412:今日\的\学生\都\不\关心\政治\.\
+#Students today are not political.
+#坷疵朝 切积甸篮 葛滴 沥摹俊 包缴捞 绝促.
+
+42413:今天\,\她\起\得\比\平时\晚\些\.\
+#Today she got up beyond the usual time.
+#坷疵 弊赤绰 促弗 锭焊促 词霸 老绢车促.
+
+42414:今天\,\我们\冒昧\送\去\小麦\样品\.\
+#We take the liberty today of sending you samples of wheat.
+#快府绰 寇恩胶反霸 剐狼 斑夯前阑 焊郴靛赋聪促.
+
+42415:今天\报\上\登\的\新闻\不\多\.\
+#There wasn't much news in the paper today.
+#坷疵 脚巩俊 抄 家侥篮 腹瘤 臼促.
+
+42416:今天\的\报纸\报导\首相\的\死\讯\.\
+#Today's newspaper reports the death of the Prime Minister.
+#坷疵 脚巩俊辑绰 荐惑狼 磷澜阑 焊档窍看促.
+
+42417:今天\的\报纸\上\有些\感兴趣\的\东西\.\
+#There is something interesting in the newspaper today.
+#坷疵 脚巩俊绰 距埃 犁固乐绰 巴捞 乐促.
+
+42418:今天\的\工作\就\到\此\为止\.\
+#I'm for calling it a day.
+#坷疵 老篮 咯扁 鳖瘤 茄促.
+
+42419:今天\的\天气\不\太\适合\出去\散步\.\
+#It's not much of a day for a walk.
+#坷疵 朝揪绰 唱啊 魂氓窍扁俊绰 亮瘤 臼促.
+
+42420:今天\的\天气\令人\心情\愉快\.\
+#It is pleasant today.
+#坷疵 朝揪绰 扁盒阑 亮霸 茄促.
+
+42421:今天\的\天气\没有\昨天\的\那样\冷\.\
+#The weather of today is not as cold as that of yesterday.
+#坷疵 朝揪绰 绢力 父怒 娩瘤 臼促.
+
+42422:今天\发\的\信\或许\后天\他\能\接到\.\
+#A letter posted today will probably reach him the day after tomorrow.
+#坷疵 焊辰 祈瘤绰 弊绰 酒付 葛饭 罐阑 荐 乐阑 巴捞促.
+
+42423:今天\能\与\你们\说话\是\我的\荣幸\.\
+#It is an honor for me to be able to speak to you today.
+#坷疵 寸脚甸苞 措拳甫 且 荐 乐霸 等 巴篮 唱狼 康堡涝聪促.
+
+42424:今天\你\准备\穿\什么\衣服\?\
+#What are you going to wear today?
+#坷疵 寸脚篮 公郊 渴阑 涝栏妨绊 钦聪鳖?
+
+42425:今天\女王\驾临\,\使\我们\不胜\荣幸\.\
+#Today the Queen is honouring us with her presence.
+#坷疵 咯空膊辑 吵矫聪 快府俊霸 公茄茄 康堡捞促.
+ 
+42426:今天\全然\不\象\昨天\那么\冷\.\
+#It isn't anything like as cold as it was yesterday.
+#坷疵篮 犬角洒 绢力父怒 娩瘤 臼促.
+
+42427:今天\人类\已\能\作\超音速飞行\了\.\
+#Today man can outfly the sound of his own voice.
+#坷疵朝 牢幅绰 捞固 檬加厚青阑 且 荐 乐促.
+
+42428:今天\三\点钟\开始\赛\足球\.\
+#The kickoff is at three o'clock today.
+#坷疵 3矫俊 绵备措雀甫 矫累茄促.
+
+42429:今天\上午\孩子们\非常\活跃\.\
+#The children are full of life this morning.
+#坷疵 坷傈俊 酒捞甸篮 酒林 劝惯窍促.
+
+42430:今天\上午\我\还\要\再\写\两\封\信\.\
+#I have to write two more letters this morning.
+#坷疵 坷傈 唱绰 肚 滴 烹狼 祈瘤甫 借促.
+
+42431:今天\什么\也\降低\不了\我的\兴致\!\
+#Nothing can dampen my spirits today!
+#坷疵篮 公均档 唱狼 扁盒阑 柄瘤绰 给 且 巴捞促.
+
+42432:今天\实在\是\个\值得\纪念\的\日子\!\
+#This is really a red-letterday!
+#坷疵篮 沥富 扁充且 父且 朝捞促.
+
+42433:今天\是\什么\风\把\你\吹\来\了\?\
+#What brings you here today?
+#坷疵篮 公郊 官恩捞 阂绢 吭聪?
+
+42434:今天\是\一\九\六\三\年\十一月\一\号\.\
+#Today is November first,nineteen sixty-three.
+#坷疵篮 1963斥 11岿 1老捞促.
+
+42435:今天\市中心\一直\是\熙熙攘攘\.\
+#There's been a lot of activity in the centre today.
+#坷疵 矫郴绰 临梆 蕊没芭啡促.
+
+42436:今天\听说\你\母亲\已经\去世\.\
+#Today I heard you had lost your mother.
+#坷疵 呈狼 绢赣聪啊 倒酒啊继促绰 富阑 甸菌促.
+
+42437:今天晚上\B\B\C\电台\广播\这个\节目\.\
+#It's on BBC tonight.
+#坷疵 历翅 BBC俊辑 捞 橇肺弊伐阑 规价茄促.
+
+42438:今天晚上\你\把\这些\书\带回\家\去\.\
+#Take these books home with you tonight.
+#坷疵 历翅 呈绰 捞 氓甸阑 笼俊 啊廉啊扼.
+
+42439:今天晚上\我们\不妨\就\在\这里\睡\下\.\
+#We may as well doss down here tonight.
+#坷疵 历翅 快府绰 咯扁俊辑 磊档 宝满促.
+
+42440:今天晚上\我\要\与\彼得\会面\.\
+#I'm meeting Peter tonight.
+#坷疵 历翅 唱绰 乔磐客 措搁捞 乐促.
+
+42441:今天\委员会\开会\谁\当\主席\?\
+#Who will preside at the committee meeting today?
+#坷疵 困盔雀 雀狼绰 穿啊 林籍阑 该嚼聪鳖?
+
+42442:今天\我\将\把\第\三\课\讲\完\.\
+#Today I shall finish with Lesson Three.
+#坷疵 唱绰 3苞甫 场郴摆促.
+
+42443:今天\我们\将\研究\心脏\的\活动\.\
+#Today we'll study the action of the heart.
+#坷疵 快府绰 缴厘狼 劝悼阑 楷备且 巴捞促.
+
+42444:今天\我们\为\五\十\头\羊\剪\了\羊毛\.\
+#We clipped 50 sheep today.
+#坷疵 快府绰 50 付府狼 剧判阑 憋疽促.
+
+42445:今天\我们\屋子\全面\清扫\了\一遍\.\
+#We gave the house a good clearout today.#坷疵 快府绰 笼阑 傈何 没家窍看促.
+
+42446:今天\我们\午后\茶点\吃\些\什么\?\
+#What are we having for tea today?
+#坷疵 快府绰 坷饶俊 促苞绰 公均阑 冈嚼聪鳖?
+
+42447:今天\我们\要\出去\买\东西\吗\?\
+#Are we going shopping today?
+#坷疵 快府 唱啊 拱扒阑 混疤聪鳖?
+
+42448:今天\我们\要\与\约翰\一起\吃\午饭\.\
+#We're lunching with John today.
+#坷疵 快府绰 粮苞 窃膊 痢缴阑 冈栏妨 茄促.
+
+42449:今天\我\能\很\容易\地\完成\它\.\
+#I can easily finish it today.
+#坷疵 唱绰 奖霸 弊巴阑 肯己且 荐 乐促.
+
+42450:今天\我\什么\东西\也\没有\吃\.\
+#I have eaten nothing today.
+#坷疵 唱绰 酒公巴档 冈瘤 臼疽促.
+
+42451:今天\我\提出\了\辞职\要求\.\
+#I gave in my notice at work today.
+#坷疵 唱绰 荤流夸备甫 窍看促.
+
+42452:今天\下\了\一\整天\的\大雨\.\
+#It's been bucketing all day.
+#坷疵篮 窍风 辆老 奴厚啊 郴啡促.
+
+42453:今天下午\大约\华\氏\7\0\度\.\
+#It's about seventy degrees Bahrenheit this afternoon.
+#坷疵 坷饶绰 措帆 拳揪 70档捞促.
+
+42454:今天下午\你\有\兴趣\去\看\赛\马\吗\?\
+#Would you be interested in going to the horse races this afternoon?
+#坷疵 坷饶 呈绰 版付甫 焊矾 啊绰单 蕊固啊 乐蠢衬?
+
+42455:今天下午\医生\还\会\来\看望\的\.\
+#The doctor will look in again this afternoon.
+#坷疵 坷饶 狼荤啊 肚 客辑 杭 巴捞促.
+
+42456:今天\一点\也\用不着\担心\会\下雨\.\
+#There is not the slightest fear of rain today.
+#坷疵篮 炼陛档 厚棵 巴阑 捌沥且 鞘夸啊 绝促.
+ 
+42457:今天\有\风\,\海上\波涛\汹涌\.\
+#The sea was choppy today because of the wind.
+#坷疵篮 官恩捞 阂绊, 秦惑俊绰 颇档啊 缴沁促.
+
+42458:今天\预定\要\做\的\事\是\什么\?\
+#What is on the schedule today?.
+#坷疵 窍妨绊 窍绰 老篮 公均涝聪鳖?
+
+42459:今天\远远\不\象\昨天\那样\冷\.\
+#It's nothing like so cold today as it was yesterday.
+#坷疵篮 犬角洒 绢力 贸烦 弊犯霸 娩瘤 臼促.
+ 
+42460:今天早晨\那\孩子\没有\来\上学\.\
+#The boy did not come to school this morning.
+#坷疵 酒魔 弊 酒捞绰 切背俊 坷瘤 臼疽促.
+
+42461:今天早晨\你\看\上去\气色\很\好\.\
+#You appear well this morning.
+#坷疵 酒魔 呈绰 焊扁俊 倔奔祸捞 亮篮 巴 鞍促.
+
+42462:今天早晨\七\点钟\他\正在\念\中文\.\
+#He was studying Chinese at seven o'clockthis morning.
+#坷疵 酒魔 7矫俊 弊绰 吝惫绢甫 傍何窍绊 乐菌促.
+
+42463:今天早晨\实在\冷\得\厉害\!\
+#It's really perishing cold this morning!
+#坷疵 酒魔篮 沥富肺 娩促!
+
+42464:今天早晨\他\给\一\1个\朋友\写\了\信\.\
+#He wrote to a friend this morning.
+#坷疵 酒魔 弊绰 茄 模备俊霸 祈瘤甫 借促.
+
+42465:今天早晨\我\在\城\里\遇见\了\他\.\
+#I met him in town this morning.
+#坷疵 酒魔 唱绰 矫郴俊辑 弊甫 快楷洒 父车促.
+ 
+42466:今天早上\班机\按时\起飞\.\
+#The airliner got off this morning on its regular flight.
+#坷疵 酒魔 沥扁咯按扁绰 力 矫埃俊 捞氟窍看促.
+
+42467:今天早上\他的\病床\有些\恶化\.\
+#He is somewhat worse this morning.
+#弊绰 坷疵 酒魔 捍技啊 厩拳登菌促.
+
+42468:今天早上\她\起床\比\平时\早\得\多\.\
+#This morning she got up much earlier than is her wont.
+#坷疵 酒魔 弊赤绰 乞家焊促 酒林 老嘛 老绢车促.
+
+42469:今天早上\我\把\手表\撞\坏\了\.\
+#I bustmy watch this morning.
+#坷疵 酒魔 唱绰 颊格矫拌甫 何碟囚 何渐促.
+ 
+42470:今天早上\我\感觉\不\太\舒服\.\
+#I don't feel very well this morning.
+#坷疵 酒魔 唱绰 扁盒捞 喊肺 亮瘤 臼促.
+
+42471:今天早上\我\觉得\精神\很\好\.\
+#I feel first-rate this morning.
+#坷疵 酒魔 唱绰 扁盒捞 酒林 亮促.
+
+42472:今天早上\我们\帮助\他们\离开\这里\.\
+#We checked them out this morning.
+#坷疵 酒魔 快府绰 弊甸捞 咯扁甫 栋唱绰 巴阑 档吭促.
+
+42473:今天早上\我\碰到\一\件\怪事\.\
+#A strange thing happened to me this morning.
+#坷疵 酒魔 唱绰 捞惑茄 老 窍唱甫 寸沁促.
+
+42474:今天早上\有点\寒气\袭\人\.\
+#There was a chill in the air this morning.
+#坷疵 酒魔篮 距埃 茄扁啊 个阑 颇绊 甸菌促.
+
+42475:今天早上\有没有\我的\信件\?\
+#Is there any mail for me this morning?.
+#坷疵 酒魔 郴 祈瘤啊 乐嚼聪鳖?
+
+42476:今天\早\些\时候\我\流\过\鼻血\.\
+#I had nosebleed earlier today.
+#坷疵 老嘛捞 唱绰 内乔甫 汝啡促.
+
+42477:今晚\彩灯\什么时候\开\亮\?\
+#What time do the illuminations go on tonight?
+#坷疵 广 炼疙篮 攫力 恼聪鳖?
+
+42478:今晚\的\电视\图像\很\模糊\.\
+#The television picture is rather fuzzy tonight.
+#坷疵 炮饭厚傈 拳搁捞 酒林 儒复窍促.
+
+42479:今晚\电视\播\出\什么\节目\?\
+#What's playing on television tonight?.
+#坷疵 广 TV绰 公郊 橇肺弊伐阑 规价钦聪鳖?
+
+42480:今晚\请\过来\,\我\给\你\看\几\本\新书\.\
+#Get round this evening,and I'll show you some new books.
+#坷疵 广 坷技夸, 郴啊 寸脚俊霸 货 氓 割 鼻阑 焊咯 靛副膊夸.
+
+42481:今晚\我\带\孩子们\去\看\戏\.\
+#I'm taking the children out to the theatre tonight.
+#坷疵 广 唱绰 酒捞甸阑 单府绊 楷必焊矾 艾促.
+
+42482:今晚\我们\到\外面\去\吃饭\吧\.\
+#Let's dine out tonight.
+#坷疵 广 快府绰 观俊 唱啊辑 逛阑 冈磊.
+
+42483:今晚\我\有\空\,\我们\去\喝\一\杯\好\吗\?\
+#I'm uncommitted tonight.Shall we go for a drink ?.
+#坷疵 广 唱绰 矫埃捞 乐栏聪, 快府 唱啊辑 贱 茄 儡 钦矫促.
+  
+42484:今晚\我\最好\预约\一\辆\出租汽车\.\
+#I'd better order a taxi for tonight.
+#坷疵 广 唱绰 琶矫 茄 措甫 抗距窍绰 巴捞 啊厘 亮摆促.
+
+42485:今晚\有些\什么\电视\节目\?\
+#What's on the television tonight?
+#坷疵 广篮 公郊 炮饭厚傈 橇肺弊伐捞 乐嚼聪鳖?
+
+42486:今夜\大雨\倾盆\,\天气\坏\极\了\.\
+#It's a foul night tonight; it's pouring with rain.
+#坷疵 广 奴厚啊 撅荐鞍捞 今酒瘤绊, 朝揪啊 酒林 唱悔促. 
+
+42487:今夜\到达\伦敦\的\可能性\不大\.\
+#There's little probability of reaching London tonight.
+#坷疵 广 繁带俊 档馒且 啊瓷己篮 农瘤 臼促.
+
+42488:今早\我\看到\琼斯\夫人\了\.\
+#I saw Mrs Jones this morning.
+#坷疵 酒魔 唱绰 粮胶 何牢阑 好促.
+
+42489:津巴布韦\于\一\九\八\年\独立\.\
+#Zimbabwe became independent in 1980.
+#咙官宏傀绰 1980斥俊 刀赋窍看促.
+
+42490:津津有味\地\听取\耸\人\听\闻\的\证词\
+#eat up lurid testimony
+#荤恩阑 愁扼霸 窍绰 刘攫阑 犁固乐霸 佃促. 
+
+42491:紧急\内阁\会议\在\三\点钟\召开\.\
+#An emergency cabinet meeting was called for three o'clock.
+#变鞭郴阿雀狼啊 3矫俊 家笼登菌促.
+
+42492:紧接\战争\而\来\的\常常\是\疫\病\.\
+#Disease often follows war.
+#傈里苞 变剐窍霸 坷绰 巴篮 官肺 蜡青己 傈堪捍捞促.
+ 
+42493:紧身\裤\是\最新\的\时髦\服装\.\
+#Narrow trousers are the latest fashion.
+#迭 嘿绰 官瘤绰 弥脚 蜡青窍绰 菩记捞促.
+
+42494:紧身\衣\使\她\不\能\活动\自如\.\
+#Her tight dress inhibited her movements.
+#怖尝绰 渴捞 弊狼 劝悼阑 磊蜡酚瘤 给窍霸 窍看促.
+
+42495:紧\偎\着\我\,\我\会\使\你\暖和\的\.\
+#Snuggle up to me and I'll keep you warm.
+#唱甫 官较 救酒扼, 呈甫 蝶舵窍霸 秦林付.
+
+42496:仅仅\是\传闻\并\不足\为\凭\.\
+#Mere report is not enough to go upon.
+#促父 傈秦瘤绰 巴捞瘤 瓜阑 父茄 巴篮 给等促.
+
+42497:仅仅\一\击\,\就\将\他\打倒\在\地板\上\.\
+#A single blow laid him on the floor.
+#窜 茄 规俊 弊甫 付讽官蹿 困俊 静矾哆啡促.
+
+42498:仅\是\看到\他\就\叫\我\激动\.\
+#The bare sight of him thrilled me.
+#促父 弊甫 焊扁父 秦档 唱绰 蕊盒等促.
+
+42499:仅\于\无法\叁\加\时\请\回\覆\.\
+#Regrets Only.
+#促父 曼啊且 荐 绝阑 版快俊父 雀翠阑 林绞矫夸.
+
+42500:谨\此\祝贺\您\和\玛丽\结婚\五\周年\.\
+#Allow me to congratulate you and Mary on your fifth wedding anniversary.
+#伙啊 寸脚苞 付府狼 搬去 5林斥阑 绵窍靛赋聪促.
+
+42501:谨慎\驾驶\可\避免\发生\事故\.\
+#Accidents can be averted by careful driving.
+#炼缴 款傈篮 荤绊 惯积阑 阜阑 荐 乐促.
+
+42502:谨\向\你\和\家人\致以\深切\的\慰问\.\
+#With deepest sympathy to you and all your family.
+#伙啊 寸脚苞 啊练俊霸 表篮 困肺甫 靛赋聪促.
+
+42503:谨\向\您\致以\永恒\的\谢意\与\感激\.\
+#I send you everlasting feelings of gratefulness and thankfulness.
+#伙啊 寸脚俊霸 康盔茄 皑荤客 皑拜阑 靛赋聪促.
+
+42504:谨\祝\圣\诞\快乐\和\新年\如意\!\
+#Our best wishes for Christmas and the New Year.
+#伙啊 扁慧 己藕苞 货秦俊 葛电 老捞 肋登扁甫 瑚聪促.
+
+42505:进\本\店\并不\一定\要\买\东西\.\
+#There is no obligation to buy in this shop.
+#夯 惑痢俊 甸绢啊绰 巴篮 怖 拱扒阑 荤妨绰 巴篮 酒聪促.
+
+42506:进\餐\时\擤\鼻子\是\很\不\雅观\的\举止\.\
+#It is bad manners to blow your nose at table.
+#澜侥阑 冈阑 锭 内甫 仟绰 巴篮 酒林 焊扁 亮瘤 臼篮 青悼芭瘤捞促.
+
+42507:进攻\迟早\会\陷入\停滞\状态\.\
+#The attack would bog down sooner or later.
+#傍拜篮 炼父埃 沥眉 惑怕俊 狐龙巴捞扼绊 窍看促.
+
+42508:进攻\在\炮火\的\掩护\下\开始\了\.\
+#The attack jumped off under cover of a barrage.
+#傍拜篮 器拳狼 决龋 酒贰 矫累登菌促.
+
+42509:进来\,\进来\,\看看\大\狮子\.\
+#Roll up,roll up,to see the lions.
+#甸绢客, 甸绢客, 奴 荤磊甫 毫.
+
+42510:进行\分裂\党\的\宗派\活动\
+#carry out sectarian activities to split the Party
+#寸阑 盒凯矫虐绰 辆颇 劝悼阑 柳青窍促.
+
+42511:进行\人工\呼吸\使\某人\苏醒\过来\
+#bring sb.to by artificial aspiration
+#牢傍龋软阑 矫难 荤恩阑 柄绢唱霸 窍促.
+
+42512:进行\讨\价\还\价\压低\不\合理\的\要价\
+#beat down an unreasonable price
+#蕊沥阑 窍咯 阂钦府窍霸 何弗 啊拜阑 撤眠促.
+
+42513:禁运\封\出\囗\总\收入\有\很\大\的\影响\.\
+#The embargo impacted on export revenues.
+#荐免陛瘤绰 荐免醚荐涝俊 措窍咯 酒林 奴 康氢捞 乐促.
+
+42514:禁止\乞丐\在\公共\场所\行乞\.\
+#Beggars are not allowed to solicit in public places.
+#芭瘤啊 傍傍厘家俊辑 备吧窍绰 巴阑 陛瘤窍促.
+
+42515:禁止\人们\在\人行道\上\骑\自行车\.\
+#People are prohibited from riding bicycles on the sidewalk.
+#荤恩甸捞 牢档俊辑 磊傈芭 鸥绰 巴阑 陛窍促.
+
+42516:近\黄昏\时\,\开始\起\风\了\.\
+#The wind woke toward evening.
+#历翅 公菲俊 官恩捞 阂扁 矫累窍看促.
+
+42517:近\几\周\来\铁\产量\有所\增加\.\
+#Production of iron has increased in the last few weeks.
+#芭狼 割 林 悼救 枚狼 积魂樊捞 刘啊窍看促.
+
+42518:近况\如何\?\你\过\得\怎样\?\
+#How's the world going?=How's the world treating you ?.
+#惑炔捞 绢锭夸? 寸脚 瘤郴扁 绢痘嚼聪鳖?
+
+42519:近来\,\她\已\完全\恢复\健康\.\
+#She has fully recovered from her recent indisposition.
+#弥辟 弊赤绰 捞固 肯傈洒 扒碍阑 雀汗窍看促.
+
+42520:近来\的\天气\真\叫\人\够\受\了\!\
+#The weather's been hellish recently.
+#弥辟狼 朝揪绰 沥富 曼扁绢菲促!
+
+42521:近来\你\和\你\姐姐\有没有\联系\?\
+#Have you been in contact with your sister recently?
+#弥辟 寸脚篮 寸脚狼 攫聪客 楷遏捞 乐嚼聪鳖?
+
+42522:近来\她的\工作\不如\以往\好\.\
+#Her work has gone off lately.
+#弥辟 弊赤狼 老篮 捞傈 父怒 亮瘤 臼促.
+
+42523:近年\来\,\他\体重\增加\,\脸\也\变\圆\了\.\
+#He has gained weight and his face seems to have rounded out in the last few years.
+#弥辟 割 斥, 弊绰 眉吝捞 刘啊窍绊 倔奔档 嫡弊犯霸 登菌促.
+
+42524:尽管\稍\有\残\疾\,\但\他\仍\很\吸引人\.\
+#He's very attractive in spite of his slight deformity.
+#弊绰 厚废 距埃狼 厘局啊 乐栏唱, 弊绰 咯傈洒 概仿利牢 荤恩捞促.
+
+42525:尽管\他\很\疲倦\,\但\他\还是\继续\走\.\
+#He was very tired; nevertheless he went on walking.
+#厚废 弊绰 乔帮窍看栏唱, 弊绰 弊贰档 拌加 吧菌促.
+
+42526:尽管\他\缺点\不少\,\我\还是\喜欢\他\.\
+#With all his faults,I still like him.
+#厚废 弊绰 搬痢捞 利瘤 臼栏唱, 唱绰 弊贰档 弊甫 亮酒茄促.
+
+42527:尽管\她\有\缺点\,\大家\还是\喜欢\她\.\
+#People like her in spite of her faults.
+#厚废 弊赤绰 搬痢捞 利瘤 臼栏唱, 唱绰 弊贰档 弊赤甫 亮酒茄促.
+
+42528:尽快\履行\下列\订单\,\为\荷\.\
+#kindly execute the following order as early as possible.
+#啊瓷茄 弧府 酒贰狼 林巩俊 览翠官而聪促. 
+
+42529:尽量\不要\把\秘密\计划\泄露\出去\.\
+#Try not to give the game away.
+#啊瓷茄茄 厚剐 拌裙阑 穿汲窍瘤 富酒扼.
+
+42530:尽量\涤\净\你的\灵魂\中\的\仇恨\.\
+#Try to purge your spirit of hatred.
+#啊瓷茄茄 呈狼 康去 加狼 盔茄阑 灸绢滚妨扼.
+
+42531:鲸鱼\突然\潜入\海底\後\会\喷\水\.\
+#Whales spout water after sounding.
+#绊贰啊 癌磊扁 秦历肺 甸绢埃 饶俊 拱阑 徽菌促.
+
+42532:鲸鱼\一般\被\认为\是\鱼类\.\
+#The whale is vulgarly supposed to be a fish.
+#绊贰绰 老馆利栏肺 绢幅肺 牢侥登绢柳促.
+
+42533:惊慌\中\她\突然\跌\坐下\去\.\
+#She flopped down in dismay.
+#愁扼 倾嫡瘤嫡窍绰 吝俊 弊绰 癌磊扁 固掺矾廉 旧疽促.
+
+42534:惊愕\使得\他\说\不\出\话\来\.\
+#Wonder left him speechless.
+#愁扼框俊 弊绰 富阑 窍瘤 给窍看促.
+
+42535:精彩\的\表演\博得\了\热烈\的\掌声\.\
+#The wonderful performance drew forth enthusiastic applause.
+#犁固乐绰 楷扁绰 凯纺茄 冠荐家府甫 掘菌促.
+
+42536:精简\重复\和\重叠\的\行政\机构\.\
+#shake down the duplicating and overlapping administrative organs .
+#吝酶登绊 吝汗登绰 青沥扁备甫 沥府窍促.
+
+42537:精益求精\地\改进\教学\方法\
+#refine on the method of teaching
+#歹 肋 窍妨绊 背切规过阑 官操促.
+
+42538:经常\运动会\使\他\身体\好\起来\.\
+#Taking regular exercise will fetch him along.
+#亲惑 款悼阑 窍咯 弊狼 个篮 亮酒瘤扁 矫累且 巴捞促.
+
+42539:经\调查\我们\发现\了\一\个\新\的\事实\.\
+#From our investigations a new fact has emerged.
+#炼荤甫 芭媚 快府绰 货肺款 荤角阑 惯斑窍看促.
+
+42540:经\反复\询问\,\他\问\出\了\真相\.\
+#After much questioning,he elicited the truth.
+#馆汗 龙巩阑 烹窍咯 弊绰 柳惑阑 舅酒陈促.
+
+42541:经过\长\时间\讨论\解决\一\个\问题\
+#hash out a problem
+#变 矫埃阑 芭媚 巩力 窍唱甫 配沸窍绊 秦搬窍促.
+
+42542:经过\考虑\,\我\决定\不\去\.\
+#On thinking about it,I decided not to go.
+#积阿阑 窍看栏唱 唱绰 搬沥且 荐 绝菌促.
+
+42543:经过\了\两\次\失败\,\他\不\想\再\试\.\
+#Having failed twice,he didn't want to try again.
+#滴 锅狼 角菩甫 芭摹绊 弊绰 促矫 窍妨 窍瘤 臼疽促.
+ 
+42544:经过\千辛万苦\,\我\才\逃\出来\了\.\
+#After much difficulty I contrived to escape.
+#玫脚父绊 场俊 快府绰 厚肺家 档噶唱棵 荐 乐菌促.
+
+42545:经过\认真\研究\,\我\方\有\以下\意见\:\
+#After careful study,we wish to advise as follows:
+#凯缴洒 楷备茄 搬苞 快府 螟篮 酒贰狼 狼斑捞 乐促.
+
+42546:经过\商谈\制定\了\一\项\计划\.\
+#The talk rounded into a plan.
+#惑淬阑 烹窍咯 拌裙 窍唱甫 沥窍看促.
+
+42547:经过\这\次\旅行\他们\都\筋疲力尽\了\.\
+#They were done up after the journey.
+#捞锅 咯青栏肺 弊甸篮 酒林 踌檬啊 登菌促.
+ 
+42548:经过\针\刺\治疗\,\他的\腰\痛\减轻\了\.\
+#After the acupuncture treatment,the pain in his sides eased off.
+#魔阑 嘎绰 摹丰 饶俊 弊狼 夸烹篮 皑版登菌促.
+ 
+42549:经济\崩溃\是\不\太\可能\发生\的\事\.\
+#Economic collapse is a rare circumstance.
+#版力 贺鲍绰 惯积啊瓷己捞 腹瘤 臼篮 老捞促.
+
+42550:经济\不景气\常\因\战争\所\致\.\
+#Economic depression often follows war.
+#版力 阂版扁绰 锭肺 傈里栏肺 牢茄 巴捞促.
+
+42551:经济\舱\飞机票\价格\要\便宜\得\多\.\
+#An economy class air ticket costs much less.
+#捞内畴固 努贰胶 厚青扁钎狼 啊拜篮 酒林 轿促.
+
+42552:经济学\兴\社会学\是\社会科学\.\
+#Economics and sociology are social sciences.
+#版力切苞 荤雀切篮 荤雀苞切捞促.
+
+42553:经\记\人\试图\引\他\购买\那\楝\房子\.\
+#The agent tried to interest him in the house.
+#吝俺诀磊绰 弊甫 缠绢 弊 笼阑 备概窍档废 窍看促.
+
+42554:经\考虑\后\,\他\同意\了\这\项\计划\.\
+#On reflection,he agreed to the plan.
+#缴荤槛绊茄 饶俊 弊绰 捞 拌裙阑 悼狼窍看促.
+
+42555:经理\会\带领\你\叁\观\工厂\.\
+#The manager will pilot you through the factory.
+#概聪历绰 呈甫 单府绊 傍厘阑 曼包且 巴捞促.
+
+42556:经理\设法\为\选手\们\打气\.\
+#The manager tried to hearten the players.
+#概聪历绰 急荐甸阑 困窍咯 侩扁甫 林菌促.
+
+42557:经理\为\公司\提出\了\一\份\新\方案\.\
+#The director brought forward a new plan for the company.
+#概聪历绰 雀荤甫 困窍咯 货肺款 规救阑 郴初疽促.
+
+42558:经理\在\文件\上\加\盖\印章\.\
+#The manager annexed his seal to the document.
+#概聪历绰 辑幅惑俊 档厘阑 嘛菌促.
+
+42559:经\人\断定\谣传\的\凶手\不知\去向\.\
+#The alleged murderer could not be located.
+#眠沥等 混牢磊狼 家犁甫 舅瘤 给沁促.
+
+42560:经销\这\种\制品\,\我\方\利润\额\很\小\.\
+#We get little profit from selling this product.
+#捞 力前 魄概甫 烹茄 快府螟 捞辣咀篮 酒林 利促.
+
+42561:经验\会\使\你\明白\人情\事\理\.\
+#Experience will teach you common sense.
+#版氰篮 呈俊霸 牢沥技怕甫 舅霸 秦霖促.
+
+42562:经验\激发\他\去\写\一\本\小说\.\
+#The experience stirred him to write a novel.
+#版氰捞 弊甫 家汲 茄 鼻阑 静档废 磊必窍看促.
+
+42563:警察\把\安\德\森\拘留\起来\以\待\审问\.\
+#The police picked up Anderson for questioning.
+#版蔓捞 矩歹郊阑 缴巩窍扁 困窍咯 备幅窍看促.
+
+42564:警察\把\罪犯\带\到\警察\局\.\
+#The policeman brought in the criminal.
+#版蔓捞 裹牢阑 版蔓惫俊 单妨 吭促.
+
+42565:警察\查获\了\大量\的\非法\毒品\.\
+#Police found a large quantity of illegal drugs.
+#版蔓捞 措樊狼 阂过 付距阑 茫酒郴菌促.
+
+42566:警察\大批\出动\,\以\制止\骚\乱\.\
+#The police were out in force to stop any trouble.
+#腹篮 版蔓捞 免悼窍咯 去鄂阑 力瘤窍看促.
+ 
+42567:警察\逮捕\了\两个\嫌疑犯\.\
+#The police have brought in two suspicious characters.
+#版蔓捞 滴 区狼裹阑 眉器窍看促.
+
+42568:警察\当场\发现\他\在\偷\汽车\.\
+#The police caught him stealing a car.
+#版蔓捞 泅厘俊辑 弊啊 瞒甫 壬摹绊 乐绰 巴阑 惯斑窍看促.
+
+42569:警察\的\行动\是\对\我\私\生活\的\侵犯\.\
+#The police action was an intrusion on my private life.
+#版蔓狼 青困绰 唱狼 荤积劝狼 魔裹捞促.
+
+42570:警察\的\职责\是\维持\公共\秩序\.\
+#It is the duty of the police to preserve public order.
+#版蔓狼 流氓篮 傍傍龙辑甫 蜡瘤窍绰 巴捞促.
+
+42571:警察\兜\捕\一\个\赌博\集团\的\成员\.\
+#Police rounded up members of a gambling ring.
+#版蔓篮 档冠笼窜狼 老寸阑 眉器窍看促.
+
+42572:警察\刚才\向\我们\调查\过\.\
+#We've just had a visit from the police.
+#版蔓捞 规陛 快府甫 炼荤窍看促.
+
+42573:警察\给\我\一\张\超\速\驾驶\的\罚\单\.\
+#The policeman gave me a ticket for speeding.
+#版蔓捞 唱俊霸 苞加款傈 国陛烹瘤辑甫 林菌促.
+
+42574:警察\雇\到\一\名\暗探\跟踪\罪犯\.\
+#The police have got a tail on the criminal.
+#版蔓篮 裹牢阑 固青窍扁 困窍咯 沤沥阑 茄 疙 绊侩窍看促.
+
+42575:警察\和\军队\协作\捉拿\恐怖\分子\.\
+#The police and the army colaborated to catch the terrorists.
+#版蔓苞 焙措绰 抛矾府胶飘甫 棱扁 困窍咯 蛆仿窍看促.
+
+42576:警察\记\下\了\我的\名字\和\地址\.\
+#The policeman took my name and address.
+#版蔓篮 唱狼 捞抚苞 林家甫 利菌促.
+
+42577:警察\加倍\努力\去\寻找\失踪\的\孩子\.\
+#The police redoubled their efforts to find the missing child.
+#版蔓篮 角辆等 酒捞甫 茫扁 困窍咯 畴仿阑 硅肺 甸看促.
+
+42578:警察\缴\了\那个\犯罪\分子\的\械\.\
+#The police disarmed the criminal.
+#版蔓捞 弊 裹牢阑 公厘秦力 矫淖促.
+
+42579:警察\迫使\他\说\出\了\真相\.\
+#The police got the truth out of him.
+#版蔓篮 弊俊霸 柳惑阑 富窍档废 碍夸窍看促.
+
+42580:警察\七手八脚\把\他\推\上\了\汽车\.\
+#The police bundled him into a car.
+#版蔓篮 咯返捞 弊甫 瞒肺 剐绢 持菌促.
+
+42581:警察\起诉\那个\超\速\驾驶\的\司机\.\
+#The policeman brought a charge against the fast driver.
+#版蔓篮 弊 苞加 款傈扁荤甫 扁家窍看促.
+
+42582:警察\取\了\这个\人\的\指纹\.\
+#The police took the man's fingerprints.
+#版蔓篮 捞 荤恩狼 瘤巩阑 盲秒窍看促.
+
+42583:警察\仍\在\寻找\谋杀\用\的\凶器\.\
+#Police are still looking for the murder weapon.
+#版蔓篮 咯傈洒 混牢俊 荤侩茄 蠕扁甫 茫绊 乐促.
+
+42584:警察\设法\把\事实\联系\起来\.\
+#The policeman tried to piece together the facts.
+#版蔓篮 荤角阑 楷拌矫虐妨绊 窍看促.
+
+42585:警察\设置\了\路障\捉拿\逃\犯\.\
+#Roadblocks were set up by the police to catch the escaped prisoner.
+#版蔓篮 档噶窍绰 裹牢阑 棱扁 困窍咯 官府纳捞飘甫 闷促.
+
+42586:警察\审问\他\旅行\的\目的\.\
+#The policeman interrogated him about the purpose of his journey.
+#版蔓篮 弊俊霸 咯青窍绰 格利阑 拱菌促.
+
+42587:警察\挖出\大量\的\枪\枝\及\弹簧\刀\.\
+#A large quantity of guns and switchbladeknifeves were scooped up by police.
+#版蔓篮 措樊狼 芒苞 胶橇傅漠阑 茫酒陈促.
+
+42588:警察\为了\进\屋\,\强行\打开\了\门\.\
+#The police beat the door down in order to get into the house.
+#版蔓捞 笼救栏肺 甸绢啊扁 困窍咯 撅瘤肺 巩阑 凯菌促.
+
+42589:警察\未\发现\那\人\留下\的\任何\痕迹\.\
+#The police found no trace of the man.
+#版蔓篮 弊 荤恩捞 巢变 绢恫 如利阑 惯斑窍瘤 给窍看促.
+
+42590:警察\想\设法\查明\谁\参加\了\聚会\.\
+#The police are trying to ascertain exactly who was at the party.
+#版蔓篮 穿啊 楷雀俊 曼籍沁绰瘤 灌囚郴妨绊 窍看促.
+
+42591:警察\一直\在\严密\监视\他\.\
+#The police have been keeping him under surveillance.
+#版蔓篮 临梆 枚历窍霸 弊甫 皑矫窍看促.
+
+42592:警察\已经\追捕\到\那个\逃\犯\.\
+#The police have hunted down the escaped prisoner.
+#版蔓篮 捞固 弊 档噶裹阑 眉器窍看促.
+
+42593:警察\已\抓获\了\杀人\凶手\.\
+#The police have caught the murderer.
+#版蔓篮 捞固 混牢裹阑 棱疽促.
+
+42594:警察\有\责任\维持\法律\和\秩序\.\
+#The police are responsible for the preservation of law and order.
+#版蔓篮 过伏苞 龙辑甫 蜡瘤秦具 且 氓公啊 乐促.
+
+42595:警察\与\示威\者\发生\冲突\.\
+#The police clashed with the demonstrators.
+#版蔓苞 矫困磊绰 面倒捞 惯积窍看促.
+
+42596:警察\再次\抓获\了\逃跑\的\罪犯\.\
+#The police recaptured the escaped criminal.
+#版蔓篮 犁瞒 档噶啊绰 裹牢阑 嘿棱疽促.
+
+42597:警察\在\村\中\进行\日常\巡逻\.\
+#The policeman made his daily rounds of the village.
+#版蔓篮 付阑俊辑 老惑利牢 鉴蔓阑 窍看促.
+
+42598:警察\在\树林\里\寻找\走失\的\小孩\.\
+#The police searched the woods for the lost child.
+#版蔓篮 剑俊辑 角辆等 绢赴 酒捞甫 茫酒陈促.
+
+42599:警察\在\他\上\船\时\抓住\了\他\.\
+#The police collared him as he was getting on the boat.
+#版蔓篮 弊啊 硅甫 呕 锭 弊甫 嘿棱疽促.
+
+42600:警察\在\我\办公室\里\安装\了\窃听\器\.\
+#The police have bugged my office.
+#版蔓篮 郴 荤公角俊 档没 厘摹甫 窍看促.
+
+42601:警察\找\回\了\被\盗\的\珠宝\.\
+#The police recovered the stolen jewellery.
+#版蔓篮 档迪嘎篮 焊籍阑 茫疽促.
+
+42602:警察\正在\调查\这\件\谋杀\案\.\
+#The police are going into the murder case.
+#版蔓篮 捞 混牢荤扒俊 措窍咯 炼荤 吝捞促.
+
+42603:警察\指控\那些\男人\犯\扰乱\治安\罪\.\
+#Those men were charged by the police with causing a disturbance.
+#版蔓篮 弊 巢磊裹牢阑 摹救阑 巩鄂窍霸 茄 了肺 绊惯窍看促.
+
+42604:警察\指控\他\酒醉\扰乱\社会\治安\!\
+#The police charged him with being drunk and disorderly.
+#版蔓篮 贱俊 秒秦 荤雀 摹救阑 巩鄂窍霸 茄 弊甫 绊惯窍看促.
+
+42605:警察\筑\起\屏障\来\控制\人群\.\
+#The police put up barriers to control the crowd.
+#版蔓篮 官府纳捞飘甫 媚辑 焙吝阑 烹力窍看促.
+
+42606:警察\抓住\嫌疑犯\的\脖子\.\
+#The policeman seized the suspect by the neck.
+#版蔓捞 区狼裹狼 格阑 棱疽促.
+
+42607:警察\阻止\愤怒\的\人群\前进\.\
+#The police held the angry crowd back.
+#版蔓篮 盒畴茄 焙吝狼 傈柳阑 历瘤窍看促.
+
+42608:警\方\把\那些\恶棍\抓\起来\.\
+#The police glomed the thugs.
+#版蔓螟篮 弊 摹救甸阑 棱疽促.
+
+42609:警\方\挫败\了\强盗\的\计\画\.\
+#The police balked the robber's plans.
+#版蔓篮 碍档狼 拌裙阑 谅例矫淖促.
+
+42610:警\方\大概\无力\做\任何\事\.\
+#The police would be powerless to do anything.
+#版蔓螟篮 酒付 葛电 老阑 夙蒸栏肺 且 巴捞促.
+
+42611:警\方\逮\到\正\闯\入\银行\的\强盗\.\
+#The police surprised a robber breaking into the bank.
+#版蔓螟篮 阜 篮青俊 魔涝茄 碍档甫 眉器窍看促.
+
+42612:警\方\封锁\该\区\,\禁止\示威\者\出入\.\
+#The police sealed off the area from demonstrators.
+#版蔓螟篮 捞 备开阑 豪尖窍咯 矫困磊狼 免涝阑 陛瘤窍看促.
+
+42613:警\方\害怕\激动\的\群众\会\暴动\.\
+#Police feared that the keyed-up crowd would riot.
+#版蔓螟篮 蕊盒茄 焙吝捞 气悼捞 瞪 鳖 捌沥窍看促.
+
+42614:警\方\怀疑\有\犯罪\的\行为\.\
+#The police suspect foulplay.
+#版蔓螟篮 裹了 青困乐绰 巴阑 狼缴窍看促.
+
+42615:警\方\加紧\搜捕\那个\罪犯\.\
+#Police have intensified their search for the criminal.
+#版蔓螟篮 弊 裹牢阑 荐祸窍绰单 歹宽 碍拳窍看促.
+
+42616:警\方\企图\制止\示威\游行\.\
+#The police tried to check the demonstration parade.
+#版蔓螟篮 矫困青柳阑 力瘤窍妨 窍看促.
+
+42617:警\方\无法\识破\窃贼\的\诡计\.\
+#The police were unable to penetrate the wiles of the cat burglar.
+#版蔓螟篮 例档裹狼 彼帆阑 舅辨捞 绝菌促.
+
+42618:警\方\一点儿\证据\都\没有\.\
+#The police didn't have a ` of proof.
+#版蔓篮 距埃狼 刘芭档 绝促.
+
+42619:警\方\已\对\你\提出\严重\的\指控\.\
+#The police have laid a serious charge against you.
+#版蔓螟篮 捞固 呈俊霸 决吝茄 绊惯阑 窍看促.
+
+42620:警\方\用\催\泪\瓦斯\驱散\示威\者\.\
+#The police dispersed the demonstrators with tear gas.
+#版蔓篮 弥风啊胶甫 结辑 矫困磊甫 盒魂矫淖促.
+
+42621:警\方\有\权\处理\这\类\事态\.\
+#The police have special powers to deal with this state of affairs.
+#版蔓螟篮 捞 荤怕甫 贸府且 鼻府啊 乐促.
+
+42622:警\方\掌握\了\几\条\有用\的\线索\.\
+#The police have several useful leads.
+#版蔓篮 割 啊瘤 蜡侩茄 窜辑甫 爱绊 乐促.
+
+42623:警\方\找到\她\下落\的\线索\.\
+#The police found a clue to her whereabouts.
+#版蔓篮 弊赤狼 青规狼 角付府甫 茫疽促.
+
+42624:警\方\正在\询问\罪案\的\情况\.\
+#The police are making inquiries about the crime.
+#版蔓篮 了救狼 惑怕甫 缴巩窍绊 乐促.
+
+42625:警\方\正在\追捕\一\个\在逃\的\犯人\.\
+#The police are pursuing an escaped prisoner.
+#版蔓篮 档噶吝牢 裹牢阑 眉器窍绰 吝捞促.
+
+42626:景色\并\不如\我们\所\期盼\的\那么\美\.\
+#The scenery was not so fine as we expected.
+#版摹绰 快府啊 抗惑茄 巴 父怒 酒抚翠瘤绰 臼疽促.
+
+42627:景色\之\美\无法\用\言语\表达\.\
+#The beauty of the scene cannot be expressed in words.
+#版摹狼 酒抚促框篮 攫绢肺 钎泅且 规过捞 绝促.
+
+42628:景象\之\美\一定\会\使\你\心动\.\
+#You won't fail to be moved by the beauty of the sight.
+#版包狼 酒抚促框篮 盒疙 呈狼 啊娇阑 汲饭霸 且 巴捞促.
+
+42629:静候\的\人\自\有\好\机会\来\.\
+#Everything comes to those who wait.
+#扁促府绰 荤恩俊霸绰 亮篮 扁雀啊 柯促.
+
+42630:敬\请\寄\给\我们\下列\剑\桥\书籍\.\
+#Kindly send me the following volumes in the Cambridge Edition.
+#快府俊霸 酒贰狼 姆宏府瘤 辑利阑 何媚林绞矫夸.
+
+42631:镜子\也\用\来\观看\我们\背后\的\东西\.\
+#Mirrors are also used for looking at things behind us.
+#芭匡档 快府 第狼 拱扒阑 包蔓窍绰单 敬促.
+
+42632:镜子\因\蒙\上水\气\而\模糊\不\清\.\
+#The mirror fogged up with the steam.
+#芭匡篮 荐刘扁肺 丹囚 儒复窍咯 肋 焊捞瘤 臼绰促.
+
+42633:径直\走\到\这\条\街道\的\尽头\.\
+#Go right on to the end of the street.
+#瘤抚辨篮 捞 档肺狼 场鳖瘤 唱 乐促.
+
+42634:竟然\发生\这\种\事\真是\丢脸\.\
+#It is a scandal that such a thing should happen.
+#狼寇肺 捞繁 老捞 惯积茄 巴篮 沥富 何掺矾款 老捞促.
+
+42635:竟然\会\在\这儿\碰到\你\!\
+#Fancy butting against you here!
+#舵观俊 咯扁俊辑 呈甫 父唱促聪!
+
+42636:竞赛\的\汽车\影\绰\不\清\地\飞驰\而\过\.\
+#The racing cars passed in a blur.
+#饭捞胶窍绰 磊悼瞒绰 葛嚼捞 焊捞瘤 臼霸 朝淀捞 瘤唱艾促.
+
+42637:竞选\运动\告捷\,\她\当选\了\.\
+#The campaign succeeded and she won the election.
+#版急 款悼捞 己傍窍咯 弊赤绰 寸急登菌促.
+
+42638:究竟\是\谁\获得\了\第\一\名\.\
+#Who is it that has won the first place?
+#档措眉 穿啊 老殿阑 登菌绰啊?
+
+42639:久病\後\他的\生命力\逐渐\在\枯竭\.\
+#His life is slowly draining away after a long illness.
+#坷罚 捍 饶俊 弊狼 积疙仿篮 痢瞒 绊哎登绢 啊绊 乐促.
+
+42640:九\点钟\的\火车\比\八\点钟\的\挤\.\
+#The trains are more crowded at night than at eight.
+#9矫狼 扁瞒绰 8矫 巴 焊促 赫后促.
+
+42641:酒鬼\是\指\喝酒\太\多\的\人\.\
+#A heavy drinker is one who drinks a lot or too much.
+#贱槽篮 贱篮 呈公 腹捞 付矫绰 荤恩阑 啊府挪促.
+
+42642:酒精\是\治疗\感冒\的\最\佳\药物\.\
+#Alcohol is the best remedy for colds.
+#舅内棵篮 皑扁甫 摹丰窍绰 啊厘 亮篮 距捞促.
+
+42643:酒\是\法国\许多\出口\商品\中\的\一\种\.\
+#Wine is one of the many commodities that France sells abroad.
+#贱篮 橇尔胶狼 腹篮 荐免 惑前 吝狼 窍唱捞促.
+
+42644:酒徒\喝酒\未必\胜\过\常人\.\
+#A drunkard does not necessarily outdrink an ordinary man.
+#贱绊贰啊 贱阑 付矫绰 巴捞 馆靛矫 老馆牢阑 捞辨 荐 乐绰 巴篮 酒聪促.
+
+42645:酒醉\开车\是\一\种\严重\的\违法行为\.\
+#Driving while drunk is a serious offence.
+#澜林 款傈篮 吝措茄 困过青困捞促.
+

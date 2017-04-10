@@ -1,0 +1,444 @@
+21530:子弹\嵌\在\墙壁\中\.\
+#The bullet has bedded itself in the wall.
+#藕舅捞 寒俊 冠躯促.
+
+21531:子弹\射\穿\了\他的\肺\.\
+#The bullet perforated his lung.
+#藕舅捞 弊狼 企甫 包烹沁促.
+
+21532:子弹\射\入\他的\肺\中\.\
+#The bullet has lodged in his lung.
+#藕舅捞 弊狼 企俊 筋酒 冠躯促.
+
+21533:子弹\直\穿过\墙壁\.\
+#The bullet went clear through the wall.
+#藕舅捞 肯傈洒 寒阑 墩菌促.
+
+21534:子女\应当\服从\父母\.\
+#It behooves a child to obey his parents.
+#磊赤绰 何葛俊霸 鉴辆秦具 茄促.
+
+21535:自\去年\起\收入\增加\了\.\
+#The receipts have increased since last year.
+#累斥何磐 荐涝捞 疵扁 矫累沁促.
+
+21536:自然\是\最好\的\医师\.\
+#nature is the best physician.
+#磊楷篮 啊厘 亮篮 狼荤捞促.
+
+21537:自行车\有\两个\轮子\.\
+#A bicycle has two wheels.
+#磊傈芭俊绰 官柠啊 2俺 乐促.
+
+21538:自由\必\连带\着\责任\.\
+#Liberty entails responsibility.
+#磊蜡俊绰 馆靛矫 氓烙捞 蝶弗促.
+
+21539:自由\的\化身\.\
+#Liberty incarnate.
+#磊蜡狼 拳脚.
+
+21540:自由\贸易\是\件\好事\.\
+#Free trade is a goodthing.
+#磊蜡公开篮 亮篮 老捞促.
+
+21541:字\被\分成\若干\词类\.\
+#Words are classified into parts of speech.
+#窜绢绰 割割 前荤肺 唱穿绢柳促.
+
+21542:字典\你\用\好了\没有\?\
+#Have you finished with the dictionary?
+#呈 荤傈 促 借聪?
+
+21543:字典\是\她\买\的\.\
+#The dictionary was bought by her.
+#荤傈篮 弊赤啊 魂 巴捞促.
+
+21544:字母\表里\有\多少\字母\?\
+#How many letters are there in the alphabet?
+#磊葛钎俊 磊葛啊 割 俺衬?
+
+21545:宗教\机构\被\免除\赋税\.\
+#Religious organizations are exempt from taxation.
+#辆背扁备绰 吵技肺何磐 力寇等促.
+
+21546:总裁\不久\将\辞\任\.\
+#The president will soon retire from office.
+#醚犁绰 坷贰瘤 臼酒 荤烙且 巴捞促.
+
+21547:总得\有\个人\去\.\
+#Somebody or other will have to go.
+#绢路电 穿焙啊 啊具 茄促.
+
+21548:总额\算\不\出\.\
+#The sum doesn't work out.
+#醚咀篮 拌魂蹬 唱坷瘤 臼疽促.
+
+21549:总公司\把\他\召回\日本\.\
+#The head office recalled him to Japan.
+#夯荤俊辑 弊甫 老夯栏肺 家券沁促.
+
+21550:总共\两\百\人\.\
+#There are two hundred persons alltold.
+#葛滴 200疙捞促.
+
+21551:总共\十\美元\.\
+#That'll be ten dollars.
+#葛滴 10崔矾捞促.
+
+21552:总共\有\二\百\名\参观\者\.\
+#In total,there were two hundred visitors.
+#葛滴 200疙狼 曼包磊啊 乐促.
+
+21553:总\收入\近\一\万\美元\.\
+#The total income approximates 10,000 dollars.
+#醚荐涝篮 父 崔矾俊 崔茄促.
+
+21554:总统\必然\再次\当选\.\
+#The President is safe to be reelected.
+#措烹飞篮 犁急捞 犬角窍促.
+
+21555:总统\检阅\了\舰队\.\
+#The President reviewed the fleet.
+#措烹飞篮 窃措甫 荤凯沁促.
+
+21556:总统\任命\他\当\国务卿\.\
+#The President nominated him Secretary of State.
+#措烹飞篮 弊甫 惫公厘包俊 烙疙沁促.
+
+21557:总统\任命\他\为\国务卿\.\
+#The President named him as Secretary of state.
+#措烹飞篮 弊甫 惫公厘包栏肺 烙疙沁促.
+
+21558:总统\授\权\他\办\那\件\事\.\
+#The President authorized him to do that.
+#措烹飞捞 弊俊霸 弊 老阑 窍档废 鼻茄阑 何咯沁促.
+
+21559:总统\下令\举行\大选\.\
+#The president called an election.
+#措烹飞捞 措急阑 角矫配废 疙飞沁促.
+
+21560:总统\向\全国\发表\讲话\.\
+#The President spoke to the nation.
+#措烹飞捞 傈惫俊 淬拳甫 沁促.
+
+21561:总统\向\人群\挥手\.\
+#The President gave the crowd a wave.
+#措烹飞捞 焙吝俊霸 颊阑 如甸菌促.
+
+21562:总之\,\那\计\画\告\吹\了\.\
+#The long and short of it is that the plan was a failure.
+#绢路电, 弊 拌裙篮 倾荤啊 登菌促.
+
+21563:总\重量\将近\一\百\磅\.\
+#The total weight approaches 100 pounds.
+#傈眉 公霸绰 100颇款靛俊 崔茄促.
+
+21564:走\吧\!\迈\开\腿\走\吧\.\
+#On your way.Make with the feet.
+#啊磊! 惯吧澜阑 郴刁磊!
+
+21565:走\过来\坐\在\这里\.\
+#Come and sit over here.
+#捞府客 咯扁俊 旧酒扼.
+
+21566:走开\!\到\那边\去\!\
+#scat !
+#波廉! 促弗 单肺 啊!
+
+21567:走开\!\滚开\!\
+#Out of my sight !
+#波廉!
+
+21568:走开\,\让\我\安静\点儿\!\
+#Go away and leave me in peace!
+#啊滚妨, 唱甫 去磊 出抵!
+
+21569:走开\,\讨厌\的\小家伙\!\
+#Buzz off,you nasty little boy!
+#波廉!
+
+21570:走开\.\快\给\我\走开\!\
+#Clear off.And quick,too!
+#波廉, 弧府 波廉!
+
+21571:走开\;\别\来\打扰\我\.\
+#Dance off now;I wish to be alone.
+#波廉, 唱甫 扒靛府瘤付.
+
+21572:走开\点\,\让\我\过去\.\
+#Move out of my way so I can pass.
+#郴啊 瘤唱啊霸 厚难.
+
+21573:走廊\通\向\饭厅\.\
+#The corridor opens into the dining hall.
+#汗档绰 侥寸栏肺 烹茄促.
+
+21574:走路\大\可\节省\.\
+#It would be a big saving to walk .
+#吧绢啊搁 腹捞 例距且 荐 乐促.
+
+21575:走路\要\当心\!\
+#Look where you're going!
+#辨阑 吧绢哎 锭 炼缴秦扼.
+
+21576:走私\运\入\许多\鸦片\
+#smuggle in a lot of opium
+#剐荐肺 腹篮 酒祈捞 款馆登绢 甸绢坷促.
+
+21577:走运\的\家伙\!\
+#The lucky bastard!
+#款捞 亮篮 磊侥!
+
+21578:走\这\条\路\能\到\车站\吗\?\
+#Will this road take me to the station?
+#捞 档肺肺 吧绢啊搁 沥幅厘俊 哎 荐 乐嚼聪鳖?
+
+21579:奏乐\送\走\旧\岁\
+#play the Old Year out
+#价备康脚阑 楷林窍促.
+
+21580:租约\下\个\月\满期\.\
+#The lease runs out next month.
+#烙措瞒拌距篮 促澜崔俊 父扁啊 等促.
+
+21581:足球\赛\因\雨\取消\.\
+#The football match was called off on account of rain.
+#绵备版扁绰 快玫栏肺 秒家登菌促.
+
+21582:足球\是\一\种\队\制\比赛\.\
+#Football is a team game.
+#绵备绰 评 版扁捞促.
+
+21583:足足\有\五\公里\远\.\
+#It's a good five kilometres away.
+#练洒 5km啊 等促.
+
+21584:阻止\蚊\蝇\孳\生\
+#keep the mosquitoes and flies down
+#颇府, 葛扁狼 锅侥阑 撅力窍促.
+
+21585:钻研\一\个\题目\
+#dig into a subject
+#茄 抛付甫 楷备窍促.
+
+21586:最\迟\九\时\到\这\来\.\
+#Be here at 9 at latest.
+#腹捞 词绢档 9矫俊 咯扁俊 客扼.
+
+21587:最初\,\一手\顺利\.\
+#initially,all went well.
+#贸澜俊绰 葛电 巴捞 鉴炼肺奎促.
+
+21588:最好\避开\他们\.\
+#They are better avoided.
+#弊甸阑 乔窍绰 巴捞 啊厘 亮促.
+
+21589:最好\的\防卫\就是\攻击\.\
+#The best defense is offense.
+#弥绊狼 规绢绰 傍拜捞促.
+
+21590:最好\还是\不\记\前嫌\.\
+#It's best to forgive and forget.
+#苞芭狼 俺款摹 臼疽带 老阑 镭绰 巴捞 啊厘 亮促.
+
+21591:最后\,\他\大\怒\而\去\.\
+#It ended in his going off in a rage.
+#搬惫 弊绰 农霸 拳甫 郴绊 啊滚啡促.
+
+21592:最后\还\可\吃\点\馒头\.\
+#And to end up with there'll be some steamed bread.
+#场俊绰 弊贰档 父滴甫 冈阑 巴捞促.
+
+21593:最后\决定\取决于\他\.\
+#The final decision rests with him.
+#弥辆搬沥篮 弊俊 狼秦 搬沥等促.
+
+21594:最坏\的\情况\还\没\到来\.\
+#The worst was yet to come.
+#弥厩狼 惑炔篮 酒流 坷瘤 臼疽促.
+
+21595:最近\他\来过\这\吗\?\
+#Has he been here lately ?.
+#弥辟俊 弊绰 咯扁俊 吭菌衬?
+
+21596:最近\我们\很\少\见到\你\.\
+#We haven't seen much of you lately.
+#夸令澜 快府绰 呈甫 芭狼 给 好促.
+
+21597:最近\物价\暴涨\.\
+#Prices have shot up lately.
+#弥辟 拱啊啊 气殿沁促.
+
+21598:最\远\也\不会\超过\一\哩\.\
+#At the farthest it can't be more than a mile.
+#腹捞 钢绢档 1付老篮 逞瘤 臼阑 巴捞促.
+
+21599:最\後\给\把手\上\螺丝\.\
+#screw the handle on last.
+#付瘤阜栏肺 颊棱捞甫 崔促.
+
+21600:最\後\他们\看到\陆地\.\
+#At last they sighted land.
+#搬惫 弊甸篮 腊瘤甫 好促.
+
+21601:罪恶\的\代价\是\死亡\.\
+#The wages of sin is death.
+#了厩狼 措啊绰 荤噶捞促.
+
+21602:罪恶\君临\万\邦\.\
+#Vice in every land doth monarchize.
+#了厩狼 父规俊 焙覆茄促.
+
+21603:罪犯\常\回到\犯罪\现场\.\
+#Criminals often return to the scene of the crime.
+#裹牢篮 亲惑 裹了泅厘俊 促矫 柯促.
+
+21604:罪犯\的\辩护\软弱\无力\.\
+#The prisoner's defence was rather weak.
+#裹牢狼 函疙篮 酒林 距沁促.
+
+21605:罪犯\们\密谋\抢劫\银行\.\
+#The criminals conspired to rob a bank.
+#裹牢甸篮 篮青阑 判扁肺 剐葛沁促.
+
+21606:罪过\可\归咎\於\他\.\
+#The crime is chargeable on him.
+#了苞绰 弊俊霸 倒妨脸促.
+
+21607:罪行\带来\惩罚\的\结果\.\
+#Crime has its sequence of punishment.
+#了绰 隆国狼 搬苞啊 蝶弗促.
+
+21608:遵从\某人\的\判断\
+#defer to sb.'s judgment
+#穿备狼 魄窜俊 版狼甫 钎窍促.
+
+21609:遵守\游戏\规则\
+#keep to the rules of a game
+#霸烙 痹蘑阑 瘤难扼.
+
+21610:遵照\医生\的\嘱咐\办事\
+#follow out the doctor's directions
+#狼荤狼 瘤矫甫 蝶扼 老阑 窍促.
+
+21611:昨天\伯父\来\探\视\我们\.\
+#We had a visit from our uncle yesterday.
+#绢力 奴酒滚瘤啊 快府甫 焊矾 坷继促.
+
+21612:昨天\发生\了\一\件\趣事\.\
+#A funny thing happened yesterday.
+#绢力 犁固乐绰 老捞 惯积沁促.
+
+21613:昨天\非常\热\.\
+#It was plenty hot yesterday.
+#绢力绰 公么 歹奎促.
+
+21614:昨天\股票\价格\上涨\.\
+#Share prices rose yesterday.
+#绢力绰 林啊啊 棵耳促.
+
+21615:昨天\你\到\哪儿\去\了\?\
+#Where did you go yesterday?
+#呈绰 绢力 绢叼俊 艾聪?
+
+21616:昨天\你\遇到\谁\?\
+#whom did you meet yesterday?.
+#呈绰 绢力 穿备甫 父车聪?
+
+21617:昨天\你\做\什么\工作\?\
+#What work were you doing yesterday?
+#呈绰 绢力 公郊 老阑 沁聪?
+
+21618:昨天\气温\很\低\.\
+#The temperature was very low yesterday.
+#绢力绰 扁柯捞 撤疽促.
+
+21619:昨天\热\得\象\火炉\一般\!\
+#Yesterday was a real broiler!
+#绢力绰 抄肺贸烦 歹奎促.
+
+21620:昨天\是\星期\几\?\
+#What day was yesterday?
+#绢力绰 公郊 夸老捞瘤?
+
+21621:昨天\是\星期六\.\
+#yesterday was Saturday.
+#绢力绰 配夸老捞菌促.
+
+21622:昨天\是\星期日\.\
+#Yesterday was Sunday.
+#绢力绰 老夸老捞菌促.
+
+21623:昨天\是\雨天\.\
+#It was rainy yesterday.
+#绢力绰 厚啊 吭促.
+
+21624:昨天\他\进\城\逛\了\逛\.\
+#He went to town for a stroll yesterday.
+#绢力 弊绰 矫郴俊 啊辑 倒酒促虫促.
+
+21625:昨天\他\没有\去看电影\.\
+#He did not go to the cinema yesterday.
+#绢力 弊绰 康拳焊矾 啊瘤 臼疽促.
+
+21626:昨天\他\突然\来\看\我\.\
+#He blew in on me yesterday.
+#绢力 弊啊 癌磊扁 唱甫 焊矾 吭促.
+
+21627:昨天\他\应邀\出外\吃饭\.\
+#He was invited out to a meal yesterday.
+#弊绰 绢力 檬措登绢 唱啊辑 历翅阑 冈菌促.
+
+21628:昨天\天气\怎样\?\
+#What was the weather like yesterday?
+#绢力 朝揪绰 绢懂绢夸?
+
+21629:昨天晚上\我\不\在家\.\
+#I wasn't in last night.
+#绢连广 唱绰 笼俊 绝菌促.
+
+21630:昨天\温度\急剧\上升\.\
+#The temperature raced up yesterday.
+#绢力绰 扁柯捞 鞭拜洒 惑铰沁促.
+
+21631:昨天\我的\钱\被\偷\走\了\.\
+#I hed my money stoler yesterday.
+#绢力 唱绰 捣阑 档迪嘎疽促.
+
+21632:昨天\我\讲\了\多少\?\
+#How much did I cover yesterday ?.
+#绢力 唱绰 倔付唱 娟扁沁唱夸?
+
+21633:昨天\我\偶然\碰见\他\.\
+#It so happened that I saw him yesterday.
+#绢力 唱绰 快楷洒 弊甫 父车促.
+
+21634:昨天\我\碰巧\遇见\他\.\
+#I happened to see him yesterday.
+#绢力 唱绰 快楷洒 弊甫 父车促.
+
+21635:昨天\我\生病\了\.\
+#yesterday I was sick.
+#唱绰 绢力 捍捞 车菌促.
+
+21636:昨天\下\了\一\场\大雪\.\
+#We had a heavy snow yesterday.
+#绢力绰 奴传捞 郴啡促.
+
+21637:昨天\下\了\一天\雨\.\
+#Yesterday it rained all day.
+#绢力绰 窍风辆老 厚啊 郴啡促.
+
+21638:昨天下午\你\在\哪儿\?\
+#Where were you yesterday afternoon.
+#绢力 坷饶俊 呈绰 绢叼俊 乐菌聪?
+
+21639:昨天\修路\停\水\两\小时\.\
+#The water was cut for two hours yeaterday while the road was being repaired.
+#绢力绰 档肺 荐府肺 牢秦 2矫埃 拱捞 救 唱吭促.
+
+21640:昨天\夜里\有\严重\霜冻\.\
+#There was a hard frost last night.
+#绢连广俊绰 腹篮 辑府啊 郴啡促.
+

@@ -1,0 +1,4000 @@
+16639:我\给\她\一\支\笔\.\
+#I gave her a pen.
+#唱绰 弊赤俊霸 楷鞘 茄 磊风甫 林菌促.
+
+16640:我\给\自己\倒\了\一\杯\茶\.\
+#I poured myself a cup of tea.
+#唱绰 胶胶肺俊霸 瞒甫 茄儡 蝶耳促.
+
+16641:我\根本\无意\惹\你\生气\.\
+#I had no thought of annoying you.
+#唱绰 呈甫 鲍酚囚辑 拳唱霸 且 积阿篮 绝菌促.
+
+16642:我\跟\别人\一样\工作\.\
+#I work as others do.
+#唱绰 促弗 荤恩苞 度鞍捞 老茄促.
+
+16643:我\跟\父母\同\住\.\
+#I live with my parents.
+#唱绰 何葛丛苞 窃膊 魂促.
+
+16644:我\跟\他\很\要好\.\
+#I'm matey with him.
+#唱绰 弊客 酒林 模窍霸 瘤辰促.
+
+16645:我\跟\他\相识\.\
+#I am acquainted with him.
+#唱绰 弊客 救搁捞 乐促.
+
+16646:我\跟\她\只是\面熟\.\
+#I know her by sight .
+#唱绰 弊赤甫 窜瘤 倔奔父 舅绊 乐阑 挥捞促.
+
+16647:我\工作\比\你\加倍\努力\.\
+#I work twice as hard as you.
+#唱绰 呈狼 滴 硅肺 凯缴洒 老茄促.
+
+16648:我\工作\忙\得\不可\开交\.\
+#I'm up to the eyes in work.
+#唱绰 老捞 官狐辑 绢骂且 荐啊 绝促.
+
+16649:我\恭喜\你\结婚\.\
+#I congratulate you on your marriage.
+#寸脚狼 搬去阑 绵窍钦聪促.
+
+16650:我\恭喜\你\考试\及格\.\
+#I congratulate you on passing the examination.
+#寸脚捞 矫氰俊 钦拜茄 巴阑 绵窍钦聪促.
+
+16651:我\估计\你\想\出去\.\
+#I figured that you'd want to go out.
+#唱绰 匙啊 唱啊绊 酵绢且 芭扼绊 积阿茄促.
+
+16652:我\估计\他\马上\就\会\来\.\
+#I reckon that he'll come soon.
+#唱绰 弊啊 梆 倒酒棵 巴捞扼绊 积阿茄促.
+
+16653:我\估计\她\三\十\五\岁\.\
+#I estimate her age at thirty-five.
+#唱绰 弊赤啊 35技扼绊 眠沥茄促.
+
+16654:我\估量\不\出\他的\为人\.\
+#I can't weigh him up.
+#唱绰 弊狼 牢前阑 乞啊且 荐 绝促.
+
+16655:我\管\它\什么\政治\.\
+#I don't give a shit about politics.
+#
+
+16656:我国\自然\资源\丰富\
+#Our country abounds in natural resources.
+#快府唱扼绰 磊楷磊盔捞 浅何窍促.
+
+16657:我\果然\呜\了\.\
+#I sure was right.
+#
+
+16658:我\害怕\他的\到来\.\
+#I dread him coming.
+#
+
+16659:我\害怕\在\冰\上\滑倒\.\
+#I was scared of slipping on the ice.
+#唱绰 倔澜魄俊辑 固掺矾廉 逞绢龙鳖 毫 滴妨奎促.
+
+16660:我\函购\几\本\罕见\的\书\.\
+#I sent away for some rare books.
+#唱绰 割 鼻狼 锐蓖茄 氓阑 快祈栏肺 林巩窍咯 备涝沁促.
+
+16661:我\喊\到\声音\变\哑\.\
+#I shouted myself hoarse.
+#唱绰 家府甫 龙矾辑 格捞 浆菌促.
+
+16662:我\毫不\在\
+#I don't care a button.
+#唱绰 炼陛档 俺狼摹 臼绰促.
+
+16663:我\好\慕\你\!\
+#How I envy you!
+#唱绰 匙啊 倔付唱 何矾款瘤!
+
+16664:我\好像\在\喝\水\.\
+#I could be drinking water.
+#唱绰 付摹 拱阑 付矫绊 乐绰 巴 鞍促.
+
+16665:我\好\一些\了\.\
+#I am something better.
+#唱绰 粱 亮酒脸促.
+
+16666:我\耗\尽\了\全部\的\精力\.\
+#I have used up all my energy.
+#唱绰 葛电 沥仿阑 促 结滚啡促.
+
+16667:我\和\那\事件\没有\关系\.\
+#I had no part in the incident.
+#唱绰 弊 荤扒苞 酒公繁 包访捞 绝促.
+
+16668:我\和\你\打赌\.\
+#I will lay you a bet.
+#唱绰 呈客 郴扁甫 窍摆促.
+
+16669:我\和\你\分担\费用\.\
+#I'll share the cost with you.
+#唱绰 呈客 版厚甫 盒淬且 巴捞促.
+
+16670:我\和\你\父亲\祝\你\幸福\.\
+#Your father and I wish you well.
+#唱客 匙 何模篮 匙啊 青汗窍扁甫 官鄂促.
+
+16671:我\和\你\有\同样\困难\.\
+#I have the same trouble as you.
+#唱绰 呈客 度鞍篮 绢妨框捞 乐促.
+
+16672:我\和\妻子\同年\.\
+#My wife and I are of the same age.
+#唱客 酒郴绰 悼癌捞促.
+
+16673:我\和\他\很\要好\.\
+#I am familiar with him.
+#唱绰 弊客 酒林 模窍霸 瘤辰促.
+
+16674:我\和\他\算\清帐\了\.\
+#I'm quits with him.
+#唱绰 弊客 拌魂阑 柄昌捞 场陈促.
+
+16675:我\和\他\谈\各种\事情\.\
+#I conversed with him on various subjects.
+#唱绰 弊客 咯矾 啊瘤 老俊 措秦 淬拳沁促.
+
+16676:我\和\他\同行\.\
+#I went with him.
+#唱绰 弊客 悼青沁促.
+
+16677:我\和\他\有\特殊\的\关系\.\
+#I stood to him in a special relation.
+#唱绰 弊客 漂喊茄 包拌啊 乐促.
+
+16678:我\和\她\一样\爱\你\.\
+#I love you as much as she .
+#唱绰 弊赤父怒 呈甫 荤尔茄促.
+
+16679:我\和\约翰\是\老\朋友\了\.\
+#John and I are old friends.
+#唱客 John篮 坷罚 模备捞促.
+
+16680:我\和\珍\已\断绝\关系\.\
+#I'm through with Jane.
+#唱绰 Jane苞 捞固 楷遏捞 谗板促.
+
+16681:我\很\抱歉\迟到\.\
+#I'm dreadfully sorry to be late.
+#词绢辑 沥富 固救钦聪促.
+
+16682:我\很\笨\,\不是\吗\?\
+#I'm stupid,aren't I?.
+#唱 沥富 港没窍瘤?
+
+16683:我\很\不\愉快\.\
+#I was more than somewhat displeased.
+#唱绰 沥富 榴疤瘤 臼促.
+
+16684:我\很\不\愿意\打扰\你\.\
+#I hate to disturb you.
+#唱绰 搬内 寸脚阑 规秦窍绊 酵瘤 臼促.
+
+16685:我\很\担心\他\.\
+#I'm very disturbed about him.
+#唱绰 弊啊 概快 捌沥等促.
+
+16686:我\很\高兴\跟\你\见面\.\
+#I am very happy to meet you.
+#唱绰 寸脚阑 父唱辑 概快 扁晦聪促.
+
+16687:我\很\高兴\见到\你\.\
+#I am pleased to meet you.
+#唱绰 寸脚阑 父唱辑 概快 馆癌嚼聪促.
+
+16688:我\很\高兴\你\来\了\.\
+#I am pleased you have come.
+#唱绰 寸脚捞 客辑 概快 扁晦聪促.
+
+16689:我\很\高兴\她\想念\我\.\
+#It delighted me that she missed me.
+#弊赤啊 唱甫 弊府况茄促聪 概快 扁晦聪促.
+
+16690:我\很\高兴\我\不在\那\
+#I'm very glad I wasn't there.
+#唱绰 郴啊 芭扁俊 绝菌促绰 巴捞 概快 促青胶反促.
+
+16691:我\很\高兴\再\见到\你\.\
+#It gives me great pleasure to meet you again.
+#呈甫 促矫 父唱辑 概快 扁悔促.
+
+16692:我\很\高兴\做\完\那\工作\.\
+#I'm glad to be shot of the work.
+#唱绰 弊 老阑 促 场郴辑 概快 扁悔促.
+
+16693:我\很久\没有\通信\.\
+#I have been silent for a long time.
+#唱绰 酒林 坷阀悼救 楷遏窍瘤 给沁促.
+
+16694:我\很快\就\回来\.\
+#I'll be right back.
+#唱绰 梆 倒酒棵 巴捞促.
+
+16695:我\很快\就\睡\熟\了\.\
+#I soon dropped into a profound sleep.
+#唱绰 陛规 泪捞 谦 甸菌促.
+
+16696:我\很快\就要\走\了\.\
+#I am due to leave quite soon now.
+#唱绰 梆 啊毫具 钦聪促.
+
+16697:我\很\忙\,\别\打扰\我\.\
+#I'm busy don't bother me.
+#郴啊 瘤陛 酒林 官悔聪 规秦窍瘤 富酒扼.
+
+16698:我\很\清楚\你\在\想\什么\.\
+#I know damn well what you're thinking about.
+#唱绰 匙啊 公郊 积阿阑 窍绊 乐绰瘤 肋 救促.
+
+16699:我\很\容易\疲劳\.\
+#I'm inclined to get tired easily.
+#唱绰 奖霸 乔肺甫 蠢长促.
+
+16700:我\很\少\见到\他\.\
+#I have seldom seen him.
+#唱绰 酒林 啊阐 弊甫 父抄促.
+
+16701:我\很\少\生病\.\
+#I am seldom sick.
+#唱绰 捍捞 肋 唱瘤 臼绰促.
+
+16702:我\很\讨厌\别人\嘴\.\
+#I detest being interrupted.
+#唱绰 促弗 荤恩捞 富曼斑窍绰 巴阑 各矫 饺绢茄促.
+
+16703:我\很\讨厌\蛇\.\
+#I have a repulsion for snakes.=Snakes have a repulsion for me.
+#唱绰 轨阑 区坷茄促.
+
+16704:我\很\讨厌\他\.\
+#He is repugnant to me.
+#唱绰 弊啊 酒林 饺促.
+
+16705:我\很\讨厌\洗\盘子\.\
+#I loathe washing dishes.
+#唱绰 弊俯 灸绰 老捞扼搁 酒林 柳历府啊 抄促.
+
+16706:我\很\同情\你\.\
+#You have my sympathies.
+#唱绰 呈甫 概快 悼沥茄促.
+
+16707:我\很\希望\你\来\.\
+#I'd love you to come.
+#唱绰 匙啊 坷扁甫 官鄂促.
+
+16708:我\很\喜爱\运动\.\
+#I have a strong inclination for sports.
+#唱绰 款悼阑 酒林 亮酒茄促.
+
+16709:我\很\喜欢\看电影\.\
+#I am big on movies.
+#唱绰 炮饭厚傈 焊绰 巴阑 亮酒茄促.
+
+16710:我\很\喜欢\看\这\部\电影\.\
+#I enjoyed the film.
+#唱绰 捞 康拳甫 榴败 夯促.
+
+16711:我\很\喜欢\那\辆\旧\汽车\.\
+#I am very attached to that old car.
+#唱绰 弊 坷贰等 瞒啊 亮促.
+
+16712:我\很\喜欢\你的\新\毛衣\.\
+#I adore your new sweater.
+#唱绰 呈狼 货 胶傀磐啊 解 付澜俊 电促.
+
+16713:我\很\喜欢\你的\新\衣\.\
+#I am crazy about your new dress.
+#唱绰 呈狼 货 渴捞 酒林 亮促.
+
+16714:我\很\喜欢\他\.\
+#I felt an attachment for him.
+#唱绰 弊甫 概快 亮酒茄促.
+
+16715:我\很\喜欢\英语\教学\.\
+#Therefore,I am very much interested in TEASL.
+#唱绰 康绢 啊福摹绰 巴阑 概快 亮酒茄促.
+
+16716:我\很\想\喝\一\杯\.\
+#I'm dying for a drink.
+#茄儡 付矫绊 酵促.
+
+16717:我\很\想见\你\.\
+#I'd like to see you.
+#唱绰 呈甫 概快 父唱绊 酵促.
+
+16718:我\很\想\看到\它\.\
+#I should like to have seen it.
+#唱绰 弊巴阑 概快 焊绊 酵促.
+
+16719:我\很\想\买\一\辆\新\轿车\.\
+#I'm interested in buying a new car.
+#唱绰 货 瞒甫 茄措 荤绊 酵促.
+
+16720:我\很\想\去\游泳\.\
+#I fancy a swim.
+#唱绰 荐康窍矾 啊绊 酵促.
+
+16721:我\很\想\有\个\假期\.\
+#I badly want a holiday .
+#唱绰 绒啊甫 郴绊 酵促.
+
+16722:我\很\想\揍\他\.\
+#I had a good mind to strike him.
+#唱绰 弊甫 概快 锭府绊 酵促.
+
+16723:我\很\幸运\地\遇见\了\她\.\
+#I met her in a happy hour.
+#唱绰 款捞 亮霸档 快楷洒 弊赤甫 父车促.
+
+16724:我\很\厌\幸\那\不\严重\.\
+#I was grateful that it was nothing serious.
+#唱绰 弊巴捞 缴阿窍瘤 臼促绰 巴阑 皑荤窍霸 积阿茄促.
+
+16725:我\很\尊敬\他\.\
+#I regard him highly.
+#唱绰 弊甫 概快 粮版茄促.
+
+16726:我\狠狠\的\挨\了\一\顿\骂\.\
+#I had a sharp scolding.
+#唱绰 龋登霸 垮阑 冈菌促.
+
+16727:我\哄\小孩\睡觉\.\
+#I coaxed my child to sleep.
+#唱绰 酒捞甫 崔贰辑 犁奎促.
+
+16728:我\后悔\从未\上\过\大学\.\
+#I rue never having been to university.
+#唱绰 措切俊 啊瘤 臼篮 巴阑 饶雀茄促.
+
+16729:我\滑倒\跌\成\四\脚\朝\天\.\
+#I slipped and went sprawling.
+#唱绰 固掺矾廉辑 第肺 国贩 唱磊狐脸促.
+
+16730:我\怀疑\那\是否\真实\.\
+#I am doubtful whether it is true.
+#唱绰 弊巴捞 柳角牢瘤 酒囱瘤 狼缴胶反促.
+
+16731:我\怀疑\他的\动机\.\
+#I suspect his motives.
+#唱绰 弊狼 悼扁啊 狼缴胶反促.
+
+16732:我\怀疑\他\是否\诚实\.\
+#I doubt whether he is sincere.
+#唱绰 弊啊 己角茄瘤 酒囱瘤 狼缴捞 埃促.
+
+16733:我\怀疑\她\是否\会\出席\.\
+#I doubt whether she will be present.
+#唱绰 弊赤啊 免籍且 巴牢瘤啊 狼缴胶反促.
+
+16734:我\怀疑\有\诈\.\
+#I suspect some trick.
+#唱绰 加烙荐啊 乐阑鳖 狼缴胶反促.
+
+16735:我\怀疑\自己的\眼睛\.\
+#I doubted my own eyes.
+#唱绰 郴 传阑 狼缴沁促.
+
+16736:我\还\不\晓得\那\件\事\.\
+#I have yet to learn it.
+#唱绰 酒流 弊 老俊 措秦 肋 葛弗促.
+
+16737:我\还\得\核实\一些\疑点\.\
+#I have yet to check up some doubtful points.
+#唱绰 狼缴 啊绰 痢阑 促矫 犬牢秦毫具 茄促.
+
+16738:我\还\会\给\你\写\信\的\.\
+#I'll write to you again,Laura.
+#唱绰 促矫 呈俊霸 祈瘤甫 镜 巴捞促.
+
+16739:我\还\没\穿\好\衣服\.\
+#I'm not decent.
+#唱绰 酒流 渴阑 促 涝瘤 给沁促.
+
+16740:我\还\没有\读\完\那\本\书\.\
+#I haven't finished reading that book yet.
+#唱绰 酒流 弊 氓阑 促 给 佬菌促.
+
+16741:我\还\没有\决定\.\
+#I haven't decided yet.
+#唱绰 酒流 搬沥窍瘤 给沁促.
+
+16742:我\还\没有\看\完\这\本\书\.\
+#I haven't looked through the book yet.
+#唱绰 酒流 捞 氓阑 促 佬瘤 给沁促.
+
+16743:我\还\没有\完全\醒\过来\.\
+#I'm still waking up.
+#唱绰 酒流 泪俊辑 肯傈洒 柄瘤 臼疽促.
+
+16744:我\还\没有\完全\准备好\.\
+#I'm not quite ready.
+#酒流 肯傈洒 霖厚登瘤 臼疽促.
+
+16745:我\还\没\准备好\.\
+#I ain't ready.
+#酒流 霖厚啊 促 登瘤 臼疽促.
+
+16746:我\还\能\信任\谁\呢\?\
+#Who else can I trust?.
+#郴啊 肚 穿备甫 瓜阑 荐 乐摆嚼聪鳖?
+
+16747:我\还\要\一些\红\萝卜\.\
+#I'll have some more carrot.
+#唱绰 肚 寸辟捞 炼陛 鞘夸钦聪促.
+
+16748:我\还有\更\坏\的\事\要\说\.\
+#I have worse to tell.
+#唱绰 肚 歹 亮瘤臼篮 老俊 措秦 娟扁窍妨绊 钦聪促.
+
+16749:我\还有\一点\要\说\.\
+#There's one more thing I want to say.
+#唱绰 酒流 且 富捞 粱 乐嚼聪促.
+
+16750:我\患\了\很\严重\的\感冒\.\
+#I had a shocking cold.
+#唱绰 酒林 缴茄 皑扁俊 吧啡促.
+
+16751:我\恢复\了\原来\的\职务\.\
+#I was reinstated in my former office.
+#唱绰 盔贰狼 流公甫 雀汗沁促.
+
+16752:我\回家\取\书\.\
+#I went home for my book.
+#唱绰 氓阑 啊瘤矾 笼栏肺 倒酒艾促.
+
+16753:我\回来\是\由于\下雨\了\.\
+#I came back because of the rain.
+#唱绰 厚啊 坷扁 锭巩俊 倒酒吭促.
+
+16754:我\会\按\日\付钱\给\你\.\
+#I'll pay you by the day.
+#唱绰 朝楼措肺 呈俊霸 捣阑 瘤阂窍摆促.
+
+16755:我\会\把\你的\报告\归档\.\
+#I'll keep your report on file.
+#唱绰 呈狼 焊绊辑甫 盒幅窍咯 焊粮且 巴捞促.
+
+16756:我\会\把\钱\汇\给\你\.\
+#I'll remit you the money.= I'll remit the money toyou.
+#郴啊 呈俊霸 捣阑 价陛且 巴捞促.
+
+16757:我\会\到\你\那\去\.\
+#I will come to you.
+#郴啊 呈俊霸 啊摆促.
+
+16758:我\会\负责\做\那\件\事\.\
+#I will take the responsibility of doing it.
+#唱绰 弊 老阑 窍绰单 氓烙阑 龙 巴捞促.
+
+16759:我\会\高兴\得\想\跳舞\.\
+#I could have danced for joy.
+#
+
+16760:我\会\给\你\回\电话\.\
+#I'll call you back.
+#郴啊 呈俊霸 促矫 傈拳窍摆促.
+
+16761:我\会\跟\你\算\清\这\笔\帐\.\
+#You'll swing for this.
+#
+
+16762:我\会\很快\再\联系\的\.\
+#I'll be in touch soon.
+#郴啊 梆 促矫 楷遏窍摆促.
+
+16763:我\会\记\着\寄\这些\信\.\
+#I'll remember to mail these letters.
+#唱绰 捞 祈瘤甫 何媚具 茄促绰 巴阑 扁撅秦具 茄促.
+
+16764:我\会\接通\你的\电话\.\
+#I will put you through .
+#郴啊 寸脚狼 傈拳甫 楷搬秦 靛府摆嚼聪促.
+
+16765:我\会\尽力\而\为\.\
+#I will do what I can
+#唱绰 弥急阑 促且 巴捞促.
+
+16766:我\会\尽\全力\协助\你\.\
+#I will do everything in my power to assist you.
+#唱绰 乐绰 塞阑 促秦 呈俊霸 蛆炼且 巴捞促.
+
+16767:我\会\尽\我\所\能\帮助\你\.\
+#I'll help you in so far as I can.
+#唱绰 郴啊 且 荐 乐绰 茄 呈甫 档匡 巴捞促.
+
+16768:我\会\开车\送\你\回家\.\
+#I will drive you home.
+#郴啊 瞒肺 呈甫 笼俊鳖瘤 官贰促林摆促.
+
+16769:我\会\马上\去\那里\.\
+#I'll be there in a minute.
+#唱绰 梆 芭扁俊 哎 巴捞促.
+
+16770:我\会\坦白\地\对\你\说\.\
+#I'll be straight with you.
+#唱绰 贾流窍霸 呈俊霸 富且 巴捞促.
+
+16771:我\会\欣然\前来\.\
+#I'll gladly come.
+#唱绰 扁波捞 棵 巴捞促.
+
+16772:我\会\永远\记\着\这个\人\.\
+#I will remember this man always.
+#唱绰 康盔洒 捞 荤恩阑 扁撅且 巴捞促.
+
+16773:我\会\在下\封\信\告诉\你\.\
+#I will tell you in my next.
+#郴啊 促澜 祈瘤俊 呈俊霸 舅妨林摆促.
+
+16774:我\婚\後\很\幸福\.\
+#I'm very happily married.
+#唱绰 搬去茄 饶 概快 青汗窍促.
+
+16775:我\浑身\颤抖\.\
+#I shivered all over.
+#唱绰 柯个捞 饶甸饶甸 冻啡促.
+
+16776:我\浑身\湿\透\.\
+#I was wet through.
+#唱绰 柯个捞 褥欢 隶菌促.
+
+16777:我\浑身\疼痛\.\
+#I ache all over.
+#唱绰 柯个捞 酒橇促.
+
+16778:我\获得\学位\了\.\
+#I have got my degree.
+#唱绰 切困甫 裙垫沁促.
+
+16779:我\获准\可以\不\出席\了\.\
+#My presence has been excused.
+#唱绰 免籍窍瘤 臼酒档 等促绰 倾啊甫 掘菌促.
+
+16780:我\获准\早\些\离开\.\
+#I got the OK to leave early.
+#唱绰 粱 老嘛 啊档 亮促绰 倾遏阑 罐疽促.
+
+16781:我\激动\得\说\不\出\话\来\.\
+#My heart is too full for words.
+#唱绰 皑拜秦辑 酒公 富档 且 荐 绝菌促.
+
+16782:我\极为\痛苦\创\.\
+#I was in great pain.
+#唱绰 辈厘洒 酒仆促.
+
+16783:我\极\想要\一\杯\水\.\
+#I was desperate for a glass of water.
+#唱绰 拱捞 瘤刀洒 付矫绊 酵菌促.
+
+16784:我\及\不到\围墙\的\顶端\.\
+#I could not reach the top of the wall.
+#唱绰 淬狼 怖措扁俊 固摹瘤 给沁促.
+
+16785:我\急\行\去\迎接\他\.\
+#I flew to meet him.
+#唱绰 鞭洒 啊辑 弊甫 嘎捞沁促.
+
+16786:我\即刻\离\开了\他\家\.\
+#I quitted his house instantly.
+#唱绰 溜矫 弊狼 笼阑 栋车促.
+
+16787:我\挤\过\狭\囗\.\
+#I squeezed through the narrow opening.
+#唱绰 良篮 涝备甫 埃脚洒 厚笼绊 瘤唱艾促.
+
+16788:我\几\发狂\.\
+#I was almost distracted.
+#唱绰 芭狼 固磨 瘤版捞菌促.
+
+16789:我\几\听\不见\他的\话\.\
+#I can scarcely hear him.
+#唱绰 弊狼 富捞 芭狼 甸府瘤 臼疽促.
+
+16790:我\几\忘\了\那\件\事\.\
+#I'd almost forgotten that.
+#唱绰 弊 老阑 芭狼 镭菌促.
+
+16791:我\几\要\哭\出来\!\
+#I could have wept !
+#唱绰 窍付磐搁 匡 环沁促.
+
+16792:我\几\一无所获\.\
+#I gained hardly anything.
+#唱绰 掘篮 巴捞 芭狼 酒公巴档 绝促.
+
+16793:我\几乎\从来不\看\戏\.\
+#I hardly ever go to the theatre.
+#唱绰 捞力鳖瘤 芭狼 楷必阑 夯 利捞 绝促.
+
+16794:我\寄\给\他\一\张\耶\诞\卡\.\
+#I posted him a Christmas card.
+#唱绰 弊俊霸 己藕墨靛甫 何闷促.
+
+16795:我\记\不得\见\过\他\.\
+#I can't recall seeing him.
+#唱绰 弊赤甫 夯 利捞 乐绰瘤 积阿捞 唱瘤 臼绰促.
+
+16796:我\记\不得\怎样\调\它\.\
+#I cannot recall how to cook it.
+#唱绰 弊巴阑 绢痘霸 夸府窍绰瘤 扁撅秦尘 荐 绝促.
+
+16797:我\记\不\起\这\件\事\了\.\
+#I can't fetch it back to mind.
+#唱绰 捞 老阑 扁撅秦尘 荐 绝促.
+
+16798:我\记得\很\清楚\.\
+#I remember it well.
+#唱绰 度度洒 扁撅茄促.
+
+16799:我\记得\我\没有\见\过\她\.\
+#I never saw her to my knowledge.
+#郴 扁撅栏肺绰 弊赤甫 父抄 利捞 绝促.
+
+16800:我\记\下\了\她\所\说\的\.\
+#I wrote down what she had said.
+#唱绰 弊赤啊 茄 富阑 扁撅沁促.
+
+16801:我\家\靠近\我们的\学校\.\
+#It is near our school.
+#快府笼篮 切背俊辑 啊滨促.
+
+16802:我\家\离\车站\很\近\.\
+#My house is convenient to the station.
+#快府笼篮 沥芭厘俊辑 酒林 啊滨促.
+
+16803:我\家人\来信\问好\.\
+#My family send a hello.
+#快府 啊练捞 祈瘤甫 焊郴辑 救何甫 拱菌促.
+
+16804:我\家\是\一\个\旧式\家庭\.\
+#mine is an old family.
+#
+
+16805:我\家\随时\欢迎\你\来\.\
+#You are always welcome at my house.
+#快府甸篮 攫力电 匙啊 坷绰 巴阑 券康茄促.
+
+16806:我\加快\了\脚步\.\
+#I hurried my steps.
+#唱绰 吧澜阑 弧府 沁促.
+
+16807:我\驾\车\驶\下去\.\
+#I drove the car down.
+#唱绰 瞒甫 款傈秦辑 郴妨艾促.
+
+16808:我\坚持\要求\他\去\.\
+#I insisted that he should go.
+#唱绰 弊啊 啊具 茄促绊 绊笼沁促.
+
+16809:我\坚信\这\是\正确\的\.\
+#I have a strong persuasion that this is true.
+#唱绰 捞巴捞 沥犬窍促绊 被霸 瓜绰促.
+
+16810:我\简直\摸\不\透\他\.\
+#I just can't figure him out.
+#唱绰 沥富 弊甫 捞秦且 荐 绝促.
+
+16811:我\简直\认\不\出\她\来\了\.\
+#I could scarcely recognize her.
+#唱绰 傈囚 弊赤甫 舅酒焊瘤 给沁促.
+
+16812:我\简直\无法\移动\它\.\
+#I can't budge it.
+#唱绰 弊巴阑 炼陛档 框流老 荐啊 绝促.
+
+16813:我\简直\要\饿\死\了\.\
+#I'm simply starving.
+#唱绰 沥富 硅啊 绊颇 磷摆促.
+
+16814:我\见到\你\很\高兴\.\
+#I am glad to see you.
+#唱绰 呈甫 父唱辑 概快 扁悔促.
+
+16815:我\见到\她\感到\惊讶\.\
+#I was astonished to see her.
+#唱绰 弊赤甫 焊绊 濒娄 愁耳促.
+
+16816:我见\过\他\本人\.\
+#I saw the man himself.
+#唱绰 官肺 弊 荤恩阑 夯 利捞 乐促.
+
+16817:我\建议\讲\英语\.\
+#I suggest speaking English.
+#唱绰 康绢肺 富窍磊绊 力救沁促.
+
+16818:我\建议\立刻\支付\该\款\.\
+#I suggested that the sum be paid immediately.
+#唱绰 瘤阂秦具 且 捣阑 溜矫 瘤阂窍磊绊 力救沁促.
+
+16819:我\建议\明天\动身\.\
+#I propose to start tomorrow.
+#唱绰 郴老 免惯窍磊绊 扒狼沁促.
+
+16820:我\建议\休息\半\小时\.\
+#I propose resting for half an hour.
+#唱绰 30盒父 浆磊绊 力救沁促.
+
+16821:我\将\出席\这\次\会议\.\
+#I shall be attending the meeting.
+#唱绰 捞锅 雀狼俊 曼籍窍妨绊 茄促.
+
+16822:我\将\躲\在\门\后\.\
+#I'll hide behind the door.
+#唱绰 巩 第俊 见栏妨绊 茄促.
+
+16823:我\将\负责\他的\安全\.\
+#I will answer for his safety.
+#唱绰 弊狼 救傈阑 氓烙龙 巴捞促.
+
+16824:我\将\概括\地\说\.\
+#I will put it in a nutshell.
+#唱绰 按包利栏肺 富窍妨 茄促.
+
+16825:我\将\告诉\你\那个\秘密\.\
+#I'll let you in on a secret.
+#唱绰 呈俊霸 弊 厚剐阑 富秦林妨 茄促.
+
+16826:我\将\给\你\回\电话\.\
+#I'll ring you back.
+#唱绰 呈俊霸 促矫 傈拳窍摆促.
+
+16827:我\将\给\她\打电话\.\
+#I'm going to ring her up.
+#唱绰 弊赤俊霸 傈拳甫 窍妨 茄促.
+
+16828:我\将\乐意\前来\.\
+#I shall be delighted to come.
+#唱绰 如蔫洒 棵 巴捞促.
+
+16829:我\将\离家\去\避暑\.\
+#I shall be away for the summer .
+#唱绰 笼阑 栋唱 乔辑甫 啊妨 茄促.
+
+16830:我\将\拍卖\我的\房子\.\
+#I shall sell my house by auction.
+#唱绰 快府笼阑 版概秦辑 迫妨绊 茄促.
+
+16831:我\将\陪\你\走\一\段\路\.\
+#I will go a little way with you.
+#郴啊 呈甫 单府绊 辨阑 粱 叭摆促.
+
+16832:我\将\去\美国\探亲\.\
+#I'll go to America to see my relatives.
+#唱绰 模么阑 规巩窍矾 固惫俊 啊妨 茄促.
+
+16833:我\将\晚\礼\服\借给\他\.\
+#I loaned him my tuxedo.=I loaned my tuxedo to him.
+#唱绰 盼矫档甫 弊俊霸 呼妨 林菌促.
+
+16834:我\将\为\你\了结\这\件\事\.\
+#I'll square the matter up for you.
+#唱绰 呈甫 困秦辑 捞 老阑 秦搬窍妨 茄促.
+
+16835:我\将\委托\你\去\买\票\.\
+#I'll leave buying the tickets to you.
+#唱绰 呈俊霸 钎甫 荤促 崔扼绊 何殴窍妨 茄促.
+
+16836:我\将\我的\旧\大衣\翻\面\.\
+#I had my old overcoat turned.
+#唱绰 唱狼 清 寇捧甫 第笼绢 促矫 父甸妨 茄促.
+
+16837:我\将要\学习\中文\.\
+#I shall learn Chinese.
+#唱绰 吝惫绢甫 硅快绊磊 茄促.
+
+16838:我\将要\怎么办\呢\?\
+#What shall I do?
+#唱绰 绢痘霸 秦具 窍瘤?
+
+16839:我\将\一辈子\感激\你\.\
+#I shall be grateful to you all my life.
+#唱绰 乞积悼救 呈俊霸 皑荤且 巴捞促.
+
+16840:我\将\以\你\为\榜样\.\
+#I'll follow your lead.
+#唱绰 呈甫 葛裹栏肺 伙栏妨 茄促.
+
+16841:我\将\永远\爱\你\.\
+#I will love you always.
+#唱绰 康盔洒 呈甫 荤尔且 巴捞促.
+
+16842:我\将\在下\一\站\下车\.\
+#I shall get out at the next station.
+#唱绰 促澜 沥芭厘俊辑 郴副 巴捞促.
+
+16843:我\将\照\你的\劝告\去\做\.\
+#I will do as you advise.
+#唱绰 呈狼 面绊措肺 窍妨 茄促.
+
+16844:我\将\这\画\和\那\画\对照\.\
+#I contrast this picture with that one.
+#唱绰 捞 弊覆苞 历 弊覆阑 措炼秦焊妨 茄促.
+
+16845:我\讲\个\故事\给\你\听\.\
+#I'll tell you a story.
+#郴啊 呈俊霸 捞具扁甫 窍唱 甸妨林摆促.
+
+16846:我\讲\了\一辈子\英语\啦\.\
+#I've spoken English all my life.
+#唱绰 乞积阑 康绢肺 富沁促.
+
+16847:我\讲\英语\有时\会\说\错\.\
+#Sometimes I make mistakes when I speak English.
+#唱绰 康绢肺 富且 锭 锭锭肺 撇府霸 富窍扁档 茄促.
+
+16848:我\教\他们\英语\.\
+#I teach them English.
+#唱绰 弊甸俊霸 康绢甫 啊福模促.
+
+16849:我\教\他们\怎样\做\.\
+#I taught them what to do.
+#唱绰 弊甸俊霸 绢痘霸 窍扼绊 啊福模促.
+
+16850:我\叫\二\黑\桃\.\
+#I bid two spades.
+#唱绰 捧 胶其捞靛甫 阂范促.
+
+16851:我\叫\她\去\找\校长\请示\.\
+#I referred her to the principal.
+#唱绰 弊赤肺 窍咯陛 背厘 急积丛阑 茫酒啊 瘤矫甫 没窍霸 沁促.
+
+16852:我\藉\睡眠\来\消除\头\痛\.\
+#I slept off my headache.
+#唱绰 泪阑 磊辑 滴烹阑 炒霸 沁促.
+
+16853:我\借给\他\书\.\
+#I lend him a book.
+#唱绰 弊俊霸 氓阑 呼妨玲促.
+
+16854:我\借\书\给\她\.\
+#I lend a book to him.
+#唱绰 弊俊霸 氓阑 呼妨 林菌促.
+
+16855:我\筋\疲\力\竭\了\.\
+#My energy is exhausted.
+#唱绰 扁柳钙柳沁促.
+
+16856:我\今天\不\打扰\你\.\
+#I won't inflict myself on you today.
+#唱绰 坷疵 呈甫 规秦窍瘤 臼摆促.
+
+16857:我\今天\不\能\没有\他\.\
+#I can't spare him today.
+#唱绰 坷疵 弊啊 绝栏搁 救 等促.
+
+16858:我\今天\感到\情绪\不\佳\.\
+#I feel a bit down today.
+#唱绰 坷疵 扁盒捞 亮瘤 臼促.
+
+16859:我\今天\感觉\好多\了\.\
+#I feel much better today.
+#唱绰 坷疵 腹捞 亮酒脸促.
+
+16860:我\今天\觉得\不\舒服\.\
+#I feel rough today.
+#唱绰 坷疵 个捞 粱 救 亮促.
+
+16861:我\今天\情绪\不大\好\.\
+#I'm feeling rather blue today.
+#唱绰 坷疵 扁盒捞 喊肺 亮瘤 臼促.
+
+16862:我\今天\要\打\网球\.\
+#I want to play tennis today.
+#唱绰 坷疵 抛聪胶甫 摹妨绊 茄促.
+
+16863:我\今天\一\整天\都\有\空\.\
+#I have a clear day today.
+#唱绰 坷疵 窍风辆老 茄啊窍促.
+
+16864:我\今天\有点\心神不定\.\
+#I'm not myself today.
+#唱绰 坷疵 付澜捞 救沥登瘤 臼绰促.
+
+16865:我\紧紧\地\握住\他的\手\.\
+#I gave his hand a wring.
+#唱绰 弊狼 颊阑 菜 棱疽促.
+
+16866:我\紧握\老\朋友\的\手\.\
+#I wrung my old friend's hand.
+#唱绰 烤 模备狼 颊阑 菜 棱疽促.
+
+16867:我\紧握\着\她的\手\.\
+#I kept her hand in my grasp.
+#唱绰 弊赤狼 颊阑 菜 零菌促.
+
+16868:我\禁不住\笑\了\.\
+#I couldn't keep from laughing.
+#唱绰 眶澜阑 曼阑 荐 绝菌促.
+
+16869:我\禁止\他\进出\屋\内\.\
+#I forbade him entering the house.
+#唱绰 弊甫 笼救栏肺 甸绢啊瘤 给窍霸 沁促.
+
+16870:我\近\死\去\.\
+#I was very near dead.
+#唱绰 窍付磐搁 磷阑 环沁促.
+
+16871:我\近来\连\遭\霉\运\.\
+#I've had a run of bad luck recently.
+#唱绰 夸硫 款捞 酒林 绝促.
+
+16872:我\尽量\快\跑\.\
+#I ran as fast as my legs could carry me.
+#唱绰 乐绰 塞阑 促秦 弧府 顿菌促.
+
+16873:我\尽量\展\颜\欢笑\.\
+#I mustered the best possible smile.
+#唱绰 啊瓷茄 茄 劝娄 眶栏妨绊 局借促.
+
+16874:我\尽\最大\努力\帮助\他\.\
+#I did my best to help him.
+#唱绰 弥急阑 促秦 弊甫 档吭促.
+
+16875:我\惊吓\得\说\不\出\话\来\.\
+#I was struck dumb with astonishment.
+#唱绰 呈公 愁扼辑 富捞 唱坷瘤 臼疽促.
+
+16876:我\惊醒\过来\.\
+#I woke up with a start.
+#唱绰 濒娄 愁扼辑 玻促.
+
+16877:我\惊愕\得\说\不\出\话\来\.\
+#Astonishment held me dumb.
+#唱绰 呈公 愁扼辑 富档 唱坷瘤 臼疽促.
+
+16878:我\经常\使\我\不\作\错\事\.\
+#I have often stopped myself from doing something wrong.
+#唱绰 亲惑 胶胶肺肺 窍咯陛 弊弗 老阑 窍瘤 臼档废 茄促.
+
+16879:我\经常\在\晚上\看书\.\
+#I often read a book at night.
+#唱绰 疵 历翅俊 氓阑 佬绰促.
+
+16880:我\经济\宽裕\.\
+#I'm comfortably fixed for money.
+#唱绰 版力利栏肺 乘乘窍促.
+
+16881:我\警告\你\,\我\有\武器\.\
+#I warn you that I am armed.
+#郴啊 版绊 窍绰单, 唱绰 公扁甫 啊瘤绊 乐促.
+
+16882:我\径直\地\向\他\冲\去\.\
+#I went right at him.
+#唱绰 梆厘 弊俊霸肺 艾促.
+
+16883:我\窘\得\要死\.\
+#I could have died away with embarrassment.
+#唱绰 抄贸秦 磷阑 瘤版捞菌促.
+
+16884:我\九\点钟\来\接\你\.\
+#I'll call for you at nine o'clock.
+#唱绰 9矫俊 呈甫 单府矾 坷摆促.
+
+16885:我\酒\喝\得\不\多\.\
+#I don't drink much wine.
+#唱绰 贱阑 腹捞 付矫瘤 臼疽促.
+
+16886:我\就\去\打听\一下\.\
+#I'll just go and nose about a bit.
+#郴啊 啊辑 巩狼秦 焊摆促.
+
+16887:我\就\在\这\附近\长大\的\.\
+#I grew up right here in this neighborhood.
+#唱绰 捞 辟贸俊辑 磊耳促.
+
+16888:我\鞠躬\入\内\.\
+#I bowed myself in .
+#唱绰 倾府甫 绷囚 例窍哥 甸绢艾促.
+
+16889:我\鞠躬\入\室内\.\
+#I bowed myself into the room.
+#唱绰 倾府甫 绷囚 例窍哥 角郴肺 甸绢艾促.
+
+16890:我\拒\不\俯首\听\命\.\
+#I will not be lorded over.
+#唱绰 例措肺 促家镑窍霸 疙飞俊 汗辆窍瘤 臼阑 巴捞促.
+
+16891:我\拒绝\你的\提议\.\
+#I spurn your offer.
+#唱绰 呈狼 力救阑 芭例沁促.
+
+16892:我\觉得\不\受\欢迎\.\
+#I didn't feel welcome.
+#唱绰 券康阑 罐瘤 给沁促绊 蠢布促.
+
+16893:我\觉得\反胃\.\
+#I've got the heaves.
+#唱绰 皋胶伯促绊 蠢布促.
+
+16894:我\觉得\很\好\.\
+#I feel first-class.
+#唱绰 酒林 亮促绊 积阿茄促.
+
+16895:我\觉得\很\窘\.\
+#I was very embarrassed.
+#唱绰 概快 寸炔沁促.
+
+16896:我\觉得\很\困\.\
+#I feel very sleepy.
+#唱绰 概快 凉赴促.
+
+16897:我\觉得\肯定\是\他\.\
+#I felt sure it was him.
+#唱绰 盒疙洒 弊老 巴捞扼绊 积阿茄促.
+
+16898:我\觉得\难过\.\
+#I'm sorry.
+#唱绰 浇橇促.
+
+16899:我\觉得\山\在\召唤\我\.\
+#I felt the mountains calling me.
+#唱绰 魂捞 唱甫 何福绊 乐促绊 蠢布促.
+
+16900:我\觉得\身体\不\舒服\.\
+#I feel miserable.
+#唱绰 个捞 救 亮霸 蠢哺柳促.
+
+16901:我\觉得\沈\闷\.\
+#I feel dismal.
+#唱绰 快匡窍促.
+
+16902:我\觉得\生病\了\.\
+#I feel ill.
+#捍捞 抄 巴 鞍促.
+
+16903:我\觉得\讨厌\.\
+#I feel shitty.
+#唱绰 蓖满霸 蠢哺柳促.
+
+16904:我\觉得\头晕\.\
+#My head spins.
+#赣府啊 粱 绢瘤反促.
+
+16905:我\觉得\我\给\搞\糊涂\了\.\
+#I'm feeling rather muddled up.
+#唱绰 郴啊 促 噶媚滚啡促绰 积阿捞 电促.
+
+16906:我\觉得\我们\会\赢\.\
+#I had an idea we'd win.
+#唱绰 快府啊 捞辨 巴捞扼绊 积阿茄促.
+
+16907:我\觉得\心跳\.\
+#I feel my heart beat.
+#唱绰 啊娇捞 顿绰 巴捞 蠢哺柳促.
+
+16908:我\觉得\心\在\跳\.\
+#I feel my heart beating.
+#啊娇捞 顿绊 乐促.
+
+16909:我\觉得\要\感冒\了\.\
+#I can feel a cold coming on.
+#皑扁俊 吧府妨绊 窍绰 巴 鞍促.
+
+16910:我\决不\再\跟\你\说话\了\.\
+#I'll never,ever speak to you again.
+#唱绰 促矫绰 呈客 娟扁窍瘤 臼摆促.
+
+16911:我\决定\不\去\.\
+#I chose not to go.
+#唱绰 救 啊扁肺 搬沥沁促.
+
+16912:我\决定\下\周\去\伦敦\.\
+#I've fixed to go to London next week.
+#唱绰 促澜林俊 繁带俊 啊扁肺 搬沥沁促.
+
+16913:我\决心\全力以赴\.\
+#I decided I would do my best.
+#唱绰 弥急阑 促窍扁肺 搬缴沁促.
+
+16914:我\决心\什么\都\不\改变\.\
+#I determined that nothing be changed.
+#唱绰 酒公 巴档 官操瘤 臼扁肺 搬缴沁促.
+
+16915:我\决心\一定\要\去\.\
+#I am determined to go.
+#唱绰 怖 啊具摆促绊 搬缴沁促.
+
+16916:我\绝\不\能\率\那\件\事\.\
+#I can't do it nohow.
+#唱绰 搬内 弊 老阑 窍瘤 臼绰促.
+
+16917:我\绝\不是\他的\对手\.\
+#I am no match for him.
+#唱绰 搬内 弊狼 利荐啊 酒聪促.
+
+16918:我\绝\不\做\那种\事\.\
+#I'll do nothing of that kind.
+#唱绰 弊矾茄 辆幅狼 老阑 例措 窍瘤 臼阑 巴捞促.
+
+16919:我\绝对\不\相信\那\件\事\.\
+#I simply don't believe it.
+#唱绰 弊 老阑 例措肺 给 瓜摆促.
+
+16920:我\绝对\是\对\的\.\
+#I am absolutely right.
+#郴啊 例措利栏肺 壳促.
+
+16921:我\绝对\有\把握\.\
+#I am dead sure.
+#唱绰 沥富 磊脚乐促.
+
+16922:我\军\突\袭\敌人\.\
+#Our army descended on the enemy.
+#快府 焙牢甸捞 利阑 鞭嚼沁促.
+
+16923:我\开车\闯\了\红灯\.\
+#I drove through a red light.
+#唱绰 脚龋甫 困馆沁促.
+
+16924:我\开车\很\小心\.\
+#I drive carefully.
+#唱绰 炼缴秦辑 款傈阑 茄促.
+
+16925:我\开\给\他\一\张\支票\.\
+#I wrote him a check .
+#唱绰 弊俊霸 荐钎甫 谗绢 林菌促.
+
+16926:我\开始\想起来\了\.\
+#I am beginning to remember it.
+#唱绰 积阿捞 唱扁 矫累沁促.
+
+16927:我\开始\做\这\事\.\
+#I begin to do it.
+#唱绰 弊 老阑 窍扁 矫累沁促.
+
+16928:我\看\不\出\他的\缺点\.\
+#I can find no fault in him.
+#唱绰 弊狼 搬沥阑 茫酒尘 荐啊 绝促.
+
+16929:我\看\不\懂\这\本\书\.\
+#Understanding this book is beyond my capacity.
+#唱绰 捞 氓阑 毫辑 捞秦且 荐 绝促.
+
+16930:我\看\不\清\医生\的\字迹\.\
+#I can't read the doctor's writing.
+#唱绰 狼荤啊 敬 臂揪甫 舅酒焊瘤 给沁促.
+
+16931:我\看\错\了\你\.\
+#I've been deceived in you.
+#郴啊 呈甫 肋给 好促.
+
+16932:我\看到\窗\内\的\灯光\.\
+#I saw a light in the window.
+#唱绰 芒巩 救狼 阂蝴阑 焊疽促.
+
+16933:我\看到\他\但是\避开\他\.\
+#I saw him but I sheered off.
+#唱绰 弊甫 焊疽栏唱 乔秦滚啡促.
+
+16934:我\看到\她\走\进\办公室\.\
+#I noticed her enter the office.
+#唱绰 弊赤啊 荤公角肺 甸绢啊绰 巴阑 焊疽促.
+
+16935:我\看到\一群\鸟\飞\过\.\
+#I saw a flock of birds flying by.
+#唱绰 茄 公府狼 货啊 朝酒啊绰 巴阑 焊疽促.
+
+16936:我\看到\远处\有\灯光\.\
+#I saw a light in the distance.
+#唱绰 钢府俊 阂蝴捞 乐绰 巴阑 焊疽促.
+
+16937:我\看见\他\按\铃\.\
+#I see him ring the bell.
+#唱绰 弊啊 骇阑 穿福绰 巴阑 夯促.
+
+16938:我\看见\他\进出\房间\.\
+#I saw him enter the room.
+#唱绰 弊啊 规栏肺 甸绢啊绰 巴阑 焊疽促.
+
+16939:我\看见\他\锁门\.\
+#I see him lock the door.
+#唱绰 弊啊 巩阑 泪弊绰 巴阑 夯促.
+
+16940:我\看见\他\在\锁门\.\
+#I saw him locking the door.
+#唱绰 弊啊 巩阑 泪弊绰 巴阑 焊疽促.
+
+16941:我\看见\他\坐\在\她\对面\.\
+#I saw him sitting opposite her.
+#唱绰 弊啊 弊赤 菊俊 旧酒 乐绰 巴阑 焊疽促.
+
+16942:我\看见\她\了\.\
+#I saw her.
+#唱绰 弊赤甫 焊疽促.
+
+16943:我\看见\她\跑开\去\.\
+#I saw her running off.
+#唱绰 弊赤啊 档噶摹绰 巴阑 焊疽促.
+
+16944:我\看见\她\在\哭\.\
+#I found her in tears.
+#唱绰 弊赤啊 匡绊 乐绰 巴阑 焊疽促.
+
+16945:我\看见\有\人\走动\.\
+#I see someone move about.
+#唱绰 穿焙啊啊 框流捞绰 巴阑 焊疽促.
+
+16946:我\看见\云\飞越\天空\.\
+#I saw the clouds flying across the sky.
+#唱绰 备抚捞 窍疵阑 啊肺龙矾 唱绰 巴阑 焊疽促.
+
+16947:我\看\了\一下\手表\.\
+#I glanced at my wrist watch.
+#唱绰 颊格矫拌甫 汝边 焊疽促.
+
+16948:我\看\你\太\挑食\了\.\
+#I'm afraid you're being too particular about your food.
+#郴啊 焊扁俊 呈绰 呈公 祈侥阑 窍绰 巴 鞍促.
+
+16949:我\看书\时\需要\眼镜\.\
+#I need glasses when I read a book.
+#唱绰 氓阑 杭 锭 救版捞 鞘夸窍促.
+
+16950:我\看\我\着凉\了\.\
+#I think I've caught a chill.
+#唱绰 皑扁俊 吧赴 巴 鞍促.
+
+16951:我\看\邮差\没有\来过\.\
+#I see the postman hasn't been yet.
+#郴啊 焊扁俊 笼硅盔捞 酒流 救 柯 巴 鞍促.
+
+16952:我\看\约翰\不见得\会\来\.\
+#I doubt that John will come.
+#郴 积阿俊绰 John捞 怖 棵 巴 鞍瘤绰 臼促.
+
+16953:我\考试\及格\.\
+#I got through the examination.
+#唱绰 矫氰俊 钦拜沁促.
+
+16954:我\咳嗽\就\会\痛\.\
+#It hurts me to cough.
+#扁魔阑 窍搁 酒橇促.
+
+16955:我\可不\愿\吃亏\.\
+#I will not be put upon.
+#唱绰 颊秦焊绊 酵瘤 臼促.
+
+16956:我\可不\这么\想\.\
+#I scarcely think so.
+#唱绰 捞犯霸 积阿窍瘤 臼绰促.
+
+16957:我\可是\十\万\火\急\.\
+#I'm in a tearing hurry.
+$唱绰 辈厘洒 拳鞭窍促.
+
+16958:我\可以\不\值夜\.\
+#I am excused night duty.
+#唱绰 槛流阑 窍瘤 臼酒档 等促.
+
+16959:我\可以\参加\吗\?\
+#May I join in?
+#郴啊 曼啊秦档 邓聪鳖?
+
+16960:我\可以\插\句\嘴\吗\?\
+#May I butt in ?
+#郴啊 富曼斑 粱 秦档 瞪鳖夸?
+
+16961:我\可以\插\一句话\吗\?\
+#May I get a word in?
+#郴啊 茄付叼 尝绢甸绢档 登摆嚼聪鳖?
+
+16962:我\可以\多\拿\一\个\吗\?\
+#May I have one more ?.
+#郴啊 窍唱 歹 啊廉啊档 瞪鳖夸?
+
+16963:我\可以\给\他\写\一\封\信\.\
+#I can write him a letter.
+#唱绰 弊俊霸 祈瘤甫 茄 烹 镜 荐 乐促.
+
+16964:我\可以\回家\吗\?\
+#could I go home?.
+#郴啊 笼俊 倒酒啊档 瞪鳖夸?
+
+16965:我\可以\挤\进\你\身\旁\吗\?\
+#May I squash in next to you?
+#郴啊 寸脚 扮栏肺 厚笼绊 甸绢啊档 瞪鳖夸?
+
+16966:我\可以\借\这\打字机\吗\?\
+#Can I have the loan of the typewriter?.
+#郴啊 捞 鸥磊扁甫 呼副 荐 乐阑鳖夸?
+
+16967:我\可以\进来\吗\?\
+#May I come in?
+#郴啊 甸绢客档 邓聪鳖?
+
+16968:我\可以\举行\派对\么\?\
+#May I have a party?
+#郴啊 颇萍甫 凯绢档 瞪鳖夸?
+
+16969:我\可以\宽容\她的\缺点\.\
+#I can overlook her bad points.
+#唱绰 弊赤狼 搬痢阑 呈弊反霸 焊酒临 荐 乐促.
+
+16970:我\可以\请\五\天\假\吗\?\
+#may I put in for five days'leave?
+#郴啊 5老 悼救 绒啊甫 郴档 宝满摆嚼聪鳖?
+
+16971:我\可以\推荐\这\道\菜\.\
+#I can recommend this dish.
+#唱绰 捞 澜侥阑 眠玫且 荐 乐促.
+
+16972:我\可以\问\他\这个\问题\.\
+#I can ask him the question.
+#唱绰 弊俊霸 捞 巩力甫 拱绢杭 荐 乐促.
+
+16973:我\可以\休息\一下\么\?\
+#May I take a rest?
+#郴啊 泪瘪 浆绢档 瞪鳖夸?
+
+16974:我\可以\用\你的\电话\吗\?\
+#May I use your telephone?.
+#郴啊 呈狼 傈拳甫 捞侩秦档 瞪鳖夸?
+
+16975:我\渴\得到\他的\帮助\.\
+#I am solicitous of his help.
+#唱绰 弊狼 档框阑 掘扁甫 哎噶茄促.
+
+16976:我\渴\他\会\成功\.\
+#I was anxious that he should succeed.
+#唱绰 弊啊 己傍窍扁甫 柳缴栏肺 官鄂促.
+
+16977:我\渴\学到\他的\技巧\.\
+#I was emulous of his skill.
+#唱绰 弊狼 扁贱阑 硅快绊磊 局借促.
+
+16978:我\渴\着\获得\知识\.\
+#I was panting to acquire knowledge.
+#唱绰 瘤侥 掘扁甫 凯噶沁促.
+
+16979:我\肯定\他\是\受\欢迎\的\.\
+#I'm sure they like him!.
+#唱绰 弊啊 券康阑 罐阑 巴捞扼绊 犬脚钦聪促.
+
+16980:我\恳求\国王\饶命\.\
+#He begged the king for my life.
+#唱绰 惫空俊霸 格见阑 混妨 崔扼绊 埃没沁促.
+
+16981:我\恳求\你\帮忙\这\件\事\.\
+#I entreat this favor of you.
+#唱绰 匙啊 捞 老阑 档客林扁甫 官鄂促.
+
+16982:我\恳求\你\帮助\我\.\
+#I pray you to help me.
+#唱绰 匙啊 唱甫 档客林扁甫 埃没茄促.
+
+16983:我\恳求\你的\宽恕\.\
+#I entreat your pardon.
+#唱绰 匙啊 呈弊反霸 侩辑秦林扁甫 埃例洒 官鄂促.
+
+16984:我\恳求\你\饶恕\他\.\
+#I adjure you to spare him.
+#唱绰 匙啊 弊甫 侩辑秦林扁甫 埃例洒 何殴茄促.
+
+16985:我\恳求\你\现在\就\走\吧\.\
+#I implore you to go now.
+#唱绰 匙啊 瘤陛 梆 啊林扁甫 局盔茄促.
+
+16986:我\恳求\您\帮忙\.\
+#I beseech your favor.
+#唱绰 寸脚捞 档客林矫扁甫 埃例洒 官而聪促.
+
+16987:我\恳求\他\不要\出去\.\
+#I begged him not to go out.
+#唱绰 弊俊霸 唱啊瘤 富扼绊 埃没沁促.
+
+16988:我\恳求\他的\原谅\.\
+#I implored his for giveness.
+#唱绰 弊啊 侩辑秦林扁甫 局盔沁促.
+
+16989:我\口渴\得\很\!\
+#I'm parched!
+#唱绰 概快 格捞 藕促.
+
+16990:我\快\快\的\跑\.\
+#I run quickly.
+#唱绰 弧府 顿菌促.
+
+16991:我\快要\倒\下去\了\.\
+#I am ready to drop .
+#唱绰 梆 顿绢郴府妨 茄促.
+
+16992:我\快要\冻死\了\.\
+#I'm freezing .
+#倔绢 磷摆促.
+
+16993:我\快要\呕吐\了\.\
+#I'm going to be sick.
+#唱绰 配窍妨绊 茄促.
+
+16994:我\快要\生病\了\!\
+#I'm going to be sick!
+#唱绰 捍捞 唱妨绊 茄促.
+
+16995:我\困\得\睁\不\开\眼睛\.\
+#I could not open my eyes for want of sleep.
+#唱绰 呈公 凉妨辑 传阑 躲 荐啊 绝菌促.
+
+16996:我\来\把\你的\杯子\斟\满\.\
+#Let me top up your glass.
+#郴啊 寸脚 儡阑 盲况 靛府摆嚼聪促.
+
+16997:我\来\补\那\件\衬衫\.\
+#I'll mend that shirt.
+#郴啊 弊 寂明甫 荐急秦 靛府摆嚼聪促.
+
+16998:我\来\搭\个\地铺\.\
+#I'll make up a bed on the floor.
+#郴啊 泪磊府甫 旗 靛府摆嚼聪促.
+
+16999:我\来\大胆\猜\一下\.\
+#I'll hazard a guess.
+#郴啊 措淬窍霸 茄锅 嘎苗焊摆促.
+
+17000:我\来\发动\汽车\.\
+#I'll get the car started.
+#郴啊 瞒甫 免惯矫虐摆促.
+
+17001:我\来\告诉\你\.\
+#I will tell you.
+#郴啊 呈俊霸 富窍摆促.
+
+17002:我\来\给\客人\们\倒\茶\.\
+#I'm going to pour out the tea for the guests.
+#郴啊 颊丛甸俊霸 瞒甫 蝶福摆促.
+
+17003:我\来\给\你\付\饭钱\.\
+#Let me stand you a dinner.
+#郴啊 寸脚俊霸 侥荤甫 措立窍摆嚼聪促.
+
+17004:我\来\给\你\照\张\相\.\
+#I'll take your picture .
+#郴啊 荤柳阑 嘛绢 林摆促.
+
+17005:我\来\跟\你\赛跑\去\上学\.\
+#I'll race you to school.
+#唱绰 呈客 崔府扁 版林甫 秦辑 切背俊 啊妨绊 茄促.
+
+17006:我\来\见\您\,\恰巧\外出\.\
+#You've happened to be out when I call on you.
+#郴啊 寸脚阑 规巩沁阑 锭 傍背酚霸档 寸脚篮 寇免阑 沁促.
+
+17007:我\来讲\这\件\事\.\
+#I'll tell about it.
+#郴啊 捞 老俊 措秦 娟扁窍摆促.
+
+17008:我\来\量\你的\体温\.\
+#Now,I will take your temperature.
+#郴啊 呈狼 眉柯阑 犁摆促.
+
+17009:我\来\替\你\找\穿\的\东西\.\
+#I'll root you out something to wear.
+#郴啊 呈俊霸 涝阑 巴阑 茫酒 林摆促.
+
+17010:我\来\洗\碗\碟\吧\!\
+#I'll do the washing-up!
+#郴啊 弊俯阑 灸阑霸夸!
+
+17011:我\来\掌舵\,\你\来\划\.\
+#I'll steer; you row.
+#郴啊 蓖甫 棱阑 抛聪, 呈绰 畴甫 历绢扼.
+
+17012:我\来\照看\孩子\.\
+#I'll watch the baby.
+#郴啊 酒捞甸阑 倒焊摆促.
+
+17013:我\老早\就\想\会见\您\.\
+#I was crazy to meet you.
+#唱绰 国结何磐 呈甫 父唱绊 酵菌促.
+
+17014:我\乐意\帮助\你\.\
+#I would fain help you.
+#唱绰 榴芭款 付澜栏肺 呈甫 到绰促.
+
+17015:我\累\得\要命\.\
+#I'm damn tired.
+#乔帮秦 磷摆促.
+
+17016:我\冷\得\牙齿\直\打战\.\
+#I was so cold my teech were chattering.
+#唱绰 眠况辑 捞啊 代代 冻赴促.
+
+17017:我\冷\得\要命\.\
+#I am perishing .
+#眠况 磷摆促.
+
+17018:我\礼拜三\不\工作\.\
+#My free day is Wednesday.
+#唱绰 荐夸老俊 老窍瘤 臼绰促.
+
+17019:我\立即\动身\去\上海\.\
+#I set out immediately for Shanghai.
+#唱绰 溜矫 惑秦肺 免惯茄促.
+
+17020:我\立即\付\了\钱\.\
+#I planked down the money.
+#唱绰 溜矫 捣阑 瘤阂沁促.
+
+17021:我\立刻\悲\从中\来\.\
+#I was immediately struck with sadness.
+#唱绰 官肺 浇悄 啊款单辑 唱吭促.
+
+17022:我\立刻\到\那\
+#I'll be there directly.
+#唱绰 梆厘 弊府绊 哎 巴捞促.
+
+17023:我\立刻\给\他\写\了\回信\.\
+#I wrote him an answer immediately.
+#唱绰 溜矫 弊俊霸 翠厘阑 借促.
+
+17024:我\立志\要\当\作家\.\
+#I aim to be a writer.
+#唱绰 累啊啊 登扁肺 搬缴沁促.
+
+17025:我\力\劝\你\戒烟\.\
+#I strongly urge you to give up smoking.
+#唱绰 匙啊 淬硅甫 谗绢林扁甫 碍仿洒 鼻绊茄促.
+
+17026:我\连\死\都\不怕\.\
+#I don't even fear death.
+#唱绰 磷澜炼瞒档 滴菲瘤 臼促.
+
+17027:我\连\早\外\都\没有\吃\.\
+#I haven't even had my breakfast.
+#唱绰 酒魔炼瞒档 冈瘤 臼绰促.
+
+17028:我\两个\都\不\相信\.\
+#I believe neither .
+#唱绰 滴 啊瘤 促 瓜瘤 臼绰促.
+
+17029:我\两者\都\不\知道\.\
+#I don't know either.
+#唱绰 滴 啊瘤 促 瓜瘤 臼绰促.
+
+17030:我\了解\你的\心情\.\
+#I understand how you feel.
+#唱绰 呈狼 缴沥阑 捞秦茄促.
+
+17031:我\了解\他\有\多\伤心\.\
+#I saw how sad he was.
+#唱绰 弊啊 倔付唱 浇欺窍绰瘤 救促.
+
+17032:我\淋\到\雨\了\.\
+#I was caught in the rain.
+#唱绰 厚俊 隶菌促.
+
+17033:我\另外\有\一些\问题\.\
+#I have some other questions.
+#唱绰 促弗 巩力啊 粱 乐促.
+
+17034:我\留下\了\些许\不安\.\
+#I was left with some misgivings .
+#唱绰 捌沥捞 炼陛 巢疽促.
+
+17035:我\六\点钟\起床\.\
+#I get up at six.
+#唱绰 6矫俊 老绢抄促.
+
+17036:我\漏\了\重要\的\一点\.\
+#I left out the important point.
+#唱绰 吝夸茄 痢阑 狐哆啡促.
+
+17037:我\略\知\他\打算\做\什么\.\
+#I had an inkling of what he intended to do.
+#唱绰 弊啊 公均阑 窍绊磊 窍绰瘤 炼陛 救促.
+
+17038:我\妈\不曾\到\过\这里\.\
+#My mother has never been here.
+#快府 绢赣聪绰 咯扁俊 客夯 利捞 绝促.
+
+17039:我\马上\就\到\那\
+#I'll be there in a jiff.
+#唱绰 梆 芭扁俊 哎 巴捞促.
+
+17040:我\马上\就\回来\.\
+#I'll be back in no time.
+#唱绰 梆 倒酒棵 巴捞促.
+
+17041:我\马上\就\会\准备好\.\
+#I'll be ready in a minute.
+#唱绰 梆 霖厚甫 促且 巴捞促.
+
+17042:我\马上\就\来\.\
+#I'm coming in a tick .
+#唱绰 梆 棵 巴捞促.
+
+17043:我\马上\就\下来\.\
+#I'll come down in a minute.
+#唱绰 梆 郴妨哎 巴捞促.
+
+17044:我\埋头\研究\Z\Z\.\
+#I buried myself in my studies.
+#唱绰 楷备俊 隔滴茄促.
+
+17045:我\买\不\起\一\部\新\车\.\
+#I can't afford a new car.
+#唱绰 捣捞 绝绢辑 货 瞒甫 混 荐 绝促.
+
+17046:我\买\的\这\本\书\是\旧书\.\
+#I got this book second-hand.
+#郴啊 魂 捞 氓篮 清 氓捞促.
+
+17047:我\买\了\大量\的\食品\.\
+#I bought tons of food.
+#唱绰 澜侥阑 腹捞 或促.
+
+17048:我\买\了\双\倍\的\牛奶\.\
+#I bought double the amount of milk.
+#
+
+17049:我\买\了\新\收音机\.\
+#I have bought a new radio.
+#唱绰 货 扼叼坷甫 或促.
+
+17050:我\买\了\一\串\葡萄\.\
+#I bought a bunch of grapes.
+#唱绰 器档 茄 价捞甫 或促.
+
+17051:我\瞒\着\他\做\那\件\事\.\
+#I did it unknown to him.
+#唱绰 弊甫 加捞绊 弊 老阑 沁促.
+
+17052:我\蛮\喜欢\这个\构\想\.\
+#I rather cottoned to the idea.
+#唱绰 捞 积阿捞 概快 亮酒脸促.
+
+17053:我\满怀\感激\之\情\.\
+#My grateful sentiments come from the heart.
+#唱绰 皑拜狼 付澜捞 啊娇俊 菜 蛮促.
+
+17054:我\忙\於\打扫\房间\.\
+#I busied myself cleaning rooms.
+#唱绰 规阑 没家窍蠢扼 官悔促.
+
+17055:我\忙\於\照顾\孩子\.\
+#I was busy with my children.
+#唱绰 酒捞甫 倒焊蠢扼 官悔促.
+
+17056:我\冒雨\外出\.\
+#I went out in spite of the rain.
+#唱绰 厚甫 公辅静绊 观栏肺 唱艾促.
+
+17057:我\没\等\多久\他\就\来\了\.\
+#I had not waited long before he came.
+#倔付 扁促府瘤 臼酒辑 弊啊 梆 吭促.
+
+17058:我\没\看到\有\人\在\那里\.\
+#I saw nobody there.
+#唱绰 穿焙啊啊 芭扁俊 乐绰 巴阑 焊瘤 给沁促.
+
+17059:我\没\能\进\大学\.\
+#I didn't get to go to college.
+#唱绰 措切俊 甸绢哎 荐 绝菌促.
+
+17060:我\没\能\看到\那\景象\.\
+#I missed seeing the sight.
+#唱绰 弊 堡版阑 杭 荐 绝菌促.
+
+17061:我\没\剩\多少\钱\了\.\
+#I have very little money left.
+#唱绰 捣阑 倔付 巢扁瘤 臼疽促.
+
+17062:我\没\时间\洗澡\.\
+#I have no time to take a bath.
+#唱绰 格垮且 矫埃捞 绝促.
+
+17063:我\没事\可\做\.\
+#I've got nothing to do.
+#唱绰 且 老捞 绝促.
+
+17064:我\没有\办法\.\
+#I can't help it.
+#唱绰 规过捞 绝促.
+
+17065:我\没有\变成\老糊涂\.\
+#I'm not in my secondchildhood.
+#唱绰 畴噶甸瘤 臼疽促.
+
+17066:我\没有\别的\话\要\说\了\.\
+#I have nothing further to say.
+#唱绰 促弗 且 富捞 绝促.
+
+17067:我\没有\赶上\火车\.\
+#I missed my train.
+#唱绰 扁瞒甫 初闷促.
+
+17068:我\没有\和\任何人\争\过\.\
+#I strove with none.
+#唱绰 穿备客 促琵夯 利捞 绝促.
+
+17069:我\没有\怀\恨\他的\理由\.\
+#I have no cause to have a grudge against him.
+#唱绰 弊甫 固况且 捞蜡啊 绝促.
+
+17070:我\没有\可\穿\的\衣服\.\
+#I haven't got a thing to wear.
+#唱绰 涝阑父茄 渴捞 绝促.
+
+17071:我\没有\空\去\叁\加\运动\.\
+#I have no leisure for sport.
+#唱绰 款悼窍矾 哎 矫埃捞 绝促.
+
+17072:我\没有\旅行\的\机会\.\
+#I have no opportunity for making a trip.
+#唱绰 咯青且 扁雀啊 绝促.
+
+17073:我\没有\你\那么\有名\.\
+#I am not so famous as you.
+#唱绰 呈父怒 弊犯霸 蜡疙窍瘤 臼促.
+
+17074:我\没有\其他\的\儿子\.\
+#I have no other son.
+#唱绰 肚 促弗 酒甸篮 绝促.
+
+17075:我\没有\钱\投资\.\
+#I have no money to invest.
+#唱绰 捧磊且 捣捞 绝促.
+
+17076:我\没有\权力\指挥\他们\.\
+#I have no authority over them.
+#唱绰 弊甸阑 瘤戎且 鼻府啊 绝促.
+
+17077:我\没有\任何\不满\.\
+#I have nothing to complain of.
+#唱绰 酒公繁 阂父档 绝促.
+
+17078:我\没有\时间\去\见\她\.\
+#I didn't have time to see her.
+#唱绰 弊赤甫 焊矾 哎 矫埃捞 绝促.
+
+17079:我\没有\时间\停留\.\
+#I have no time to stay.
+#唱绰 赣拱矾 乐阑 矫埃捞 绝促.
+
+17080:我\没有\时间\阅读\.\
+#I have no time for reading.
+#唱绰 氓阑 佬阑 矫埃捞 绝促.
+
+17081:我\没有\什么\数字\头脑\.\
+#I haven't got much of a head for figures.
+#唱绰 箭磊 俺充捞 绝促.
+
+17082:我\没有\偷\,\真的\!\
+#I didn't steal it,honest !
+#唱绰 壬摹瘤 臼疽绢, 沥富捞具!
+
+17083:我\没有\想到\你\会\来\.\
+#I had no idea that you were coming.
+#唱绰 匙啊 坷府扼绊绰 积阿瘤 给沁促.
+
+17084:我\没有\兄弟\.\
+#I don't have a brother.
+#唱绰 屈力啊 绝促.
+
+17085:我\没有\勇气\提\那\件\事\.\
+#I did not have the heart to say that.
+#唱绰 弊 老阑 力扁且 侩扁啊 绝促.
+
+17086:我\没有\自称\懂得\诗歌\.\
+#I don't profess to know anything about poetry.
+#唱绰 矫甫 捞秦茄促绊 林厘窍瘤 臼绰促.
+
+17087:我\没有\自己的\房子\.\
+#I haven't a house of my own.
+#唱绰 笼捞 绝促.
+
+17088:我\没有\馀\暇\度假\.\
+#I cannot afford to have a holiday.
+#唱绰 绒啊哎 咯蜡啊 绝促.
+
+17089:我\没\在\等\谁\.\
+#I'm not waiting for anybody.
+#唱绰 穿备甫 扁促府绊 乐瘤 臼促.
+
+17090:我\没\准备\要\发表\意见\.\
+#I'm not prepared to give an opinion.
+#唱绰 狼斑阑 惯钎且 霖厚啊 登瘤 臼疽促.
+
+17091:我\没\做\这\件\事\.\
+#I ain't done it.
+#唱绰 捞 老阑 窍瘤 臼疽促.
+
+17092:我\每天\早晨\六\点\起床\.\
+#I get up at six in the morning.
+#唱绰 概老 酒魔 6矫俊 老绢抄促.
+
+17093:我\每天\走路\上学\.\
+#I walk to school every day.
+#唱绰 概老 吧绢辑 切背俊 埃促.
+
+17094:我\每\星期二\有\音乐\课\.\
+#I have a music lesson on Tuesdays.
+#唱绰 概林 荐夸老俊 澜厩 荐诀捞 乐促.
+
+17095:我\妹妹\比\我\小\两\岁\.\
+#My sister is two years younger than I.
+#郴 咯悼积篮 唱焊促 2混捞 绢府促.
+
+17096:我们\安排\在\十\点\会晤\.\
+#We made an arrangement to meet at 10.
+#唱绰 10矫俊 父唱扁肺 救硅秦 初疽促.
+
+17097:我们\把\盒子\堆\在\屋\外\.\
+#We piled up the boxes outside the house.
+#快府绰 惑磊甫 笼 观俊促 阶酒敌促.
+
+17098:我们\把\空\瓶\退还\商店\.\
+#We returned the empty bottles to the shop.
+#快府绰 后捍阑 啊霸俊 倒妨霖促.
+
+17099:我们\把\枯\叶\耙\成\一堆\.\
+#We raked up the dead leaves.
+#快府绰 倡勘阑 哎柠肺 避绢 葛疽促.
+
+17100:我们\把\他\关\在\门\外\.\
+#We shut the door against him.
+#快府绰 弊甫 巩观俊 啊滴菌促.
+
+17101:我们\班\被\分成\三\组\.\
+#Our class is divided into three sections.
+#快府 馆篮 3炼肺 唱吹绢脸促.
+
+17102:我们\保持\高度\警惕\性\.\
+#We keep high vigilance.
+#快府绰 绊档狼 版拌缴阑 词眠瘤 臼绰促.
+
+17103:我们\饱\餐\一\顿\.\
+#We ate heartily.
+#快府绰 硅何福霸 冈菌促.
+
+17104:我们\抱\相似\的\意见\.\
+#We have similar opinions.
+#快府绰 厚搅茄 狼斑阑 啊瘤绊 乐促.
+
+17105:我们\被\搞\得手\忙\脚\乱\.\
+#We had much ado.
+#
+
+17106:我们\被\几\部\车\超越\.\
+#We were overtaken by several cars.
+#快府绰 割 措狼 瞒俊 狼秦 眠岿寸沁促.
+
+17107:我们\被迫\接受\该\提议\.\
+#We were necessitated to accept the offer.
+#快府绰 捞 力救阑 罐酒甸老 巴阑 碍夸寸茄促.
+
+17108:我们\比赛\骑马\.\
+#We rode a race .
+#快府绰 富鸥扁 版林甫 茄促.
+
+17109:我们\彼此\都\相当\了解\.\
+#We all know each other pretty well.
+#快府绰 辑肺 腹捞 捞秦窍绊 乐促.
+
+17110:我们\必须\帮助\穷人\.\
+#We must help the poor.
+#快府绰 馆靛矫 啊抄茄 荤恩阑 档客具 茄促.
+
+17111:我们\必须\查看\房间\.\
+#We must look over the room.
+#快府绰 馆靛矫 规阑 混旗焊酒具 茄促.
+
+17112:我们\必须\赶上\时代\.\
+#We must keep up with the times.
+#快府绰 矫措俊 第冻绢瘤瘤 富酒具 茄促.
+
+17113:我们\必须\搞\清\某\事\.\
+#We must get something right.
+#快府绰 绢恫 老捞电 盒疙窍霸 秦具 茄促.
+
+17114:我们\必须\减少\费用\.\
+#We must pare down expenses.
+#快府绰 厚侩阑 临咯具父 茄促.
+
+17115:我们\必须\讲\实话\.\
+#We must tell the truth.
+#快府绰 柳角父阑 富秦具 茄促.
+
+17116:我们\必须\决定\取舍\.\
+#We must decide what to leave out and what to leave in.
+#快府绰 公均阑 滚府绊, 公均阑 秒且 巴牢瘤 搬沥秦具 茄促.
+
+17117:我们\必须\开\沟\排水\.\
+#We must dig trenches to drain the water away.
+#快府绰 硅荐肺甫 颇具 茄促.
+
+17118:我们\必须\勤俭\建国\.\
+#We must build up our country through diligence and frugality.
+#快府绰 辟八窍咯 唱扼甫 技况具 茄促.
+
+17119:我们\必须\稍微\快\点儿\.\
+#We must bustle up a bit.
+#快府绰 炼陛 辑笛矾具 茄促.
+
+17120:我们\必须\向\令尊\求助\.\
+#We must ask help from your father.
+#快府绰 冕何厘膊 档框阑 没秦具 茄促.
+
+17121:我们\必须\照顾\自己\.\
+#We must take care of ourselves.
+#快府绰 馆靛矫 胶胶肺甫 倒毫具 茄促.
+
+17122:我们\必须\转\回去\.\
+#We must turn back.
+#快府绰 倒酒啊具 茄促.
+
+17123:我们\边\走\边\谈\.\
+#We walked and talked.
+#快府绰 吧栏搁辑 捞具扁沁促.
+
+17124:我们\变\被动\为\主动\.\
+#We must transform passivity into initiative.
+#快府绰 荐悼俊辑 林悼栏肺 官差绢具 茄促.
+
+17125:我们\并排\停泊\.\
+#We anchored alongside.
+#快府绰 唱鄂洒 凯阑 瘤绢 沥冠茄促.
+
+17126:我们\并\未\指望\见到\他\.\
+#We didn't reckon on seeing him.
+#快府绰 弊甫 父唱扁甫 官扼瘤 臼绰促.
+
+17127:我们\捕鱼\去\吧\.\
+#Let's go fishing.
+#快府 绊扁 棱栏矾 癌矫促.
+
+17128:我们\不常\去\跳舞\.\
+#We don't go dancing very often.
+#快府绰 啊阐 勉阑 眠矾 埃促.
+
+17129:我们\不得不\服从\他\.\
+#We were obliged to obey him .
+#快府甸篮 窍绰 荐 绝捞 弊俊霸 汗辆茄促.
+
+17130:我们\不该\回避\问题\.\
+#We should not evade a question.
+#快府绰 巩力甫 雀乔窍瘤 富酒具 茄促.
+
+17131:我们\不会\学\英文\.\
+#We shall not study English.
+#快府绰 康绢甫 硅匡 荐 绝促.
+
+17132:我们\不会\重逢\往日\.\
+#We do not re-encounter,reencounter the past.
+#快府绰 苞芭甫 促矫 父朝 荐 绝促.
+
+17133:我们\不久\就\会\回来\的\.\
+#We will come back soon.
+#快府绰 赣瘤臼酒 梆 倒酒棵 巴捞促.
+
+17134:我们\不\能\减轻\你的\罪\.\
+#We cannot extenuate your crime.
+#快府绰 呈狼 了甫 代绢临 荐啊 绝促.
+
+17135:我们\不\能\再\给\折扣\了\.\
+#I'm afraid we can't give you a further discount.
+#快府绰 歹 捞惑 别酒临 荐 绝促.
+
+17136:我们\不\轻易\相信\有鬼\.\
+#We are incredulous about ghosts.
+#快府绰 粱贸烦 蓖脚捞 乐促绰 巴阑 瓜瘤 臼绰促.
+
+17137:我们\不是\为\食\而\生\.\
+#We do not live in order to eat.
+#快府绰 冈绰 巴栏肺父 混瘤绰 臼绰促.
+
+17138:我们\不应该\违背\诺言\.\
+#We should not rat on our promises.
+#快府绰 距加阑 绢败辑绰 救 等促.
+
+17139:我们\不用说\.\.\.\
+#We need hardly say that...
+#快府绰 富且 鞘夸 绝促...
+
+17140:我们\不\知道\谁\能\当选\.\
+#We don't know who can be elected.
+#快府绰 穿啊 寸急瞪 巴牢瘤甫 葛弗促.
+
+17141:我们\步行\到\树林\深处\.\
+#We walked far into the woods.
+#快府绰 剑加 表篮 镑栏肺 魂焊甫 埃促.
+
+17142:我们\步行\了\好几\哩\路\.\
+#We traveled many miles on foot.
+#快府绰 割 付老阑 吧菌促.
+
+17143:我们\猜想\他\迷路\了\.\
+#We suspect that he is lost.
+#快府绰 弊啊 辨阑 酪菌促绊 眠螟茄促.
+
+17144:我们\餐\後\甜\点\吃\什么\?\
+#What are we having for sweet ?.
+#快府绰 侥荤 饶俊 窜 澜侥栏肺 公均阑 冈阑鳖夸?
+
+17145:我们\常常\受\臭虫\骚扰\.\
+#We were often vexed by bedbugs.
+#快府绰 辆辆 后措甸狼 鲍酚塞阑 罐绰促.
+
+17146:我们\朝\内地\走\.\
+#We walked inland.
+#快府绰 救率栏肺 吧绢艾促.
+
+17147:我们\彻底\败北\.\
+#We got creamed.
+#快府绰 枚历窍霸 菩沁促.
+
+17148:我们\称赞\他的\勇敢\.\
+#We commended him for his bravery .
+#快府绰 弊狼 侩皑窃阑 莫蛮茄促.
+
+17149:我们\乘船\度\湖\.\
+#We took a boat across the lake.
+#快府绰 硅甫 鸥绊 龋荐甫 扒惩促.
+
+17150:我们\乘船\渡过\大西洋\.\
+#We sailed across the Atlantic.
+#快府绰 硅甫 鸥绊 措辑剧阑 扒惩促.
+
+17151:我们\乘\地铁\穿过\伦敦\.\
+#We travelled across London on the underground.
+#快府绰 瘤窍枚阑 鸥绊 繁带阑 瘤唱埃促.
+
+17152:我们\乘\电梯\下去\吧\.\
+#Let's go down by the lift.
+#快府 府橇飘甫 鸥绊 郴妨癌矫促.
+
+17153:我们\乘\飞机\到\美国\.\
+#We flew over to the US.
+#快府绰 厚青扁甫 鸥绊 固惫俊 档馒沁促.
+
+17154:我们\乘\公共汽车\去\.\
+#We went by bus.
+#快府绰 滚胶甫 鸥绊 埃促.
+
+17155:我们\乘坐\二\等\车厢\.\
+#We sat in a secondclass compartment.
+#快府绰 2殿沫阑 藕促.
+
+17156:我们\吃\得\考究\一点\吧\.\
+#Let's eat in style.
+#快府 冈绰 巴俊 脚版阑 粱 竟矫促.
+
+17157:我们\迟早\会\赢\的\.\
+#We may win yet.
+#快府绰 炼父埃 捞扁霸 瞪 巴捞促.
+
+17158:我们\出\技术员\.\
+#Technicians are to be provided by us.
+#快府绰 扁贱磊甫 辰促.
+
+17159:我们\出售\热\饮料\.\
+#We sell hot beverages.
+#快府绰 蝶舵茄 澜丰甫 魄促.
+
+17160:我们\出售\新\旧\家具\.\
+#We sell new and used furniture.
+#快府绰 货 啊备, 清 啊备甫 魄促.
+
+17161:我们\从\大门\进\.\
+#We went in at the gate.
+#快府绰 措巩栏肺 甸绢埃促.
+
+17162:我们\从\第\一\章\开始\.\
+#We began with the first chapter.
+#快府绰 力 1厘何磐 矫累茄促.
+
+17163:我们\从\市场\出来\.\
+#We are getting out of the market.
+#快府绰 矫厘俊辑 唱柯促.
+
+17164:我们\从\书本\得到\知识\.\
+#We derive knowledge from books.
+#快府绰 氓俊辑 瘤侥阑 掘绰促.
+
+17165:我们\从\战区\疏散\.\
+#We were evacuated from the war zone.
+#快府绰 傈里磐俊辑 乔抄阑 唱柯促.
+
+17166:我们\从\後\方\袭击\敌人\.\
+#We attacked the enemy from the rear.
+#快府绰 第俊辑 利阑 傍拜茄促.
+
+17167:我们\存在\着\.\
+#We are in esse.
+#快府绰 粮犁茄促.
+
+17168:我们\打\棒球\如何\?\
+#suppose we play baseball.
+#快府 具备窍绰 巴捞 绢锭夸?
+
+17169:我们\打算\去\法国\度假\.\
+#We're thinking of going to France for our holidays.
+#快府绰 绒啊甫 焊郴矾 橇尔胶俊 哎 抗沥捞促.
+
+17170:我们\打算\下\星期\出发\.\
+#We're planning to start next week.
+#快府绰 促澜林俊 免惯且 拌裙捞促.
+
+17171:我们\大家\都\饿\.\
+#We're all hungry.
+#快府甸篮 葛滴 硅啊 绊橇促.
+
+17172:我们\大家\都\很\感激\您\.\
+#We all want to thank you.
+#快府 葛滴绰 呈俊霸 概快 皑荤窍绊 乐促.
+
+17173:我们\大家\一道\去\酒吧\.\
+#We all repaired to the bar together.
+#快府 葛滴 鞍捞 贱笼俊 埃促.
+
+17174:我们\大家\一条心\.\
+#We are all of a mind.
+#快府 葛滴绰 茄付澜 茄舵捞促.
+
+17175:我们\大家\知道\了\真相\.\
+#The truth became known to us all.
+#快府 葛滴绰 柳惑阑 舅疽促.
+
+17176:我们\担心\船\会\倾覆\.\
+#We feared that the boat might upset.
+#快府绰 硅啊 傈汗瞪鳖 毫 捌沥捞促.
+
+17177:我们\当\了\三\个\月\俘虏\.\
+#We were held captive for three months.
+#快府绰 3俺岿 悼救 器肺啊 登菌促.
+
+17178:我们\到达\湖\边\.\
+#We found our way to the lake.
+#快府绰 龋箭啊俊 档馒茄促.
+
+17179:我们\到达\机场\.\
+#We arrived at the airport.
+#快府绰 厚青厘俊 档馒沁促.
+
+17180:我们\到达\伦敦\.\
+#We arrived in London.
+#快府绰 繁带俊 档馒沁促.
+
+17181:我们\到\法国\去\度假\.\
+#We went to France for our holidays.
+#快府绰 绒啊甫 焊郴矾 橇尔胶俊 艾促.
+
+17182:我们\到\了\;\在\这\
+#here we are.
+#促 吭促.
+
+17183:我们\到\了\城市\.\
+#We arrived in the city.
+#快府绰 档矫俊 档馒沁促.
+
+17184:我们\到\伦敦\去\了\.\
+#We went to London.
+#快府绰 繁带俊 艾促.
+
+17185:我们\到\哪里\吃饭\?\
+#Where shall we eat?
+#快府绰 绢叼 啊辑 逛阑 冈阑鳖夸?
+
+17186:我们\到\市场\去\.\
+#We are going to the market.
+#快府绰 矫厘俊 埃促.
+
+17187:我们\道别\而\回家\.\
+#We said our good-bye,good-bys and went home.
+#快府绰 牢荤甫 窍绊 笼栏肺 倒酒吭促.
+
+17188:我们\得\筹备\一手\.\
+#We had to arrange for everything.
+#快府绰 葛电 巴阑 荤傈俊 霖厚秦具 茄促.
+
+17189:我们\得\赶快\!\
+#Let's hurry!
+#快府 粱 弧府 钦矫促!
+
+17190:我们的\办公室\在\七\楼\.\
+#Our office is on the 6th floor.
+#快府 荤公角篮 7摸俊 乐促.
+
+17191:我们的\产品\质量\高\.\
+#Our products are of high quality.
+#快府 积魂前篮 龙捞 亮促.
+
+17192:我们的\车\开\进去\了\.\
+#Our car drove in.
+#快府 瞒啊 款傈秦 甸绢艾促.
+
+17193:我们的\船\靠\向\码头\.\
+#Our ship nosed in to the dock.
+#快府狼 硅啊 档农肺 甸绢埃促.
+
+17194:我们的\船\停\下来\了\.\
+#Our ship brought to.
+#快府狼 硅啊 肛描促.
+
+17195:我们的\电话\断\了\.\
+#We've been disconnected.
+#快府甸狼 傈拳啊 谗绢脸促.
+
+17196:我们的\儿子\想\做\牧师\.\
+#Our son wants to enter the ministry.
+#快府 酒甸篮 格荤啊 登绊 酵绢茄促.
+
+17197:我们的\服从\是\被迫\的\.\
+#Our obedience was coerced.
+#快府狼 汗辆篮 碍力利牢 巴捞促.
+
+17198:我们的\狗\喜欢\啃\骨头\.\
+#Our dog likes to gnaw a bone.
+#快府 俺绰 焕 唉酒 冈扁甫 亮酒茄促.
+
+17199:我们的\关系\亲密\.\
+#We are on a first-name basis
+#快府甸狼 包拌绰 模剐窍促.
+
+17200:我们的\花园\井井有条\.\
+#Our garden is in good shape.
+#快府 沥盔篮 龙辑 沥楷窍促.
+
+17201:我们的\计\画\进行\不利\.\
+#Our schedule goes crossly.
+#快府甸狼 拌裙捞 鉴炼酚瘤 给窍霸 柳青等促.
+
+17202:我们的\计\画\尚未\成形\.\
+#Our project is not yet concrete.
+#快府甸狼 拌裙篮 酒流 葛剧捞 爱眠绢瘤瘤 臼疽促.
+
+17203:我们的\困难\增多\了\.\
+#Our difficulties are increasing.
+#快府狼 绢妨框捞 腹酒脸促.
+
+17204:我们的\老师\偏爱\玛丽\.\
+#Our teacher favors Mary.
+#快府 急积丛篮 Mary甫 祈局窍脚促.
+
+17205:我们的\路程\困难\重重\.\
+#Our path bristles with difficulties.
+#快府狼 畴沥篮 帮鄂捞 芭奠等促.
+
+17206:我们的\母\牛\产\乳\甚\多\.\
+#Our cows are milking well.
+#快府 鞠家绰 快蜡甫 酒林 腹捞 积魂茄促.
+
+17207:我们的\目标\一致\.\
+#We are single in our aim.
+#快府甸狼 格钎绰 鞍促.
+
+17208:我们的\目的地\是\纽约\.\
+#Our destination is New York.
+#快府甸狼 格利瘤绰 春垮捞促.
+
+17209:我们的\汽车\出\了\故障\.\
+#Our car had a breakdown.
+#快府狼 瞒啊 绊厘车促.
+
+17210:我们的\前途\一片\光明\.\
+#A bright future lies before us.
+#快府甸狼 傈档绰 灌促.
+
+17211:我们的\人民\渴望\独立\.\
+#Our people thirst for independence.
+#快府 惫刮甸篮 刀赋阑 哎噶茄促.
+
+17212:我们的\身材\一样\.\
+#We are of the some build.
+#快府甸篮 眉拜捞 鞍促.
+
+17213:我们的\生活\幸福\极\了\.\
+#Our life was unadulterated bliss.
+#快府甸狼 积劝篮 酒林 青汗窍促.
+
+17214:我们的\生意\陷入\困境\.\
+#Our business is in a mess.
+#快府甸狼 厘荤绰 帮版俊 官柳促.
+
+17215:我们的\时间\快\用\完了\.\
+#We're running out of time.
+#快府甸狼 矫埃捞 促 登绢埃促.
+
+17216:我们的\位置\被\调换\了\.\
+#Our positions have been reversed.
+#快府甸狼 困摹啊 官差菌促.
+
+17217:我们的\希望\破灭\了\.\
+#Our hopes are all over.
+#快府甸狼 锐噶捞 荤扼脸促.
+
+17218:我们的\希望\正在\实现\.\
+#Our hopes are blossoming out.
+#快府甸狼 锐噶捞 角泅登绊 乐促.
+
+17219:我们的\销售\量\在\减少\.\
+#Our sales are decreasing.
+#快府狼 魄概樊捞 皑家窍绊 乐促.
+
+17220:我们的\意见\相似\.\
+#Our opinions are similar.
+#快府甸狼 狼斑捞 厚搅窍促.
+
+17221:我们的\隐私\不容\侵犯\.\
+#Our privacy should not be violated.
+#快府狼 橇扼捞滚矫绰 魔裹档绢辑绰 救 等促.
+
+17222:我们的\油\快\用\完了\.\
+#We've run short of oil.
+#快府狼 扁抚捞 促 结埃促.
+
+17223:我们\等\了\好久\.\
+#We waited a good while.
+#快府绰 坷贰 扁促啡促.
+
+17224:我们\等\了\又\等\.\
+#We waited and waited.
+#快府绰 扁促府绊 肚 扁促啡促.
+
+17225:我们\低头\从\底下\走\过\.\
+#We bent down to pass underneath.
+#快府绰 赣府甫 槛捞绊 酒贰甫 瘤唱艾促.
+
+17226:我们\顶住\了\暴风雨\.\
+#We withstood the storm.
+#快府甸篮 气浅快甫 斑当促.
+
+17227:我们\定期\地\开会\.\
+#We have meetings at regular intervals.
+#快府绰 沥扁利栏肺 雀狼甫 楷促.
+
+17228:我们\丢\开\这个\话题\吧\.\
+#Let's drop the subject.
+#快府 捞 林力俊辑 颊阑 读矫促.
+
+17229:我们\都\到\车站\去\送\他\.\
+#We all went to the station to send him off.
+#快府绰 葛滴 弊甫 硅旷窍矾 沥芭厘俊 埃促.
+
+17230:我们\都\聚集\在\角落\里\.\
+#We all herded into the corner.
+#快府甸篮 葛滴 备籍俊 葛看促.
+
+17231:我们\都\觉得\兴致勃勃\.\
+#We all feel bobbish.
+#快府甸篮 葛滴 蕊固柳柳窍促绊 蠢布促.
+
+17232:我们\都\来\赞美\上帝\吧\.\
+#Let us give praise to God.
+#快府 葛滴 脚阑 蛮固钦矫促.
+
+17233:我们\都\希\和平\.\
+#We all wish for peace .
+#快府绰 葛滴 乞拳甫 盔茄促.
+
+17234:我们\都\希\你好\.\
+#We all wish you well.
+#快府绰 葛滴 匙啊 祈救窍扁甫 盔茄促.
+
+17235:我们\都\希\他\幸福\.\
+#We all wish him happy.
+#快府绰 葛滴 弊啊 青汗窍扁甫 官鄂促.
+
+17236:我们\都\要\去\游泳\.\
+#We're all going swimming.
+#快府绰 葛滴 荐康阑 窍矾 啊妨绊 茄促.
+
+17237:我们\都\一起\帮忙\收割\.\
+#We all helped with the harvest.
+#快府绰 葛滴 窃膊 荐犬阑 到绰促.
+
+17238:我们\都\有\各自\的\房间\.\
+#We have separate rooms.
+#快府绰 葛滴 阿磊狼 规捞 乐促.
+
+17239:我们\都\在\期盼\着\你\来\.\
+#We are all expecting you.
+#快府绰 葛滴 匙啊 坷扁甫 扁措窍绊 乐促.
+
+17240:我们\都\在\学院\里\膳\宿\.\
+#We all board in at the college.
+#快府绰 葛滴 切背俊辑 扁槛茄促.
+
+17241:我们\都\振作\起来\.\
+#We all cheered up .
+#快府 葛滴绰 扁款捞 抄促.
+
+17242:我们\断绝\关系\了\.\
+#We're finished.
+#快府 包拌绰 场车促.
+
+17243:我们\队\又\一次\获胜\了\.\
+#Our team has chalked up another victory.
+#快府 评捞 肚 茄瞒肥 捞板促.
+
+17244:我们\对\父母\感恩\不尽\.\
+#We owe our parents a lot.
+#快府绰 何葛丛俊霸 皑荤窍扁 弊瘤绝促.
+
+17245:我们\对\您\感激\不尽\.\
+#We can't thank you enough.
+#快府绰 寸脚膊 皑荤秦 付瘤 臼绰促.
+
+17246:我们\对\他的\好意\致谢\.\
+#We thanked him for his kindness.
+#快府绰 弊狼 龋狼俊 皑荤 靛赴促.
+
+17247:我们\发誓\一定\尽\全力\.\
+#We pledged that we would do our best.
+#快府绰 馆靛矫 弥急阑 促且 巴阑 竿技茄促.
+
+17248:我们\反对\丢\下\他\不管\.\
+#We object to leaving him alone.
+#快府绰 弊父 郴滚妨滴绊 倒焊瘤 臼绰 巴阑 馆措茄促.
+
+17249:我们\非\见\他\不可\.\
+#We have simply gotto see him.
+#快府绰 弊甫 父唱具父 茄促.
+
+17250:我们\飞行\在\云层\之上\.\
+#We were flying above the clouds.
+#快府绰 备抚 困甫 厚青茄促.
+
+17251:我们\分成\两个\小组\.\
+#We split up into two groups.
+#快府绰 滴 炼肺 唱吹菌促.
+
+17252:我们\分散\坐\在\地板\上\.\
+#We sat about on the floor.
+#快府绰 付风官蹿俊 瑞绢廉 旧促.
+
+17253:我们\奋力\挤\过\人群\.\
+#We thrust our way through the crowd.
+#快府绰 焙吝阑 剐绢 力摹绊 唱酒埃促.
+
+17254:我们\封\此事\一目了然\.\
+#It was manifest to us at a glance.
+#快府绰 捞 老俊 措秦 茄传俊 韧洒 救促.
+
+17255:我们\该\把\事情\了结\了\.\
+#It's time we settled up.
+#快府绰 捞 老阑 秦搬秦具 茄促.
+
+17256:我们\该\动身\了\.\
+#We must be jogging.
+#快府绰 免惯秦具 茄促.
+
+17257:我们\赶上\了\她\.\
+#We forereached on her.
+#快府绰 弊赤甫 蝶扼棱疽促.
+
+17258:我们\感激\您\.\
+#We are grateful to you.
+#快府绰 寸脚俊霸 皑荤 靛赋聪促.
+
+17259:我们\各\用\自己的\毛巾\.\
+#We use individual towels.
+#快府绰 阿磊 磊扁狼 荐扒阑 荤侩茄促.
+
+17260:我们\各\有\自己的\意见\.\
+#We each have our opinions.
+#快府绰 阿磊 磊扁狼 狼斑阑 啊柳促.
+
+17261:我们\给\火\再\加\燃料\.\
+#We replenished the fire.
+#快府绰 阂俊 楷丰甫 歹 持菌促.
+
+17262:我们\给予\敌军\痛\击\.\
+#We administered a drubbing to the enemy.
+#快府绰 利焙俊霸 烹纺茄 傍拜阑 欺何菌促.
+
+17263:我们\跟\他\很\熟\.\
+#We are acquainted with him.
+#快府绰 弊客 酒林 肋 救促.
+
+17264:我们\跟踪\狐狸\的\踪迹\.\
+#We followed the fox's tracks.
+#快府甸篮 咯快狼 磊秒甫 晾疽促.
+
+17265:我们\工作\到\深夜\.\
+#We worked far into the night.
+#快府绰 缴具鳖瘤 老茄促.
+
+17266:我们\公司\需要\新\血\轮\.\
+#We need youngblood in the company.
+#快府 雀荤绰 俐篮捞甸捞 鞘夸窍促.
+
+17267:我们\共同\努力\吧\.\
+#Let's coordinate,coordinate our efforts.
+#快府 窃膊 畴仿钦矫促.
+
+17268:我们\过\得\很\痛快\.\
+#We had a wild time.
+#快府绰 酒林 蜡蔫窍霸 焊陈促.
+
+17269:我们\毫无\选择\馀\地\.\
+#We have no alternative other.
+#快府绰 急琶狼 咯瘤啊 炼陛档 绝促.
+
+17270:我们\喝\杯\咖啡\吧\.\
+#Let's have a coffee.
+#快府 目乔 付绞矫促.
+
+17271:我们\喝\了\几\杯\啤酒\.\
+#We had several beers.
+#快府绰 钙林甫 割 儡 付继促.
+
+17272:我们\喝\了\一\整夜\的\酒\.\
+#We drank the whole night through.
+#快府绰 广货档废 贱阑 付继促.
+
+17273:我们\和\他们\共\进\午餐\.\
+#We partook of lunch with them.
+#快府绰 弊甸苞 痢缴阑 窃膊 茄促.
+
+17274:我们\合伙\已\有\五\年\了\.\
+#We've been in partnership for five years.
+#快府啊 悼诀茄 瘤 5斥捞 登菌促.
+
+17275:我们\很\迟\才\到家\.\
+#We got home very late.
+#快府绰 概快 词霸 笼俊 档馒沁促.
+
+17276:我们\很\担心\他\会\失败\.\
+#We are very much concerned that he may fail.
+#快府绰 弊啊 角菩且鳖 毫 概快 捌沥捞 等促.
+
+17277:我们\很\感谢\你\.\
+#We owe you a lot .
+#快府绰 呈俊霸 概快 绊付况 窍绊 乐促.
+
+17278:我们\很\关心\佣\金\问题\.\
+#We are very much concerned about the question of commission.
+#快府绰 目固记 巩力俊 措秦 包缴捞 腹促.
+
+17279:我们\很\理解\.\.\.\
+#We quite understand that...
+#快府绰 肋 捞秦茄促...
+
+17280:我们\呼吸\空气\.\
+#We breathe air.
+#快府绰 傍扁甫 龋软茄促.
+
+17281:我们\互相\争夺\那\奖品\.\
+#We contended with each other for the prize.
+#快府绰 辑肺 弊 惑前阑 滴绊 促坯促.
+
+17282:我们\滑\下\山坡\.\
+#We slid down the slope.
+#快府绰 魂厚呕阑 固掺矾廉 郴妨柯促.
+
+17283:我们\划\出去\.\
+#We rowed out.
+#快府绰 畴甫 历绢 唱埃促.
+
+17284:我们\还\差\一\千\美元\.\
+#We are still $1000 shy .
+#快府绰 酒流 1000崔矾啊 葛磊鄂促.
+
+17285:我们\还\在\商议\该\计划\.\
+#We are still deliberating the plan.
+#快府绰 酒流档 捞 拌裙俊 措秦 蛆狼窍绊 乐促.
+
+17286:我们\换\个\话题\吧\.\
+#suppose we change the subject.
+#快府 拳力甫 官策矫促.
+
+17287:我们\回\营\去\吧\.\
+#Let's go back to camp.
+#快府 捍康栏肺 倒酒癌矫促.
+
+17288:我们\会\很\想念\你\.\
+#We shall miss you badly.
+#快府绰 呈甫 概快 弊府况且 巴捞促.
+
+17289:我们\会\由衷\地\欢迎\你\.\
+#We should like to give you a warm welcome.
+#快府绰 呈甫 柳缴栏肺 券康且 巴捞促.
+
+17290:我们\获准\不用\做\功课\.\
+#We were excused from homework.
+#快府绰 槛力甫 且 鞘夸 绝促绰 倾遏阑 罐疽促.
+
+17291:我们\获准\入\教\.\
+#We were received into the church.
+#快府绰 背牢栏肺 罐酒甸咯脸促.
+
+17292:我们\击败\了\另\一\队\.\
+#We hammered the other team.
+#快府绰 促弗 评阑 拜颇沁促.
+
+17293:我们\极\需\支援\.\
+#We are sorely in need of support.
+#快府绰 瘤盔捞 例角洒 鞘夸窍促.
+
+17294:我们\及时\把\它\送\去\了\.\
+#We got it forward on time.
+#快府绰 溜矫 弊巴阑 焊陈促.
+
+17295:我们\挤\进\电梯\.\
+#We jammed into the elevator.
+#快府绰 郡府海捞磐肺 剐绊 甸绢埃促.
+
+17296:我们\几乎\冻死\了\.\
+#We nearly froze to death.
+#快府绰 芭狼 倔绢磷阑 瘤版捞促.
+
+17297:我们\继续\下山\.\
+#We went on descending the hill.
+#快府绰 拌加 魂阑 郴妨埃促.
+
+17298:我们\家\的\情形\也\一样\.\
+#It is just the same with our family.
+#快府笼狼 荤沥档 付蛮啊瘤促.
+
+17299:我们\家\的\庭\园\不大\.\
+#We have not much garden.
+#快府笼狼 沥盔篮 农瘤 臼促.
+
+17300:我们\家\可\供\十\人\住宿\.\
+#Our house can sleep ten persons.
+#快府笼篮 葛滴 凯 疙捞 肋 荐 乐促.
+
+17301:我们\加倍\努力\.\
+#We redoubled our efforts .
+#快府绰 硅肺 畴仿茄促.
+
+17302:我们\坚决\反对\投降\.\
+#We are strong against surrender.
+#快府绰 捧亲窍绰 巴阑 碍仿洒 馆措茄促.
+
+17303:我们\坚信\你\前途\无量\.\
+#We have great confidence that your future holds many good things.
+#快府绰 呈狼 傈档啊 剧剧窍府扼绊 被霸 瓜绰促.
+
+17304:我们\将\按时\到\,\是\吗\?\
+#We'll be on time,won't we?
+#快府啊 矫埃俊 嘎苗 档馒窍摆嚼聪鳖?
+
+17305:我们\将\记\下\他的\优点\.\
+#We shall chalk up his good points.
+#快府绰 弊狼 亮篮 痢阑 扁撅秦具 茄促.
+
+17306:我们\将\一道\前进\.\
+#We shall go forward together.
+#快府绰 窃膊 菊栏肺 唱哎 巴捞促.
+
+17307:我们\将\于\下\周\外出\.\
+#We shall be away next week.
+#快府绰 促澜林俊 寇免且 巴捞促.
+
+17308:我们\将\与\敌人\作战\.\
+#We will fight against the enemy.
+#快府绰 厘瞒 利苞 轿快霸 瞪 巴捞促.
+
+17309:我们\将\在\老\时间\会面\.\
+#We will meet at the usual time.
+#快府绰 疵 父朝 巴捞促.
+
+17310:我们\将\於\五\点\交班\.\
+#We shall be relieved at five o'clock.
+#快府绰 5矫俊 背措且 巴捞促.
+
+17311:我们\接近\了\那\城市\.\
+#We approached the city.
+#快府绰 弊 档矫俊 啊鳖捞 艾促.
+
+17312:我们\今天\在家\吃\午饭\.\
+#We are lunching in today.
+#快府绰 坷疵 笼俊辑 痢缴阑 冈绰促.
+
+17313:我们\今天\早\些\收工\吧\.\
+#Let's knock off early today.
+#坷疵篮 快府 粱 老嘛 老阑 场郴磊.
+
+17314:我们\今晚\将\到达\纽约\.\
+#We shall reach New York tonight.
+#快府绰 坷疵 广俊 春垮俊 档馒且 巴捞促.
+
+17315:我们\今晚\没空\.\
+#We won't be free tonight.
+#快府绰 坷疵 广俊 矫埃捞 绝促.
+
+17316:我们\进入\屋\内\.\
+#We went indoors.
+#快府绰 笼救栏肺 甸绢艾促.
+
+17317:我们\经常\一同\散步\.\
+#Often did we go for walks together.
+#快府绰 疵 窃膊 魂氓茄促.
+
+17318:我们\经常\与\他们\联络\.\
+#We are always in touch with them.
+#快府绰 疵 弊甸苞 楷遏茄促.
+
+17319:我们\经过\而\未\停留\.\
+#We passed through without stopping.
+#快府绰 赣拱瘤 臼绊 瘤唱埃促.
+
+17320:我们\就\到\此\为止\吧\.\
+#Let's just leave it at that.
+#快府 咯扁辑 场忱矫促.
+
+17321:我们\就\等\一会儿\吧\.\
+#Suppose we wait a while.
+#快府 炼陛父 扁促赋矫促.
+
+17322:我们\就\订购\五\千\台\吧\.\
+#All right.We'll order 5,000 pieces.
+#快府绰 坷玫 措甫 林巩钦矫促.
+
+17323:我们\决不\后退\.\
+#We shall never look back.
+#快府绰 例措 饶雀窍瘤 臼阑 巴捞促.
+
+17324:我们\决定\星期三\去\.\
+#We settled that we would go on Wednesday.
+#快府绰 荐夸老俊 啊扁肺 搬沥沁促.
+
+17325:我们\决定\早点\出发\.\
+#We determined on an early start.
+#快府绰 粱 老嘛 免惯窍扁肺 搬沥沁促.
+
+17326:我们\绝\不\投降\.\
+#We shall never surrender.
+#快府绰 例措肺 捧亲窍瘤 臼阑 巴捞促.
+
+17327:我们\开辟\出\上山\的\路\.\
+#We hewed out paths up the mountain.
+#快府绰 魂俊 坷福绰 辨阑 俺么秦 唱埃促.
+
+17328:我们\开始\工作\吧\.\
+#Let's begin our work.
+#快府 老阑 矫累钦矫促.
+
+17329:我们\看电影\去\吧\.\
+#Let's go to the movie.
+#快府 康拳 焊矾 癌矫促.
+
+17330:我们\考虑\了\许多\事情\.\
+#We pondered many things.
+#快府绰 腹篮 老阑 绊妨沁促.
+
+17331:我们\可能\及时\到达\吗\?\
+#Are we likely to arrive in time?
+#快府啊 力锭俊 档馒且 荐 乐摆嚼聪鳖?
+
+17332:我们\可\说\已\在\山顶\上\.\
+#We were already practically at the top.
+#快府绰 捞固 魂沥惑俊 乐促绊 且 荐 乐促.
+
+17333:我们\可以\边\走\边\谈\.\
+#We can talk as we go.
+#快府绰 吧栏哥 捞具扁且 荐 乐促.
+
+17334:我们\渴望\去\延安\访问\.\
+#We are aching for a visit to Yan'an.
+#快府绰 楷救阑 规巩窍矾 啊扁甫 官鄂促.
+
+17335:我们\快要\爬\上去\了\.\
+#We were climbing up.
+#快府绰 芭狼 促 棵扼吭促.
+
+17336:我们\狂热\地\欢呼\.\
+#We cheered wildly.
+#快府绰 凯纺洒 券龋茄促.
+
+17337:我们\拉\他\站起来\.\
+#We heaved him to his feet.
+#快府绰 弊甫 缠绢寸败 老栏淖促.
+
+17338:我们\来\此\未\满\一\星期\.\
+#We've been here just under a week.
+#快府啊 咯扁俊 柯瘤 老林老捞 救 灯促.
+
+17339:我们\来\打\一\局\牌\吧\.\
+#Let's have a game of cards.
+#快府 墨靛霸烙 钦矫促.
+
+17340:我们\来\决定\何时\动身\.\
+#Let's fix when we will start.
+#快府啊 攫力 免惯且 巴牢瘤 搬沥茄促.
+
+17341:我们\来\全力\支持\他\吧\.\
+#Let's deliver him all our support.
+#快府啊 弊甫 傈仿栏肺 瘤瘤钦矫促.
+
+17342:我们\来\赛跑\.\
+#Let's race.
+#快府 版林窍磊.
+
+17343:我们\来\玩\纸牌\好\吗\?\
+#Shall we play cards?
+#快府 墨靛愁捞甫 且鳖夸?
+
+17344:我们\楞\了\半晌\.\
+#We were not ourselves for some time.
+#唱绰 茄曼悼救 港窍聪 乐菌促.
+
+17345:我们\黎明\时\动身\了\.\
+#We set off at dawn.
+#快府绰 货寒俊 免惯沁促.
+
+17346:我们\离\船\上\岸\.\
+#We came ashore from the boat.
+#快府绰 硅俊辑 郴妨 秦救栏肺 棵扼艾促.
+
+17347:我们\两\人\把\它\平分\吧\.\
+#Let's divvy it up between us.
+#快府 滴 荤恩捞 弊巴阑 度鞍捞 唱疮矫促.
+
+17348:我们\两\人\平分\利润\吧\.\
+#Let's share the profits between us.
+#快府 滴 荤恩捞 捞辣阑 傍乞窍霸 唱疮矫促.
+
+17349:我们\领先\五\分\.\
+#We are five points ahead.
+#快府啊 5痢 菊急促.
+
+17350:我们\留\在\室内\.\
+#We stayed indoors.
+#快府绰 角郴俊 巢酒乐促.
+
+17351:我们\漏\唱\了\第\二\节\.\
+#We omitted to sing the second stanza.
+#快府绰 2例阑 狐哆府绊 畴贰沁促.
+
+17352:我们\路程\还\遥远\.\
+#We have a long way to go.
+#快府狼 辨篮 酒流档 钢促.
+
+17353:我们\轮流\开车\.\
+#We took turns at driving the car.
+#快府绰 背措肺 款傈茄促.
+
+17354:我们\马上\去\做\.\
+#We will do it in a jiffy.
+#快府绰 梆 窍摆促.
+
+17355:我们\买\不\起\奢侈\品\.\
+#We can't afford to spend money on luxuries.
+#快府绰 捣捞 绝绢辑 荤摹前阑 荤瘤 给茄促.
+
+17356:我们\卖\完了\牛奶\.\
+#We've sold out of milk.
+#快府绰 快蜡甫 促 迫疽促.
+
+17357:我们\漫步\越过\田野\.\
+#We roamed through the fields.
+#快府绰 甸魄阑 茄啊酚霸 芭匆哥 瘤唱埃促.
+
+17358:我们\漫游\了\山\丘\.\
+#We tramped the hills.
+#快府绰 魂攫傣阑 磊蜡酚霸 蜡恩沁促.
+
+17359:我们\没有\电话\.\
+#We're not on the telephone.
+#快府绰 傈拳啊 绝促.
+
+17360:我们\没有\多少\家具\.\
+#We hadn't much furniture.
+#快府绰 啊备啊 倔付 绝促.
+
+17361:我们\没有\经销\那\类\书\.\
+#We don't handle that sort of book.
+#快府绰 弊繁 辆幅狼 氓篮 困殴魄概窍瘤 臼绰促.
+
+17362:我们\没有\买\房子\的\钱\.\
+#We didn't have the money for a house.
+#快府绰 笼阑 混 捣捞 绝促.
+
+17363:我们\每天\看报\.\
+#We read newspapers every day.
+#快府绰 概老 脚巩阑 夯促.
+
+17364:我们\每\星期\换\床单\.\
+#We change the sheets every week.
+#快府绰 概林 魔措 矫飘甫 埃促.
+
+17365:我们\每\周\外出\三\次\.\
+#We go out three times a week.
+#快府绰 概林 技 瞒肥 寇免茄促.
+
+17366:我们\密切\注视\着\囚犯\.\
+#We kept a close watch on the prisoners.
+#快府绰 技缴窍霸 裹牢阑 林矫窍绊 乐促.
+
+17367:我们\勉强\赶上\火车\.\
+#We just made the train.
+#快府绰 埃脚洒 扁瞒甫 爬促.
+
+17368:我们\勉强\维持\着\.\
+#We are just jogging along .
+#快府甸篮 啊鳖胶肺 蜡瘤窍绊 乐促.
+
+17369:我们\面前\有\很多\困难\.\
+#Ahead of us lie many difficulties.
+#快府 菊俊绰 腹篮 绢妨框捞 乐促.
+
+17370:我们\明天\动身\.\
+#We leave tomorrow.
+#快府绰 郴老 免惯茄促.
+
+17371:我们\明天\动身\去\巴黎\.\
+#We are leaving for Paris tomorrow.
+#快府绰 郴老 颇府肺 免惯茄促.
+
+17372:我们\明天\将\继续\讨论\.\
+#We'll carry on our discussion tomorrow.
+#快府绰 郴老 拌加 配沸窍妨绊 茄促.
+
+17373:我们\明天\离开\伦敦\.\
+#We leave London tomorrow.
+#快府绰 郴老 繁带阑 栋抄促.
+
+17374:我们\明天\整天\拍\电影\.\
+#We'll be filming all day tomorrow.
+#快府绰 郴老 窍风辆老 康拳甫 嘛阑 巴捞促.
+
+17375:我们\那时\住\在\乡村\.\
+#We lived in the country then.
+#快府绰 弊锭 矫榜俊 混疽促.
+
+17376:我们\能\供\他\住\一\夜\.\
+#We can accommodate him for the night.
+#快府绰 弊啊 窍讽广 宫绢啊档废 力傍且 荐 乐促.
+
+17377:我们\能\活\到\那时候\吗\?\
+#Will we still be alive then?
+#快府啊 弊锭鳖瘤 混 荐 乐阑鳖夸?
+
+17378:我们\逆风\航行\.\
+#We sailed against the wind.
+#快府绰 开浅亲青阑 茄促.
+
+17379:我们\逆水行舟\.\
+#We are rowing against the current.
+#快府绰 拱阑 芭浇矾 硅甫 藕促.
+
+17380:我们\努力\克服\障碍\.\
+#We laid about to surmount the obstacle.
+#快府绰 厘局甫 必汗窍档废 畴仿茄促.
+
+17381:我们\偶然\获胜\.\
+#We won by chance.
+#快府绰 快楷洒 捞板促.
+
+17382:我们\爬\这\座\山\的\北\坡\.\
+#We climbed the north face of the mountain.
+#快府绰 捞 魂狼 合率 厚呕阑 坷弗促.
+
+17383:我们\排队\等\公共汽车\.\
+#We queued up for the bus.
+#快府绰 临阑 辑辑 滚胶甫 扁促赴促.
+
+17384:我们\盼\你的\惠\顾\.\
+#We should like to have your custom.
+#快府绰 呈狼 局龋甫 盔茄促.
+
+17385:我们\拼命\地\跑\.\
+#We ran like anything.
+#快府绰 塞帛 崔赴促.
+
+17386:我们\聘\她\担任\顾问\.\
+#We employ her as an adviser.
+#快府绰 弊赤甫 檬葫秦辑 绊巩阑 该板促.
+
+17387:我们\平安\到达\.\
+#We arrived safely.
+#快府绰 祈救洒 档馒沁促.
+
+17388:我们\平安\无\事\归来\了\.\
+#We got back without accident.
+#快府绰 乞救 公荤窍霸 倒酒吭促.
+
+17389:我们\平时\天\天\上学\.\
+#We go to school on weekdays.
+#快府绰 乞家 概老概老 切背俊 埃促.
+
+17390:我们\期待\他\履行\诺言\.\
+#We expect him to carry out his promises.
+#快府绰 弊啊 距加阑 捞青窍扁甫 扁措茄促.
+
+17391:我们\期待\他\能\成功\.\
+#We are hopeful that he will win.
+#快府绰 弊啊 己傍窍扁甫 扁措茄促.
+
+17392:我们\期盼\着\您\的\回\音\.\
+#We look forward to hearing from you.
+#快府绰 寸脚狼 雀翠阑 绊措钦聪促.
+
+17393:我们\切\不可\赌\搏\.\
+#We must not gamble.
+#快府绰 搬内 档冠阑 秦辑绰 救 等促.
+
+17394:我们\请\他\一道\吃饭\.\
+#We asked him to partake of our meal.
+#快府绰 弊甫 没秦辑 窃膊 侥荤甫 沁促.
+
+17395:我们\取得\了\谅解\.\
+#We have come to an understanding.
+#快府绰 剧秦甫 备沁促.
+
+17396:我们\去\打\网球\吧\?\
+#Let'splay tennis,shall we?
+#快府 抛聪胶 摹矾 哎贰夸?
+
+17397:我们\去\法国\南方\度假\.\
+#For our holidays we went to the South of France.
+#快府绰 橇尔胶 巢何肺 绒啊甫 焊郴矾 埃促.
+
+17398:我们\去看电影\好\吗\?\
+#Let's go to see a movie,shall we?.
+#快府 康拳 焊矾 哎贰夸?
+
+17399:我们\去\看看\杰\克\.\
+#Let's give Jack a look-in.
+#快府绰 Jack阑 焊矾 埃促.
+
+17400:我们\去\散\散步\吧\.\
+#Let's take a walk.
+#快府 魂氓窍矾 癌矫促.
+
+17401:我们\去\森林\中\散步\.\
+#We went for a walk in the wood.
+#快府绰 剑栏肺 魂氓阑 埃促.
+
+17402:我们\去\洗\个\澡\吧\.\
+#Let's go for a bathe.
+#快府 格垮窍矾 癌矫促.
+
+17403:我们\全都\松\了\一口气\.\
+#We all heaved a sigh of relief.
+#快府绰 葛滴 救档狼 茄见阑 浆菌促.
+
+17404:我们\全都\要\学\英语\.\
+#We will be taught English.
+#快府绰 葛滴 康绢甫 硅快妨绊 茄促.
+
+17405:我们\全家\向\您\问候\
+#With our united kind regards,
+#快府 啊练 葛滴绰 寸脚俊霸 巩救阑 靛赋聪促.
+
+17406:我们\全体\意见\一致\.\
+#We are in unanimous agreement.
+#快府甸 葛滴绰 狼斑捞 老摹茄促.
+
+17407:我们\劝\他们\住\一\夜\.\
+#We urged them to stay overnight.
+#快府绰 弊甸俊霸 窍讽广 宫栏扼绊 鼻沁促.
+
+17408:我们\缺乏\食物\.\
+#We are short of food .
+#快府绰 澜侥捞 何练窍促.
+
+17409:我们\确定\了\会面\日期\.\
+#We assigned a day for our meeting.
+#快府绰 雀斑 朝楼甫 犬沥沁促.
+
+17410:我们\确信\能\获胜\.\
+#We were secure of victory.
+#快府绰 铰府且 荐 乐促绊 犬脚茄促.
+
+17411:我们\让\了\对方\两\分\.\
+#We conceded two points to our opponents.
+#快府绰 惑措俊霸 滴 痢阑 剧焊沁促.
+
+17412:我们\让\她\暂住\亲戚\家\.\
+#We camped her with relatives.
+#快府绰 弊赤肺 窍咯陛 模么笼俊 泪矫 赣公福霸 沁促.
+
+17413:我们\认为\这\计划\可行\.\
+#We hold the plan to be practicable.
+#快府绰 捞 拌裙捞 角青且 父窍促绊 积阿茄促.
+
+17414:我们\仍\抱着\希\
+#We are still hoping.
+#快府绰 酒流档 锐噶阑 救绊 乐促.
+
+17415:我们\仍然\充满\斗志\.\
+#We still had plenty of fight in us.
+#快府绰 咯傈洒 捧瘤啊 面父窍促.
+
+17416:我们\如何\分配\利润\?\
+#How shall we divide up the profits ?.
+#快府绰 绢痘霸 捞辣阑 盒硅钦聪鳖?
+
+17417:我们\如何\分配\那\笔\钱\?\
+#How shall we share the money?.
+#快府绰 弊 捣阑 绢痘霸 盒硅且 巴涝聪鳖?
+
+17418:我们\叁\加\泳\赛\吧\.\
+#Let's swim a race.
+#快府 荐康 版扁俊 曼啊钦矫促.
+
+17419:我们\涉水\过\小河\.\
+#We splashed across the brook.
+#快府绰 碍阑 扒呈埃促.
+
+17420:我们\设法\给\人\好\印象\.\
+#We try to put our best foot forward.
+#快府绰 促弗 荤恩俊霸 亮篮 牢惑阑 林妨绊 畴仿茄促.
+
+17421:我们\什么时候\吃饭\?\
+#What time do we eat?
+#快府绰 攫力 侥荤甫 钦聪鳖?
+
+17422:我们\实际\上\是\完了\.\
+#We're as good as ruined.
+#快府绰 角龙利栏肺 场车促.
+
+17423:我们\是\大夫\.\
+#We are doctors.
+#快府绰 狼荤捞促.
+
+17424:我们\是\好朋友\.\
+#We're good buddies.
+#快府绰 亮篮 模备捞促.
+
+17425:我们\是\老\朋友\.\
+#7 We are old friends.
+#快府绰 坷罚 模备捞促.
+
+17426:我们\是\同\年纪\.\
+#We are the same age.
+#快府绰 悼癌捞促.
+
+17427:我们\是\一\星期\前来\的\.\
+#We arrived a week ago.
+#快府绰 老林老 傈俊 吭促.
+
+17428:我们\是\这个\组\的\核心\.\
+#We are the nucleus of the group.
+#快府绰 捞 弊缝狼 琴缴捞促.
+
+17429:我们\是\知心\的\朋友\.\
+#We're great friends.
+#快府绰 例模茄 模备捞促.
+
+17430:我们\是\坐\地铁\去\的\.\
+#We went by underground.
+#快府绰 瘤窍枚阑 鸥绊 艾促.
+
+17431:我们\试\尝\一下\寿\司\.\
+#We tried eating sushi as an experiment.
+#快府绰 辫逛阑 咐夯促.
+
+17432:我们\收到\.\.\.\的\询问\.\
+#We have received an inquiry for...
+#快府绰 ~茄 巩狼甫 罐疽促.
+
+17433:我们\收集\枯\枝\生火\.\
+#Gathering sticks,we made a fire.
+#快府绰 付弗 唱沟啊瘤甫 葛酒 阂阑 乔款促.
+
+17434:我们\受到\茶点\的\招待\.\
+#We were entertained with refreshments.
+#快府绰 促苞甫 措立 罐疽促.
+
+17435:我们\受\重\税\的\压榨\.\
+#Heavy taxes grind us down.
+#苞档茄 技陛捞 快府甸阑 撅拘窍绊 馒秒茄促.
+
+17436:我们\双方\各\让\多少\?\
+#How shall we compromise?
+#快府 街规捞 阿阿 倔付父怒 剧焊秦具 钦聪鳖?
+
+17437:我们\双方\各\让\一半\.\
+#Let's meet each other half-way.
+#快府 街规捞 馆究 剧焊钦矫促.
+
+17438:我们\谁\也\没有\看见\.\
+#We see nobody.
+#快府绰 酒公档 救 父车促.
+
+17439:我们\顺利\登\上\山顶\.\
+#We made a successful ascent of the mountain.
+#快府绰 鉴炼酚霸 魂沥惑俊 棵耳促.
+
+17440:我们\顺\水\行\舟\.\
+#We sailed a boat down the river.
+#快府绰 扁雀甫 焊促 老阑 柳青茄促.
+
+17441:我们\谈\了\许多\事情\.\
+#We talked about a lot of things.
+#快府绰 腹篮 老俊 措秦 娟扁沁促.
+
+17442:我们\谈论\了\世界\大事\.\
+#Our talk ran on world events.
+#快府绰 技拌狼 荤扒甸俊 措秦
+
+17443:我们\躺\下来\.\
+#We laid us down.
+#快府绰 靛矾穿奎促.
+
+17444:我们\提供\实验\结果\.\
+#We deliver results.
+#快府绰 角氰 搬苞甫 力傍茄促.
+
+17445:我们\提议\休会\半\小时\.\
+#We moved for an adjournment of half an hour.
+#快府绰 30盒埃狼 绒雀甫 力狼茄促.
+
+17446:我们\提早\出发\吧\.\
+#Let's start early .
+#快府 老嘛 免惯钦矫促.
+
+17447:我们\天\黑\以后\不\外出\.\
+#We don't go out after dark.
+#快府绰 绢滴况柳 饶俊绰 寇免窍瘤 臼绰促.
+
+17448:我们\听到\鼓\咚\咚\地\响\.\
+#We heard drums beating.
+#快府绰 嫡嫡芭府绰 合家府甫 甸菌促.
+
+17449:我们\听到\树\叶\沙沙\响\.\
+#We heard a rustle of leaves.
+#快府绰 唱沟蕾捞 驾驾窍绰 家府甫 甸菌促.
+
+17450:我们\听\乐队\演奏\.\
+#We listened to the band playing.
+#快府绰 厩措啊 楷林窍绰 巴阑 甸菌促.
+
+17451:我们\听\他\把\话\讲\完\吧\.\
+#Let's hear him out.
+#快府 弊狼 富阑 场鳖瘤 甸绢壕矫促.
+
+17452:我们\听\无线电\吧\.\
+#Let's listen to the radio.
+#快府 扼叼坷甫 甸谰矫促.
+
+17453:我们\停\下来\休息\一会\.\
+#We stopped to have a rest.
+#快府 肛眠绊 粱 奖矫促.
+
+17454:我们\停止\工作\几\分钟\.\
+#We desisted from our work for a few minutes.
+#快府绰 老阑 割 盒 悼救 肛眠菌促.
+
+17455:我们\同意\按\规定\办事\.\
+#We agreed to comply with the rules.
+#快府绰 痹沥俊 蝶扼 老阑 贸府窍绰 巴俊 悼狼茄促.
+
+17456:我们\同意\接受\那\提议\.\
+#We are agreed to accept the offer.
+快府绰 弊 力狼甫 罐酒甸捞扁肺 悼狼茄促.
+
+17457:我们\同意\立即\出发\.\
+#We agreed to start at once.
+#快府绰 溜矫 免惯窍绰 巴俊 悼狼茄促.
+
+17458:我们\同意\立即\动身\.\
+#We agreed to leave at once.
+#快府绰 溜矫 栋唱绰 巴俊 悼狼茄促.
+
+17459:我们\同意\他们的\决定\.\
+#We are in agreement with their decision.
+#快府绰 弊甸狼 搬沥俊 悼狼茄促.
+
+17460:我们\团结\抗敌\.\
+#We banded ourselves together against the enemy.
+#快府绰 窜搬秦辑 利俊 措亲茄促.
+
+17461:我们\推\挤\着\上\了\火车\.\
+#We got into the train with a lot of pushing and shoving.
+#快府绰 栋剐妨 扁瞒俊 爬促.
+
+17462:我们\退\到\面\的\房间\.\
+#We withdrew to the inner room.
+#快府绰 救规栏肺 拱矾抄促.
+
+17463:我们\玩\得\非常\愉快\.\
+#We had such a pleasant time.
+#快府绰 酒林 蜡蔫窍霸 愁疽促.
+
+17464:我们\玩\得\很\开心\.\
+#We had loads of fun.
+#快府绰 酒林 榴疤霸 愁疽促.
+
+17465:我们\玩\得\很\痛快\.\
+#We had great sport.
+#快府绰 酒林 烹蔫窍霸 愁疽促.
+
+17466:我们\玩\得\很\愉快\.\
+#We enjoyed ourselves a good deal.
+#快府绰 酒林 榴疤霸 愁疽促.
+
+17467:我们\玩\得\有趣\极\了\!\
+#We had such fun!
+#呈公 呈公 犁固乐备唱!
+
+17468:我们\完全\准备好\了\.\
+#We are ready enough.
+#快府绰 霖厚甫 肯傈洒 场陈促.
+
+17469:我们\晚饭\有\鱼\吃\.\
+#We're having fish for dinner.
+#快府绰 历翅俊 积急阑 冈绰促.
+
+17470:我们\往前\猛冲\.\
+#We thrust ourselves forward.
+#快府绰 菊栏肺 竿纺窍霸 倒柳茄促.
+
+17471:我们\围桌\而\坐\.\
+#We sat round the table.
+#快府绰 殴磊俊 笛矾旧疽促.
+
+17472:我们\围\着\桌子\坐\.\
+#We sat around the table.
+#快府绰 殴磊 林困俊 旧疽促.
+
+17473:我们\为\暴风雪\所\困\.\
+#We were marooned by the blizzard.
+#快府甸篮 气浅快肺 绊赋登菌促.
+
+17474:我们\为\苍蝇\所\扰\.\
+#We were pestered by flies.
+#快府绰 颇府 锭巩俊 己啊矫促.
+
+17475:我们\为\敌人\所\包围\.\
+#We were beset by the enemy.
+#快府绰 利俊霸 器困寸沁促.
+
+17476:我们\为\将来\而\工作\.\
+#We work for the to-be.
+#快府甸篮 厘贰甫 困秦 老茄促.
+
+17477:我们\为了\活\命\而\吃\.\
+#We eat that we may live.
+#快府绰 混扁 困秦辑 冈绰促.
+
+17478:我们\为什么\要\赚钱\?\
+#Why do we want to earn money?
+#快府绰 恐 捣阑 国妨绊 窍绰啊?
+
+17479:我们\为\他的\安全\担心\.\
+#We were anxious for his safety.
+#快府绰 弊狼 救傈阑 捌沥茄促.
+
+17480:我们\为\她的\生命\担忧\.\
+#We feared for her life.
+#快府绰 弊赤狼 积疙阑 捌沥茄促.
+
+17481:我们\无法\把门\关上\.\
+#We can't get the door shut.
+#快府绰 巩阑 泪臂 规过捞 绝促.
+
+17482:我们\无法\一次\发\运\.\
+#We can't ship them all at once.
+#快府绰 茄锅俊 角绢 焊尘 规过捞 绝促.
+
+17483:我们\无\所\不\谈\.\
+#We talked of one thing and another.
+#快府绰 娟扁 给且 巴捞 绝促.
+
+17484:我们\五\点钟\放学\.\
+#We are released from school at five o'clock.
+#快府绰 5矫俊 切背甫 颇茄促.
+
+17485:我们\希\会议\已\结束\.\
+#We wished the conference at an end.
+#快府绰 雀狼啊 捞固 场车扁甫 官鄂促.
+
+17486:我们\希望\加上\.\.\.\
+#We wish to add...
+#快府绰 ... 歹秦瘤辨 官鄂促.
+
+17487:我们\希望\能\下\些\雨\.\
+#We are hoping for some rain.
+#快府绰 厚啊 粱 坷扁甫 官鄂促.
+
+17488:我们\希望\最好\直\运\.\
+#We hope you can make a direct shipment.
+#快府绰 梆厘 款馆登扁甫 锐噶茄促.
+
+17489:我们\下\一\站\下车\.\
+#We'll get down at the next station.
+#快府绰 促澜 沥芭厘俊 郴赴促.
+
+17490:我们\夏天\去\山\上\.\
+#We go to the mountains in summer.
+#快府绰 咯抚俊 魂俊 埃促.
+
+17491:我们\先\别\走\吧\.\
+#Let's not go yet.
+#快府 酒流 啊瘤 缚矫促.
+
+17492:我们\先\从\喝\汤\开始\.\
+#We started with soup.
+#快府绰 快急 帕阑 冈谰矫促.
+
+17493:我们\先\喝\一\杯\再\回家\.\
+#Let's have a drink and then go home.
+#快府绰 刚历 茄 儡 付矫绊 笼栏肺 倒酒癌矫促.
+
+17494:我们\现在\扯\平\了\.\
+#We are quits now.
+#快府绰 瘤陛 弊父 滴菌促.
+
+17495:我们\现在\是\邻居\了\.\
+#We're neighbours now.
+#快府绰 泅犁 捞眶捞促.
+
+17496:我们\现在\用\油\作\燃料\.\
+#We use oil now as a fuel.
+#泅犁 快府绰 扁抚阑 楷丰肺 荤侩茄促.
+
+17497:我们\相处\的\很\好\.\
+#We agree very well together.
+#快府绰 辑肺 酒林 荤捞 亮霸 瘤辰促.
+
+17498:我们\想\订\八\百\箱\.\
+#I want to order 800 cases.
+#快府绰 800惑磊甫 林巩窍绊 酵促.
+
+17499:我们\向\陛下\请求\批准\.\
+#We petitioned His Majesty for sanction.
+#快府绰 企窍俊霸 厚霖秦 林角 巴阑 没沁促.
+
+17500:我们\向\佛\膜拜\致敬\.\
+#We bowed before the Buddha.
+#快府绰 何贸丛膊 峻靛妨 例窍哥 版狼甫 钎茄促.
+
+17501:我们\向\那\座\房子\走\去\.\
+#We directed our steps towards the house.
+#快府绰 弊 笼栏肺 埃促.
+
+17502:我们\向\他们\告别\.\
+#We bid them farewell.
+#快府绰 弊甸俊霸 累喊牢荤甫 茄促.
+
+17503:我们\写\信\向\他\求教\.\
+#We wrote to him for advice.
+#快府绰 祈瘤甫 结辑 弊俊霸 啊福魔阑 备沁促.
+
+17504:我们\心中\充满\恐惧\.\
+#Fears loomed large in our minds.
+#快府 付澜 加捞 傍器肺 啊垫 谩促.
+
+17505:我们\星期一\有\五\堂\课\.\
+#We have five periods on Monday.
+#快府绰 岿夸老俊 荐诀捞 5矫埃 乐促.
+
+17506:我们\兴\哈\佛\赛\成\平手\.\
+#We tied with Harvard.
+#快府绰 窍滚靛客 厚板促.
+
+17507:我们\休息\一会儿\吧\.\
+#Let's breathe for a moment.
+#快府 炼陛 奖矫促.
+
+17508:我们\选举\赢\定\了\.\
+#We have the election locked up.
+#快府绰 急芭俊 怖 捞变促.
+
+17509:我们\选举\主席\.\
+#We elected the chairman.
+#快府绰 狼厘阑 急免茄促.
+
+17510:我们\选\谁\当\班长\?\
+#Whom shall we choose as our monitor?
+#快府绰 穿备甫 馆厘栏肺 惶阑 巴牢啊?
+
+17511:我们\选\他\当\主席\.\
+#We elected him chairman.
+#快府绰 弊甫 狼厘栏肺 惶疽促.
+
+17512:我们\沿着\路\走\.\
+#We walked along the road.
+#快府绰 辨阑 蝶扼 叭绰促.
+
+17513:我们\要求\付\给\工资\.\
+#We claimed to be paid our wages.
+#快府绰 岿鞭阑 瘤鞭秦 临 巴阑 夸备茄促.
+
+17514:我们\要求\允许\转运\.\
+#We require that transshipment be allowed.
+#快府绰 吝拌款价阑 倾遏秦 崔扼绊 夸备茄促.
+
+17515:我们\要\去看电影\了\.\
+#We're going to the movies.
+#快府绰 康拳甫 焊矾 啊妨绊 茄促.
+
+17516:我们\要\在\哪\吃饭\?\
+#Where shall we eat?.
+#快府绰 绢叼俊辑 侥荤甫 窍妨绊 钦聪鳖?
+
+17517:我们\夜晚\睡觉\.\
+#We sleep at night.
+#快府绰 广俊 儡促.
+
+17518:我们\一般\不\给\佣\金\.\
+#We usually don't allow any commission.
+#快府绰 老馆利栏肺 目固记阑 林瘤 臼绰促.
+
+17519:我们\一定\会\胜利\.\
+#We are certain to be victorious.
+#快府绰 馆靛矫 捞辨 巴捞促.
+
+17520:我们\一\路上\都\是\步行\.\
+#We walked all the way.
+#快府绰 葛电 辨阑 吧绢辑 艾促.
+
+17521:我们\一\年\有\两\次\休假\.\
+#We have two leaves a year.
+#快府绰 1斥俊 2锅 绒啊啊 乐促.
+
+17522:我们\一起\上\学校\.\
+#We went to school together.
+#快府绰 窃膊 切背俊 埃促.
+
+17523:我们\一直\想到\四化\.\
+#All the time we were thinking of the four modernizations.
+#快府绰 临梆 4拳甫 积阿窍绊 乐促.
+
+17524:我们\一直\在\到处\找\她\.\
+#We've been hunting for her all over.
+#快府绰 临梆 档贸俊辑 弊赤甫 茫绰促.
+
+17525:我们\一直\住\在\这里\.\
+#We've always lived here.
+#快府绰 临梆 咯扁俊 魂促.
+
+17526:我们\遗憾\地\注意\到\.\.\.\
+#We note with regret that...
+#快府绰 蜡皑胶反霸档...
+
+17527:我们\已\把\他\逼\入\绝境\.\
+#We've got him cornered.
+#快府绰 弊甫 泵瘤俊 隔酒 持菌促.
+
+17528:我们\已经\吃\过\早饭\了\.\
+#We have already had breakfast.
+#快府绰 酒魔阑 冈菌促.
+
+17529:我们\已经\智\穷\虑\竭\.\
+#We were at the end of our resources.
+#快府绰 捞固 归拌啊 促窍看促.
+
+17530:我们\已\决定\明天\动身\.\
+#We've fixed on starting tomorrow.
+#快府绰 捞固 郴老 免惯窍扁肺 搬沥沁促.
+
+17531:我们\已\离开\这\地方\.\
+#We went away from this place.
+#快府绰 捞固 捞镑阑 栋车促.
+
+17532:我们\已\清除\了\垃圾\.\
+#We have disposed of the rubbish.
+#快府绰 捞固 静饭扁甫 柄昌捞 摹奎促.
+
+17533:我们\以\绰号\叫\他们\.\
+#We call them by their nicknames.
+#快府绰 喊疙栏肺 弊甸阑 何弗促.
+
+17534:我们\意见\分歧\.\
+#We are divided in our opinions.
+#快府绰 狼斑捞 盒盒窍促.
+
+17535:我们\应\把\钱\存在\银行\.\
+#We should deposit our money in the bank.
+#快府绰 捣阑 篮青俊 历陛秦具 茄促.
+
+17536:我们\应该\诚实\.\
+#We should be honest.
+#快府绰 己角秦具 茄促.
+
+17537:我们\应该\利用\这\机会\.\
+#We should avail ourselves of this opportunity.
+#快府绰 付顶洒 捞 扁雀甫 捞侩秦具 茄促.
+
+17538:我们\应该\顺应\时势\.\
+#We should take the world as we find it.
+#快府绰 付顶洒 矫技俊 鉴览秦具 茄促.
+
+17539:我们\用\刀叉\进\餐\.\
+#We eat with knife and fork.
+#快府绰 唱捞橇客 器农甫 荤侩秦辑 侥荤甫 茄促.
+
+17540:我们\用\的\是\硬纸板\箱\.\
+#We use cardboard boxes.
+#快府绰 魄瘤惑磊甫 荤侩茄促.
+
+17541:我们\用\米\代替\马铃薯\.\
+#We substituted rice for potatoes.
+#快府绰 皑磊措脚 揭阑 荤侩茄促.
+
+17542:我们\用\毯子\捂\住\噪声\.\
+#We muffled up the noise with blankets.
+#快府绰 淬夸肺 家澜阑 怖 阜疽促.
+
+17543:我们\用\铁皮\带\加固\.\
+#We'll reinforce them with iron straps.
+#快府绰 枚魄栏肺 焊碍窍促.
+
+17544:我们\由\煤\改用\煤气\.\
+#We converted from coal to gas.
+#快府绰 籍藕俊辑 啊胶肺 官层 敬促.
+
+17545:我们\游泳\去\吧\!\
+#Let's go for a swim!
+#快府 荐康窍矾 啊磊!
+
+17546:我们\有\充裕\的\奶油\.\
+#We are well off for butter.
+#快府绰 面盒茄 滚磐啊 乐促.
+
+17547:我们\有\蛋糕\作\甜\点心\.\
+#We had cake for dessert.
+#快府绰 叼历飘肺 镜 纳捞农啊 乐促.
+
+17548:我们\有\朋友\也\有\敌人\.\
+#We have friends and enemies as well.
+#快府绰 模备档 乐绊 肚 利档 乐促.
+
+17549:我们\有\权\穿过\这\块\地\.\
+#There is a right of way across this field.
+#快府俊霸绰 捞 顶阑 烹苞且 鼻府啊 乐促.
+
+17550:我们\有时\去\海边\.\
+#We sometimes go to the sea.
+#快府绰 锭锭肺 秦函俊 埃促.
+
+17551:我们\有\四\只\狗\.\
+#We have four dogs.
+#快府绰 4付府狼 俺啊 乐促.
+
+17552:我们\有\五\天\未曾\洗澡\.\
+#We went bathless for five days.
+#快府绰 5老 悼救 格垮阑 窍瘤 臼疽促.
+
+17553:我们\有\先例\可\援\.\
+#We have a precedent to go by.
+#快府俊霸绰 辟芭 伙阑 傈肥啊 乐促.
+
+17554:我们\有\信心\能\成功\.\
+#We are confident of success.
+#快府绰 己傍窍府扼绰 磊脚皑捞 乐促.
+
+17555:我们\有\姻亲\关系\.\
+#We are related by marriage.
+#快府绰 牢么包拌啊 乐促.
+
+17556:我们\迂\包抄\敌人\.\
+#We've turned the enemy.
+#快府绰 利阑 器困 傍拜茄促.
+
+17557:我们\预定\生\六\个\小孩\.\
+#We plan on six kids.
+#快府绰 酒捞甫 6疙 澈阑 抗沥捞促.
+
+17558:我们\预防\风暴\的\来临\.\
+#We are ready against the storm.
+#快府绰 气浅捞 蹿媚棵 巴俊 措厚茄促.
+
+17559:我们\远\离\家园\.\
+#We're a long way from home.
+#快府绰 笼俊辑 钢府 冻绢廉乐促.
+
+17560:我们\在\傍晚\回到\家\.\
+#We arrived home in the evening.
+#快府绰 历翅 公菲俊 笼俊 倒酒吭促.
+
+17561:我们\在\草地\上\踢\足球\.\
+#We played football on the grass.
+#快府绰 钱圭俊辑 绵备甫 茄促.
+
+17562:我们\在\车站\等\她\到来\.\
+#We waited at the station in anticipation of her arrival.
+#快府绰 沥芭厘俊辑 弊赤啊 档馒窍扁甫 扁促赴促.
+
+17563:我们\在\搭\脚手架\.\
+#We are putting up the scaffolding.
+#快府绰 厚拌甫 父电促.
+
+17564:我们\在\等待\董事\同意\.\
+#We're waiting for the director to give his assent.
+#快府绰 捞荤啊 悼狼窍扁甫 扁促府绊 乐促.
+
+17565:我们\在\等\客人\.\
+#We're expecting visitors.
+#快府绰 颊丛阑 扁促府绊 乐促.
+
+17566:我们\在\教堂\举行\婚礼\.\
+#We married in church .
+#快府绰 背雀俊辑 去肥甫 芭青茄促.
+
+17567:我们\在\街\上\匆匆\行走\.\
+#We hotfooted it down the street.
+#快府绰 辨阑 鞭洒 辑笛矾 艾促.
+
+17568:我们\在\九\点钟\上\教堂\.\
+#We go to chapel at nine.
+#快府绰 9矫俊 背雀俊 埃促.
+
+17569:我们\在\墓\前\都\脱\帽\.\
+#We all uncoverd in front of the grave.
+#快府绰 功家 菊俊辑绰 葛滴 葛磊甫 哈绰促.
+
+17570:我们\在\哪里\碰头\?\
+#Where shall we meet?
+#快府啊 绢叼俊辑 父唱瘤夸?
+
+17571:我们\在\农场\工作\.\
+#We work on the farm.
+#快府绰 丑厘俊辑 老茄促.
+
+17572:我们\在\三\点钟\正\抵达\.\
+#We arrived at three sharp.
+#快府绰 沥阿 3矫俊 档馒茄促.
+
+17573:我们\在\晒\太阳\.\
+#We basked in the sunshine.
+#快府绰 寝旱阑 仑绊 乐促.
+
+17574:我们\在\山脚\下\扎\营\.\
+#We camped at the base of the mountain.
+#快府绰 魂扁骄俊辑 具康阑 茄促.
+
+17575:我们\在\上海\换\乘\火车\.\
+#We changed trains in Shanghai.
+#快府绰 惑秦俊辑 扁瞒甫 官层 藕促.
+
+17576:我们\在\五\点\停止\工作\.\
+#We quit work at five.
+#快府绰 5矫俊 老捞 场抄促.
+
+17577:我们\在\午夜\去\游泳\.\
+#We went for a midnight swim.
+#快府绰 茄广吝俊 荐康窍矾 埃促.
+
+17578:我们\在\校\必须\穿\制服\.\
+#At our school we have to wear uniform.
+#快府绰 切背俊辑绰 鞘洒 力汗阑 涝绰促.
+
+17579:我们\在\星期六\去\购\物\.\
+#We do our shopping on Saturdays.
+#快府绰 配夸老俊 拱扒阑 荤矾 埃促.
+
+17580:我们\在\炎阳\之下\挨\烤\.\
+#We were broiling in the sun.
+#快府绰 鸥绰淀茄 怕剧 酒贰 乐促.
+
+17581:我们\在\夜里\渡过\了\江\.\
+#We got across the river at night.
+#快府绰 广俊 碍阑 扒吃促.
+
+17582:我们\在一起\求学\过\.\
+#We were at schooltogether.
+#快府绰 窃膊 切背俊辑 傍何茄 利捞 乐促.
+
+17583:我们\在\院子\晒\太阳\.\
+#We were sunning in the yard.
+#快府绰 躲俊辑 寝旱阑 仑绊 乐促.
+
+17584:我们\在\云层\上面\飞行\.\
+#We flew above the clouds.
+#快府绰 备抚 困甫 抄促.
+
+17585:我们\在\帐篷\里\过夜\.\
+#We spent the night under canvas.
+#快府绰 刨飘俊辑 广阑 焊陈促.
+
+17586:我们\在\这\淋\不到\雨\.\
+#We are safe from the rain here.
+#快府啊 乐绰 咯扁绰 厚俊 隶瘤 臼绰促.
+
+17587:我们\在\这\是\安全\的\.\
+#We are safe here.
+#快府啊 乐绰 咯扁绰 救傈窍促.
+
+17588:我们\暂\免\危险\.\
+#We were reprieved from the danger for a time.
+#快府绰 泪矫 困氰阑 搁沁促.
+
+17589:我们\暂时\分离\.\
+#We are separated for the present.
+#快府绰 泪矫 庆绢脸促.
+
+17590:我们\赞赏\他的\勇气\.\
+#We pay tribute to his courage.
+#快府绰 弊狼 侩扁甫 莫蛮茄促.
+
+17591:我们\遭到\惨\败\.\
+#We were roundly defeated.
+#快府绰 曼菩甫 寸沁促.
+
+17592:我们\早餐\吃\得\早\.\
+#We breakfasted early.
+#快府绰 酒魔阑 老嘛 冈绰促.
+
+17593:我们\这\次要\保\水\渍\险\.\
+#We want W.P.A.coverage this time.
+#快府绰 捞锅俊 盒颊焊氰俊 啊涝窍妨 茄促.
+
+17594:我们\整天\在\炉\边\取暖\.\
+#We stayed put by the fire all day.
+#快府绰 柯辆老 抄肺啊俊辑 蝶舵窍霸 乐菌促.
+
+17595:我们\正\被\跟踪\.\
+#We are being followed.
+#快府绰 固青阑 寸窍绊 乐促.
+
+17596:我们\正餐\时\吃\烤肉\.\
+#We had a roast for dinner.
+#快府绰 沥蛮 锭 阂绊扁甫 冈绰促.
+
+17597:我们\正\朝着\家\走\.\
+#We're heading home.
+#快府绰 付魔 笼阑 氢秦 啊绊 乐绰 吝捞促.
+
+17598:我们\正\考虑\搬家\.\
+#We're thinking in terms of moving house.
+#快府绰 捞荤且 巴阑 绊妨窍绊 乐促.
+
+17599:我们\正\谈\你\来着\.\
+#We've just been talking about you.
+#快府绰 呈俊 措秦 娟扁窍绊 乐促.
+
+17600:我们\正要\离\去\.\
+#We are just off.
+#快府绰 阜 栋唱啊妨带 曼捞促.
+
+17601:我们\正在\聚会\.\
+#We're having a party.
+#快府绰 颇萍甫 窍绊 乐促.
+
+17602:我们\正在\忙\着\砍\树\.\
+#We were busy cutting trees down.
+#快府绰 茄芒 官悔霸 唱公甫 磊福绊 乐促.
+
+17603:我们\正在\上\英语\课\.\
+#We are having English class.
+#快府绰 付魔 康绢 荐诀阑 窍绊 乐促.
+
+17604:我们\正在\闲谈\往事\.\
+#We are chatting away about old times.
+#快府绰 烤 老俊 措秦 茄啊酚霸 娟扁窍绊 乐促.
+
+17605:我们\正在\用功\学\数学\.\
+#We are working at mathematics.
+#快府绰 茄芒 荐切阑 凯缴洒 硅快绊 乐促.
+
+17606:我们\正在\征服\自然\.\
+#We are conquering nature.
+#快府绰 磊楷阑 沥汗窍绊 乐促.
+
+17607:我们\知道\她\将\节食\.\
+#We know she'll be on a diet.
+#快府绰 弊赤啊 促捞绢飘甫 窍府扼绰 巴阑 舅绊 乐促.
+
+17608:我们\知道\她\是\勇敢\的\.\
+#We know her brave.
+#快府绰 弊赤啊 侩皑窍促绰 巴阑 救促.
+
+17609:我们\指望\你们的\协作\.\
+#We calculate on your cooperation.
+#快府绰 寸脚甸狼 蛆仿阑 扁措茄促.
+
+17610:我们\指望\你\支持\我们\.\
+#We shall build on your supporting us.
+#快府绰 匙啊 快府甫 瘤瘤秦 林扁甫 官鄂促.
+
+17611:我们\指望\着\你\.\
+#We calculate on you.
+#快府绰 呈俊霸 扁措甫 扒促.
+
+17612:我们\指望\着\他的\帮助\.\
+#We can bank on his help.
+#快府绰 弊狼 档框阑 瓜绊 乐促.
+
+17613:我们\只\等\了\约\十\分钟\.\
+#We only waited a matter of minutes.
+#快府绰 窜瘤 10盒 沥档甫 扁促啡促.
+
+17614:我们\只\见\过\一次\面\.\
+#We've met only once.
+#快府绰 窜瘤 茄 锅 父车促.
+
+17615:我们\只\能\推测\将来\.\
+#We can only speculate about the future.
+#快府绰 固贰俊 措秦 窜瘤 眠螟且 荐 乐阑 挥捞促.
+
+17616:我们\只是\开车\经过\.\
+#We are just driving through.
+#快府绰 坷肺瘤 款傈秦辑 瘤唱埃促.
+
+17617:我们\置身\于\奢侈\品\中\.\
+#We are surrounded by luxuries.
+#快府绰 荤摹前俊 笛矾轿咯 乐促.
+
+17618:我们\中午\吃\一\顿\饭\.\
+#We have a meal at midday.
+#快府绰 沥坷俊 逛阑 茄 尝 冈绰促.
+
+17619:我们\中午\离开\了\家\.\
+#We left home at noon.
+#快府绰 沥坷俊 笼阑 栋车促.
+
+17620:我们\衷心\感谢\你\.\
+#Our grateful thanks are due to you.
+#快府绰 柳缴栏肺 呈俊霸 皑荤茄促.
+
+17621:我们\终于\扑灭\了\火焰\.\
+#We fought down the flames at last.
+#快府绰 搬惫 阂采阑 波哆啡促.
+
+17622:我们\终\於\到达\对面\了\.\
+#We were across at last.
+#快府绰 搬惫 馆措祈俊 档馒沁促.
+
+17623:我们\终\於\找到\了\它\.\
+#At last we found it.
+#快府绰 搬惫 弊巴阑 茫疽促.
+
+17624:我们\住\在\教堂\附近\.\
+#We live near to the church.
+#快府绰 背雀 辟贸俊 魂促.
+
+17625:我们\住\在\西湖\旁边\.\
+#We live by the West Lake.
+#快府绰 辑肺 扮俊 魂促.
+
+17626:我们\注定\得\留\在\这\
+#It is fated that we should remain here.
+#快府绰 咯扁俊 巢档废 款疙 瘤绢廉 乐菌促.
+
+17627:我们\注定\要\死亡\.\
+#We are predestinated to die.
+#快府绰 磷档废 款疙 瘤绢廉 乐促.
+
+17628:我们\注定\要\相遇\的\.\
+#We were fated to meet.
+#快府绰 辑肺 父唱档废 款疙 瘤绢廉 乐促.
+
+17629:我们\祝\他\好运\.\
+#We wished him good luck.= We wished good luck to him.
+#快府绰 寸脚狼 青款阑 扁盔钦聪促.
+
+17630:我们\转入\林\中\.\
+#We struck out into the woods .
+#快府绰 剑加栏肺 甸绢埃促.
+
+17631:我们\准备\把\垃圾\烧掉\.\
+#We are going to burn off the rubbish.
+#快府绰 静饭扁甫 怕况滚府妨绊 茄促.
+
+17632:我们\准时\到达\目的地\.\
+#We arrived at our destination on time.
+#快府绰 沥阿俊 格利瘤俊 档馒沁促.
+
+17633:我们\捉\到\一\只\兔子\.\
+#We bagged a rabbit.
+#快府绰 配尝 茄 付府甫 棱疽促.
+
+17634:我们\自己\照料\家务\.\
+#We're doing for ourselves.
+#快府绰 胶胶肺 啊沥 老阑 焊混巧促.
+
+17635:我们\总共\有\七\口\人\.\
+#There are seven of us altogether.
+#快府绰 葛滴 老蚌 疙捞促.
+
+17636:我们\总是\预先\付\房租\.\
+#We always pay the rent in advance.
+#快府绰 疵 荤傈俊 规技甫 瘤阂茄促.
+
+17637:我们\走\近\营地\.\
+#We approached the camp.
+#快府绰 具康瘤肺 立辟秦 埃促.
+
+17638:我们\走\了\一\整\晚\.\
+#We walked through the night.
+#快府绰 广货 吧菌促.
+

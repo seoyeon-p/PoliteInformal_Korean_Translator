@@ -1,0 +1,4025 @@
+6636:你\不是\银行\家\型\的\人\.\
+#You're not the banker type.
+#呈绰 篮青诀磊 鸥涝捞 酒聪促.
+
+6637:你\不是\这样\说\的\吧\?\
+#You don't say so?
+#匙啊 捞犯霸 富茄 巴捞 酒聪摆瘤?
+
+6638:你\不\适合\做生意\.\
+#You are unfit for business.
+#呈绰 厘荤窍扁俊 何利钦窍促.
+
+6639:你\不\适于\批评\我\.\
+#It ill suits you to criticize me.
+#呈绰 唱甫 厚乞且 贸瘤啊 酒聪促.
+
+6640:你\不\锁门\是\不\负责\的\.\
+#It was irresponsible of you not to lock the door.= You were irresponsiblenot to lock the door.
+#匙啊 巩阑 泪弊瘤 臼篮 巴篮 呈狼 氓烙捞 酒聪促.
+
+6641:你\不\想\喝\点\咖啡\吗\?\
+#Wouldn't you like some coffee?
+#寸脚 目乔 粱 付矫绊 酵瘤 臼嚼聪鳖?
+
+6642:你\不要\背\後\诽谤\人\.\
+#You should refrain your tongue from backbiting.
+#殿 第俊辑 荤恩阑 厚抄窍瘤 富扼.
+
+6643:你\不要\一点\饼\乾\吗\?\
+#Won't you have some cookies?
+#苞磊 粱 冈瘤 臼阑贰夸?
+
+6644:你\不\应当\缺课\.\
+#You should not be absent from class.
+#呈绰 荐诀俊 狐廉辑绰 救 等促.
+
+6645:你\不\应当\听\天\由\命\.\
+#You should not resign to your fate.
+#呈绰 款疙阑 窍疵俊父 该败辑绰 救 等促.
+
+6646:你\不应该\讥笑\他\.\
+#You shouldn't laugh at him.
+#呈绰 弊甫 厚眶绢辑绰 救 等促.
+
+6647:你\不应该\浪费\时间\.\
+#You should not waste your time.
+#呈绰 矫埃阑 扯厚秦辑绰 救 等促.
+
+6648:你\不应该\在\这里\吸烟\.\
+#You're not supposed to smoke in here.
+#捞镑俊辑 淬硅甫 乔况辑绰 救 等促.
+
+6649:你\不应该\增加\压力\.\
+#You should not put on pressure.
+#呈绰 拘仿阑 啊秦辑绰 救 等促.
+
+6650:你\不应\说谎\.\
+#You should not tell lies.
+#芭窿富阑 秦辑绰 救 等促.
+
+6651:你\不用\惭愧\.\
+#You have no need to be ashamed.
+#何掺矾况且 鞘夸 绝促.
+
+6652:你\不用\站\着\,\请\坐下\.\
+#You needn't stand; please sit down.
+#辑乐瘤 富绊 旧栏技夸.
+
+6653:你\不在\她\觉得\孤单\.\
+#She is desolated without you.
+#匙啊 绝栏聪鳖 弊赤啊 寇肺况 茄促.
+
+6654:你\不\知道\我\多么\爱\你\.\
+#You don't know how much I love you.
+#郴啊 倔付唱 呈甫 荤尔窍绰瘤 呈绰 葛弗促.
+
+6655:你\不准\来\这里\.\
+#You are not allowed to come here.
+#匙啊 咯扁俊 坷绰 巴阑 倾遏窍瘤 臼绰促.
+
+6656:你\猜\得出\价钱\吗\?\
+#Can you guess at the price?
+#寸脚篮 啊拜捞 倔付牢瘤 眠螟且 荐 乐嚼聪鳖?
+
+6657:你\猜想\她\收入\有\多少\?\
+#How much do you reckon that she earns?
+#寸脚篮 弊赤狼 荐涝捞 倔付牢瘤 咙累捞 癌聪鳖?
+
+6658:你\尝\过\牙\痛\的\痛苦\吗\?\
+#Have you suffered agonies with toothache?
+#寸脚篮 捞啊 酒颇夯 利捞 乐嚼聪鳖?
+
+6659:你\唱\得\荒\腔\走板\.\
+#You are not singing in tune .
+#呈绰 冠磊档 绢边唱霸 辑砒霸 畴贰甫 何弗促.
+
+6660:你\吃\得\比\她\多\.\
+#You eat more than she.
+#匙啊 弊赤焊促 腹捞 冈绰促.
+
+6661:你\吃\的\什么\早点\?\
+#What kind of breakfast did you have?
+#酒魔栏肺 公均阑 靛继嚼聪鳖?
+
+6662:你\吃\完\早餐\了\吗\?\
+#Have you finished your breakfast?.
+#酒魔侥荤 促 窍继嚼聪鳖?
+
+6663:你\出发\的\时候\到\了\.\
+#The time has arrived for you to start.
+#匙啊 免惯且 矫埃捞 登菌促.
+
+6664:你\出去\时\要\把\灯\关\掉\.\
+#Don't leave the light on when you go out.
+#寇免且 锭 阂阑 怖 波林绞矫坷.
+
+6665:你\出生\在\什么地方\?\
+#Where were you born?
+#寸脚篮 绢叼俊辑 怕绢车嚼聪鳖?
+
+6666:你\穿\几\好的\鞋\?\
+#What size shoes do you wear?
+#寸脚捞 脚篮 脚惯篮 荤捞令啊 倔付涝聪鳖?
+
+6667:你\穿\哪一\号\尺寸\?\
+#Which size do you wear?
+#呈绰 绢恫 荤捞令甫 涝绰啊?
+
+6668:你\从不\听从\我的\劝告\.\
+#You never take my advice.
+#呈绰 临梆 唱狼 面绊甫 佃瘤 臼疽促.
+
+6669:你\从\哪\得到\那\主意\?\
+#Where did you get that idea ?
+#寸脚篮 绢叼俊辑 弊繁 积阿阑 掘菌嚼聪鳖?
+
+6670:你\从\舞台\后门\退\场\.\
+#Make your exit through the door at the back of the stage.
+#呈绰 公措 缔巩栏肺 硼厘茄促.
+
+6671:你\存款\于\哪一\家\银行\?\
+#Where do you bank ?.
+#寸脚篮 绢蠢 篮青俊 历绵阑 窍绞聪鳖?
+
+6672:你\错\信\了\那个\男人\.\
+#Your trust in that man is misplaced.
+#呈绰 弊 巢磊甫 肋给 瓜菌促.
+
+6673:你\搭\飞机\去\花费\大\.\
+#It'll cost you to go by plane.
+#厚青扁甫 鸥绊 啊搁 厚侩捞 腹捞 电促.
+
+6674:你\打\拍子\,\我\来\演奏\.\
+#You beat time and I'll play.
+#匙啊 冠磊甫 嘎眠绊, 唱绰 楷林窍摆促.
+
+6675:你\大\还是\他\大\?\
+#Which is older,you or he?
+#寸脚捞 楷厘磊涝聪鳖, 酒聪搁 弊啊 楷厘磊涝聪鳖?
+
+6676:你\当\促\销\活动\的\先锋\.\
+#You will spearhead the sales campaign.
+#匙啊 魄概劝悼狼 急豪捞 瞪 巴捞促.
+
+6677:你\当真\吗\?\
+#Are you in earnest ?.
+#寸脚 柳缴涝聪鳖?
+
+6678:你\到底\给\谁\写\过\信\?\
+#Who was it that you wrote a letter to ?
+#寸脚篮 档措眉 穿备俊霸 祈瘤甫 借嚼聪鳖?
+
+6679:你\到底\去\过\哪里\?\
+#Wherever have you been?
+#寸脚篮 档措眉 绢叼甫 艾菌嚼聪鳖?
+
+6680:你\到底\是\什么\人\?\
+#Who in SamHill are you?.
+#寸脚篮 档措眉 绢恫 荤恩涝聪鳖?
+
+6681:你\到底\是\谁\.\
+#Who may you be?.
+#寸脚篮 档措眉 穿备涝聪鳖?
+
+6682:你\到底\要\什么\?\
+#what the hell do you want ?.
+#寸脚 档措眉 公均阑 盔窍绰 巴涝聪鳖?
+
+6683:你\到底\在\干什么\?\
+#What on earth are you doing?
+#寸脚 档措眉 够 窍绊 乐绰 疤聪鳖?
+
+6684:你\到底\在\说\什么\?\
+#What the blazes are you talking about?
+#寸脚 档措眉 公郊 富阑 窍绊 乐绰 疤聪鳖?
+
+6685:你\到\哪\去\?\
+#where are you going ?
+#寸脚 绢叼 癌聪鳖?
+
+6686:你\得\不断\的\练习\.\
+#You must learn it by constant practice.
+#呈绰 操霖洒 楷嚼秦具 茄促.
+
+6687:你\得\检点\一些\.\
+#Look to your manners.
+#寸脚捞 粱 痢八秦具 茄促.
+
+6688:你\得\提防\陌生\人\.\
+#You must beware of strangers.
+#寸脚篮 掣急 荤恩阑 版拌秦具 茄促.
+
+6689:你\得\做\更\多\的\工作\.\
+#You must work more.
+#呈绰 粱 歹 腹篮 老阑 秦具 茄促.
+
+6690:你的\抱怨\我\听\厌\了\.\
+#I'm fed up with your complaints.
+#唱绰 呈狼 阂乞阑 瘤般档废 甸菌促.
+
+6691:你的\比\我的\好\.\
+#yours is better than mine.
+#呈狼 巴捞 唱狼 巴焊促 亮促.
+
+6692:你的\表\现在\几\点\?\
+#What time is it by your watch ?
+#呈狼 矫拌绰 瘤陛 割 矫聪?
+
+6693:你的\茶\放\几\块\糖\?\
+#How many sugars in your tea?
+#寸脚狼 瞒俊 汲帕阑 倔付唱 持阑鳖夸?
+
+6694:你的\衬衣\露出\来\了\.\
+#Your slip is showing.
+#呈狼 加渴捞 贿廉唱吭促.
+
+6695:你的\成功\秘诀\是\什么\?\
+#What is the secret of your success?
+#寸脚狼 己傍厚搬捞 公均涝聪鳖?
+
+6696:你的\答案\完全\错\了\.\
+#Your answer is absolutely wrong.
+#呈狼 翠救篮 肯傈洒 撇啡促.
+
+6697:你的\答复\等于是\拒绝\.\
+#Your answer is tantamount to a refusal.
+#呈狼 措翠篮 芭例捞唱 付蛮啊瘤捞促.
+
+6698:你的\大衣\挂\在\钉子\上\.\
+#Your coat is hooked on the nail.
+#呈狼 内飘甫 给俊 吧绢扼.
+
+6699:你的\袋子\重\多少\?\
+#What's the weight of your bag?
+#寸脚狼 啊规篮 公霸啊 倔付涝聪鳖?
+
+6700:你的\蛋\要\怎么\作\呢\?\
+#How do you like your eggs?.
+#崔翱阑 绢痘霸 秦 靛副鳖夸?
+
+6701:你的\地址\在\哪儿\?\
+#What is your address?.
+#寸脚狼 林家啊 公均涝聪鳖?
+
+6702:你的\电话\号码\是\多少\?\
+#What is your telephone number?
+#寸脚狼 傈拳锅龋绰 割 锅涝聪鳖?
+
+6703:你的\电话\已\接通\了\.\
+#You are through.
+#傈拳啊 捞固 楷搬登菌促.
+
+6704:你的\短处\是\愚蠢\.\
+#The trouble with you is that you're stupid.
+#呈狼 窜痢篮 港没窍促绰 巴捞促.
+
+6705:你的\耳朵\会\摆动\吗\?\
+#Can you weggle your ears?
+#寸脚篮 蓖甫 如甸 荐 乐嚼聪鳖?
+
+6706:你的\方法\与\我的\不同\.\
+#Your method is different from mine.
+#呈狼 弊 规过篮 唱狼 规过苞 促福促.
+
+6707:你的\分数\是\九\十\几分\.\
+#Your grade was in the nineties.
+#呈狼 痢荐绰 90 割 痢捞促.
+
+6708:你的\感冒\好了\吗\?\
+#Have you got over your cold yet?
+#皑扁绰 粱 亮酒脸嚼聪鳖?
+
+6709:你的\工作\进展\如何\?\
+#How's your work coming along?
+#寸脚狼 老篮 绢痘霸 柳青登绊 乐嚼聪鳖?
+
+6710:你的\工作\是\无用\的\.\
+#Your work is hopeless.
+#呈狼 老篮 家侩绝绰 老捞促.
+
+6711:你的\工作\做\完了\吗\?\
+#Are you through with your work ?
+#老篮 促 场陈嚼聪鳖?
+
+6712:你的\功课\学会\了\吗\?\
+#Have you learnt your lessons?
+#寸脚篮 捞 苞甫 促 劳躯嚼聪鳖?
+
+6713:你的\故事\使\我\着\了\迷\.\
+#Your story melted away my soul.
+#唱绰 寸脚狼 捞具扁俊 狐廉甸菌促.
+
+6714:你的\孩子们\几\岁\了\?\
+#What ages are your children?
+#寸脚狼 酒捞甸篮 割 混涝聪鳖?
+
+6715:你的\孩子们\品行\良好\.\
+#Your children conduct themselves well.
+#寸脚 酒捞甸篮 己前捞 亮促.
+
+6716:你的\后\花园\有\多\大\?\
+#What's the size of your back garden?
+#寸脚 第躲 拳盔篮 倔付唱 女聪鳖?
+
+6717:你的\花园\面积\是\多\大\?\
+#What's the area of your garden?
+#寸脚狼 沥盔 搁利篮 倔付唱 邓聪鳖?
+
+6718:你的\话\使\我\开始\思考\.\
+#Your remarks have set me thinking.
+#呈狼 富捞 唱肺 窍咯陛 表捞 荤祸窍霸 沁促.
+
+6719:你的\话\听\起来\不\诚恳\.\
+#Your words rang hollow.
+#呈狼 富篮 佃扁俊 柳瘤窍瘤 给窍促.
+
+6720:你的\回答\完全\正确\.\
+#Your answer's bang on.
+#呈狼 措翠篮 沥犬窍促.
+
+6721:你的\婚礼\在\哪\一天\?\
+#When is your wedding ?
+#寸脚篮 攫力 搬去钦聪鳖?
+
+6722:你的\鸡蛋\要\什么\价钱\?\
+#How much do you charge for your eggs?
+#崔翱篮 倔付涝聪鳖?
+
+6723:你的\计划\暂缓\实行\.\
+#Your plan is in abeyance.
+#呈狼 拌裙篮 泪矫 蜡抗茄促.
+
+6724:你的\家人\都\好\吗\?\
+#How is your family?.
+#寸脚狼 啊练篮 葛滴 肋 乐嚼聪鳖?
+
+6725:你的\健康\应当\注意\.\
+#Your health ought to be taken care of.
+#寸脚篮 扒碍俊 林狼秦具 茄促.
+
+6726:你的\脚\会\痛\吗\?\
+#Does your foot give you pain?.
+#寸脚狼 惯捞 酒桥聪鳖?
+
+6727:你的\脚\摸\起来\冰冷\.\
+#Your feet feel cold.
+#呈狼 惯阑 父廉焊聪 酒林 瞒促.
+
+6728:你的\脚\怎么\了\?\
+#What's the matter with your foot?
+#寸脚 惯 绢痘霸 等 芭俊夸?
+
+6729:你的\戒指\是\银\的\吗\?\
+#Is your ring silver?
+#寸脚狼 馆瘤 篮栏肺 父电 巴涝聪鳖?
+
+6730:你的\戒指\是\真\金\的\吗\?\
+#Is your ring real gold?
+#寸脚狼 馆瘤 柳楼 陛涝聪鳖?
+
+6731:你的\看法\如何\?\
+#What's your opinion?
+#寸脚狼 斑秦绰 绢痘嚼聪鳖?
+
+6732:你的\考试\成绩\很\优异\.\
+#Your examination results are excellent.
+#寸脚狼 矫氰 己利篮 酒林 亮嚼聪促.
+
+6733:你的\裤腿\上\有\个\洞\.\
+#There's a hole in your trouser leg.
+#呈狼 官瘤啊尔捞俊 备港捞 车促.
+
+6734:你的\来信\刚\收到\.\
+#yours is just to hand.
+#匙啊 焊辰 祈瘤甫 阜 罐疽促.
+
+6735:你的\利益\和\我的\冲突\.\
+#Your interests conflict with mine.
+#呈客 唱狼 捞秦包拌啊 辑肺 面倒等促.
+
+6736:你的\脸色\不\好\.\
+#You look sick.
+#寸脚 救祸捞 救 亮促.
+
+6737:你的\脸色\苍白\.\
+#You look pale.
+#寸脚 救祸捞 芒归窍促.
+
+6738:你的\邻居\都\很\友好\.\
+#Are your neighbors very friendly?
+#寸脚狼 捞眶甸篮 葛滴 模例茄啊夸?
+
+6739:你的\领带\完全\歪\了\.\
+#Your tie is all awry.
+#呈狼 池鸥捞啊 肯傈洒 厚对绢脸促.
+
+6740:你的\领结\歪\向\一边\了\.\
+#Your tie is on one side.
+#呈狼 池鸥捞啊 茄率栏肺 厚对绢脸促.
+
+6741:你的\论据\使\她\信服\了\.\
+#Your argument has fetched her round.
+#呈狼 稠府啊 弊赤甫 脚汗矫淖促.
+
+6742:你的\名字\叫\什么\?\
+#What's your first name?
+#寸脚 捞抚捞 公均涝聪鳖?
+
+6743:你的\名字\是\什么\?\
+#what's your name ?
+#捞抚捞 公均涝聪鳖?
+
+6744:你的\内心\卑鄙\.\
+#You've got a nasty mind.
+#呈绰 厚凯茄 付澜阑 啊脸促.
+
+6745:你的\纽扣\松\开了\.\
+#Your button has come undone.
+#寸脚 窜眠啊 凯啡促.
+
+6746:你的\欧洲\旅行\愉快\吗\?\
+#Did you enjoy your travels in Europe?.
+#寸脚 蜡反咯青 榴芭奎嚼聪鳖?
+
+6747:你的\判决\非常\公正\.\
+#Your decision was eminently fair.
+#呈狼 魄搬篮 酒林 傍沥沁促.
+
+6748:你的\朋友\好\吗\?\
+#How's your friend?.
+#寸脚狼 模备绰 肋 乐嚼聪鳖?
+
+6749:你的\朋友\在\做\什么\?\
+#What's your friend doing?
+#寸脚狼 模备绰 构窍绊 乐嚼聪鳖?
+
+6750:你的\汽车\要\换\油\了\.\
+#Your car needs an oil change.
+#寸脚狼 瞒 坷老阑 哎酒具 钦聪促.
+
+6751:你的\前途\光辉\灿烂\!\
+#You have a bright future ahead of you!
+#寸脚狼 菊辨俊 康堡捞 乐扁甫!
+
+6752:你的\请求\没有\回\音\.\
+#There was no response in respect to your request.
+#呈狼 夸备俊 措翠捞 绝促.
+
+6753:你的\人生\目标\是\什么\?\
+#What is your aim in life?
+#寸脚狼 牢积 格钎绰 公均涝聪鳖?
+
+6754:你的\申请\书\不\齐全\.\
+#There is an irregularity in your application.
+#寸脚狼 脚没辑绰 肯傈洒 备厚登瘤 臼疽促.
+
+6755:你的\声誉\很\高\.\
+#Your reputation is very high.
+#呈狼 疙己捞 概快 臭促.
+
+6756:你的\生\肖\属\什么\宫\座\?\
+#What sign were you born under?
+#寸脚篮 公郊 鹅涝聪鳖?
+
+6757:你的\失业\与\我\无关\.\
+#The fact that you are unemployed isn't my concern.
+#寸脚捞 流厘阑 酪篮 巴篮 唱客绰 公包窍促.
+
+6758:你的\手\冻\得\发紫\了\.\
+#Your hands are blue with cold.
+#呈狼 颊捞 倔绢 磊祸捞 登菌促.
+
+6759:你的\手\干净\吗\?\
+#Are your hands clean?
+#寸脚 颊篮 柄昌钦聪鳖?
+
+6760:你的\手\很\脏\.\
+#Your hands are dirty.
+#呈狼 颊篮 沥富 歹反促.
+
+6761:你的\手\是\怎么\割\伤\的\?\
+#How did you get that cut on your hand?
+#寸脚 颊篮 公均俊 海菌嚼聪鳖?
+
+6762:你的\书\仍\在\装订\之中\.\
+#Your book is still at the binder's.
+#呈狼 氓篮 酒流档 厘沥登绢 乐促.
+
+6763:你的\台\词\背\熟\了\吗\?\
+#Have you learnt your part yet?
+#寸脚篮 措荤甫 促 寇奎嚼聪鳖?
+
+6764:你的\头发\剪\得\相当\短\.\
+#You have been rather closely shor.
+#寸脚 赣府甫 酒林 陋霸 肋耳匙夸.
+
+6765:你的\头发\越发\稀疏\了\.\
+#Your hair's getting very thin.
+#呈狼 赣府墨遏捞 哎荐废 利绢瘤绊 乐促.
+
+6766:你的\推理\相当\正确\.\
+#Your reasoning was quite correct.
+#呈狼 眠府绰 惑寸洒 沥犬沁促.
+
+6767:你的\外套\很\合身\.\
+#Your coat fays in well.
+#寇捧啊 个俊 肋 嘎绰促.
+
+6768:你的\下巴\沾\着\蛋黄\.\
+#You have yolk on your chin.
+#匙 盼俊 拌鄂 畴弗磊啊 汞绢 乐促.
+
+6769:你的\想法\跟\我的\一致\.\
+#Your ideas fit in with mine.
+#呈狼 积阿篮 唱狼 积阿苞 老摹茄促.
+
+6770:你的\鞋带\松\开了\.\
+#Your shoelace has come undone.
+#呈狼 脚惯馋捞 钱啡促.
+
+6771:你的\鞋\需要\修补\了\.\
+#Your shoes need seeing to.
+#寸脚 脚惯 粱 绊媚具摆促.
+
+6772:你的\信\写\的\太\好了\!\
+#What a wonderful letter!
+#寸脚 祈瘤 酒林 肋 借带单!
+
+6773:你的\行为\不合\情理\.\
+#You are not behaving reasonably.
+#呈狼 青悼篮 档府俊 绢边抄促.
+
+6774:你的\行为\真\卑鄙\!\
+#You behaved despicably!
+#呈狼 青悼篮 沥富 厚凯窍促!
+
+6775:你的\姓\怎么\拼\法\?\
+#How do you spell your last name?
+#寸脚 捞抚 枚磊啊 绢痘霸 邓聪鳖?
+
+6776:你的\血压\稍\高\.\
+#Your blood pressure is a little high.
+#寸脚 趋拘捞 粱 臭促.
+
+6777:你的\牙\补\了\好多\处\.\
+#You've got a lot of fillings.
+#呈狼 捞甫 咯矾 焙单 锭奎促.
+
+6778:你的\言行\不\一致\.\
+#Your words and actions do not accord.
+#寸脚篮 富苞 青悼捞 老摹窍瘤 臼绰促.
+
+6779:你的\腰围\是\多少\?\
+#What do you measure round the waist?
+#寸脚狼 倾府笛饭绰 倔付涝聪鳖?
+
+6780:你的\腰围\越来越\大\.\
+#Your waistline is getting bigger.
+#呈狼 倾府笛饭啊 哎荐废 苯绢瘤绊 乐促.
+
+6781:你的\衣服\要\烫\一下\了\.\
+#Your suit could use a pressing.
+#呈狼 渴阑 促妨具 茄促.
+
+6782:你的\意见\和\我的\相似\.\
+#Your opinion is similar to mine.
+#寸脚 狼斑篮 唱狼 狼斑苞 厚搅窍促.
+
+6783:你的\意见\如何\?\
+#What is your opinion ?.
+#寸脚 斑秦绰 绢痘嚼聪鳖?
+
+6784:你的\音\下降\了\.\
+#You're flat.
+#澜捞 郴妨艾促.
+
+6785:你的\英语\学\得\怎样\了\.\
+#How are you getting along with your English?
+#康绢 硅快绰 巴篮 粱 绢痘嚼聪鳖?
+
+6786:你的\右手\肿\了\,\疼\吗\?\
+#Your right hand is swollen.Does it hurt?
+#寸脚 坷弗颊俊 辆扁啊 车匙夸. 酒桥聪鳖?
+
+6787:你的\语法\程度\如何\?\
+#How well do you know French?
+#寸脚 橇尔胶绢 角仿捞 绢蠢 沥档涝聪鳖?
+
+6788:你的\帐\上\有\亏空\.\
+#Your account is in the red.
+#厘何啊 利磊啊 车促.
+
+6789:你的\政见\如何\?\
+#What are your politics?
+#寸脚狼 沥斑篮 绢痘嚼聪鳖?
+
+6790:你的\指甲\要\剪\了\.\
+#Your fingernails need cutting.
+#寸脚 颊砰阑 肋扼具摆绢夸.
+
+6791:你的\座位\已\订\好了\.\
+#Your seat is engaged.
+#寸脚 磊府绰 捞固 抗距捞 登菌嚼聪促.
+
+6792:你\弟弟\戴\眼镜\吗\?\
+#Does your brother wear glasses?
+#寸脚狼 巢悼积篮 救版阑 借嚼聪鳖?
+
+6793:你\定居\于\何处\?\
+#Where are you domiciled ?
+#寸脚篮 绢叼俊 沥馒沁嚼聪鳖?
+
+6794:你\订\什么\报纸\?\
+#What paper do you take?
+#寸脚篮 公郊 脚巩阑 备刀钦聪鳖?
+
+6795:你\动\一动\,\我\就\开枪\.\
+#If you make a move,I'll shoot.
+#框流捞搁 金促.
+
+6796:你\读\过\荷\马\的\原作\吗\?\
+#Have you read Homer in the original?
+#寸脚篮 Homer 盔累阑 佬绢 好嚼聪鳖?
+
+6797:你\读\完了\吗\?\
+#Have you done reading?
+#促 佬菌嚼聪鳖?
+
+6798:你\对\此事\怎么\看\?\
+#How do you view this matter?
+#寸脚篮 捞 老阑 绢痘霸 焊绞聪鳖?
+
+6799:你\对\那\件\事\有\把握\吗\?\
+#Are you positive about it?
+#寸脚篮 弊 老阑 颇厩沁嚼聪鳖?
+
+6800:你\对\什么\有\兴趣\?\
+#What are you into ?.
+#寸脚篮 公均俊 蕊固啊 乐嚼聪鳖?
+
+6801:你\对\他\期\过\多\.\
+#You are expecting too much of him.
+#寸脚篮 弊俊霸 咯矾 锅 扁措甫 沁菌促.
+
+6802:你\对\他\太\客气\了\吧\?\
+#You are being too kind to him,aren't you?.
+#寸脚 弊俊霸 呈公 抗狼甫 瘤虐矫绰焙夸, 弊犯烈?
+
+6803:你\对\他\太\软弱\了\.\
+#You're too soft with him.
+#呈绰 弊俊霸 呈公 距窍促.
+
+6804:你\对\它的\印象\如何\?\
+#How does that grab you?.
+#寸脚篮 弊巴俊 措茄 牢惑捞 绢痘嚼聪鳖?
+
+6805:你\对\我\不\公平\.\
+#You're not being square with me.
+#寸脚篮 唱俊霸 阂傍乞钦聪促.
+
+6806:你\对\我\说\的\是\实话\吗\?\
+#Are you telling me the truth?
+#寸脚捞 唱俊霸 富茄 巴 荤角涝聪鳖?
+
+6807:你\对\这\问题\有\何\想法\?\
+#What are your thoughts on the subject?
+#捞 巩力俊 措茄 寸脚狼 积阿篮 绢痘嚼聪鳖?
+
+6808:你\对\这\问题\有\何\意见\?\
+#What are your thoughts on the subject?.
+#寸脚 捞 巩力俊 绢恫 狼斑捞 乐嚼聪鳖?
+
+6809:你\多\长\时间\洗\一次\头\.\
+#How often do you wash your hair?
+#寸脚篮 倔付唱 磊林 赣府甫 皑嚼聪鳖?
+
+6810:你\多\大\了\?\
+#How old are you?
+#唱捞啊 绢痘霸 邓聪鳖?
+
+6811:你\多\大\年纪\?\
+#What is your age?
+#唱捞啊 绢痘霸 邓聪鳖?
+
+6812:你\多久\见\他\一次\?\
+#How often did you see him?
+#寸脚 弊甫 倔付 父俊 夯 巴涝聪鳖?
+
+6813:你\多么\蠢\!\
+#How stupid you are!
+#沥富 绢府籍焙!
+
+6814:你\多么\亲切\!\
+#How sweet of you!
+#沥富 模例窍焙夸!
+
+6815:你\反对\抽烟\吗\?\
+#Do you object to smoking?
+#寸脚篮 淬硅 乔快绰 巴阑 馆措窍绞聪鳖?
+
+6816:你\饭后\不\可以\休息\.\
+#You may not rest after dinner.
+#呈绰 侥荤 饶俊 蒋 荐啊 绝促.
+
+6817:你\方\价格\(\发\盘\)\过\高\.\
+#Your price (quotation)is rather on the high side.
+#呈锐 率狼 啊拜篮 呈公 臭促.
+
+6818:你\方\能\供\现货\吗\?\
+#Can you ship the goods from your stock?
+#寸脚篮 泅陛栏肺 临 荐 乐嚼聪鳖?
+
+6819:你\方\无疑\会\记得\.\.\.\
+#As you will no doubt remember...
+#呈锐甸篮 撇覆绝捞 扁撅且 巴捞促.
+
+6820:你\方\应\负责\赔偿\损失\.\
+#You should be responsible for the loss.
+#呈锐 率俊 颊秦硅惑 狼公啊 乐促.
+
+6821:你\费\时\不赀\.\
+#What a time you have been!
+#匙啊 倔付唱 腹篮 矫埃阑 家厚沁绰瘤 拌魂且 荐档 绝促.
+
+6822:你\服药\了\吗\?\
+#Did you take your medicine?
+#寸脚 距 冈菌嚼聪鳖?
+
+6823:你\该\得到\称赞\.\
+#You deserve praising .
+#寸脚篮 莫蛮阑 甸阑父窍促.
+
+6824:你\该\更\守\时\些\.\
+#You should be more punctual.
+#寸脚 矫埃阑 粱 歹 肋 瘤难具摆绢夸.
+
+6825:你\该\毫不\留恋\地\辞职\.\
+#You should do the honorable thing and resign.
+#呈绰 固访绝捞 荤流阑 秦具 茄促.
+
+6826:你\干\吗\还\不\住口\呢\?\
+#Why don't you belt up?
+#呈 恐 酒流 栋甸绊 乐绢?
+
+6827:你\干\哪\一行\?\
+#What's your racket?.
+#寸脚篮 绢恫 老阑 钦聪鳖?
+
+6828:你\干\完了\没有\?\
+#Are you through yet?
+#寸脚 酒流 老 给 场陈唱夸?
+
+6829:你\感到\什么\痛苦\没有\?\
+#Are you suffering any pain?.
+#寸脚篮 绢恫 绊烹 鞍篮 巴捞 蠢哺脸嚼聪鳖?
+
+6830:你\感觉\好点儿\了\吗\?\
+#Do you feel any better?
+#粱 亮酒脸促绊 蠢哺笼聪鳖?
+
+6831:你\敢\问\她\吗\?\
+#Do you dare to ask her?.
+#寸脚 皑洒 弊赤俊霸 拱绢好嚼聪鳖?
+
+6832:你\告诉\了\他\,\做\得\对\.\
+#You did well to tell him.
+#弊俊霸 舅赴 巴篮 匙啊 肋茄 老捞促.
+
+6833:你\告诉\我\就\好了\!\
+#You could have told me !
+#匙啊 唱俊霸 娟扁秦 林搁 等促!
+
+6834:你\哥哥\从事\什么\职业\?\
+#What business is your brother in?.
+#寸脚 屈篮 公郊 老俊 辆荤钦聪鳖?
+
+6835:你\给\鲍\勃\打电话\了\吗\?\
+#Did you telephone Bob?
+#寸脚 Bob俊霸 傈拳 沁嚼聪鳖?
+
+6836:你\给\蔬菜\加\了\盐\吗\?\
+#Have you salted the vegetables?
+#寸脚 具盲俊 家陛 持菌嚼聪鳖?
+
+6837:你\根本\不是\朋友\.\
+#some friend you were!
+#惩 模备档 酒聪促.
+
+6838:你\跟\谁\同\住\?\
+#Whom do you live with?
+#寸脚 穿备客 窃膊 火聪鳖?
+
+6839:你\跟\他\说\了\什么\?\
+#You told him what ?
+#寸脚 弊俊霸 公郊 娟扁 沁嚼聪鳖?
+
+6840:你\跟\我\一样\高\.\
+#You're as tall as me.
+#呈绰 唱客 虐啊 鞍促.
+
+6841:你\工作\了\一\整天\吗\?\
+#Did you work all day?
+#寸脚 窍风辆老 老 沁嚼聪鳖?
+
+6842:你\工作\要\再\用心\些\.\
+#You must do your work with more care.
+#寸脚 老俊 炼陛 歹 脚版 静绞矫坷.
+
+6843:你\估计\现在\几\点钟\?\
+#What time do you make it?
+#寸脚 瘤陛 割 矫扼绊 眠沥邓聪鳖?
+
+6844:你\过\得\怎么样\?\
+#How are you getting on?
+#寸脚 绢痘霸 瘤郴绞聪鳖?
+
+6845:你\过\得\怎么\样\呀\?\
+#how have you been?.
+#寸脚 绢痘霸 瘤郴绞聪鳖?
+
+6846:你\过生日\想\要点\什么\?\
+#What do you want for your birthday?
+#寸脚 积老俊 公倔 窍绊 酵嚼聪鳖?
+
+6847:你\毫\不知\羞耻\!\
+#You're absolutely shameless!
+#呈绰 何掺矾框档 葛福绰备唱!
+
+6848:你好\吗\?\我\很\好\.\
+#How do you do ? I'm rightsmart ..
+#救崇? 抄 肋 乐绢.
+
+6849:你\好像\很\不安\的\样子\.\
+#You look troubled.
+#寸脚篮 酒林 阂救茄 巴贸烦 焊牢促.
+
+6850:你\喝\杯\咖啡\就\会\提\神\.\
+#A cup of coffee will refresh you.
+#目乔甫 付矫搁 粱 沥脚捞 朝芭促.
+
+6851:你\喝\不\喝酒\?\
+#Do you drink wine?
+#寸脚 贱 付绞聪鳖?
+
+6852:你\和\她\相处\得\她\吗\?\
+#How are you making out with her?
+#寸脚篮 弊赤客 荤捞 亮霸 瘤忱聪鳖?
+
+6853:你\和\我\是\好朋友\.\
+#you and I are good friends.
+#呈客 唱绰 亮篮 模备捞促.
+
+6854:你\何时\到\了\此地\?\
+#When did you get here?
+#寸脚 攫力 咯扁 档馒沁嚼聪鳖?
+
+6855:你\何时\可以\做\完\工作\?\
+#When will you be through with your work?.
+#寸脚 攫力 老阑 促 场尘 荐 乐嚼聪鳖?
+
+6856:你\很快\会\复\元\.\
+#You'll soon perk up.
+#呈绰 梆 盔扁甫 雀汗且 巴捞促.
+
+6857:你\很\容易\接近\他\.\
+#You can easily get access to him.
+#呈绰 弊俊霸 酒林 奖霸 立辟且 荐 乐促.
+
+6858:你\花\太\多\钱\了\.\
+#You spend too much money.
+#呈 捣阑 呈公 腹捞 借促.
+
+6859:你\怀疑\得\太\早\.\
+#You are rather beforehand in your suspicions.
+#呈绰 呈公 弧府 肠货甫 舅酒忙促.
+
+6860:你\还\记得\吗\?\
+#Do you remember?
+#寸脚 酒流 扁撅窍绊 乐嚼聪鳖?
+
+6861:你\还\没\到\投票\的\年龄\.\
+#You're too young to vote.
+#呈绰 酒流 捧钎且 荐 乐绰 唱捞啊 酒聪促.
+
+6862:你\还是\立刻\就\去\好\.\
+#You had better go at once.
+#寸脚 弧府 啊绰 巴捞 开矫 亮摆促.
+
+6863:你\还\在\学习\法语\吗\?\
+#Do you still keep up your French?
+#寸脚 酒流档 阂绢 硅快绊 乐嚼聪鳖?
+
+6864:你\回\了\他的\信\吗\?\
+#Have you replied to his letter?
+#寸脚 弊狼 祈瘤俊 翠厘沁嚼聪鳖?
+
+6865:你\回信\比\我\更\会\拖\.\
+#You are more dilatory than I in answering letters.
+#呈狼 翠厘捞 唱焊促 任纠 词菌促.
+
+6866:你\毁\了\你\自己的\一生\.\
+#You've made a wreck of your life.
+#呈绰 呈 磊脚狼 牢积阑 噶闷促.
+
+6867:你\会\挨\你\父亲\的\骂\.\
+#You'll catch it from your father.
+#呈绰 呈狼 酒滚瘤膊 具窜阑 嘎阑 巴捞促.
+
+6868:你\会\悔恨\考试\失败\.\
+#You'll rue having failed in the examination.
+#呈绰 矫氰俊 角菩茄 巴阑 饶寇且 巴捞促.
+
+6869:你\会\讲\英语\吗\?\
+#Do you speak English?
+#寸脚 康绢肺 富且 荐 乐嚼聪鳖?
+
+6870:你\会\拉\小提琴\吗\?\
+#Can you play the fiddle?
+#寸脚篮 官捞棵赴阑 挠 临 酒绞聪鳖?
+
+6871:你\会\弄\伤\自己的\.\
+#You'll hurt yourself.
+#呈绰 磊脚阑 促摹霸 且 荐档 乐促.
+
+6872:你\会\骑\自行车\吗\?\
+#Can you ride a bicycle?
+#寸脚 磊傈芭 呕 临 酒绞聪鳖?
+
+6873:你\会\什么\运动\吗\?\
+#Do you play any sports?.
+#寸脚篮 绢恫 款悼阑 且 临 拘聪鳖?
+
+6874:你\会\说\俄语\吗\?\
+#Do you speak Russian?
+#寸脚 矾矫酒绢 且 临 拘聪鳖?
+
+6875:你\会\说\中国话\吧\?\
+#You can speak Chinese,can't you?
+#寸脚 吝惫绢 且 临 舅瘤夸?
+
+6876:你\会\说\中\语\吗\?\
+#can you speak Chinese?.
+#寸脚 吝惫绢 且 临 拘聪鳖?
+
+6877:你\会\跳\华\尔\兹\舞\吗\?\
+#Can you waltz?
+#寸脚 啃明 免 临 拘聪鳖?
+
+6878:你\会\玩\棒球\吗\?\
+#can you play the baseball?.
+#寸脚 具备且 临 拘聪鳖?
+
+6879:你\会\因\抽烟\而\生病\.\
+#You will smoke yourself sick.
+#淬硅肺 牢秦 捍捞 积辨 荐档 乐促.
+
+6880:你\会\因\这\件\事\而\受\罚\!\
+#You'll suffer for this!
+#呈 捞 老肺 牢秦 绊烹阑 罐阑瘤档 葛弗促.
+
+6881:你\会\游泳\,\是\吗\?\
+#You can swim,can't you?
+#寸脚 荐康且 临 舅瘤夸, 弊犯瘤夸?
+
+6882:你\会\游泳\吗\?\
+#Can you swim?
+#寸脚 荐康且 临 拘聪鳖?
+
+6883:你\会\遇到\麻烦\的\.\
+#You'll get into trouble.
+#呈绰 锅芭肺款 老阑 寸且瘤档 葛弗促.
+
+6884:你\或者\我\会\被\选\中\.\
+#You or I will be elected.
+#呈 酒聪搁 郴啊 急琶瞪 巴捞促.
+
+6885:你\急\什么\呢\?\
+#What's your hurry?.
+#寸脚篮 构啊 弊犯霸 官晦聪鳖?
+
+6886:你\几\点\吃\早餐\?\
+#At what time do you have breakfast?
+#寸脚篮 割 矫俊 酒魔阑 冈嚼聪鳖?
+
+6887:你\几\点\起床\?\
+#What time do you get up?
+#寸脚篮 割 矫俊 老绢吵聪鳖?
+
+6888:你\记得\起\她的\名字\吗\?\
+#Do you recollect her name?
+#寸脚篮 弊赤狼 捞抚捞 公均牢瘤 积阿唱绞聪鳖?
+
+6889:你\记得\我\吗\?\
+#Do you remember me?.
+#寸脚篮 唱甫 扁撅钦聪鳖?
+
+6890:你\家\有\几\口\人\?\
+#How many are there in your family?
+#寸脚篮 割 侥备涝聪鳖?
+
+6891:你\家\在\什么地方\?\
+#Where is your home?
+#寸脚狼 笼篮 绢叼涝聪鳖?
+
+6892:你\见到\了\谁\?\
+#Whom did you see?
+#寸脚篮 穿备甫 父车嚼聪鳖?
+
+6893:你\见到\了\他\,\是\吗\?\
+#You saw him,didn't you?
+#寸脚篮 弊甫 父车瘤夸, 弊犯瘤夸?
+
+6894:你\见\过\老虎\吗\?\
+#Have you ever seen a tiger?
+#寸脚篮 龋尔捞甫 夯 利捞 乐嚼聪鳖?
+
+6895:你\见\过人\被\杀害\吗\?\
+#Have you ever seen a man murdered?
+#寸脚篮 荤恩捞 混秦寸窍绰 巴阑 夯 利捞 乐嚼聪鳖?
+
+6896:你\见\过\她的\新\汽车\吗\?\
+#Have you seen her new car?
+#寸脚篮 弊赤狼 货瞒甫 夯 利 乐嚼聪鳖?
+
+6897:你\将\留宿\过夜\吗\?\
+#Will you stay the night?
+#寸脚篮 广货 赣公福角 扒啊夸?
+
+6898:你\将要\写\信\给\她\么\?\
+#Are you going to write to her?
+#寸脚篮 弊赤俊霸 祈瘤甫 竟聪鳖?
+
+6899:你\讲\的\是\真话\吗\?\
+#Are you speaking the truth?
+#寸脚捞 茄 富 沥富涝聪鳖?
+
+6900:你\缴\了\电\费\了\吗\?\
+#Have you paid the electricity bill yet?
+#寸脚 傈扁夸陛阑 郴绊 乐嚼聪鳖?
+
+6901:你\叫\什么\名字\,\孩子\?\
+#What's your name,son?
+#酒捞具! 匙 捞抚捞 构聪?
+
+6902:你\叫\什么\名字\?\
+#What's your name?
+#寸脚 捞抚捞 辜聪鳖?
+
+6903:你\叫\什么\名字\?\
+#What's your handle?.
+#寸脚 捞抚捞 辜聪鳖?
+
+6904:你\结婚\了\吗\?\
+#Are you married?
+#寸脚 搬去沁嚼聪鳖?
+
+6905:你\借给\我的\书\很\有益\.\
+#those books you lent me were very useful.
+#匙啊 唱俊霸 呼妨霖 氓篮 酒林 蜡劳沁促.
+
+6906:你\介意\自己的\穿着\吗\?\
+#Are you fussy about what you wear?.
+#寸脚篮 磊脚狼 汗厘俊 脚版阑 腹捞 静绞聪鳖?
+
+6907:你\今天\感觉\怎样\?\
+#How are you feeling today?
+#寸脚 坷疵 扁盒 绢锭夸?
+
+6908:你\今天\好象\很\快活\.\
+#You seem very chirpy today.
+#呈 坷疵 酒林 榴芭况 焊牢促.
+
+6909:你\今天\觉得\怎样\?\
+#How goes it with you today?.
+#寸脚篮 坷疵 绢锭夸?
+
+6910:你\今天\气色\不\太\好\.\
+#You look a little off colour today.
+#呈绰 坷疵 救祸捞 弊促瘤 亮瘤 臼促.
+
+6911:你\今天\要\做\什么\?\
+#What do you want to do today?
+#寸脚篮 坷疵 公倔 窍角 疤聪鳖?
+
+6912:你\今天\有没有\开车\来\?\
+#Have you got wheels today ?.
+#寸脚 坷疵 瞒甫 啊瘤绊 吭嚼聪鳖?
+
+6913:你\今晚\会\来\吗\?\
+#Will you come this evening ?.
+#寸脚篮 坷疵 历翅俊 棵 疤聪鳖?
+
+6914:你\今晚\值\第\一\班\.\
+#You'll be on the first watch tonight.
+#
+
+6915:你\尽可能\早\来\.\
+#Come as soon as you possibly can.
+#寸脚 啊瓷茄 老嘛 坷技夸.
+
+6916:你\经常\看电视\吗\?\
+#Do you often watch television?
+#寸脚篮 亲惑 TV甫 壕聪鳖?
+
+6917:你\究竟\挑\了\哪一个\?\
+#Whichever did you choose?
+#寸脚篮 搬惫 绢恫 巴阑 榜耳嚼聪鳖?
+
+6918:你\究竟\为\什么\不\闭\嘴\?\
+#Why the hell don't you shut up?.
+#寸脚 档措眉 恐 涝阑 蹿摹瘤 臼绰 芭具?
+
+6919:你\究竟\想\说\什么\?\
+#whatever are you going to say ?.
+#寸脚篮 档措眉 公郊 富阑 窍绊 酵篮 疤聪鳖?
+
+6920:你\究竟\想要\说\什么\?\
+#What are you leading up to?
+#寸脚 公郊 富阑 窍妨绊 窍绰 疤聪鳖?
+
+6921:你\究竟\在\干\么\?\
+#What in the world are you doing?
+#寸脚 档措眉 公郊 老阑 窍绊 乐嚼聪鳖?
+
+6922:你\究竟\在\干什么\?\
+#What the devil are you doing?
+#寸脚 档措眉 构 窍绰 芭具?
+
+6923:你\就\不必\来\了\.\
+#There's no need for you to come too.
+#寸脚 棵 鞘夸 绝菌促.
+
+6924:你\觉得\该\建议\怎么\样\?\
+#What do you feel about the suggestion?.
+#寸脚篮 捞 力救俊 措秦 绢痘霸 积阿钦聪鳖?
+
+6925:你\觉得\冷\么\?\
+#Do you feel cold?
+#寸脚 娩嚼聪鳖?
+
+6926:你\觉得\日本\如何\?\
+#how do you like Japan?
+#寸脚篮 老夯阑 绢痘霸 积阿钦聪鳖?
+
+6927:你\觉得\痛\吗\?\
+#Do you feel any pain ?.
+#寸脚 酒桥聪鳖?
+
+6928:你\决不\会\抛弃\我\吧\?\
+#surely you will not desert me?.
+#寸脚篮 例措肺 唱甫 滚府瘤 臼摆瘤夸?
+
+6929:你\决不\可\去\那里\.\
+#On no account must you go there.
+#呈绰 例措肺 芭扁俊 哎 荐 绝促.
+
+6930:你\决定\来\我\很\高兴\.\
+#I'm very pleased you've decided to come.
+#匙啊 坷扁肺 搬沥秦辑 抄 呈公 扁悔促.
+
+6931:你\看\,\他\在\那边\!\
+#look,there he is!
+#毫扼, 弊啊 历扁 乐促!
+
+6932:你\看到\了\彩虹\了\吗\?\
+#Do you see the rainbow?
+#寸脚篮 公瘤俺甫 焊绊 乐嚼聪鳖?
+
+6933:你\看到\哪一\页\了\?\
+#What page have you got up to?
+#寸脚篮 绢蠢 其捞瘤甫 壕聪鳖?
+
+6934:你\看\得\见\那个\吗\?\
+#Can you see that?.
+#寸脚 历芭 焊涝聪鳖?
+
+6935:你\看\得\见\我\吗\?\
+#Can you see me?
+#寸脚 郴啊 焊涝聪鳖?
+
+6936:你\看见\那\棵\树\吧\.\
+#You see that tree.
+#寸脚 弊 唱公甫 焊瘤夸.
+
+6937:你\看见\蛇\了\吗\?\
+#Did you see the snake?
+#寸脚 轨阑 好嚼聪鳖?
+
+6938:你\看来\疲倦\了\.\
+#You look tired.
+#寸脚 乔帮秦 焊涝聪促.
+
+6939:你\看书\快\吗\?\
+#Are you a fast reader?
+#寸脚 氓 弧府 壕聪鳖?
+
+6940:你\看\完\报纸\了\吗\?\
+#Are you done with the newspaper?.
+#寸脚 脚巩 促 好嚼聪鳖?
+
+6941:你\可\当\她的\好\丈夫\.\
+#You'll make her a good husband.
+#寸脚篮 弊赤狼 亮篮 巢祈捞 瞪 疤聪促.
+
+6942:你\可能\会\有所\发现\.\
+#You may be onto something.
+#呈绰 购啊甫 惯斑且 荐 乐阑 巴捞促.
+
+6943:你\可能\在\上海\碰见\他\.\
+#You may fall across him in Shanghai.
+#呈绰 惑秦俊辑 弊甫 父朝 荐 乐阑 巴捞促.
+
+6944:你\可以\乘\渡船\过\河\.\
+#You can cross the river by ferry.
+#呈绰 硅甫 鸥绊 碍阑 扒澄 荐 乐促.
+
+6945:你\可以\出去\.\
+#You may go out.
+#呈绰 唱啊档 等促.
+
+6946:你\可以\从\上文\里\得知\.\
+#You may know from what has been said above.
+#寸脚篮 菊狼 巩厘阑 烹秦 舅霸 瞪 疤聪促.
+
+6947:你\可以\马上\去\那\
+#You may go there at once.
+#呈绰 梆 芭扁俊 哎 荐 乐阑 巴捞促.
+
+6948:你\可以\免费\得到\样品\.\
+#You can get the sample gratis.
+#呈绰 傍楼肺 基敲阑 掘阑 荐 乐促.
+
+6949:你\可以\赊\购\家具\.\
+#You can buy the furniture on credit.
+#呈绰 啊备甫 寇惑栏肺 备涝且 荐 乐促.
+
+6950:你\可以\随意\地\来往\.\
+#You may come or go at pleasure.
+#寸脚篮 付澜措肺 空贰秦档 亮促.
+
+6951:你\可以\随意\挑选\.\
+#You are free to choose as you please.
+#呈绰 匙 付澜措肺 榜扼档 亮促.
+
+6952:你\可以\相信\他\会\同意\.\
+#You may depend upon his consenting.
+#呈绰 弊啊 悼狼窍府扼绰 巴阑 瓜绢档 等促.
+
+6953:你\可以\相信\她的\话\.\
+#You can rely on her word.
+#呈绰 弊赤狼 富阑 瓜绢档 亮促.
+
+6954:你\可以\信赖\他的\判断\.\
+#You may rely on his judgment.
+#呈绰 弊狼 魄窜阑 脚汾秦档 亮促.
+
+6955:你\可以\信赖\这\本\辞典\.\
+#You can depend on this dictionary.
+#呈绰 捞 荤傈阑 瓜绢档 等促.
+
+6956:你\可以\信任\她的\忠诚\.\
+#You can confide in her good faith.
+#呈绰 弊赤狼 面己阑 脚烙秦档 等促.
+
+6957:你\可以\依赖\他\.\
+#You can depend on him.
+#呈绰 弊俊霸 狼瘤秦档 等促.
+
+6958:你\可以\在\夜校\学\法语\.\
+#You can learn French at night school.
+#呈绰 具切俊辑 阂绢甫 硅匡 荐 乐促.
+
+6959:你\可以\指望\我\帮助\你\.\
+#You can rely on me to help you.
+#呈绰 郴啊 呈甫 档匡 巴捞扼绊 扁措秦档 亮促.
+
+6960:你\可\用\手\转动\轮子\.\
+#You can rotate the wheel with your hand.
+#呈绰 颊栏肺 官柠甫 框流老 荐 乐促.
+
+6961:你\可\曾\兴\银行\协商\过\?\
+#Have you made any arrangement with your bank?.
+#寸脚篮 篮青苞 荤傈 蛆狼甫 茄 利捞 乐嚼聪鳖?
+
+6962:你\可\指望\他的\帮助\.\
+#You can bank on his help.
+#呈绰 弊狼 档框阑 扁措秦档 亮促.
+
+6963:你\哭\也\没有\用\.\
+#It won't help you to cry.
+#匡绢档 家侩绝促.
+
+6964:你\裤子\的\拉链\松\开了\.\
+#Your fly is undone.
+#呈狼 官瘤 瘤欺啊 凯啡促.
+
+6965:你\快\答\对了\.\
+#You are getting hot.
+#匙啊 翠阑 芭狼 嘎苗埃促.
+
+6966:你\来\猜\,\这\是\什么\?\
+#riddle me,riddle me what it is.= Rriddle me my riddle,what is this?.
+#捞巴捞 公均牢瘤 嘎苗毫扼.
+
+6967:你\来\得\很\迟\.\
+#You are jolly late.
+#呈 呈公 词霸 吭促.
+
+6968:你\来\量\还是\我\来\量\?\
+#Will you measure up or shall I?
+#寸脚捞 犁焊摆嚼聪鳖 酒聪搁 郴啊 狸鳖夸?
+
+6969:你\来\推\,\我\来\拉\.\
+#You push and I'll pull.
+#匙啊 剐绊, 郴啊 寸扁绊.
+
+6970:你\来\这\有\什么\事\?\
+#What brings you here?.
+#寸脚俊霸 公郊 老 乐嚼聪鳖?
+
+6971:你\老是\唱\低\了\半音\.\
+#You keep singing flat.
+#呈绰 亲惑 馆澜 郴妨辑 畴贰甫 茄促.
+
+6972:你\老是\在\偷\懒\!\
+#You're always slacking!
+#呈绰 疵 霸栏抚阑 乔快绰备唱!
+
+6973:你\累\了\吗\?\一点\不\累\.\
+#Are you tired? Not at all.
+#寸脚 乔帮钦聪鳖? 炼陛档 乔帮窍瘤 臼促.
+
+6974:你\离开\时\别\忘\了\锁门\.\
+#Don't neglect to lock the door when you leave.
+#寸脚 栋朝 锭 巩 泪弊绰 巴 镭瘤 付技夸.
+
+6975:你\离开\是\明智\的\.\
+#It was wise of you to leave.
+#匙啊 栋唱绰 巴捞 泅疙茄 巴捞促.
+
+6976:你\离\目标\愈来愈\远\了\.\
+#You're getting cold.
+#呈绰 格钎肺何磐 痢痢 钢绢瘤绊 乐促.
+
+6977:你\理解\这\种\想法\吗\?\
+#Do you understand this idea?
+#寸脚篮 捞繁 积阿捞 捞秦啊 邓聪鳖?
+
+6978:你\历史\考试\及格\了\吗\?\
+#Did you pass your history exam?
+#寸脚 开荤矫氰 钦拜沁嚼聪鳖?
+
+6979:你\利用\哪\家\银行\?\
+#Who are your bankers ?.
+#寸脚篮 绢蠢 篮青阑 捞侩钦聪鳖?
+
+6980:你\立\下\遗嘱\了\吗\?\
+#Have you made your will yet?
+#寸脚篮 蜡攫厘阑 父甸绢 躇嚼聪鳖?
+
+6981:你\脸皮\真\厚\!\
+#You've got a ruddy nerve!
+#寸脚 倔奔 沥富 滴伯焙!
+
+6982:你\谅\必\还\记得\他\吧\?\
+#Surely you remember him?
+#寸脚 沥富 酒流 弊甫 扁撅钦聪鳖?
+
+6983:你\了解\他\在\谈\什么\吗\?\
+#Did you get what he was talking about?
+#寸脚篮 瘤陛 弊啊 公郊 富阑 窍绊 乐绰瘤 捞秦啊 邓聪鳖?
+
+6984:你\流\泪\未免\太\软弱\了\.\
+#Your tears are womanish.
+#匙啊 传拱阑 汝府绰 巴篮 呈公 楷距茄 巴捞促.
+
+6985:你\慢慢\走\较\好\.\
+#You may advisably walk slowly.
+#寸脚 粱 玫玫洒 啊绰 巴捞 亮摆促.
+
+6986:你\没\把\家具\放置\好\.\
+#You have placed the furniture badly.
+#
+
+6987:你\没\拿\我的\帽子\吧\.\
+#Don't you have my hat?
+#呈 郴 葛磊 啊瘤绊 乐瘤 臼瘤?
+
+6988:你\没\想到\要\锁门\吗\?\
+#Didn't it occur to you to lock the door?
+#寸脚篮 巩阑 泪啊具 茄促绰 巴阑 积阿窍瘤 给沁嚼聪鳖?
+
+6989:你\没有\道歉\的\必要\.\
+#There is no need for you to apologize.
+#寸脚捞 固救秦 且 鞘夸 绝促.
+
+6990:你\没有\回答\他的\问题\.\
+#You didn't answer his question.
+#呈绰 弊狼 龙巩俊 措翠窍瘤 臼疽促.
+
+6991:你\没有\什么\可\谴责\的\.\
+#No blame attaches to you.
+#呈绰 厚抄 罐阑父茄 捞蜡啊 绝促.
+
+6992:你们\必须\保持\安静\.\
+#You must keep silent.
+#呈锐甸 炼侩洒 秦具 茄促.
+
+6993:你们\不要\脱离\群众\.\
+#Don't shut yourselves off from the masses.
+#呈锐甸篮 焙吝俊霸辑 哈绢朝 荐 绝促.
+
+6994:你们\不要\自相残杀\.\
+#Don't fight among yourselves.
+#呈锐绰 磊扁祈尝府 辑肺 磷捞绰 轿框阑 秦辑绰 救 等促.
+
+6995:你们\出售\汽车\零件\吗\?\
+#Do you sell car parts?
+#呈锐绰 磊悼瞒 何前阑 扑聪鳖?
+
+6996:你们\当然\有\这个\权力\.\
+#Certainly you have this right.
+#呈锐俊霸绰 寸楷洒 捞繁 鼻府啊 乐促.
+
+6997:你们\都\必须\仔细\听\着\.\
+#You must all listen carefully.
+#呈锐甸 磊技洒 甸绢毫扼.
+
+6998:你们\对\我们\很\好\.\
+#You were very kind to us.
+#呈锐甸篮 快府俊霸 酒林 肋 措秦玲促.
+
+6999:你们\可以\上\菜\了\吗\?\
+#Are you ready to serve up?
+#夸府甫 郴棵 荐 乐嚼聪鳖?
+
+7000:你们\可\曾\见\过\面\?\
+#Have you ever met?
+#寸脚甸篮 父唱夯 利捞 乐嚼聪鳖?
+
+7001:你们\两个\人\都\不对\.\
+#Neither of you are correct.
+#呈锐 滴 荤恩 葛滴 撇啡促.
+
+7002:你们\两\人\担任\了\
+#You two be the lookouts.
+#呈锐 滴 荤恩捞 该酒扼.
+
+7003:你们\卖\雪茄\烟\吗\?\
+#Do you sell cigars ?
+#淬硅甫 颇绞聪鳖?
+
+7004:你们\明天\十\一点\动身\.\
+#We start at eleven tomorrow.
+#快府绰 郴老 11矫俊 免惯茄促.
+
+7005:你们\哪一\位\错误\最少\?\
+#Which of you has made the fewest mistakes?
+#呈锐甸吝 穿啊 角 荐啊 啊厘 利嚼聪鳖?
+
+7006:你们\全都\疯\了\!\
+#The whole lot of you are mad!
+#呈锐甸 葛滴 固闷备唱!
+
+7007:你们\是\迷失\的\一代\.\
+#You are all a lostgeneration.
+#呈锐甸篮 酪绢滚赴 技措促.
+
+7008:你们\是\世上\的\盐\.\
+#ye are the salt of the earth.
+#呈锐绰 技惑狼 家陛捞促.
+
+7009:你们\是\天生\的\一对\.\
+#You two makes a perfect couple.
+#呈锐绰 玫积楷盒捞促.
+
+7010:你们\是\学生\.\
+#You are students.
+#呈锐绰 切积捞促.
+
+7011:你们\似\都\错\了\.\
+#It appears that you are all mistaken.
+#呈锐甸 葛滴 撇赴 巴 鞍促.
+
+7012:你们\谈\了\些\什么\?\
+#What did you talk about?
+#呈锐甸 公郊 娟扁窍聪?
+
+7013:你们\相识\吗\?\
+#Are you acquainted?
+#呈锐甸 辑肺 酒绰 荤捞聪?
+
+7014:你们\已经\商量\过\吗\?\
+#Have you talked together yet?.
+#寸脚甸 辑肺 惑狼沁嚼聪鳖?
+
+7015:你们\有\加固\措施\吗\?\
+#Will you take measures to reinforce them?
+#寸脚甸篮 措氓阑 碍备沁嚼聪鳖?
+
+7016:你们\有\什么\证据\吗\?\
+#Have you any evidence?
+#寸脚甸 公郊 刘芭 乐嚼聪鳖?
+
+7017:你们\在\农村\适应\吗\?\
+#How do you fit in in the countryside?
+#寸脚甸篮 丑锰积劝俊 利览沁嚼聪鳖?
+
+7018:你们\这些\笨蛋\!\
+#Ye fools !
+#捞 港没茄 仇甸!
+
+7019:你们\自己\做\了\那\件\事\.\
+#You yourselves did it.=You did it yourselves.
+#呈锐甸 胶胶肺 弊 老阑 沁促.
+
+7020:你\明白\了\吗\?\
+#Do you understand?
+#寸脚 捞秦沁嚼聪鳖?
+
+7021:你\明白\我的\话\吗\?\
+#Do you get me?
+#寸脚 唱狼 富阑 舅酒 甸菌嚼聪鳖?
+
+7022:你\明天\很\忙\吗\?\
+#Are you very booked up tomorrow?
+#寸脚 郴老 腹し 官晦聪鳖?
+
+7023:你\明天\可以\把\他\带来\.\
+#You might bring him over tomorrow.
+#寸脚篮 郴老 弊甫 单妨 客档 邓聪促.
+
+7024:你\明天\上午\有事\吗\?\
+#Are you doing anything tomorrow morning?
+#寸脚 郴老 坷傈俊 公郊 老 乐嚼聪鳖?
+
+7025:你\明天\晚上\有\空\吗\?\
+#Are you free tomorrow evening ?
+#寸脚 郴老 历翅俊 矫埃 乐嚼聪鳖?
+
+7026:你\明天\下午\会\在家\吗\?\
+#shall you be at home tomorrow afternoon?.
+#寸脚 郴老 坷饶俊 笼俊 乐阑 疤聪鳖?
+
+7027:你\明天\要\去\那\吗\?\
+#will you go there tomorrow ?
+#寸脚 郴老 芭扁俊 哎 疤聪鳖?
+
+7028:你\明天\有\可能\来\吗\?\
+#Is there any possibility that you'll be able to come tomorrow?
+#寸脚 郴老 棵 荐 乐嚼聪鳖?
+
+7029:你\母亲\身体\好\吗\?\
+#How is your mother?
+#寸脚 绢赣聪 扒碍篮 绢痘嚼聪鳖?
+
+7030:你\哪\只\胳臂\疼\?\
+#Which of your arms is sore?
+#寸脚篮 绢蠢率 迫捞 酒桥聪鳖?
+
+7031:你\那\话说\得\有些\道理\.\
+#You've got a point there.
+#寸脚狼 弊 富篮 绢蠢 沥档 捞摹俊 嘎绰促.
+
+7032:你\那\辆\旧\汽车\真\丢人\.\
+#That old car of yours is a disgrace.
+#寸脚狼 弊 坷罚 瞒绰 沥富 芒乔窍促.
+
+7033:你\那样\判断\是\对\的\.\
+#You were right in judging so.
+#寸脚捞 弊犯霸 魄窜茄 巴篮 壳篮 巴涝聪促.
+
+7034:你\那样\说\,\真是\幼稚\.\
+#It is childish of you to say that.
+#寸脚 弊犯霸 娟扁窍促聪 沥富 蜡摹窍焙夸.
+
+7035:你\那样\做\是\不对\的\.\
+#It was wrong of you to do that.
+#寸脚 弊犯霸 窍搁 壳瘤 臼嚼聪促.
+
+7036:你\那样\做\真是\太\好了\!\
+#How nice of you to do that!
+#弊犯霸 窍促聪 呈公 亮焙夸!
+
+7037:你\那种\藉\囗\没有\用\.\
+#That excuse will not serve you.
+#呈狼 弊矾茄 函疙篮 酒公 家侩档 绝促.
+
+7038:你\能\到\乾\酪\的\气味\.\
+#You can smell the smell of cheese.
+#呈绰 摹令 晨货甫 该阑 荐 乐促.
+
+7039:你\能\搬\这个\箱子\吗\?\
+#Can you manage to carry the box?
+#寸脚 捞 惑磊甫 颗辨 荐 乐嚼聪鳖?
+
+7040:你\能\帮\我\一\个\忙\吗\?\
+#Can you do me a favour?
+#寸脚 唱甫 粱 档客临 荐 乐嚼聪鳖?
+
+7041:你\能\保守\秘密\吗\?\
+#Can you keep a secret?
+#寸脚 厚剐阑 瘤懦 荐 乐嚼聪鳖?
+
+7042:你\能\比\我们\做\得\更\好\.\
+#You can do it better than ourselves.
+#寸脚捞 快府焊促 任纠 歹 肋 沁嚼聪促.
+
+7043:你\能\偿还\债务\吗\?\
+#Can you meet your debts?
+#寸脚篮 胡阑 氨阑 荐 乐嚼聪鳖?
+
+7044:你\能\出来\散\散步\吗\?\
+#Can you come out for a walk?
+#寸脚 魂焊窍矾 唱棵 荐 乐嚼聪鳖?
+
+7045:你\能\倒\念\英文\字母\吗\?\
+#Can you say the alphabet backwards?
+#寸脚篮 舅颇邯阑 佬阑 荐 乐嚼聪鳖?
+
+7046:你\能\赶来\参加\聚会\吗\?\
+#Can you make the party?
+#寸脚 颇萍俊 曼籍且 荐 乐嚼聪鳖?
+
+7047:你\能\给\我\地址\吗\?\
+#Can you give me the address?
+#寸脚 唱俊霸 林家甫 啊福媚 临 荐 乐嚼聪鳖?
+
+7048:你\能\画\条\直线\吗\?\
+#Can you draw a straight line?
+#寸脚篮 流急阑 弊副 荐 乐嚼聪鳖?
+
+7049:你\能\回答\这个\谜\吗\?\
+#Can you answer this riddle?.
+#寸脚 捞 荐荐膊尝俊 翠且 荐 乐嚼聪鳖?
+
+7050:你\能\驾驭\这\匹\马\吗\?\
+#Can you manage with this horse?
+#寸脚 捞 富阑 隔 荐 乐嚼聪鳖?
+
+7051:你\能\解释\这\一\段\吗\?\
+#Can you interpret the passage?
+#寸脚篮 捞 窜遏阑 秦籍且 荐 乐嚼聪鳖?
+
+7052:你\能\来\,\那\太\好了\.\
+#It is very charming of you to come.
+#匙啊 棵 荐 乐促聪 沥富 肋 灯促.
+
+7053:你\能\来\我\非常\高兴\!\
+#I'm so glad you could come!
+#匙啊 棵 荐 乐绢辑 唱绰 呈公 扁悔促!
+
+7054:你\能\免除\我的\债务\吗\?\
+#Will you forgive me the debt?
+#寸脚篮 唱狼 胡阑 搁力秦 临 荐 乐嚼聪鳖?
+
+7055:你\能\潜在\水\中\多久\?\
+#How long can you stay under water?
+#寸脚篮 倔付唱 坷阀悼救 泪荐且 荐 乐嚼聪鳖?
+
+7056:你\能\让\我\搭\车\进\城\吗\?\
+#Can you give me a lift into town?
+#寸脚篮 唱甫 矫郴鳖瘤 怕况 临 荐 乐嚼聪鳖?
+
+7057:你\能\说\几\种\语言\?\
+#How many languages do you speak?
+#寸脚篮 割 俺 惫绢甫 且 荐 乐嚼聪鳖?
+
+7058:你\能\想到\更\好的\吗\?\
+#Can you think of a better ?
+#寸脚篮 歹 亮篮 巴阑 积阿秦尘 荐 乐嚼聪鳖?
+
+7059:你\能\游\到\对岸\吗\?\
+#Can you swim across?
+#寸脚篮 馆措祈 秦救鳖瘤 庆决媚 哎 荐 乐嚼聪鳖?
+
+7060:你\能\再\吃\几\个\樱桃\吗\?\
+#Can you manage a few more cherries?
+#寸脚 眉府 割 俺 歹 靛矫摆嚼聪鳖?
+
+7061:你\能\增加\速度\吗\?\
+#Can you speed up ?
+#加档甫 粱 歹 尘 荐 乐嚼聪鳖?
+
+7062:你\能\做\得\比\我\更\好\.\
+#You are better able to do it than me.
+#呈绰 唱焊促 歹 肋 且 荐 乐促.
+
+7063:你\年纪\比\他\轻\.\
+#You are younger than he.
+#匙啊 弊焊促 绢府促.
+
+7064:你\念\那\一\种\语言\?\
+#Which language do you study?
+#寸脚篮 公郊 攫绢甫 硅矿聪鳖?
+
+7065:你\怕\他们\吗\?\
+#Are you afraid of them?
+#寸脚篮 弊甸阑 滴妨况钦聪鳖?
+
+7066:你\碰到\谁\了\啦\?\
+#Whom did you meet?
+#寸脚 穿备甫 父车嚼聪鳖?
+
+7067:你\批改\好\试卷\了\吗\?\
+#Have you checked the examination papers yet?
+#寸脚篮 翠救瘤甫 促 绊闷嚼聪鳖?
+
+7068:你\偏爱\哪个\颜色\?\
+#Which color do you favor ?
+#寸脚篮 公郊 祸阑 漂洒 亮酒钦聪鳖?
+
+7069:你\凭\什么\说\那种\话\?\
+#On what do you base that statement?
+#寸脚篮 公郊 辟芭肺 弊繁 富阑 钦聪鳖?
+
+7070:你\切\不可\让\他\喝\洒\.\
+#You must not allow him to drink.
+#呈绰 搬内 弊啊 贱阑 付矫档废 秦辑绰 救 等促.
+
+7071:你\切\莫\为\我\担心\.\
+#You must not concern yourself about me.
+#呈绰 搬内 唱 锭巩俊 捌沥窍瘤 富酒扼.
+
+7072:你\亲爱\的\朋友\.\
+#Your loving friend.
+#呈狼 荤尔胶矾款 模备.
+
+7073:你\亲爱\的\人\.\
+#Yours lovingly.
+#呈狼 荤尔窍绰 荤恩.
+
+7074:你\曲解\了\我\所\说\的\话\.\
+#You have distorted what I said.
+#呈绰 郴 富阑 坷秦沁促.
+
+7075:你\去\过\印度\吗\?\
+#Have you ever been to India?
+#寸脚篮 牢档俊 啊好嚼聪鳖?
+
+7076:你\去\开会\了\吗\?\
+#Did you go to the meeting?
+#寸脚 雀狼俊 艾嚼聪鳖?
+
+7077:你\去\哪里\度假\了\?\
+#Where did you go for your vacation?
+#寸脚 绢叼肺 绒啊甫 艾嚼聪鳖?
+
+7078:你\确实\应该\先\问\问\我\.\
+#You should really have asked me first.
+#呈绰 馆靛矫 唱俊霸 刚历 拱绢毫具 茄促.
+
+7079:你\认识\他\,\是\吗\?\
+#You know him,surely?
+#寸脚篮 弊甫 救促, 弊犯瘤?
+
+7080:你\认为\他\是\清白\的\.\
+#You assume him innocent.
+#呈绰 弊啊 搬归窍促绊 积阿窍绊 乐促.
+
+7081:你\认为\她\会\怎么\做\?\
+#What do you suppose she will do?
+#寸脚篮 弊赤啊 绢痘霸 且 芭扼绊 咯遍聪鳖?
+
+7082:你\认为\天\会\下雨\么\?\
+#Do you think it is going to rain?
+#寸脚篮 厚啊 棵 芭扼绊 积阿钦聪鳖?
+
+7083:你\认为\这\首\诗\怎样\?\
+#what do you think of this poem ?
+#寸脚篮 捞 矫啊 绢痘促绊 积阿钦聪鳖?
+
+7084:你\如何\答复\他的\建议\?\
+#What did you say in reply to his suggestion?
+#寸脚篮 弊狼 扒狼俊 绢痘霸 措翠且 巴涝聪鳖?
+
+7085:你\如何\解释\这\一\句\?\
+#How do you interpret this sentence?
+#寸脚篮 捞 巩厘阑 绢痘霸 秦籍钦聪鳖?
+
+7086:你\如何\评估\学生\们\?\
+#How do you assess your students?
+#寸脚篮 切积甸阑 绢痘霸 乞啊钦聪鳖?
+
+7087:你\如何\知道\了\那\事\?\
+#How do you come to know that?
+#寸脚篮 弊 老阑 绢痘霸 舅疽嚼聪鳖?
+
+7088:你\晒\得\相当\黑\.\
+#You are quite brown.
+#呈绰 酒林 八霸 爬促.
+
+7089:你\上\什么\大学\?\
+#What university do you attend?
+#寸脚篮 绢蠢 措切俊 促凑聪鳖?
+
+7090:你\身上\带\着\钱\吗\?\
+#Do you have any money with you?.
+#寸脚 捣阑 啊瘤绊 乐嚼聪鳖?
+
+7091:你\身上\有钱\吗\?\
+#Do you have money?
+#寸脚 捣 乐嚼聪鳖?
+
+7092:你\生日\是\哪\一天\?\
+#When is your birthday?
+#寸脚 积老篮 攫力涝聪鳖?
+
+7093:你\什么时候\大学\毕业\?\
+#When do you finish your college course?
+#寸脚篮 攫力 措切阑 凉诀沁嚼聪鳖?
+
+7094:你\什么时候\来\?\
+#What time will you come?
+#寸脚篮 攫力 棵 疤聪鳖?
+
+7095:你\什么时候\起床\?\
+#What time do you get up?
+#寸脚篮 攫力 老绢车嚼聪鳖?
+
+7096:你\什么时候\下班\?\
+#When do you get off work?
+#寸脚篮 攫力 硼辟钦聪鳖?
+
+7097:你\什么时候\要\开会\?\
+#When will you hold a meeting?
+#寸脚篮 攫力 葛烙阑 啊龙 巴涝聪鳖?
+
+7098:你\什么\时候\去\过\那\?\
+#when have you been there ?
+#寸脚篮 攫力 芭扁俊 艾菌嚼聪鳖?
+
+7099:你\什么\时候\用\餐\?\
+#What time do you feed?
+#寸脚 割 矫俊 侥荤甫 钦聪鳖?
+
+7100:你\什么\也\不会\缺\的\.\
+#You shall want for nothing.
+#寸脚篮 公均档 何练茄 巴捞 绝促.
+
+7101:你\实在\太\好了\!\
+#how kind of you!
+#寸脚 沥富 亮焙夸!
+
+7102:你\使\我\产生\爱慕\之\心\.\
+#You inspire me with admiration.
+#呈绰 唱肺 窍咯陛 荤葛窍绰 付澜阑 爱霸 茄促.
+
+7103:你\使\我\恶心\.\
+#You make me vomit.
+#呈绰 唱甫 备开龙唱霸 茄促.
+
+7104:你\使\我\久等\.\
+#You kept me waiting.
+#呈绰 唱甫 坷贰 扁促府霸 窍绰备唱.
+
+7105:你\使\我\失\
+#You disappoint me.
+#呈绰 唱甫 角噶矫淖促.
+
+7106:你\使\我\想起\你\爸爸\.\
+#You remind me of your father.
+#唱绰 呈甫 焊搁 呈狼 酒滚瘤啊 积阿抄促.
+
+7107:你\使\我\作呕\!\
+#You make me sick!
+#呈绰 唱甫 皋胶伯霸 茄促.
+
+7108:你\是\比尔\琼斯\吗\?\
+#Are you Bill Jones?
+#寸脚捞 Bill Jones 涝聪鳖?
+
+7109:你\是不是\很\累\?\
+#Are you tired?
+#寸脚 乔帮钦聪鳖?
+
+7110:你\是不是\老师\?\
+#Are you a teacher?
+#寸脚篮 急积丛涝聪鳖?
+
+7111:你\是\干什么\工作\的\?\
+#What work do you do?
+#寸脚篮 公郊 老阑 钦聪鳖?
+
+7112:你\是\个\卑鄙\的\小人\.\
+#You are a contemptible worm!
+#呈绰 厚凯茄 仇捞促.
+
+7113:你\是\个\好人\.\
+#You are O.K.
+#呈绰 亮篮 荤恩捞促.
+
+7114:你\是\老师\不是\?\
+#Aren't you a teacher?
+#寸脚篮 急积丛涝聪鳖?
+
+7115:你\是\哪\人\?\
+#Where do you come from?
+#寸脚篮 绢叼 荤恩涝聪鳖?
+
+7116:你\是\哪\国人\?\
+#What part of the world do you come from?
+#寸脚 惫利捞 绢叼涝聪鳖?
+
+7117:你\是\哪里\人\?\
+#Where do you come from?
+#寸脚篮 绢叼 荤恩涝聪鳖?
+
+7118:你\是\哪一\党派\的\?\
+#What party do you belong to?
+#寸脚篮 绢蠢 寸俊 加钦聪鳖?
+
+7119:你\是\你们\队\的\光荣\.\
+#You're a credit to your team.
+#呈绰 呈锐评狼 康堡捞促.
+
+7120:你\是\日本\人\么\?\
+#Are you a Japanese?
+#寸脚 老夯荤恩涝聪鳖?
+
+7121:你\是\什么地方\人\?\
+#Where are you from?
+#寸脚 绢叼辑 吭嚼聪鳖?
+
+7122:你\是\什么时候\着凉\的\?\
+#When did you have a cold?
+#寸脚篮 攫力 皑扁俊 吧啡嚼聪鳖?
+
+7123:你\是\什么\意思\?\
+#what do you mean ?.
+#公郊 舵涝聪鳖?
+
+7124:你\是\我\唯一\的\朋友\.\
+#You are my only friend.
+#呈绰 唱狼 蜡老茄 模备捞促.
+
+7125:你\是\要\捉弄\我\吗\?\
+#Are you trying to make a fool of me?
+#寸脚篮 唱甫 愁府妨绰 疤聪鳖?
+
+7126:你\是\一路\走\来\的\吗\?\
+#Did you came all the way afoot?
+#寸脚篮 窃膊 吧绢吭嚼聪鳖?
+
+7127:你\是\约翰\的\兄弟\吗\?\
+#Are you John's Brother?
+#寸脚捞 John狼 屈力涝聪鳖?
+
+7128:你\是\在\暗示\他\有罪\吗\?\
+#Are you suggesting that he is guilty?
+#寸脚篮 弊啊 蜡了扼绰 巴阑 鞠矫窍绰 巴涝聪鳖?
+
+7129:你\是\在\哪儿\长大\的\?\
+#Where did you grow up?
+#寸脚篮 绢叼俊辑 己厘沁嚼聪鳖?
+
+7130:你\是\怎么\到\这里\来\的\?\
+#However did you get here?
+#寸脚篮 咯扁俊 绢痘霸 吭嚼聪鳖?
+
+7131:你\是\怎么\决定\的\?\
+#What have you decide?
+#寸脚 绢恫 搬沥阑 郴啡嚼聪鳖?
+
+7132:你\是\怎样\认识\她\呢\?\
+#How did you get to know her?.
+#寸脚篮 绢痘霸 弊赤甫 舅霸 登菌嚼聪鳖?
+
+7133:你\收到\我的\电报\了\吗\?\
+#Did you get my telegram?
+#寸脚 郴啊 焊辰 傈焊 罐疽嚼聪鳖?
+
+7134:你\受\大家\喜爱\.\
+#You are well liked by everybody.
+#呈绰 葛电 荤恩甸捞 亮酒茄促.
+
+7135:你\受到\很\好的\照顾\吗\?\
+#Are you being well looked after?
+#寸脚篮 必柳茄 焊混撬阑 罐疽嚼聪鳖?
+
+7136:你\熟悉\足球\规则\吗\?\
+#Are you familiar with the rules of football?
+#寸脚篮 绵备 痹蘑阑 肋 舅绊 乐嚼聪鳖?
+
+7137:你\属\什么\血型\的\?\
+#What is your blood group?
+#寸脚 趋咀屈捞 公均涝聪鳖?
+
+7138:你\说\得\太\早\了\.\
+#You spoke too soon.
+#呈绰 呈公 老嘛 捞具扁沁促.
+
+7139:你\说\的\话\当真\吗\?\
+#Do you seriously mean what you say?
+#寸脚捞 茄 富篮 柳角等 巴涝聪鳖?
+
+7140:你\说\的\话\有\几分\道理\.\
+#You are partly right.
+#寸脚捞 茄 富篮 绢蠢 沥档 老府啊 乐促.
+
+7141:你\说\的\可是\当\真的\?\
+#Are you serious?
+#寸脚 柳缴涝聪鳖?
+
+7142:你\说\的\显然\是\谎话\.\
+#What you say is palpably false.
+#匙啊 茄 富篮 盒疙洒 芭窿富捞促.
+
+7143:你\说\的\也\有\道理\.\
+#You have a point there.
+#呈狼 富档 老府啊 乐促.
+
+7144:你\说\的\有\道理\.\
+#There is reason in what you say.
+#呈狼 富篮 老府啊 乐促.
+
+7145:你\说话\必须\谨慎\.\
+#It is necessary for you to guard your tongue.
+#呈绰 柳角登霸 富秦具 茄促.
+
+7146:你\说话\要\当心\.\
+#Be careful what you say.
+#呈绰 富阑 炼缴秦辑 秦具 茄促.
+
+7147:你\说\了\实话\,\真\勇敢\.\
+#It was courageous of you to tell the truth.= You were courageous to tell the truth.
+#荤角阑 富窍促聪 寸脚篮 沥富 侩皑窍促.
+
+7148:你\说\那种\话\真是\庸俗\.\
+#It was tasteless of you to say that.
+#匙啊 茄 弊繁 富篮 沥富 历加窍促.
+
+7149:你\说\英语\还是\说\法语\?\
+#Do you speak English or French?
+#寸脚篮 康绢甫 富窍绰 巴涝聪鳖, 酒聪搁 阂绢甫 窍绰 巴涝聪鳖?
+
+7150:你\算\出\结果\了\吗\?\
+#Have you calculated the result?
+#寸脚篮 搬苞甫 魂免秦 陈嚼聪鳖?
+
+7151:你\所\说\的\有些\道理\.\
+#There is something in what you say.
+#匙啊 茄 富篮 绢蠢 沥档 老府啊 乐促.
+
+7152:你\太\轻视\我\了\.\
+#You low-rate me too much.
+#呈绰 唱甫 呈公 公矫沁促.
+
+7153:你\太\轻易\信任\别人\了\.\
+#You are too trusting.
+#匙啊 呈公 奖霸 促弗 荤恩阑 瓜菌促.
+
+7154:你\太\听任\她的\摆布\了\.\
+#You are too flexible with her.
+#呈绰 呈公 弊赤俊霸 谅瘤快瘤等促.
+
+7155:你\提\那\件\事\是\愚钝\的\.\
+#It is insensitive of you to mention that.
+#匙啊 弊 老阑 力扁窍绰 巴篮 固访茄 窿捞促.
+
+7156:你\体重\多少\?\
+#How much do you weigh ?.
+#寸脚狼 个公霸绰 倔付涝聪鳖?
+
+7157:你\挑\了\帽子\没有\?\
+#Have you chosen a hat yet?
+#寸脚篮 葛磊甫 榜耳嚼聪鳖?
+
+7158:你\听到\没有\?\
+#Do you hear?.
+#寸脚篮 甸菌嚼聪鳖?
+
+7159:你\听\得\见\那\声音\吗\?\
+#can you hear that sound?.
+#寸脚篮 弊 家府甫 甸菌嚼聪鳖?
+
+7160:你\听过\我的\新\唱片\吗\?\
+#Have you heard my new record?
+#寸脚篮 唱狼 货 畴贰甫 甸绢焊疽嚼聪鳖?
+
+7161:你\通常\何时\起床\?\
+#What time do you normally get up?
+#寸脚篮 烹惑利栏肺 割 矫俊 老绢吵聪鳖?
+
+7162:你\通过\考试\了\吗\?\
+#Did you get through your examination?
+#寸脚篮 矫氰俊 钦拜沁嚼聪鳖?
+
+7163:你\同意\我的\建议\吗\?\
+#Are you agreeable to my suggestion?
+#寸脚篮 唱狼 力救俊 悼狼窍绞聪鳖?
+
+7164:你\同意\这个\建议\吗\?\
+#Do you cotton to this suggestion?
+#寸脚篮 捞 力救俊 悼狼窍绞聪鳖?
+
+7165:你\投\保\火\险\了\吗\?\
+#Are you covered against fire?.
+#寸脚篮 拳犁焊氰俊 甸菌嚼聪鳖?
+
+7166:你\头脑\发呆\了\吗\?\
+#Have you gone soft in the head?
+#寸脚篮 赣府啊 港钦聪鳖?
+
+7167:你\完全\错\了\.\
+#You are a hundred-percent wrong.
+#呈绰 肯傈洒 撇啡促.
+
+7168:你\完全\疯\了\.\
+#You're completely bonkers.
+#呈绰 肯傈洒 倒疽促.
+
+7169:你\完全\可以\问\嘛\!\
+#You may well ask!
+#寸脚篮 面盒洒 龙巩且 荐 乐促.
+
+7170:你\完全\肯定\吗\?\
+#Are you quite sure?
+#寸脚篮 傈利栏肺 编沥窍绰 巴涝聪鳖?
+
+7171:你\完全\用不着\发怒\.\
+#There's no need for you to worry.
+#呈绰 傈囚 拳尘 鞘夸啊 绝促.
+
+7172:你\完全\正确\.\
+#You are perfectly right.
+#呈绰 酒林 沥犬窍促.
+
+7173:你\违反\了\合同\.\
+#You are in breach of your contract.
+#呈绰 拌距阑 困馆沁促.
+
+7174:你\违反\了\我的\命令\.\
+#You've flouted my orders.
+#呈绰 唱狼 疙飞阑 困馆沁促.
+
+7175:你\为何\不\参加\运动\?\
+#Why don't you join in the game?
+#寸脚篮 恐 款悼俊 曼啊窍瘤 臼嚼聪鳖?
+
+7176:你\为何\要\提出\那\事\来\?\
+#Why do you keep bringing that matter up?
+#寸脚篮 恐 弊 老阑 掺笼绢郴妨绊 钦聪鳖?
+
+7177:你\为什么\不\刮\胡子\?\
+#Why don't you shave off your beard?
+#寸脚篮 恐 荐堪阑 憋瘤 臼嚼聪鳖?
+
+7178:你\为什么\不\回答\?\
+#Why didn't you answer?
+#寸脚篮 恐 措翠窍瘤 臼嚼聪鳖?
+
+7179:你\为什么\不\去\?\
+#Why don't you go ?
+#寸脚篮 恐 啊瘤 臼嚼聪鳖?
+
+7180:你\为什么\干\这个\?\
+#Why did you do it?
+#寸脚篮 恐 捞犯霸 沁嚼聪鳖?
+
+7181:你\为什么\难过\?\
+#Why are you sorry?
+#寸脚篮 恐 浇欺窍绞聪鳖?
+
+7182:你\为什么\缺席\?\
+#Why are you absent?
+#寸脚篮 恐 搬籍沁嚼聪鳖?
+
+7183:你\为\什么\事\生气\?\
+#What are you angry about?.
+#寸脚篮 公郊 老肺 拳甫 郴绰 巴涝聪鳖?
+
+7184:你\为\什么\做\那\件\事\?\
+#What did you do that for?.
+#寸脚篮 恐 弊 老阑 沁嚼聪鳖?
+
+7185:你\问\他\什么\了\?\
+#What did you ask him?
+#寸脚篮 弊俊霸 公均阑 拱菌嚼聪鳖?
+
+7186:你\无权\对\我\发号施令\.\
+#It's not your place to tell me what to do.
+#呈绰 唱俊霸 疙飞阑 郴副 鼻府啊 绝促.
+
+7187:你\务必\出席\.\
+#Your presence is urgently required.
+#馆靛矫 免籍秦扼.
+
+7188:你\务必\对\我\说\实话\.\
+#I adjure you to speak the truth.
+#呈绰 馆靛矫 唱俊霸 柳角阑 富秦具 茄促.
+
+7189:你\误解\我\了\.\
+#You misunderstand me.
+#呈绰 唱甫 坷秦沁促.
+
+7190:你\喜\不\喜欢\调\?\
+#What is your attitude to cooking?.
+#
+
+7191:你\喜欢\吃\什么\?\
+#What do you like to eat?
+#寸脚篮 公均阑 榴败 冈嚼聪鳖?
+
+7192:你\喜欢\吃\香蕉\吗\?\
+#Do you like bananas?
+#寸脚篮 官唱唱甫 亮酒窍绞聪鳖?
+
+7193:你\喜欢\吃\鱼\吗\?\
+#Do you like fish?.
+#寸脚篮 积急阑 亮酒窍绞聪鳖?
+
+7194:你\喜欢\吃\煮\鸡肉\吗\?\
+#Do you like boiled chicken?
+#寸脚篮 活篮 催阑 亮酒窍绞聪鳖?
+
+7195:你\喜欢\打\篮球\吗\?\
+#Do you like playing basketball?
+#寸脚篮 丑备 窍绰 巴阑 亮酒窍绞聪鳖?
+
+7196:你\喜欢\打\网球\吗\?\
+#Do you love playing tennis?
+#寸脚篮 抛聪胶 摹绰 巴阑 亮酒窍绞聪鳖?
+
+7197:你\喜欢\哪一个\季节\?\
+#Which season do you prefer?
+#寸脚篮 绢蠢 拌例阑 亮酒窍绞聪鳖?
+
+7198:你\喜欢\啤酒\吗\?\
+#Do you like beer?
+#寸脚篮 钙林甫 亮酒窍绞聪鳖?
+
+7199:你\喜欢\水果\吗\?\
+#Do you like fruit?.
+#寸脚篮 苞老阑 亮酒窍绞聪鳖?
+
+7200:你\喜欢\我的\新\发\型\吗\?\
+#Do you like my new hairdo?
+#寸脚篮 唱狼 货肺 茄 赣府 胶鸥老捞 付澜俊 靛绞聪鳖?
+
+7201:你\喜欢\音乐\吗\?\
+#Are you musical ?
+#寸脚篮 澜厩阑 亮酒窍绞聪鳖?
+
+7202:你\下午\有\空\吗\?\
+#Are you available this afternoon?.
+#寸脚篮 坷饶俊 矫埃捞 乐嚼聪鳖?
+
+7203:你\下一步\打算\做\什么\?\
+#What do you intend to do next?
+#寸脚篮 促澜俊绰 公均阑 窍角 拌裙涝聪鳖?
+
+7204:你\吓\了\我\一\跳\!\
+#You surprised me!
+#寸脚 锭巩俊 濒娄 愁耳促!
+
+7205:你\吓\了\我\一\跳\.\
+#You scared me!
+#寸脚 锭巩俊 濒娄 愁耳促!
+
+7206:你\吓\我\一\跳\.\
+#You amaze me.
+#呈绰 唱甫 酒楷角祸窍霸 沁促.
+
+7207:你\先\粗略\地\作\个\计算\.\
+#Do your calculations on rough paper.
+#呈绰 快急 措面 拌魂阑 秦焊酒扼.
+
+7208:你\先\去\,\我\随后\就\到\.\
+#You go first and I'll follow you later.
+#刚历 啊绞矫坷, 历绰 第捞绢 梆 啊摆嚼聪促.
+
+7209:你\显得\很\疲倦\.\
+#You look very harassed.
+#呈绰 酒林 乔帮秦 焊牢促.
+
+7210:你\显得\疲惫\不堪\!\
+#You look washed-out!
+#呈 呈公呈公 乔帮秦 焊牢促!
+
+7211:你\显得\萎靡不振\.\
+#You look weary.
+#呈 钙捞 促 狐柳 巴贸烦 焊牢促.
+
+7212:你\显然\一直\在\喝酒\.\
+#It's evident that you've been drinking.
+#寸脚 盒疙洒 拌加 贱阑 付矫绊 乐焙夸.
+
+7213:你\现在的\住址\是\哪里\?\
+#What is your present address?
+#寸脚捞 泅犁 乐绰 镑狼 林家绰 绢叼涝聪鳖?
+
+7214:你\现在\就\得\走\吗\?\
+#Do you have to go now?
+#寸脚篮 瘤陛 怖 啊具 钦聪鳖?
+
+7215:你\现在\一定\是\饿\了\吧\.\
+#You ought to be hungry by now.
+#呈绰 瘤陛 盒疙洒 硅啊 绊敲 巴捞促.
+
+7216:你\相信\他\真是\愚蠢\.\
+#It's silly of you to trust him.
+#匙啊 弊甫 瓜篮 巴篮 沥富 绢府籍菌促.
+
+7217:你\相信\有鬼\吗\?\
+#Do you believe in ghosts?
+#寸脚篮 蓖脚捞 乐促绊 瓜栏绞聪鳖?
+
+7218:你\相信\有\仙女\吗\?\
+#Do you believe in fairies?
+#寸脚篮 急赤啊 乐促绊 瓜栏绞聪鳖?
+
+7219:你\想\不\想\打\一\场\网球\?\
+#Would you like a game of tennis?
+#怕聪胶 茄 霸烙 窍矫摆嚼聪鳖?
+
+7220:你\想\各处\看看\吗\?\
+#Would you like to look round?
+#咯扁历扁 笛矾焊扁甫 盔窍绞聪鳖?
+
+7221:你\想\喝\杯\啤酒\吗\?\
+#Do you feel like a beer?
+#寸脚篮 钙林甫 付矫绊 酵嚼聪鳖?
+
+7222:你\想\喝\杯\水\吗\?\
+#Would you like a glass of water?
+#拱阑 付矫摆嚼聪鳖?
+
+7223:你\想\喝\一\杯\茶\吗\?\
+#Want a cup of tea?
+#寸脚篮 瞒 付矫扁甫 盔钦聪鳖?
+
+7224:你\想来\的\时候\就\来\.\
+#You can come when you please.
+#寸脚捞 坷绊 酵阑 锭 坷绞矫坷.
+
+7225:你\想\说明\哪\一点\?\
+#What point are you trying to make?
+#寸脚篮 绢恫 痢阑 汲疙窍绊 酵篮 巴涝聪鳖?
+
+7226:你\想\说\什么\就\说\什么\.\
+#You may say what you please.
+#寸脚捞 窍绊 酵篮 富阑 窍绞矫坷.
+
+7227:你\想\她\会\来\吗\?\
+#Do you think she'll come ?.
+#寸脚篮 弊赤啊 棵 芭扼绊 积阿窍绞聪鳖?
+
+7228:你\想\想\看\!\真\想不到\!\
+#fancy that,now!
+#弊繁 老捞 乐促聪 沥富 惑惑档 给沁促!
+
+7229:你\想要\什么\东西\吗\?\
+#Do you want anything?
+#寸脚篮 绢恫 巴阑 盔钦聪鳖?
+
+7230:你\想要\什么\?\
+#What do you wish ?.
+#寸脚篮 公均阑 盔钦聪鳖?
+
+7231:你\想要\我\做\什么\?\
+#What do you desire me to do?.
+#寸脚篮 郴啊 绢痘霸 窍扁甫 盔钦聪鳖?
+
+7232:你\想\用\这些\钱\买\什么\?\
+#What will you buy with the money?
+#寸脚篮 捞 捣栏肺 公均阑 荤绊 酵嚼聪鳖?
+
+7233:你\想\怎么\做\都\可以\.\
+#You are free to do as you wish.
+#寸脚捞 绢痘霸 窍电 葛滴 宝满嚼聪促.
+
+7234:你\向\他\借\了\多少\钱\?\
+#How much are you into him for?.
+#寸脚篮 弊俊霸 倔付狼 捣阑 呼啡嚼聪鳖?
+
+7235:你\向\我\要\什么\?\
+#What do you want from me?
+#寸脚捞 唱俊霸 盔窍绰 巴捞 公均涝聪鳖?
+
+7236:你\写\的\书\相当\畅销\.\
+#Your book is quite popular.
+#寸脚捞 敬 氓捞 惑寸洒 牢扁啊 乐促.
+
+7237:你\兴\哪一\家\银行\往来\?\
+#Who do you bank with?
+#寸脚篮 绢蠢 篮青苞 芭贰窍绞聪鳖?
+
+7238:你\幸而\那时候\遇到\他\.\
+#You were lucky that you met him then.
+#呈绰 促青洒档 弊锭 弊甫 父车促.
+
+7239:你\休息\充足\吗\?\
+#Are you quite rested?
+#寸脚篮 面盒洒 浆菌嚼聪鳖?
+
+7240:你\修\腿\毛\吗\?\
+#Do you shave your legs?
+#寸脚篮 促府狼 判阑 别疽嚼聪鳖?
+
+7241:你\需\不\需要\参考书\?\
+#Do you need any reference books?
+#寸脚篮 曼绊辑啊 鞘夸钦聪鳖?
+
+7242:你\需要\多少\?\
+#How much do you need?
+#寸脚篮 倔付唱 鞘夸钦聪鳖?
+
+7243:你\需要\看医生\.\
+#You need the services of a doctor .
+#呈绰 柳蔓阑 罐酒杭 鞘夸啊 乐促.
+
+7244:你\需要\洗\一\洗\.\
+#You need a wash.
+#呈绰 粱 灸绢具摆促.
+
+7245:你\选定\了\哪一\块\表\?\
+#Which of the watches have you settled on?
+#寸脚篮 绢恫 矫拌甫 急沥沁嚼聪鳖?
+
+7246:你\选定\去\那儿\了\吗\?\
+#Have you chosen where to go?
+#寸脚篮 绢叼俊 哎 巴牢瘤 搬沥沁嚼聪鳖?
+
+7247:你\选\谁\当\总裁\?\
+#Whom have you chosen president ?.
+#寸脚篮 醚犁肺 穿备甫 急琶沁嚼聪鳖?
+
+7248:你\学\得\很快\.\
+#You're learning very fast.
+#呈绰 曼 弧府 硅款促.
+
+7249:你\学校\里\有\多少\学生\?\
+#How many students are there in your school?
+#寸脚 切背俊 切积捞 割 疙涝聪鳖?
+
+7250:你\邀请\了\多少\朋友\?\
+#How many friends did you call in?
+#寸脚篮 割 疙狼 模备甫 檬措沁嚼聪鳖?
+
+7251:你\要\帮助\谁\?\
+#Whom will you help?
+#寸脚篮 穿备甫 档快妨绊 窍绞聪鳖?
+
+7252:你\要\不要\吃\一\颗\糖果\?\
+#Will you have a candy?.
+#寸脚 荤帕 粱 靛矫摆嚼聪鳖?
+
+7253:你\要\不要\来\个\水果\?\
+#Would you like a piece of fruit?.
+#寸脚 苞老阑 粱 靛矫摆嚼聪鳖?
+
+7254:你\要\不要\再\吃\点\水果\?\
+#Would you like some more fruit?
+#寸脚 苞老阑 粱 歹 靛矫摆嚼聪鳖?
+
+7255:你\要\不要\再\来\一点\茶\?\
+#Would you like some more tea ?.
+# 寸脚 瞒甫 粱 歹 靛矫摆嚼聪鳖?
+
+7256:你\要\茶\吗\?\
+#Do you speak for tea?
+#寸脚 瞒 付矫摆嚼聪鳖?
+
+7257:你\要\吃\点\蛋糕\吗\?\
+#Would you like some cake?
+#纳捞农甫 粱 靛矫摆嚼聪鳖?
+
+7258:你\要\吃\块\巧克力\吗\?\
+#Would you like a piece of chocolate?
+#檬妮复阑 粱 靛矫摆嚼聪鳖?
+
+7259:你\要\到\哪\去\?\
+#Where are you steering for?.
+#寸脚篮 绢叼俊 啊绞聪鳖?
+
+7260:你\要\的\书\都\卖\完了\.\
+#The books you ask for are all sold out.
+#寸脚捞 盔窍绰 氓篮 促 迫啡嚼聪促.
+
+7261:你\要\的\书\在\这儿\.\
+#here is the book you wanted.
+#寸脚捞 盔窍绰 氓捞 咯扁 乐嚼聪促.
+
+7262:你\要\多少\钱\?\
+#How much money do you want?.
+#寸脚篮 倔付狼 捣阑 盔窍绞聪鳖?
+
+7263:你\要\分摊\5\0\0\美元\.\
+#Your allotment was five hundred dollars.
+#呈绰 500崔矾甫 闭殿窍霸 唱床具 茄促.
+
+7264:你\要\服\些\止\咳\混合\剂\.\
+#You need some cough mixture.
+#呈绰 皑扁甫 杠霸 窍绰 去钦力甫 汗侩秦具 茄促.
+
+7265:你\要\更加\小心\.\
+#Be more careful.
+#寸脚 歹宽歹 炼缴窍绞矫坷.
+
+7266:你\要\喝\点\茶\吗\?\
+#Will you have some tea?
+#寸脚 瞒甫 粱 付矫摆嚼聪鳖?
+
+7267:你\要\喝\什么\?\
+#what'll you have ?
+#寸脚篮 公均阑 付矫绊 酵嚼聪鳖?
+
+7268:你\要\花\很\长\的\时间\吗\?\
+#Will you be long?.
+#矫埃捞 酒林 坷贰 吧府摆嚼聪鳖?
+
+7269:你\要\花\很\长\时间\吗\?\
+#will you be long?
+#矫埃捞 酒林 坷贰 吧府摆嚼聪鳖?
+
+7270:你\要\继续\工作\多久\?\
+#How long will you continue working ?.
+#寸脚篮 倔付唱 坷阀悼救 拌加 老阑 沁嚼聪鳖?
+
+7271:你\要\借\谁\的\笔\?\
+#Whose pen will you borrow?
+#寸脚篮 穿备狼 奇阑 呼府妨绊 窍绞聪鳖?
+
+7272:你\要\立即\函\谢\赠礼\.\
+#acknowledge the gift at once.
+#呈绰 溜矫 皑荤狼 舵阑 淬酒 急拱秦具 茄促.
+
+7273:你\要\哪一\种\书\?\
+#What sort of book do you want?.
+#寸脚篮 绢恫 氓阑 盔窍绞聪鳖?
+
+7274:你\要\那\一\个\?\
+#Which do you want?
+#寸脚篮 历巴阑 盔钦聪鳖? 
+
+7275:你\要\你的\玩具\吗\?\
+#Does she want her toy?.
+#寸脚篮 厘抄皑阑 爱绊 酵嚼聪鳖?
+
+7276:你\要\凭\良心\办事\.\
+#You should act according to your conscience.
+# 呈绰 剧缴俊 蝶扼 老阑 贸府秦具 茄促.
+
+7277:你\要\去\那里\?\
+#Where are you going?
+#寸脚篮 绢叼甫 啊妨绊 钦聪鳖?
+
+7278:你\要\申请\到\哪儿\?\
+#Where you applying?.
+#寸脚篮 绢叼俊 瘤盔且 疤聪鳖?
+
+7279:你\要\什么\?\
+#What do you want?
+#寸脚篮 公均阑 盔钦聪鳖?
+
+7280:你\要\什么\蔬菜\?\
+#What kinds of vegetables do you have?
+#寸脚篮 公郊 具盲甫 盔钦聪鳖?
+
+7281:你\要\什么\式样\的\房子\?\
+#What style of house do you require?.
+#寸脚篮 绢恫 胶鸥老狼 笼阑 盔钦聪鳖?
+
+7282:你\要\试\一\试\它\吗\?\
+#Would you like to give it a whirl?.
+#寸脚篮 弊巴阑 茄锅 秦焊绊 酵嚼聪鳖?
+
+7283:你\要\听从\父母\亲\的\话\.\
+#You must obey your parents.
+#呈绰 付顶洒 何葛丛狼 富靖阑 甸绢具 茄促.
+
+7284:你\要\我\对\你\说\什么\?\
+#What do you expect me to say to you?.
+#寸脚篮 郴啊 寸脚俊霸 公郊 富阑 窍扁甫 盔钦聪鳖?
+
+7285:你\要\我\做\的\是\什么\?\
+#What is it that you want me to do ?
+#寸脚篮 郴啊 公均阑 窍扁甫 盔窍绞聪鳖?
+
+7286:你\要\我\做\什么\?\
+#What do you want me to do ?.
+#寸脚篮 郴啊 绢痘霸 窍扁甫 盔钦聪鳖?
+
+7287:你\要\一点\冰淇淋\吗\?\
+#Would you like someicecream?.
+#酒捞胶农覆阑 粱 靛矫摆嚼聪鳖?
+
+7288:你\要\再\吃\点\沙\锅\菜\吗\?\
+#Would you like some more casserole?
+#寸脚篮 买 晨厚 夸府甫 粱 歹 靛矫摆嚼聪鳖?
+
+7289:你\要\怎么办\?\
+#What are you going to do?
+#寸脚 绢侗窍角 疤聪鳖?
+
+7290:你\要\照\吩咐\行事\.\
+#You must do as you are told.
+#呈绰 盒何俊 蝶扼 老阑 贸府秦具 茄促.
+
+7291:你\也\必须\爬\过去\.\
+#You'll have to climb over too.
+#呈 肚茄 馆靛矫 扁绢辑 啊具 茄促.
+
+7292:你\也\跟\我们\一道\来\吗\?\
+#Will you come with us,too?.
+#寸脚档 快府甸苞 窃膊 棵 扒啊夸?
+
+7293:你\夜里\做梦\吗\?\
+#Do you dream at night?
+#寸脚篮 广俊 厕阑 策聪鳖?
+
+7294:你\一定\很\恨\我\.\
+#How you must have hated me!
+#呈绰 盒疙洒 唱甫 酒林 固况且 巴捞促.
+
+7295:你\一定\会\成功\.\
+#You are sure to succeed.
+#呈绰 馆靛矫 己傍且 巴捞促.
+
+7296:你\一定\是\拨\错\号\了\.\
+#You must have dialed the wrong number.
+#匙啊 锅龋甫 肋给 穿弗 巴捞 撇覆绝促.
+
+7297:你\一定\要\来\吃饭\.\
+#Do come to dinner.
+#寸脚 怖 侥荤窍矾 坷绞矫坷.
+
+7298:你\一定\要\始终\讲\真话\.\
+#You must always tell the truth.
+#呈绰 亲惑 柳角父阑 富秦具 茄促.
+
+7299:你\一定\知道\这\件\事\吧\?\
+#You must know this,mustn't you?.
+#寸脚篮 捞 老俊 措秦 盒疙洒 舅绊 乐阑 芭俊夸, 弊犯瘤夸?
+
+7300:你\一直\和\谁\在一起\?\
+#Who've you been staying with?
+#寸脚 临梆 穿备客 窃膊 乐菌嚼聪鳖?
+
+7301:你\一直\玩忽职守\.\
+#You've been neglecting your work.
+#呈绰 拌加 流公甫 家圈洒 秦吭促.
+
+7302:你\一直\在\做\什么\?\
+#What have you been doing all this time?.
+#寸脚篮 临梆 公均阑 窍绊 乐菌嚼聪鳖?
+
+7303:你\已\办\好\保险\了\吗\?\
+#Have you taken out insurance yet?
+#寸脚篮 捞固 焊氰俊 甸菌嚼聪鳖?
+
+7304:你\已经\看\完\这\本\书\啦\?\
+#Have you read the the book already?
+#寸脚篮 捞 氓阑 捞固 促 佬菌嚼聪鳖?
+
+7305:你\已经\偏离\本题\.\
+#You've wandered from the subject .
+#呈绰 捞固
+
+7306:你\已经\完成\了\吗\?\
+#Have you finished?
+#寸脚篮 捞固 场陈嚼聪鳖?
+
+7307:你\已经\越权\了\.\
+#You have exceeded your authority.
+#寸脚篮 捞固 呈狼 鼻茄阑 逞绢脊促.
+
+7308:你\已\学会\讲\英语\了\吗\?\
+#Have you learned to speak English?.
+#寸脚篮 捞固 康绢甫 硅况 劳躯嚼聪鳖?
+
+7309:你\以为\他\是\清白\的\.\
+#You assume that he is innocent.
+#寸脚篮 弊啊 搬归窍促绊 咯扁绞聪鳖?
+
+7310:你\以为\这\是\什么\?\
+#what do you suppose this is ?
+#寸脚篮 捞巴捞 公均捞扼绊 咙累邓聪鳖?
+
+7311:你\英文\读\了\多久\了\?\
+#How long have you been studying English?
+#寸脚篮 倔付唱 坷阀悼救 康绢甫 傍何窍绊 乐嚼聪鳖?
+
+7312:你\英语\说\的\流利\吗\?\
+#Do you speak English fluently ?.
+#寸脚篮 康绢甫 蜡芒窍霸 备荤且 荐 乐嚼聪鳖?
+
+7313:你\应当\多\锻炼\.\
+#You should exercise more.
+#呈绰 腹捞 楷嚼秦具父 茄促.
+
+7314:你\应当\更\小心\.\
+#You ought to be more careful.
+#呈绰 歹宽 炼缴秦具父 茄促.
+
+7315:你\应当\明白\.\
+#You ought to understand.
+#呈绰 付顶洒 舅绊 乐促.
+
+7316:你\应当\自惭\.\
+#You should be ashamed of yourself.
+#呈绰 付顶洒 何掺矾况秦具 茄促.
+
+7317:你\应该\把\扁桃\腺\割\掉\.\
+#You ought to have your tonsils out.
+#呈绰 祈档急阑 肋扼郴具 茄促.
+
+7318:你\应该\道歉\.\
+#You really ought to apologize.
+#呈绰 付顶洒 荤苞秦具 茄促.
+
+7319:你\应该\根除\弊病\.\
+#You should strike at the root of the evil.
+#呈绰 捍企甫 谎府掳 惶酒具 茄促.
+
+7320:你\应该\更加\表现\自己\.\
+#You should assert yourself more.
+#呈绰 歹宽 胶胶肺甫 郴技况具 茄促.
+
+7321:你\应该\更\节省\用钱\.\
+#You should be more sparing of your money.
+#呈绰 付顶洒 侩捣阑 歹 例距秦具 茄促.
+
+7322:你\应该\坚持\真理\.\
+#You should always adhere to the truth.
+#呈绰 亲惑 柳府甫 绊荐秦具 茄促.
+
+7323:你\应该\立刻\去\看医生\.\
+#You want to see a doctor at once.
+#呈绰 溜矫 捍盔俊 啊辑 柳蔓阑 罐绰 巴捞 亮摆促.
+
+7324:你\应该\去\找\医生\看病\.\
+#You should see a doctor.
+#呈绰 捍盔俊 啊辑 柳蔓阑 罐酒具父 茄促.
+
+7325:你\应该\听\你\父母\的\话\.\
+#You should obey your parents.
+#呈绰 付顶洒 何葛丛狼 富靖阑 甸绢具 茄促.
+
+7326:你\应该\信\上帝\.\
+#You should believe in God.
+#呈绰 脚阑 瓜绢具 茄促.
+
+7327:你\应该\照\大夫\的\话\做\.\
+#You should go by what the doctor says.
+#呈绰 览寸 狼荤狼 富俊 蝶扼 秦具 茄促.
+
+7328:你\应该\尊敬\老师\.\
+#You should show respect for your teachers.
+#呈绰 急积丛阑 粮版秦具 茄促.
+
+7329:你\应\以\理智\对抗\偏见\.\
+#You should oppose reason to prejudice.
+#呈绰 付顶洒 捞己栏肺 祈斑俊 措亲秦具 茄促.
+
+7330:你\永不\可不\忠于\朋友\.\
+#You should never be false to a friend.
+#呈绰 模备俊霸 面角秦具 茄促.
+
+7331:你\用\高\调子\在\唱\.\
+#You're singing sharp.
+#呈绰 馆澜 臭霸 畴贰甫 何福绊 乐促.
+
+7332:你\用\闪光\灯\了\吗\?\
+#Did you use flash?
+#寸脚篮 敲贰矫甫 荤侩窍绞聪鳖?
+
+7333:你\用\什么\打开\它的\?\
+#What did you open it with?
+#寸脚篮 公均栏肺 弊巴阑 凯菌嚼聪鳖?
+
+7334:你\用\什么\喂\?\
+#What do you feed the chickens?.
+#寸脚篮 催俊霸 公均阑 冈咯 虐矿聪鳖?
+
+7335:你\有\不\能\来\的\理由\吗\?\
+#Is there a reason why you can't come?
+#寸脚篮 坷瘤 给且 捞蜡啊 乐嚼聪鳖?
+
+7336:你\有\采纳\与否\的\自由\.\
+#You have the option to take it or leave it.
+#呈绰 弊巴阑 罐酒甸捞芭唱 芭何且 磊蜡啊 乐促.
+
+7337:你\有\充分\的\行动\自由\.\
+#You have full discretion to act.
+#呈绰 面盒茄 青悼狼 磊蜡啊 乐促.
+
+7338:你\有\东西\申报\吗\?\
+#Do you have anything to declare?.
+#寸脚篮 脚绊且 拱前捞 乐嚼聪鳖?
+
+7339:你\有\孩子\吗\?\
+#Have you any family?
+#寸脚篮 酒捞啊 乐嚼聪鳖?
+
+7340:你\有\何\政见\?\
+#What are your politics?.
+#寸脚篮 绢栋茄 沥斑阑 啊瘤绊 乐嚼聪鳖?
+
+7341:你\有\几\个\兄弟\?\
+#How many brothers do you have?
+#寸脚篮 屈力啊 割 疙 乐嚼聪鳖?
+
+7342:你\有\可\吃\的\东西\吗\?\
+#Do you have something to eat?.
+#寸脚俊霸 冈阑 父茄 巴捞 乐嚼聪鳖?
+
+7343:你\有\空\房间\吗\?\
+#Do you have a room free?.
+#寸脚俊霸 后 规捞 乐嚼聪鳖?
+
+7344:你\有\空\就\来\看看\我\吧\.\
+#Come and see me if you have any time.
+#寸脚 矫埃 乐栏搁 唱甫 焊矾 坷绞矫坷.
+
+7345:你\有没有\碰见\他\?\
+#Have you met him?
+#寸脚篮 弊甫 父车嚼聪鳖?
+
+7346:你\有没有\时间\?\
+#Have you time?
+#寸脚篮 矫埃捞 乐嚼聪鳖?
+
+7347:你\有\十\块\钱\么\?\
+#Do you have ten dollars?
+#寸脚 10崔矾 乐嚼聪鳖?
+
+7348:你\有\时间\没有\?\
+#Do you have any time?
+#寸脚 矫埃 乐嚼聪鳖?
+
+7349:你\有\一\本\书\吗\?\
+#Do you have a book?
+#寸脚 氓阑 啊瘤绊 乐嚼聪鳖?
+
+7350:你\有\一\分钟\的\空闲\吗\?\
+#Have you got a spare minute?
+#寸脚 泪瘪 芦阑 尘 荐 乐嚼聪鳖?
+
+7351:你\有\责任\提供\证据\.\
+#The onus of proof lies with you.
+#呈绰 刘芭甫 力傍秦具 且 氓烙捞 乐促.
+
+7352:你\有\支配\他们的\力量\.\
+#You have some influence with them.
+#呈绰 弊甸阑 瘤档且 瓷仿捞 乐促.
+
+7353:你\与\你\婶婶\合得来\吗\?\
+#Do you get along well with your aunt?
+#寸脚篮 槛葛客 付澜捞 肋 嘎嚼聪鳖?
+
+7354:你\愿\不\愿意\起\个\誓\?\
+#Are you willing to take the oath?
+#寸脚篮 辑距窍摆嚼聪鳖?
+
+7355:你\愿意\帮\个\忙\吗\?\
+#Are you willing to help?
+#寸脚篮 档客林矫摆嚼聪鳖?
+
+7356:你\愿意\帮助\我\吗\?\
+#Will you do me a service?.
+#寸脚篮 唱甫 档客临 疤聪鳖?
+
+7357:你\愿意\和\我\换\位置\吗\?\
+#Will you swap places with me?.
+#寸脚篮 唱客 磊府甫 官操扁甫 盔钦聪鳖?
+
+7358:你\愿意\和\我\跳舞\吗\?\
+#Will you dance with me?.
+#寸脚篮 唱客 勉阑 眠扁甫 盔钦聪鳖?
+
+7359:你\愿意\留\个\话\吗\?\
+#Would you like to leave a message?
+#皋葛甫 巢扁矫摆嚼聪鳖?
+
+7360:你\愿意\去\散步\吗\?\
+#Would you like to go for a walk?
+#寸脚篮 魂氓窍扁甫 盔钦聪鳖?
+
+7361:你\愿意\为\我们\演奏\吗\?\
+#Will you play for us?.
+#寸脚捞 快府甫 困秦 楷林秦 林矫摆嚼聪鳖?
+
+7362:你\再\来\一点\咖啡\好\吗\?\
+#Will you have some more coffee?.
+#目乔甫 粱 歹 靛矫摆嚼聪鳖?
+
+7363:你\在\等\什么\?\
+#What are you waiting for ?.
+#寸脚篮 公均阑 扁促府绊 乐嚼聪鳖?
+
+7364:你\在\等\什么\人\吗\?\
+#Are you waiting for anybody ?.
+#寸脚篮 穿备甫 扁促府绊 乐嚼聪鳖?
+
+7365:你\在\盯\着\看\什么\?\
+#What are you gazing at?
+#寸脚篮 公均阑 林矫窍绊 乐嚼聪鳖?
+
+7366:你\在\对\我\撒谎\.\
+#You're lying to me.
+#呈绰 瘤陛 唱俊霸 芭窿富阑 窍绊 乐促.
+
+7367:你\在\躲避\警\方\吗\?\
+#Are you hiding from the police?.
+#寸脚篮 版蔓阑 乔秦 见绢 乐嚼聪鳖?
+
+7368:你\在\干什么\?\
+#What are you doing?
+#寸脚篮 瘤陛 公均阑 窍绊 乐嚼聪鳖?
+
+7369:你\在\给\谁\写\信\呢\?\
+#Who are you writing to?
+#寸脚篮 穿备俊霸 祈瘤甫 静绊 乐嚼聪鳖?
+
+7370:你\在\给\自己\招\来\灾祸\.\
+#You are courting disaster .
+#呈绰 胶胶肺 拳甫 磊檬窍绊 乐促.
+
+7371:你\在\公车\站\必须\排队\.\
+#You have to queue up at the bus stop .
+#呈绰 滚胶 沥幅厘俊辑 馆靛矫 临阑 辑具 茄促.
+
+7372:你\在\和\谁\谈话\?\
+#Who were you talking to ?
+#寸脚篮 穿备客 捞具扁甫 沁嚼聪鳖?
+
+7373:你\在\哄骗\我\.\
+#You' re putting me on.
+#呈绰 唱甫 扁父窍绊 乐促.
+
+7374:你\在\胡言乱语\!\
+#You're raving!
+#呈绰 染汲荐汲窍绊 乐促.
+
+7375:你\在\开玩笑\.\
+#You are joking.
+#呈绰 丑淬阑 窍绊 乐促.
+
+
+7376:你\在\开玩笑\吧\!\
+
+#You're kidding!
+#呈 丑淬窍绰 芭瘤!
+
+
+
+7377:你\在\看\什么\?\
+
+#What are you looking at?
+#寸脚篮 公均阑 焊绊 乐嚼聪鳖?
+
+
+
+7378:你\在\看\这\本\词典\.\
+
+#You are looking at this dictionary.
+#呈绰 捞 荤傈阑 焊绊 乐促.
+
+
+
+7379:你\在\课堂\上\不得\吸烟\.\
+
+#You are forbidden to smoke in class.
+#呈绰 背角俊辑 淬硅甫 乔快搁 救 等促.
+
+
+
+7380:你\在\流\鼻涕\.\
+
+#Your nose is running.
+#呈 泥拱捞 唱绰备唱.
+
+
+
+7381:你\在\哪\烫\的\头发\?\
+
+#Where did you have your hair waved ?.
+#寸脚篮 绢叼俊辑 颇付甫 沁嚼聪鳖?
+
+
+
+7382:你\在\哪\家\公司\工作\?\
+
+#Which company do you work for?
+#寸脚篮 绢蠢 雀荤俊辑 老阑 窍绊 乐嚼聪鳖?
+
+
+7383:你\在那儿\过\得\怎样\?\
+#How did you go on there?
+#寸脚篮 弊镑俊辑 绢痘霸 瘤忱聪鳖?
+
+7384:你\在\那里\呆\了\很久\吗\?\
+#Were you there for long?
+#寸脚篮 芭扁俊 赣公弗瘤 坷贰 登菌嚼聪鳖?
+
+7385:你\在\骗\我\吧\!\
+#You're kidding me!
+#呈 唱甫 愁府绊 乐备唱!
+
+7386:你\在\说\什么\?\
+#What are you talking about?
+#寸脚篮 公郊 富阑 窍绊 乐绰 巴涝聪鳖?
+
+7387:你\在\说\什么\?\
+#what are you talking about ?.
+#寸脚 瘤陛 公郊 富阑 窍绰 疤聪鳖?
+
+7388:你\在\说\什么\?\
+#What are you talking about ?.
+#寸脚 公郊 富阑 窍绰 疤聪鳖?
+
+7389:你\在\说\谁\的\事\?\
+#whom are you talking about ?.
+#寸脚篮 穿备狼 老俊 措秦 娟扁窍绰 巴涝聪鳖?
+
+7390:你\在\他\后面\.\
+#You are behind him.
+#呈绰 弊狼 第俊 乐促.
+
+7391:你\在\玩\什么\把戏\?\
+#What are you playing at?.
+#呈绰 公郊 丑埃阑 何府妨 窍绰 芭衬?
+
+7392:你\在\为\什么\事\烦恼\?\
+#What's biting you?.
+#寸脚篮 公郊 老肺 鲍肺况窍绊 乐嚼聪鳖?
+
+7393:你\在\戏弄\我\.\
+#You are chaffing me.
+#呈绰 唱甫 锐氛窍绊 乐促.
+
+7394:你\在\瞎扯\些\什么\?\
+#What are you driveling about?
+#呈 公郊 倾瓢家府 窍绊 乐绰 芭具?
+
+7395:你\在\想\什么\?\
+#What are you thinking about?
+#寸脚篮 公郊 积阿阑 窍绊 乐嚼聪鳖?
+
+7396:你\在\宴会\上\愉快\吗\?\
+#Did you enjoy yourself of the party?
+#寸脚篮 颇萍啊 榴芭奎嚼聪鳖?
+
+7397:你\在\找\什么\?\
+#What are you looking for?
+#寸脚篮 公均阑 茫绊 乐嚼聪鳖?
+
+7398:你\在\找\谁\?\
+#Who are you seeking for?
+#寸脚篮 穿备甫 茫绊 乐嚼聪鳖?
+
+7399:你\在\这里\干什么\?\
+#What is your purpose in being here?
+#寸脚篮 咯扁俊辑 够 窍绊 乐嚼聪鳖?
+
+7400:你\在\这里\住\多久\了\?\
+#How long have you lived here?
+#寸脚篮 咯扁俊辑 倔付唱 坷贰 混疽嚼聪鳖?
+
+7401:你\在\捉弄\我\.\
+#You're having me on.
+#呈绰 唱甫 炼氛窍绊 乐促.
+
+7402:你\在\做\什么\呀\,\爹爹\?\
+#What are you doing,dad?
+#酒狐, 瘤陛 构 窍绊 拌技夸?
+
+7403:你\在\做\什么\?\
+#What are you doing ?.
+#寸脚篮 够 窍绊 乐嚼聪鳖?
+
+7404:你\暂时\留\在\这\
+#park yourself here.
+#呈绰 泪矫 咯扁俊 乐绢扼.
+
+7405:你\赞成\或\反对\战争\?\
+#Are you for or against the war?.
+#寸脚篮 傈里俊 蛮己窍绞聪鳖? 酒聪搁 馆措窍绞聪鳖?
+
+7406:你\赞成\绞刑\吗\?\
+#Are you in favour of hanging?
+#寸脚篮 背荐屈阑 蛮己窍绞聪鳖?
+
+7407:你\赞成\警察\用\枪\吗\?\
+#Do you approve of the use of guns by the police?
+#寸脚篮 版蔓捞 醚阑 荤侩窍绰 巴俊 措秦 蛮己窍绞聪鳖?
+
+7408:你\赞成\政\,\教\分离\吗\?\
+#Do you agree with the separation of church and state?
+#寸脚篮 沥摹客 背雀啊 盒府登绰 巴俊 措秦 蛮己窍绞聪鳖?
+
+7409:你\责备\他\是\错误\的\.\
+#You are wrong in laying the blame on him.
+#匙啊 弊甫 趴茄 巴篮 肋给茄 巴捞促.
+
+7410:你\怎么\把\腿\摔断\了\?\
+#How did you break your leg?
+#寸脚狼 促府啊 绢录促 何矾脸嚼聪鳖?
+
+7411:你\怎么\敢\那么\说\?\
+#How dare you say that?
+#寸脚捞 绢痘霸 皑洒 弊繁 富阑 钦聪鳖?
+
+7412:你\怎么\啦\?\
+#What's the matter with you?
+#寸脚 绢痘霸 等 疤聪鳖?
+
+7413:你\怎样\处理\这个\问题\?\
+#How do you deal with this problem?
+#寸脚篮 捞 巩力甫 绢痘霸 贸府窍角 疤聪鳖?
+
+7414:你\怎样\度过\假期\?\
+#How did you spend the vacation?.
+#寸脚篮 绒啊甫 绢痘霸 焊郴角 疤聪鳖?
+
+7415:你\怎么\拼\那个\字\?\
+#How do you spell that ?.
+#捞 臂磊 绢痘霸 竟聪鳖?
+
+7416:你\怎么\有脸\那样\说\?\
+#How can you have the face to say that?
+#寸脚捞 公郊 搁格栏肺 弊犯霸 捞具扁 钦聪鳖?
+
+7417:你\怎么\做\都\没关系\.\
+#It doesn't matter how you do it.
+#匙啊 绢痘霸 窍电 惑包绝促.
+
+7418:你\曾\到\过\上海\吗\?\
+#Have you ever been to Shanghai?
+#寸脚篮 惑秦俊 啊焊继嚼聪鳖?
+
+7419:你\曾经\单独\飞行\过\吗\?\
+#Have you ever flown solo?
+#寸脚篮 贾肺 厚青阑 秦焊继嚼聪鳖?
+
+7420:你\曾\骑\过\骆驼\吗\?\
+#Have you ever ridden a camel?
+#寸脚篮 倡鸥甫 鸥焊继嚼聪鳖?
+
+7421:你\站\在那儿\干什么\?\
+#What are you standing there for?
+#寸脚篮 芭扁 辑辑 构 窍绰 疤聪鳖?
+
+7422:你\照顾\孩子们\好\吗\?\
+#Will you see to the children?
+#寸脚捞 酒捞甸阑 倒焊摆嚼聪鳖?
+
+7423:你\这\幅\画\是\写生\的\吗\?\
+#Did you paint the picture from nature?
+#寸脚狼 弊覆篮 荤积茄 巴涝聪鳖?
+
+7424:你\这个\笨蛋\!\
+#You clumsy oaf!
+#捞 港没茄 仇!
+
+7425:你\这个\大\白痴\!\
+#You sublime idiot!
+#呈 沥富 官焊备唱!
+
+7426:你\这个\恶\婆娘\!\
+#You bitch!
+#呈 捞 唱慧 斥!
+
+7427:你\这个\饭桶\!\
+#You blunderer!
+#具! 捞 倔埃酒!
+
+7428:你\这个\该死\的\笨蛋\!\
+#You damned fool!
+#捞 磷绢 付顶茄 港没酒!
+
+7429:你\这个\怪\老头\!\
+#You old codger!
+#捞 鲍婆茄 茨篮捞!
+
+7430:你\这个\混\账\东西\!\
+#Damn you!
+#捞 呼绢冈阑 巴 鞍栏聪扼备!
+
+7431:你\这个\可怜\虫\!\
+#You poor bleeder!
+#捞 阂街茄 牢埃酒!
+
+7432:你\这个\可怜\的\家伙\!\
+#You poor blighter !
+#捞 阂街茄 仇酒!
+
+7433:你\这个\人\脾气\多\坏\!\
+#What a bad-tempered individual you are!
+#呈 捞 己龙 歹矾款 仇酒!
+
+7434:你\这个\撒谎\者\!\
+#you liar !
+#捞 芭窿富里捞!
+
+7435:你\这个\傻瓜\!\
+#You fool!
+#捞 官焊具!
+
+7436:你\这个\贪\吃\鬼\!\
+#You glutton!
+#捞 措侥啊具!
+
+7437:你\这个\王八\蛋\!\
+#You bastard !
+#捞 俺磊侥!
+
+7438:你\这个\小\坏蛋\!\
+#You wretched child!
+#捞 唱慧 仇!
+
+7439:你\这个\畜\生\!\
+#You swine !
+#捞 具厚茄 仇!
+
+7440:你\这里\有\生啤酒\吗\?\
+#Haven't you got beer on draught here?
+#咯扁 积钙林 乐嚼聪鳖?
+
+7441:你\这\是\什么\意思\?\
+#What are you getting at?
+#呈 捞霸 公郊 舵捞瘤?
+
+7442:你\这\小\淘气\鬼\!\
+#You little varmint,varment !
+#捞 俺备里捞 赤籍酒!
+
+7443:你\这些\想法\很\吸引人\.\
+#Your ideas are fascinating.
+#呈狼 捞矾茄 积阿篮 沥富 荤恩阑 概丰矫挪促.
+
+7444:你\这样\说是\轻率\的\.\
+#It was imprudent of you to say so.
+#匙啊 捞犯霸 富窍绰 巴篮 版贾茄 巴捞促.
+
+7445:你\这样\说是\什么\意思\?\
+#What do you mean by that?
+#寸脚捞 捞犯霸 富窍绰 巴篮 公郊 舵涝聪鳖?
+
+7446:你\这样\做\真\好\.\
+#It was kind of you to do so.
+#匙啊 捞犯霸 窍聪 曼 亮备唱.
+
+7447:你\真\好\,\送\我\礼物\.\
+#It's kind of you to give me a present.
+#唱俊霸 急拱阑 焊郴促聪, 呈绰 沥富 亮篮 酒捞促.
+
+7448:你\真\坏\,\竟\欺骗\我\.\
+#It's bad of you to desert me.
+#唱甫 加捞促聪, 呈绰 沥富 唱悔促.
+
+7449:你\真\宽宏大量\.\
+#That's big of you.
+#呈绰 沥富 档樊捞 承促.
+
+7450:你\真是\帮\了\大忙\!\
+#Thank you for being such a big help.
+#匙啊 沥富 奴 老阑 档客林菌促.
+
+7451:你\真是\个\文雅\的\小姐\.\
+#You are quite a young lady.
+#呈绰 沥富 绊惑窍绊 快酒茄 槛赤促.
+
+7452:你\真是\无\药\可\救\.\
+#You really are hopeless!
+#惩 沥富 备力阂瓷捞促.
+
+7453:你\真\要\走\吗\?\
+#Is it true you're going away?
+#寸脚 沥富 哎 疤聪鳖?
+
+7454:你\正是\我\要\见\的\人\.\
+#You're just the person I wanted to see.
+#寸脚篮 沥富 郴啊 父唱绊磊 沁带 荤恩捞促.
+
+7455:你\正\站\在\火力\线\上\.\
+#You're standing right in the line of fire.
+#唱绰 拳仿急惑俊 辑乐促.
+
+7456:你\支持\哪一\支\足球\队\?\
+#Which football team do you support?
+#寸脚篮 绢蠢 绵备评阑 览盔钦聪鳖?
+
+7457:你\知道\她\是\谁\?\
+#Do you know who she is?
+#寸脚篮 弊赤啊 穿备牢瘤 酒绞聪鳖?
+
+7458:你\知道\怎样\织布\吗\?\
+#Do you know how to weave?
+#寸脚篮 绢痘霸 渴皑阑 楼绰瘤 酒绞聪鳖?
+
+7459:你\知道\这\是\什么\吗\?\
+#Do you know what this is ?.
+#寸脚篮 捞巴捞 公均牢瘤 酒绞聪鳖?
+
+7460:你\值得\称赞\.\
+#You deserve praise.
+#呈绰 莫蛮 罐阑父窍促.
+
+7461:你\指\的\是\什么\意思\?\
+#What are you aiming at?
+#寸脚捞 格钎窍绰 巴篮 公均涝聪鳖?
+
+7462:你\指\的\是\谁\?\
+#who do you mean ?.
+#寸脚捞 啊府虐绰 荤恩捞 穿备涝聪鳖?
+
+7463:你\只管\听\着\!\
+#Just listen to this!
+#寸脚篮 佃扁唱 窍矫坷!
+
+7464:你\只\能\猜测\而已\.\
+#You can only guess .
+#寸脚篮 抗螟且 荐 乐阑 挥捞促.
+
+7465:你\只\能\看\,\不\能\碰\.\
+#You can look,but mustn't touch.
+#呈绰 杭 荐父 乐阑 挥 父龙 荐绰 绝促.
+
+7466:你\只要\去\即\可\.\
+#You have only to go.
+#呈绰 啊扁父 窍搁 等促.
+
+7467:你\滞\你的\分数\吗\?\
+#Are you content with your grade?
+#寸脚篮 寸脚狼 己利俊 父练钦聪鳖?
+
+7468:你\中国话\比\他\说\得\棒\.\
+#You speak Chinese better than he.
+#匙啊 弊焊促 吝惫绢甫 歹 肋茄促.
+
+7469:你\中国\住\了\多久\?\
+#How long did you live in China?
+#寸脚篮 吝惫俊辑 倔付唱 混疽嚼聪鳖?
+
+7470:你\中学\毕业\了\吗\?\
+#Have you finished middle school?
+#寸脚篮 吝切背甫 凉诀沁嚼聪鳖?
+
+7471:你\住\哪\?\
+#where do you live ?
+#寸脚篮 绢叼俊 混绊 乐嚼聪鳖?
+
+7472:你\住\在\附近\吗\?\
+#Do you live locally?
+#寸脚篮 捞 辟贸俊 荤绞聪鳖?
+
+7473:你\住\在\哪儿\?\
+#Where do you live?
+#寸脚篮 绢叼俊 混绊 乐嚼聪鳖?
+
+7474:你\准备\下\多少\赌注\?\
+#How much are you ready to lay down ?
+#寸脚篮 畴抚捣阑 倔付唱 霖厚秦 底嚼聪鳖?
+
+7475:你\仔细\想\一\想\这\件\事\.\
+#Put that in your pipe and smoke it.
+#呈绰 捞 老俊 措秦 肋 积阿秦 毫扼.
+
+7476:你\自己\做\的\.\
+#You yourself did it.
+#呈 胶胶肺 茄 老捞促.
+
+7477:你\自相矛盾\.\
+#You are not consistent with yourself.
+#呈绰 磊啊寸馒俊 狐脸促.
+
+7478:你\总是\一意孤行\.\
+#You will have your own way.
+#呈绰 疵 匙 绊笼措肺父 茄促.
+
+7479:你\总是\在\挑\我的\错\.\
+#You are always carping at my errors.
+#呈绰 亲惑 唱狼 肋给阑 部笼绢辰促.
+
+7480:你\总\要\受到\惩罚\的\!\
+#You'll never get away with it.
+#呈绰 搬惫 贸国阑 罐酒具 茄促.
+
+7481:你\总\有\一天\会\相信\的\.\
+#You'll believe it yet.
+#呈绰 搬惫 瓜霸 瞪 巴捞促.
+
+7482:你\走\之前\要\说\再见\.\
+#Say good-bye before you go.
+#呈绰 啊扁 傈俊 肋 啊扼绰 牢荤甫 秦具 茄促.
+
+7483:你\最好\把\车速\放慢\.\
+#You'd better change the car down.
+#呈绰 瞒狼 加档甫 词眠绰 巴捞 亮摆促.
+
+7484:你\最好\把\钱\储蓄\起来\.\
+#You'd better put some money aside.
+#呈绰 捣阑 历绵窍绰 巴捞 亮摆促.
+
+7485:你\最好\到\别处\去\.\
+#You had better go somewhere else.
+#呈绰 促弗 镑栏肺 啊绰 巴捞 亮摆促.
+
+7486:你\最好\给\车\加油\.\
+#You'd better gas up the car.
+#呈绰 瞒俊 扁抚阑 持绰 巴捞 亮摆促.
+
+7487:你\最好\尽量\节省\粮食\.\
+#You'd better save your provisions as much as possible.
+#呈绰 啊瓷茄 侥樊阑 例距窍绰 巴捞 亮摆促.
+
+7488:你\最好\快\走\.\
+#You'd better scat.
+#呈绰 弧府 啊绰 巴捞 亮摆促.
+
+7489:你\最好\马上\就\去\.\
+#You had beeter go right away.
+#呈绰 瘤陛 梆 啊绰 巴捞 亮摆促.
+
+7490:你\最好\请\个人\帮助\你\.\
+#You'd better ask someone to help you.
+#呈绰 促弗 荤恩俊霸 档框阑 没窍绰 巴捞 亮摆促.
+
+7491:你\最好\是\现在\回家\.\
+#You'd better go home now.
+#呈绰 瘤陛 蓖啊窍绰 巴捞 亮摆促.
+
+7492:你\最好\坦白\认错\.\
+#You'd better own up to your faults.
+#呈绰 贾流窍霸 肋给阑 牢沥窍绰 巴捞 亮摆促.
+
+7493:你\最好\通知\警\方\.\
+#You'd better notify the police.
+#呈绰 版蔓俊 脚绊窍绰 巴捞 亮摆促.
+
+7494:你\最好\再\多\躺\几\天\.\
+#You'd better lie up for a few more days.
+#呈绰 哥磨 歹 穿况 乐绰 巴捞 亮摆促.
+
+7495:你\最好\仔细\想\一下\.\
+#You had better do a little hard thinking.
+#呈绰 磅磅洒 积阿秦 焊绰 巴捞 亮摆促.
+
+7496:你\最好\做\这\件\事\.\
+#You'd ruddy well better do it.
+#匙啊 捞 老阑 窍绰 巴捞 亮摆促.
+
+7497:你\最近\有\他的\消息\吗\?\
+#Have you heard of him recently?
+#寸脚篮 弥辟 弊俊 措茄 家侥阑 甸菌嚼聪鳖?
+
+7498:你\最\喜爱\的\作家\是\谁\?\
+#Who's your favourite writer?
+#寸脚捞 啊厘 亮酒窍绰 累啊绰 穿备涝聪鳖?
+
+7499:你\最\喜爱\什么\运动\?\
+#What sport do you like best?.
+#寸脚篮 公郊 款悼阑 啊厘 亮酒钦聪鳖?
+
+7500:你\最\喜欢\那\一\朵\?\
+#which do you like best ?
+#寸脚篮 绢蠢 巴捞 啊厘 亮嚼聪鳖?
+
+7501:你\最\喜欢\那\一\个\?\
+#Which do you like best?
+#寸脚篮 绢蠢 巴捞 啊厘 亮嚼聪鳖?
+
+7502:你\昨天\有没有\碰见\他\?\
+#Did you meet him yesterday?
+#寸脚篮 绢力 弊甫 父车嚼聪鳖?
+
+7503:你\昨晚\睡\得\好\吗\?\
+#Did you sleep well last night?
+#寸脚篮 绢连广俊 肋 林公继嚼聪鳖?
+
+7504:你\做\得\很\灵巧\.\
+#You have wrought very skillfully.
+#呈绰 酒林 瓷槛窍霸 窍绰备唱.
+
+7505:你\做\的\饭菜\多\可口\啊\!\
+#What delicious food you've cooked!
+#匙啊 父电 澜侥捞 呈公唱 咐乐促!
+
+7506:你\做\那\件\事\毫无\理由\.\
+#You have no warrant for doing that.
+#匙啊 弊 老阑 且 酒公繁 捞蜡啊 绝促.
+
+7507:你\做\什么\事\都\运气\好\.\
+#You are lucky in whatever you undertake.
+#呈绰 公郊 老阑 窍电瘤 款捞 亮促.
+
+7508:你\做\完了\吗\?\
+#H you finished yet?
+#寸脚篮 促 付闷嚼聪鳖?
+
+7509:你\作\过\祈祷\了\吗\?\
+#Have you said your prayers?
+#寸脚篮 扁档甫 秦夯 利 乐嚼聪鳖?
+
+7510:你\作\了\极大\的\努力\.\
+#You made a gallant effort.
+#呈绰 弥措茄狼 畴仿阑 沁促.
+
+7511:你\作\事\漫不经心\.\
+#You handle things anyhow.
+#呈绰 老阑 呈公 家圈洒 茄促.
+
+7512:年长\的\那\位\史密斯\.\
+#Smith senior.
+#唱捞电 Smith.
+
+7513:年代\越\久远\酒\味\越\醇\.\
+#The wine improves with age.
+#矫埃捞 坷筏荐废 贱咐篮 亮酒柳促.
+
+7514:年\韩\战\引起\了\抢购\.\
+#The Korean war touched off scarebuying in 1951.1951.
+#茄惫傈里篮 厚绵备概甫 具扁矫淖促.
+
+7515:年老\的\一\辈\尊重\传统\.\
+#The older generation are respectful of tradition.
+#楷技啊 靛脚 盒甸篮 傈烹阑 吝矫茄促.
+
+7516:年老\使\他的\头发\变\白\.\
+#Age has silvered his hair.
+#唱捞啊 甸搁 赣府啊 窍鹃霸 函茄促.
+
+7517:年轻\的\男女\.\
+#jack and Gill .
+#俐篮 巢赤.
+
+7518:年轻\人\喜欢\大\声\唱歌\.\
+#Young people enjoy belting out songs.
+#俐篮 荤恩甸篮 奴家府肺 畴贰窍扁甫 亮酒茄促.
+
+7519:念书\是\共事\.\
+#School is a hard slog.
+#傍何扼绰 巴篮 操霖洒 秦具 窍绰 巴捞促.
+
+7520:鸟\从\窗子\飞\进来\.\
+#A bird flew in through the window.
+#货啊 芒巩栏肺 朝酒甸绢 吭促.
+
+7521:鸟\从\笼\中\逃\出去\了\.\
+#The bird has got out of its cage.
+#货啊 货厘 观栏肺 崔酒车促.
+
+7522:鸟儿\乘\风\翱翔\.\
+#The bird rode on the wind.
+#货啊 官恩阑 鸥绊 厚惑茄促.
+
+7523:鸟儿\的\歌唱\预报\春\到\.\
+#The song of birds heralds spring.
+#货狼 畴阀家府啊 航阑 抗绊茄促.
+
+7524:鸟儿\抖\开了\它的\羽毛\.\
+#The bird fluffed out its feathers.
+#货啊 标判阑 判绢 祁闷促.
+
+7525:鸟儿\落\在\树枝\上\.\
+#The bird landed on the branch.
+#货啊 唱沟啊瘤 困俊 冻绢脸促.
+
+7526:鸟儿\清脆\地\高歌\.\
+#The bird sang high and clearly.
+#货啊 讣绊档 里里窍霸 家府 臭咯 畴贰 何弗促.
+
+7527:鸟儿\在\互相\叫喊\.\
+#The birds are calling each other.
+#货甸捞 辑肺 何福绊 乐促.
+
+7528:鸟儿\在\空中\绕圈子\.\
+#The birds were circling around in the air.
+#货甸捞 傍吝俊辑 葫葫 倒绊 乐促.
+
+7529:鸟儿\在\林\中\呜\叫\.\
+#The birds were singing in the trees.
+#货甸捞 剑加俊辑 畴贰窍绊 乐促.
+
+7530:鸟儿\在\齐声\高\呜\.\
+#The birds are in full song.
+#货甸捞 老力洒 家府 臭咯 匡绊 乐促.
+
+7531:鸟儿\在\树\上\唱\个\不停\.\
+#The birds were singing away in the trees.
+#货甸捞 唱公 困俊辑 拌加 畴贰窍绊 乐促.
+
+7532:鸟儿\在\天空\飞翔\.\
+#Birds fiy in the air.
+#货甸捞 窍疵阑 朝绊 乐促.
+
+7533:鸟\急速\地\拍打\着\翅膀\.\
+#The bird beat its wings rapidly.
+#货啊 狐福霸 朝俺甫 摹绊 乐促.
+
+7534:鸟类\常\在\春天\求偶\.\
+#Birds often pair in the spring.
+#炼幅绰 亲惑 航俊 娄阑 茫绰促.
+
+7535:鸟\栖息\在\电话\线\上\.\
+#The birds perched on the telephone wires.
+#货甸捞 傈拳临 困俊辑 辑侥窍绊 乐促.
+
+7536:鸟\栖息\在\树\上\.\
+#A bird was sitting in a tree.
+#货啊 唱公 困俊 辑侥窍绊 乐促.
+
+7537:鸟\群\四\散\飞\起\.\
+#The birds scattered.
+#货甸捞 荤规栏肺 瑞绢廉 朝疽促.
+
+7538:鸟\生来\就\会\飞\.\
+#Birds have an inborn ability to fly.
+#货甸篮 怕绢唱磊付磊 梆 朝 荐 乐促.
+
+7539:鸟\竖\起\了\羽毛\.\
+#The bird ruffled up its feathers.
+#货啊 标判阑 技奎促.
+
+7540:鸟\跳\到\我的\手掌\上\.\
+#The bird hopped onto my finger.
+#货啊 唱狼 颊官蹿 困肺 顿绢棵耳促.
+
+7541:鸟\呜\声\响彻\林\间\.\
+#The woods were resonant with the songs of birds.
+#货甸狼 畴阀家府啊 剑加俊 匡妨 欺脸促.
+
+7542:鸟\用\爪\挖出\虫\.\
+#The birds scratched up worms.
+#货甸捞 惯砰栏肺 国饭甫 掺笼绢陈促.
+
+7543:鸟\有\飞行\的\天赋\能力\.\
+#Birds have an instinctive ability to fly.
+#货甸篮 厚青俊 玫何利牢 家龙捞 乐促.
+
+7544:鸟\在\春季\交配\.\
+#Birds mate in the spring.
+#货甸篮 航俊 背硅甫 茄促.
+
+7545:捏造\案情\陷害\某人\
+#frame up a case against sb.
+#荤扒阑 朝炼秦辑 绢恫 荤恩阑 葛秦沁促.
+
+7546:您\还有\别的\意见\吗\?\
+#Have you any more questions?
+#寸脚俊霸 促弗 狼斑捞 肚 乐嚼聪鳖?
+
+7547:您\现在\就\签字\吗\?\
+#Will you sign the contract now?
+#寸脚篮 瘤陛 辑疙窍矫摆嚼聪鳖?
+
+7548:您\要\喝\什么\饮料\?\
+#What beverages do you have?.
+#寸脚篮 绢恫 澜丰甫 付矫摆嚼聪鳖?
+
+7549:您\愿\吃\什么\?\
+#What would you like to eat?
+#公均阑 靛矫摆嚼聪鳖?
+
+7550:宁可\失\之\过于\怜悯\.\
+#It is better to err on the side of mercy.
+#
+
+7551:宁可\失\之\过\於\谨慎\.\
+#It is best to err on the side of prudence.
+#
+
+7552:宁可\受苦\不\撒谎\.\
+#It is better to suffer than to lie.
+#
+
+7553:拧\出\海绵\里\的\水\
+#screw out water from a sponge ( screw out water of a sponge)
+#胶戚瘤狼 拱阑 楼促.
+
+7554:拧\紧\管子\的\接头\
+#set up a pipe joint
+#颇捞橇甫 怖 了绢 楷搬窍促.
+
+7555:牛\,\羊\的\蹄\都\是\偶\蹄\.\
+#Cows,sheep,and goats have cloven hoofs.
+#家, 剧狼 惯绷篮 葛滴 快力促. (哎扼柳 惯绷捞促.)
+
+7556:牛车\嘎\拉\嘎\拉\地\过去\.\
+#The ox-cart rattled away.
+#崔备瘤啊 代芭傣芭府哥 瘤唱艾促.
+
+7557:牛\津\大道\总是\很\拥挤\.\
+#Oxford Street is always very congested.
+#苛胶器靛 辨篮 亲惑 赫后促.
+
+7558:牛奶\冻\成\了\固体\.\
+#The milk had frozen solid.
+#快蜡啊 倔绢辑 绊眉啊 登菌促.
+
+7559:牛奶\对\你\身体\有益\.\
+#Milk is good for you.
+#快蜡绰 个俊 亮促.
+
+7560:牛奶\对\你\有\好处\.\
+#Milk does you good.
+#快蜡绰 个俊 亮促.
+
+7561:牛奶\对\我\不\适合\.\
+#Milk does not agree with me.
+#快蜡绰 唱俊霸 救 嘎绰促.
+
+7562:牛奶\放置\太\久\会\凝结\.\
+#Milk curdles when kept too long.
+#快蜡绰 呈公 坷贰 规摹秦 滴搁 览搬等促.
+
+7563:牛奶\经\发酵\而\成\乳酪\.\
+#Milk becomes cheese by fermentation.
+#快蜡啊 惯瓤登搁 摹令啊 等促.
+
+7564:牛奶\泼洒\出来\.\
+#The milk upset.
+#快蜡啊 今酒脸促.
+
+7565:牛奶\受热\变质\了\.\
+#The heat has turned the milk.
+#快蜡啊 凯阑 罐酒辑 函龙登菌促.
+
+7566:牛奶\已经\冷\到\凝固\了\.\
+#The milk has frozen solid.
+#快蜡啊 捞固 瞒癌霸 览绊登菌促.
+
+7567:牛奶\因\天\热\而\变质\了\.\
+#The milk has gone off because of the hot weather.
+#快蜡啊 朝捞 歹况辑 函龙登菌促.
+
+7568:牛\群\已\用\绳子\围\住\.\
+#The cattle have been roped in.
+#家甸篮 捞固 货尝临肺 弓看促.
+
+7569:牛\群\在\田野\上\吃\草\.\
+#The cattle are grazing in the field.
+#家甸捞 甸魄俊辑 钱阑 垛绊 乐促.
+
+7570:牛\是\反刍动物\.\
+#The cow is a ruminant.
+#家绰 馆眠悼拱捞促.
+
+7571:牛\羊\主要\以\草\为\食物\.\
+#Cattle and sheep feed chiefly on grass.
+#家客 剧狼 林侥篮 钱捞促.
+
+7572:牛\以\草\和\物\为\主食\.\
+#Cows eat grass and grain.
+#家绰 钱苞 邦拱阑 林侥栏肺 茄促.
+
+7573:牛\以\草\为\食\.\
+#Cows feed on grass.
+#家绰 钱阑 冈绊 魂促.
+
+7574:牛\在\牛棚\里\.\
+#The cattle are in the shed.
+#家绰 寇剧埃俊 乐促.
+
+7575:牛\在\原野\上\吃\青草\.\
+#The cattle were grazing in the field.
+#家啊 国魄俊辑 钱阑 垛绊 乐促.
+
+7576:牛\正在\草地\上\吃\草\.\
+#The cows are feeding in the meadows.
+#家啊 钱圭俊辑 钱阑 垛绊 乐促.
+
+7577:牛\仔\盛装\叁\加\舞会\.\
+#The cowboy got all dressed in his Sunday-go-to-meeting clothes to go to the dance.
+#墨快焊捞啊 渴阑 爱苗 涝绊 公档雀俊 曼啊窍看促.
+
+7578:纽约\通常\缩\写成\N\.\Y\.\
+#"New York" is usually abbreviated to "N.Y.".
+#春垮篮 烹惑 临咯辑 N.Y. 扼绊 敬促.
+
+7579:浓烟\滚滚\上升\.\
+#Smoke rolled up.
+#拢篮 楷扁啊 苟霸苟霸 坷弗促.
+
+7580:农村\又\变\得\一片\荒芜\.\
+#The country has reverted to a wild state.
+#丑锰捞 促矫 炔企秦脸促.
+
+7581:农民\们\正在\进行\收割\.\
+#The peasants are pushing on with their reaping.
+#丑刮甸篮 茄芒 荐犬阑 窍绊 乐促.
+
+7582:农作物\在\阳光\下\成熟\.\
+#The corn ripens in the sun.
+#丑累拱篮 寝蝴 酒贰俊辑 公福劳绰促.
+
+7583:农作物\遭\台风\毁坏\.\
+#The crops were ravaged by the typhoon.
+#丑累拱捞 怕浅 锭巩俊 炔企拳登菌促.
+
+7584:弄\到\许多\钱\
+#rake in a lot of money
+#腹篮 捣阑 颊俊 持菌促
+
+7585:弄\平\床单\上\的\皱褶\
+#smooth away the creases from a bedsheet
+#魔措 矫飘狼 备辫混阑 乞乞窍霸 旗促
+
+7586:弄\清楚\自己\在\做\什么\!\
+#Do look what you are doing!
+#磊扁啊 公均阑 窍绊 乐绰瘤甫 盒疙洒 舅酒扼!
+
+7587:努力\保持\不\败\的\记录\
+#bear down to keep one's unbeaten record intact
+#柄瘤瘤 臼绰 扁废阑 蜡瘤窍档废 畴仿窍促
+
+7588:努力\干\到\半夜\
+#blaze away till midnight
+#词篮 广鳖瘤 凯缴洒 老窍促
+
+7589:努力\为\实验\作好\准备\
+#knock oneself out preparing for the experiment
+#角氰阑 困秦辑 霖厚甫 枚历洒 窍促.
+
+7590:怒斥\奢侈\和\懒惰\
+#fulminate against luxury and idleness
+#荤摹窍绰 巴苞 霸栏弗 巴阑 厚抄窍促
+
+7591:怒吼\声\响彻云霄\.\
+#A roar rent the air.
+#绊窃家府啊 窍疵 场鳖瘤 匡妨 欺瘤促.
+
+7592:怒目\回\瞪\某人\一\眼\
+#give sb.back an angry look
+#绢恫 荤恩阑 己抄 传栏肺 筋酒焊促
+
+7593:怒气\冲冲\地\离\去\
+#fling out in a rage
+# 畴扁啊 面玫秦辑 茸 唱啊滚府促
+
+7594:怒涛\冲击\海岸\.\
+#Towering waves impinged upon the shore.
+#荤唱款 颇档啊 秦救俊 技瞒霸 何碟摹促.
+
+7595:女\裁缝\把\布\收拾\起来\.\
+#The seamstress gathered in the cloth.
+#咯磊 犁豪荤啊 玫阑 芭抵甸捞促.
+
+7596:女\犯人\已\招供\.\
+#咯磊 裹牢捞 捞固 磊归沁促.
+#The prisoner has confessed her crime.
+
+7597:女孩\们\很\整洁\.\
+#The girls are kempt ..
+#咯磊甸篮 酒林 窜沥窍绊 柄昌窍促.
+
+7598:女孩\让\头发\披\了\下来\.\
+#The girl let down her hair.
+#家赤啊 赣府甫 郴啡促.
+
+7599:女皇\向\群众\发表\讲话\.\
+#The Queen addressed the crowd.
+#咯空篮 焙吝甸阑 氢秦 淬拳甫 惯钎沁促.
+
+7600:女人\是\善\变\的\.\
+#woman is fickle.
+#咯磊甸篮 函傣胶反促.
+
+7601:女王\赴\苏\格\兰\御\邸\.\
+#The queen betook herself to her residence in Scotland.
+#咯空捞 胶内撇罚靛俊 啊辑 林犁窍促.
+
+7602:女王\欢迎\总统\到来\.\
+#The Queen welcomed the President when he arrived.
+#咯空捞 醚烹捞 柯 巴阑 券康沁促.
+
+7603:女王\委任\他\为\侍\从\长\.\
+#The Queen appointed him Lord Chamberlain.
+#咯空捞 弊甫 泵郴 措脚栏肺 困烙沁促.
+
+7604:女\巫\诡称\能\召唤\鬼魂\.\
+#The witch pretended to be able to conjure up the spirits of the dead.
+#公寸捞 蓖脚阑 何甫 荐 乐促绊 芭窿富沁促.
+
+7605:女主人\应该\待客\殷\鸹\.\
+#A hostess should be courteous to her guests.
+#咯林牢篮 付顶洒 沥吝窍霸 颊丛阑 葛寂具 茄促.
+
+7606:女装\裁缝\师\勤\于\用\针\.\
+#The dressmaker plies her needle.
+#剧犁荤啊 何瘤繁洒 官疵肺 茬概绊 乐促.
+
+7607:女\傧\相\陪伴\新娘\.\
+#The bridesmaid attends the bride.
+#脚何狼 甸矾府啊 脚何甫 矫吝窍促.
+
+7608:暖气\透\入\老人\腿\内\.\
+#The warmth soaked into the old man's legs.
+#蝶舵茄 扁款捞 畴牢狼 促府肺 胶哥甸菌促.
+
+7609:暖气\在\夜间\停止\.\
+#The heating goes off at night.
+#胶评捞 广俊绰 谗变促.
+
+7610:懦弱\者\永\难\赢得\美人\.\
+#faint heart never won fair lady.
+#疤里捞绰 康盔洒 固牢阑 捞辨 荐 绝促.
+
+7611:哦\,\安静\点\,\好\吗\?\
+#Oh,belt up,would you?
+#酒, 粱 炼侩洒 秦林矫摆嚼聪鳖?
+
+7612:哦\,\可\别\出\声\!\
+#Oh,do hush up!
+#坷, 家府郴瘤 付技夸!
+
+7613:哦\,\我\认输\啦\!\
+#Oh, I give up!
+#坷, 亲汗捞促!
+
+7614:哦\,\我\想\喝\一\杯\茶\.\
+#Oh,I could do with a cup of tea.
+#酒, 目乔 茄儡 付矫绊 酵促.
+
+7615:欧洲\自\美国\输入\煤\.\
+#Europe imports coal from America.
+#蜡反篮 固惫栏肺何磐 籍藕阑 荐涝茄促.
+
+7616:偶然\进入\一\家\商店\
+#drop into a shop
+#快楷洒 茄 惑痢俊 甸范促
+
+7617:偶然\与\几\个人\结识\
+#knock up an acquaintance with a few people
+#快楷洒 割 荤恩阑 荤蓖霸 登菌促
+
+7618:偶然\遇见\一\个\老\朋友\
+#knock up against an old friend
+#烤 模备甫 快楷洒 父车促.
+
+7619:爬\上\陡峭\的\山坡\
+#scramble up a steep hillside
+#啊颇弗 魂厚呕阑 扁绢坷福促
+
+7620:怕\死\是\当然\的\.\
+#recoil from death is natural.
+#磷澜阑 滴妨况窍绰 巴篮 寸楷窍促.
+
+7621:排除\反对\者\
+#knock off an opponent
+#馆措磊甫 力芭窍促
+
+7622:排除\一切\反对\意见\
+#knock off every objection
+#老眉狼 馆措 狼斑阑 硅力茄促
+
+7623:排队\等候\公共汽车\
+#queue up for a bus
+#临阑 辑辑 滚胶甫 扁促府促
+
+7624:排水沟\已\堵塞\了\.\
+#The drains are blocked up.
+#硅荐备啊 阜躯促.
+
+7625:排水\管\被\泥\堵住\了\.\
+#The drain was choked with mud.
+#硅荐备啊 柳入栏肺 阜躯促.
+
+7626:盘子\堆\起来\准备\烘\乾\.\
+#The dishes were stacked up to dry.
+#立矫甫 富妨辑 阶酒 初疽促.
+
+7627:盼\复\并\报\价\.\
+#We are looking forward to your comments and quotation.
+#寸脚狼 狼斑苞 斑利辑甫 林矫扁 官而聪促.
+
+7628:盼\告\你\方\意见\.\
+#We look forward to receiving your comments.
+#弊率 狼斑阑 舅妨林矫扁 官而聪促.
+
+7629:盼\获得\贵\公司\答复\.\
+#We look forward to receiving your acceptance.
+#蓖荤狼 雀翠阑 掘阑 荐 乐扁甫 官而聪促.
+
+7630:盼\你\方\电\复\.\
+#We await your telegraphic reply with keen interest.
+#寸脚甸捞 傈焊肺 雀翠秦 林矫扁甫 官而聪促.
+
+7631:盼\早日\赐\覆\.\
+#I hope for an early answer to my letter.
+#狐弗 矫老 郴俊 雀翠 林矫扁甫 官而聪促.
+
+7632:盼\早日\得到\装船\通知\.\
+#Awaiting your early advice of shipment.
+#狐弗 矫老 郴俊 急利 烹瘤甫 罐阑 荐 乐扁甫 官而聪促.
+
+7633:盼\早日\回复\为\荷\.\
+#Looking forward to receiving your immediate reply.
+#狐弗 矫老 郴俊 雀翠秦 林矫搁 绊缚摆嚼聪促.
+
+7634:盼\早日\收到\回复\.\
+#We are looking forward to your early and favorable reply.
+#狐弗 矫老 郴俊 雀翠阑 罐疽栏搁 钦聪促.
+
+7635:判断\是\对\还是\错\.\
+#Judge whether he's right or wrong.
+#魄窜捞扼绰 巴篮 壳电瘤 酒聪搁 弊福促.
+
+7636:判决\是\十\年\徒刑\.\
+#The sentence was ten years in prison.
+#隆开 10斥捞扼绰 魄搬捞 车促.
+

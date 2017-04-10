@@ -1,0 +1,1080 @@
+46377:请\帮助\我\把\书架\掉\个\向\.\
+#Please help me to shift the bookshelf about.
+#郴啊 氓厘阑 规氢阑 官操霸 档客 林技夸.
+
+46378:请\帮助\我们\拔\去\这些\杂草\.\
+#You might help us pull out these weeds.
+#快府啊 捞繁 棱檬甫 惶绰 巴阑 档客 林技夸,
+
+46379:请\保证\包装\可以\适合\长途\海运\.\
+#Please see to it that the packing is suitable for a long sea voyage.
+#厘芭府 秦惑 款价俊 利钦窍档废 撇覆绝捞 器厘秦林技夸.
+
+46380:请\报\可\供\现货\数量\的\价格\.\
+#Please offer any quantity that can be supplied from stock.
+#傍鞭啊瓷茄 泅拱 荐樊狼 啊拜阑 舅妨林绞矫夸.
+
+46381:请\别\老是\这样\没完没了\地\插\话\.\
+#Please don't chop in as much as you are doing.
+#力惯 亲惑 捞犯霸 场绝捞 富曼斑阑 窍瘤 付技夸.
+
+46382:请\别\忘\了\给\服务\生\小费\.\
+#Please remember the waiter.
+#傀捞磐俊霸 屏 林绰 巴阑 镭瘤 付技夸.
+
+46383:请\别\再\对\我的\衣着\唠叨\个\没完\了\.\
+#Please stop carping about the way I dress.
+#力惯 唱狼 汗厘俊 措窍咯 促矫绰 场绝捞 儡家府甫 窍瘤 付技夸.
+
+46384:请\不必\送\我\出去\啦\,\我\找\得到\路\.\
+#Please don't bother to see me out,I can easily find the way.
+#唱甫 硅旷窍矾 唱棵 鞘夸绝绢夸,唱绰 辨阑 茫阑 荐 乐绢夸.
+
+46385:请\不要\把\我的\公文\弄\混淆\了\.\
+#Please don't mix up my papers.
+#郴 傍巩阑 集瘤 付技夸.
+
+46386:请\不要\踩\在\我的\脚趾\上\.\
+#Please get off my toes.
+#郴 惯啊遏阑 光瘤 付技夸. 
+
+46387:请\不要\老\缠\着\我\,\好\吗\?\
+#Just lay off me,will you ?
+#磊操 唱甫 蓖满霸 窍瘤 付技夸, 舅摆绢夸?
+
+46388:请\不要\为了\等\我们\而\延缓\吃\晚饭\.\
+#Please don't wait dinner for us.
+#快府甸阑 扁促府蠢扼 历翅 逛阑 词霸 冈瘤 付技夸.
+
+46389:请\不要\再\提\那\次\旧日\的\争吵\了\.\
+#Please don't rake up that old quarrel again.
+#促矫绰 弊 锭 坷贰等 轿框阑 波郴瘤 付技夸.
+
+46390:请\参\看\他\敲\出\的\这个\模子\.\
+#Please see the pattern he has hammered out.
+#弊啊 滴靛妨辑 旗 父电 捞 林屈阑 毫林技夸.
+
+46391:请\查\一\查\他们\什么时候\来\.\
+#Please find out what time they're coming.
+#弊甸捞 攫力 坷绰瘤 舅酒毫林技夸.
+
+46392:请\唱\一\支\歌\给\我们\听\好\吗\?\
+#Will you favor us with a song?.
+#畴贰 窍唱 秦辑 快府俊霸 甸妨 临 荐 乐绢夸?
+ 
+46393:请\从\我的\立场\上来\看看\这个\问题\.\
+#Look at it from my point of view.
+#唱狼 涝厘俊辑 捞 巩力甫 焊技夸.
+
+46394:请\从\相反\次序\念\名单\上\的\名字\.\
+#Please read the names on the list in reverse order.
+#芭操肺 疙窜狼 捞抚阑 佬绢林技夸.
+
+46395:请\打电话\给\我\以\约定\面谈\时间\.\
+#Please telephone me for an appointment.
+#唱俊霸 傈拳秦辑 搁淬矫埃阑 沥窍技夸.
+
+46396:请\打消\对\此\的\一切\顾虑\.\
+#Please dismiss all doubts about it.
+#捞巴俊 措茄 老眉狼 林历甫 柄昌捞 滚府技夸.
+
+46397:请\大家\聚拢\,\我\给\你们\讲\个\故事\.\
+#Gather round,and I'll tell you a story.
+#葛滴甸 葛捞技夸, 郴啊 咯矾盒俊霸 捞具扁 窍唱 窍摆嚼聪促.
+
+46398:请\带\给\我们\两\块\海绵\蛋糕\.\
+#Bring us two sponge cakes.
+#快府俊霸 滴 俺狼 胶迄瘤 纳劳阑 啊廉促 林技夸.
+
+46399:请\代\我\向\布朗\先生\问候\.\
+#Please remember me to Mr.Brown.
+#唱甫 措脚窍咯 宏扼款 揪俊霸 救何 傈秦林技夸.
+
+46400:请\代\我\向\令尊\令堂\问候\.\
+#Give my regards to your parents.
+#唱甫 措脚窍咯 寸脚狼 何葛丛膊 救何 傈秦林技夸.
+
+46401:请\代\我\向\你的\父母\问好\
+#Please pass on my regards to your parents
+#唱甫 措脚窍咯 寸脚狼 何葛俊霸 救何 傈秦林技夸.
+
+46402:请\等\一下\,\让\我\去\把\他\找\来\.\
+#If you wait a minute,I shall go and find him.
+#粱 扁促府技夸, 郴啊 啊辑 弊甫 茫酒坷摆嚼聪促.
+
+46403:请\递\你的\详细\经历\和\证明\书\.\
+#Will you let us have particulars of your experience and also give some references?
+#寸脚狼 磊技茄 版仿苞 刘疙辑甫 焊郴林技夸.
+
+46404:请\电告\何时\可望\获得\许可证\.\
+#TEL WHN U EXPECT OBTAIN LICENCE -telegraph when do you expect to obtain licence
+#攫力 倾啊刘阑 掘阑 荐 乐绰瘤 傈焊甫 焊郴林技夸.
+
+46405:请\电告\信用\证\金额\和\通知\行\名称\.\
+#TEL L/C AMT AND NME ADVISING BNK -telegraph L/C amount and name of advising bank
+#脚侩厘 陛咀苞 烹瘤 篮青狼 疙莫阑 傈焊肺 烹瘤秦林技夸.
+
+46406:请\电\修改\信用\证\,\否则\不\能\装运\.\
+#PLS AMND L/C BY TEL OTHRWS CANT SHIP -please amend L/C by telegram,otherwise cannot ship
+#脚侩厘阑 俺沥窍咯 傈焊肺 焊郴林技夸, 弊犯瘤 臼栏搁 急利且 荐 绝嚼聪促.
+
+46407:请\对\我\公司\的\订单\予以\确认\.\
+#Please let me have a confirmation of this order.
+#快府 雀荤狼 林巩辑俊 措窍咯 犬牢阑 林绞矫夸.
+
+46408:请\发\六\张\一手\的\五\手\牌\.\
+#Deal out five hands of six cards each.
+#墨靛甫 6厘究 5疙俊霸 倒府矫坷.
+
+46409:请\分类\列出\经费\的\细目\.\
+#Please break down the expenditure.
+#版厚狼 惑技茄 亲格阑 盒幅秦 凯芭秦林技夸.
+
+46410:请\付清\那\笔\费用\把\帐\销\了\好\吗\?\
+#Will you cancel out that charge,please?
+#弊 厚侩阑 惑尖秦 林矫摆嚼聪鳖?
+
+46411:请\告\贵\方\的\意见\和\建议\.\
+#Please let us have your comments and proposals.
+#寸脚螟狼 狼斑苞 扒狼甫 富靖窍咯 林技夸.
+
+46412:请\告\贵\公司\能\给\多少\特\价\优待\.\
+#Please inform us what special offer you can make us.
+#蓖荤啊 倔付狼 漂啊 快措甫 临 荐 乐绰瘤 舅妨林技夸. 
+
+46413:请\告\可\供\数量\支付\方式\.\
+#Please do not fail to mention in your offer the quantity available and payment terms .
+#力傍啊瓷茄 荐樊苞 瘤阂规侥阑 舅妨林绞矫夸.
+
+46414:请\告诉\我\会\上\发生\的\情况\.\
+#Please fill me in on what happened at the meeting.
+#唱俊霸 雀狼俊辑 乐带 惑炔阑 舅妨林技夸.
+
+46415:请\告诉\我们\你\什么\时候\来\.\
+#Please let us know when you are coming.
+#快府俊霸 寸脚捞 攫力 坷绰瘤 舅妨林技夸.
+
+46416:请\告诉\我\哪\本\书\我\应当\选读\.\
+#Please advise me which book I should read first.
+#唱俊霸 绢恫 氓阑 急琶窍咯 佬绢具窍绰瘤 舅妨林技夸.
+
+46417:请\告诉\我\有关\他\女朋友\的\事\.\
+#Please clue me in on his girlfriend.
+#唱俊霸 弊狼 咯磊 模备客 包访等 老阑 娟扁秦 林技夸.
+
+46418:请\告诉\我\这\只\表\有\什么\毛病\.\
+#Tell me if there is anything wrong with this watch.
+#唱俊霸 捞 矫拌俊 公郊 绊厘捞 乐绰瘤 舅妨林技夸.
+
+46419:请\告知\贵\方\的\贸易\博览会\计划\.\
+#Please let us know about your trade fairs(exhibitions).
+#寸脚螟狼 公开冠恩雀 拌裙阑 舅妨林绞矫夸.
+
+46420:请\告知\你\方\条件\如何\供\我\方\研究\.\
+#Please inform us your terms for our study.
+#快府啊 楷备八配且 荐 乐档废 寸脚螟狼 炼扒捞 绢栋茄瘤 舅妨林绞矫夸.
+
+46421:请\告知\有关\情况\,\不胜\感激\.\
+#Your sending me the information will be greatly appreciated.
+#包访等 惑炔阑 舅妨林矫搁 呈公 皑荤窍摆嚼聪促.
+
+46422:请\各位\上\船\k\k\,\要\开动\了\.\
+#All aboard !
+#咯矾盒 葛滴 硅俊 坷福技夸. 免惯钦聪促.
+
+46423:请\给\卡\式\录音机\换\一\盘\磁带\.\
+#Put another cassette in the cassette recorder.
+#墨悸飘俊 促弗 墨悸飘 抛捞橇甫 官操技夸.
+
+46424:请\给\买\一\张\到\伯\明\翰\的\头等\票\.\
+#firstclass ticket to Birmingham,please.
+#滚怪擒青 1殿钎甫 荤林技夸.
+ 
+46425:请\给\我\大体\介绍\一下\这\项\工作\.\
+#Give me a general idea of the work.
+#历俊霸 捞 老狼 措帆阑 家俺秦林技夸.
+
+46426:请\给\我\方\平安\险\的\保险\费\率\.\
+#Please give us the policy rates for F.P.A.coverage.
+#快府 螟狼 颊秦焊氰狼 焊氰厚啦阑 林技夸.
+
+46427:请\给\我\概述\一下\你的\计划\.\
+#Give me a broad idea of your plans.
+#唱俊霸 寸脚狼 拌裙阑 俺褒窍咯 林技夸.
+
+46428:请\给\我\接\四\十\五\号\分机\.\
+#Could I have extension 45,please?
+#唱俊霸 备郴傈拳 45锅阑 楷搬秦林技夸.
+
+46429:请\给\我\接通\党委\办公室\的\电话\.\
+#Please put me through to the office of the Party Committee.
+#唱俊霸 寸困盔雀 荤公角 傈拳甫 楷搬窍咯 林技夸.
+
+46430:请\给\我\来\个\双\份\的\苏\格\兰\威士忌\.\
+#I'll have a double scotch,please.
+#唱俊霸 胶墨摹 困胶虐 2牢盒阑 林技夸.
+
+46431:请\给\我\来\一\杯\威士忌\加\苏打\水\.\
+#Whisky and soda water,please.
+#唱俊霸 家促荐甫 藕 困胶虐 茄 儡 林技夸.
+
+46432:请\给\我\四\分\之一\磅\糖果\.\
+#A quarter of sweets please.
+#唱俊霸 荤帕 4盒狼 1颇款靛甫 林技夸
+
+46433:请\给\我\五\分\之一\加仑\的\威士忌\酒\.\
+#A fifth of whiskey,please.
+#唱俊霸 困胶虐 5盒狼 1岸沸阑 林技夸.
+
+46434:请\给\我\要\一\碗\西红柿\汤\.\
+#I'd like a bowl of tomato soup,please.
+#唱俊霸 配付配 胶橇甫 茄 弊俯 林技夸.
+
+46435:请\给\我\一\本\三\十\页\的\支票\簿\好\吗\?\
+#Can you please let me have a chequebook of 30 cheques?
+#唱俊霸 30其捞瘤 楼府狼 荐钎氓阑 窍唱 林技夸.
+
+46436:请\给\我\一\个\切\好\片\的\面包\.\
+#A loaf of sliced bread,please.
+#唱俊霸 肋 戒绢柳 户 窍唱 林技夸.
+
+46437:请\给\我\照看\一下\这\婴孩\.\
+#Please keep an eye on the baby for me.
+#郴啊 捞 酒捞甫 杭 荐 乐霸 秦林技夸.
+
+46438:请\给\我\指示\一下\去\商店\的\路\.\
+#Please show me the way to the shops.
+#唱俊霸 惑痢 啊绰 辨阑 舅妨林技夸.
+
+46439:请\贵\公司\报\来\C\I\F\上海\价格\.\
+#Please quote the price on CIF Shanghai basis.
+#蓖荤啊 CIF 惑秦 啊拜阑 舅妨林技夸.
+
+46440:请\贵\系\将\申请\表\寄\来\.\不胜\感谢\.\
+#Your sending me the departmental form for admission will be much appreciated.
+#寸脚膊辑 脚没钎甫 焊郴林搁 公么 绊缚摆嚼聪促.
+
+46441:请\惠\购\本\公司\深\受\好评\的\威士忌\.\
+#Buy our reputed whiskey.
+#快府 雀荤狼 亮篮 龋乞阑 罐绊 乐绰 困胶虐甫 备概窍咯 林绞矫夸.
+
+46442:请\即\派\员\前来\,\勿\再\迟延\.\
+#Please send them here without further delay.
+#歹 捞惑 瘤眉窍瘤 富绊 官肺 荤恩阑 颇斑秦林绞矫坷.
+
+46443:请\寄\此\次\订单\的\确认\书\,\致谢\.\
+#Please let me have a confirmation of this order,and oblige.
+#捞锅 林巩狼 犬牢辑甫 焊郴林矫搁 亮摆嚼聪促. 皑荤钦聪促.
+
+46444:请\寄\售货\确认\书\一\式\二\份\.\
+#Please send us your Sales Confirmation in duplicate.
+#魄概 犬牢辑 剧侥 2何甫 焊郴林绞矫坷.
+
+46445:请\记\着\别\忘\了\做\这\件\事\!\
+#Don't forget to do it.Please remember!
+#力惯 扁撅窍绊 捞 老阑 镭瘤 付技夸.
+
+46446:请\将\冰箱\下面\的\积水\倒\掉\.\
+#Please empty the drippage from under the refrigerator.
+#趁厘绊 酒贰俊 绊牢 拱阑 今酒 滚府技夸.
+
+46447:请\将\情况\随时\见告\为\荷\.\
+#Please keep us informed about the developments of it.
+#惑炔阑 荐矫肺 焊绊秦 林搁 绊缚摆嚼聪促.
+
+46448:请\将\我的\祝贺\带\给\你\妈\.\
+#Please give my greetings to your mother.
+#唱狼 绵窍甫 寸脚狼 绢赣聪俊霸 靛府技夸.
+
+46449:请\讲\大\声\点\,\我\听\不见\.\
+#Speak up,please,I can't hear you.
+#粱 农霸 富秦 林技夸. 甸府瘤 臼酒夸.
+
+46450:请\叫\邻居\们\不要\这样\喧哗\.\
+#Please ask the neighbors not to make so much noise.
+#捞眶俊霸 捞犯霸 家鄂胶反霸 窍瘤 富扼绊 夸备窍技夸.
+
+46451:请\叫\史密斯\先生\接\电话\.\
+#Please get Mr.Smith on the phone.
+#胶固胶揪俊霸 傈拳罐栏扼绊 窍技夸.
+
+46452:请\接受\我\恭喜\你\成功\的\诚\祝贺\.\
+#Please accept my sincere congratulations upon your success.
+#寸脚狼 己傍俊 措茄 唱狼 柳缴绢赴 绵窍甫 罐酒林技夸.
+
+46453:请\接受\我\和\父亲\的\谢意\.\
+#Thanks from me and my dad.
+#力惯 唱客 何模狼 荤狼甫 罐酒林技夸.
+
+46454:请\接受\我\最\深切\的\慰问\.\
+#Please accept my deepest sympathy.
+#唱狼 啊厘 表篮 困肺甫 罐酒林技夸.
+
+46455:请\解开\那个\盒子\的\绳子\.\
+#Please uncord the box.
+#弊 惑磊狼 馋阑 仟技夸.
+
+46456:请\今天\也\赐\给\我们\每天\的\粮食\吧\.\
+#Give us this day our dailybread.
+#坷疵档 快府俊霸 老侩且 剧侥阑 林绞矫夸.
+
+46457:请\尽快\签\退\一\份\,\以\备\我\方\存查\.\
+#Please sign and return one copy for our file at your earliest convenience.
+#快府 螟捞 炼荤 八凯且 锭 杭 荐 乐档废 茄 何甫 荤牢窍咯 焊郴林绞矫坷.
+
+46458:请\尽力\以\最小\亏损\解决\索\赔\.\
+#DO UTMOST STTLE CLAIMLEASTLOSS -please do utmost settle claim (at) least loss
+#弥家茄狼 颊秦硅惑栏肺 努饭烙阑 秦搬窍档废 塞阑 静矫坷.
+
+46459:请\尽量\在\四\点\前\赶到\这儿\.\
+#Try and get here before 4 o'clock.
+#啊瓷茄 4矫 傈俊 咯扁俊 坷技夸.
+
+46460:请\看看\若干\海绵\之\流\出\管\.\
+#Take a look at the excurrent canal of certain sponges.
+#距埃狼 秦搁狼 蜡免包阑 焊技夸.
+
+46461:请\看看\颜色\千变万化\的\天空\.\
+#Look at the versicolor skies.
+#祸狼 函拳啊 公泵公柳茄 窍疵阑 焊技夸.
+
+46462:请\慷慨\捐赠\给\慈善\事业\.\
+#Give generously to the charity.
+#包措窍霸 磊急荤诀俊 扁何秦林绞矫坷.
+ 
+46463:请\来\函\确认\接受\这\次\订单\.\
+#Kindly confirm receipt of this order.
+#捞锅 坷歹甫 荐飞沁澜阑 犬牢窍咯 林绞矫坷.
+
+46464:请\来\两\杯\茶\,\一\杯\咖啡\.\
+#Give me two teas and a coffee,please.
+#瞒 滴 儡苞 目乔 茄 儡 林技夸.
+
+46465:请\来\两\杯\苹果\酒\和\一\杯\啤酒\.\
+#Two ciders and a beer,please.
+#荤苞林 滴 儡苞 钙林 茄 儡阑 林技夸.
+
+46466:请\来信\告诉\我\你\在\巴西\的\新\生活\.\
+#Please send me word of your new life in Brazil.
+#寸脚狼 宏扼龙俊辑狼 货肺款 积劝阑 唱俊霸 祈瘤肺 舅妨林技夸.
+
+46467:请\立即\装运\下列\货物\为\盼\.\
+#Please send by freight at once the following.
+#官肺 酒贰 拳拱阑 急利窍扁 官而聪促.
+
+46468:请\谅解\我们\不\能\向\你\报\价\的\苦衷\.\
+#Please understand that we are unable to make you an offer.
+#快府啊 寸脚俊霸 坷欺甫 尘 荐 绝澜阑 捞秦秦林矫扁 官而聪促.
+
+46469:请\了\一\位\电工\来\检修\这\台\发电机\.\
+#An electrician was called in to see to the electric generator.
+#傈扁荐府傍阑 阂矾辑 捞 惯傈扁甫 八荤窍绊 绊摹促.
+
+46470:请\卖\两\张\到\伦敦\去\的\单程\票\.\
+#Two singles to London,please.
+#繁带 啊绰 祈档钎 2厘阑 林技夸.
+
+46471:请\明天\或\后天\来\玩\好\吗\?\
+#Would you please call round tomorrow or the day after?
+#郴老捞唱 葛饭 愁矾坷矫摆嚼聪鳖?
+
+46472:请\明天\上午\来\讨论\细节\.\
+#Please come to discuss all details tomorrow morning.
+#郴老 坷傈俊 客辑 磊技茄 巴阑 配沸窍技夸.
+
+46473:请\你\把\窗帘\放下\好\吗\?\
+#Would you please pull down the blinds?
+#寸脚捞 目瓢阑 郴妨林矫摆嚼聪鳖?
+
+46474:请\你\把\那\本\书\递\给\我\好\吗\?\
+#Will you kindly pass me that book?
+#寸脚捞 弊 氓阑 唱俊霸 焊郴林矫摆嚼聪鳖?
+
+46475:请\你\把\那\块\松动\的\地板\钉\牢\好\吗\?\
+#Will you nail down that loose board in the floor?
+#弊 蠢郊茄 魄磊甫 给栏肺 肋 绊沥矫难 林矫摆嚼聪鳖?
+
+46476:请\你\把\糖\递\给\我\,\好\吗\?\
+#will you pass me the sugar ?
+#寸脚捞 汲帕阑 唱俊霸 傈秦林矫摆嚼聪鳖?
+
+46477:请\你\把\我的\网球\拍\找出来\好\吗\?\
+#Will you find me my tennis racket?.
+#寸脚捞 唱狼 抛聪胶 扼南阑 茫酒 临 荐 乐嚼聪鳖?
+
+46478:请\你\把\这\首\诗\读\给\我们\听\好\吗\?\
+#Will you please read us this poem?
+#捞 矫甫 快府俊霸 佬绢林矫摆嚼聪鳖?
+
+46479:请\你\把\这些\衣服\分成\两\堆\,\行\吗\?\
+#Can you sort these clothes into two piles,please?
+#寸脚捞 捞 渴阑 滴 公歹扁肺 父甸绢 林矫摆嚼聪鳖?
+
+46480:请\你\把\这\张\桌子\抹\一下\好\吗\?\
+#Do you mind giving this table a wipe?.
+#寸脚捞 捞 殴磊甫 篡酒林矫摆嚼聪鳖?
+
+46481:请\你\帮\我\把\这\东西\提\起来\好\吗\?\
+#Can you help me lift it,please?
+#寸脚捞 唱甫 档客 捞 拱扒阑 甸绢 棵妨 林矫摆嚼聪鳖?
+
+46482:请\你\帮\我\写\这\封\信\好\吗\?\
+#Would you be kind enough to write this letter for me?.
+#寸脚捞 唱甫 档客辑 捞 祈瘤甫 结 林矫摆嚼聪鳖?
+
+46483:请\你\帮助\我\整理\行装\好\吗\?\
+#Would you please help me pack up?
+#寸脚捞 唱甫 档客 咯厘阑 沥府秦林矫摆嚼聪鳖?
+
+46484:请\你\参加\聚会\,\结识\一些\新\朋友\.\
+#Come to the party and meet some new people.
+#寸脚捞 葛烙俊 曼啊窍咯 割割 货 模备甫 荤蓖技夸.
+ 
+46485:请\你\插\上\收音机\的\插头\.\
+#Please plug in the radio.
+#寸脚捞 扼叼坷狼 敲矾弊甫 踩酒林技夸.
+
+46486:请\你\到\厨房\拿\杯\茶\给\我\.\
+#Please fetch me a cup of tea from the kitchen.
+#寸脚捞 林规俊 啊辑 瞒 呐阑 唱俊霸 啊廉促 林技夸.
+
+46487:请\你\放心\,\我\方将\尽\一切\可能\.\
+#You may rest assured that we shall do everything possible on our side.
+#寸脚篮 救缴窍技夸, 快府绰 官肺 葛电 啊瓷己阑 促且 巴涝聪促.
+
+46488:请\你\告诉\我\何处\可以\找到\她\好\吗\?\
+#Will you please show me where to find her?
+#寸脚捞 唱俊霸 绢叼俊辑 弊赤甫 茫阑 荐 乐绰瘤 富秦林绞矫夸.
+
+46489:请\你\给\阿姨\送\一\杯\茶\去\.\
+#Take your aunt a cup of tea,please.
+#寸脚捞 捞葛俊霸 瞒 茄 儡阑 啊廉促 林技夸.
+
+46490:请\你\给\我\把门\开\着\,\好\吗\?\
+#Would you please hold the door open for me?
+#寸脚捞 唱俊霸 巩阑 凯绊 乐绢 林技夸.
+
+46491:请\你\给\我\价值\一\镑\的\银币\好\吗\?\
+#Could you give me ￡1 in silver,please?
+#寸脚捞 唱俊霸 1颇款靛 楼府 篮 悼傈阑 林矫摆嚼聪鳖?
+
+46492:请\你\给\我们\表演\一\个\节目\.\
+#You are requested to give a performance.
+#寸脚捞 历俊霸 橇肺弊伐 窍唱甫 楷林秦林矫摆嚼聪鳖?
+
+46493:请\你\给\我\煮\杯\咖啡\好\吗\?\
+#Will you make me a cup of coffee?
+#寸脚捞 历俊霸 目乔 茄 儡 产咯林矫摆嚼聪鳖?
+
+46494:请\你\过目\那\件\文件\好\吗\?\
+#Look through the papers,will you?.
+#寸脚捞 弊 辑幅甫 茄锅 热绢毫 林绞矫夸.
+
+46495:请\你们\先\提出\一\个\估计\价格\吧\!\
+#Can you give us an indication of your price?
+#寸脚甸捞 抗惑啊拜阑 窍唱 力矫窍咯 林矫扁 官而聪促.
+ 
+46496:请\你们\在\汇票\背面\签字\"\承\兑\"\.\
+#You are kindly requested to 'accept' this draft by signing on the back.
+#寸脚甸捞 绢澜 缔搁俊 '牢荐'扼绊 荤牢阑 秦林绞矫夸.
+
+46497:请\你\明天\十\点\到\这里\,\行\吗\?\
+#Will you be here at ten o'clock tomorrow?
+#郴老 10矫俊 咯扁俊 棵 荐 乐嚼聪鳖?
+
+46498:请\你\随便\哪个\晚上\过来\看看\我们\.\
+#Come and see us one evening.
+#寸脚 祈茄措肺 窍风 历翅 快府甫 焊矾 坷技夸.
+
+46499:请\你\提示\我\该\做\什么\好\吗\?\
+#Will you give me a hint what I ought to do?.
+#快府啊 公均阑 窍绰 巴捞 亮篮 瘤 富靖秦林技夸.
+
+46500:请\你\替\我\搬\这个\大\皮箱\.\
+#Please carry this trunk for me.
+#寸脚捞 唱甫 困窍咯 捞 飘贩农甫 颗败林技夸.
+
+46501:请\你\替\我\解开\钩子\好\吗\?\
+#unhook me,would you ?.
+#寸脚捞 唱甫 困窍咯 饶农甫 钱绢林矫摆嚼聪鳖?
+
+46502:请\你\替\我\买\份\早\报\好\吗\?\
+#Would you buy me the morning paper?.
+#寸脚捞 唱甫 困窍咯 炼埃脚巩阑 荤林矫摆嚼聪鳖?
+
+46503:请\你\为\我\买\一\张\票\好\吗\?\
+#Will you get me a ticket ?= Will you get a ticket for me?.
+#寸脚捞 唱甫 困窍咯 钎 茄 厘阑 荤林技夸.
+
+46504:请\你\为\下午\的\比赛\养精蓄锐\.\
+#reserve yourself for the match this afternoon.
+#寸脚篮 坷饶狼 版扁甫 困窍咯 扁款蛮 沥脚苞 扁俺甫 啊技夸.
+
+46505:请\你\在\汇票\背面\签\上\"\承\兑\"\.\
+#Please "accept" this draft by signing on the back.
+#寸脚捞 绢澜狼 缔搁俊 '牢荐'扼绊 荤牢秦林技夸.
+
+46506:请\你\在\早晨\把\你的\屋子\整理\好\.\
+#Please fix your room up in the morning.
+#寸脚篮 酒魔俊 寸脚狼 规阑 肋 沥府窍技夸.
+
+46507:请\您\把\品\号\告诉\我\,\可以\吗\?\
+#Could you tell me the article number of the product?
+#寸脚捞 唱俊霸 力前锅龋甫 唱俊霸 舅妨临 荐 乐嚼聪鳖?
+
+46508:请\您\把\文件\传\给\大家\好\吗\?\
+#Will you hand the papers around?.
+#寸脚捞 辑幅甫 葛滴俊霸 傈崔秦 林矫摆嚼聪鳖?
+
+46509:请\您\放心\,\还\款\是\有\保障\的\.\
+#Please rest assured that repayment is ensured.
+#捣阑 氨绰 巴篮 焊厘且 抛聪 寸脚篮 救缴窍技夸.
+
+46510:请\您\介绍\一下\您\方\的\价格\,\好\吗\?\
+#Will you please let us have an idea of your price?
+#寸脚捞 寸脚螟狼 啊拜阑 家俺秦林矫摆嚼聪鳖?
+
+46511:请\您\务必\对本\报告\严格\保守\秘密\.\
+#We must ask you to treat this communication in perfect confidence.
+#寸脚篮 馆靛矫 夯 焊绊俊 措窍咯 犬角洒 厚剐阑 瘤难林技夸.
+
+46512:请\确切\告诉\我\她\住\在\那里\.\
+#Tell me exactly where she lives.
+#唱俊霸 弊赤啊 绢叼俊 荤绰瘤 沥犬洒 舅妨林技夸.
+
+46513:请\让\我\分担\一\份\资金\吧\.\
+#Please let me take a share in the fund.
+#唱俊霸 老何 磊陛阑 盒淬窍霸 窍技夸.
+
+46514:请\让\我们\给\你\买\杯\饮料\吧\!\
+#Please let us buy you a drink!
+#快府啊 寸脚俊霸 澜丰甫 荤霸 窍技夸.
+
+46515:请\叁\阅\本文\;\请\向\店\内\查询\.\
+#inquire within.
+#夯巩阑 曼绊窍技夸.
+
+46516:请\稍\等\一下\,\我\马上\就\来\.\
+#Hang on a minute; I'm just coming.
+#泪瘪 扁促府技夸.力啊 官肺 啊摆嚼聪促.
+
+46517:请\稍\等\一下\,\我\想\跟\你\说\句\话\.\
+#Just a moment; I want to speak to you.
+#泪瘪 扁促府技夸.唱绰 寸脚俊霸 富阑 窍妨绊 钦聪促.
+
+46518:请\设法\准确\地\描绘\所\发生\的\情形\.\
+#Try to describe exactly what happened.
+#惯积茄 惑炔阑 犬角洒 功荤窍档废 规过阑 葛祸窍技夸.
+
+46519:请\示范\一下\这\台\机器\如何\操作\.\
+#Please demonstrate how the machine works.
+#捞 扁拌甫 绢痘霸 炼累窍绰瘤 矫裹阑 茄 锅 焊咯林技夸.
+
+46520:请\顺\我\意\把\这\事\做\了\吧\.\
+#Do it to please me.
+#郴 狼斑措肺 捞 老阑 窍技夸.
+
+46521:请\说明\从\何处\开始\以及\如何\做\.\
+#Please explain where to begin and how to do it.
+#绢叼俊辑 矫累窍绊 绢痘霸 窍绰瘤 汲疙秦林技夸.
+
+46522:请\送\我\一\个\居室\用\暖气\炉\.\
+#I wish you to send me a stove suitable for a sitting room.
+#唱俊霸 芭角侩 抄肺甫 窍唱 焊郴林技夸.
+
+46523:请\速\告\我\方\是否\能\修改\价\订单\.\
+#Please inform us by return whether we may book your order at these revised prices.
+#快府啊 捞 官诧 啊拜俊辑 林巩阑 且 荐 乐绰瘤 咯何甫 历锐俊霸 弧府 舅妨林绞矫坷.
+
+46524:请\随便\提出\你的\建议\吧\.\
+#Please feel free to make suggestions.
+#磊蜡酚霸 寸脚狼 扒狼甫 窍扁 官而聪促.
+
+46525:请\他们\替\我\把\这\情报\核实\一下\.\
+#Ask them to check the information out for me.
+#弊甸俊霸 唱甫 措脚窍咯 捞 沥焊甫 八配窍霸 夸备窍矫坷.
+
+46526:请\坦率\地\把\你的\意见\告诉\我\.\
+#Please give me your frank opinion.
+#唱俊霸 寸脚狼 贾流茄 狼斑阑 林技夸.
+
+46527:请\提醒\他\必须\早点\到\这里\.\
+#Please remind him that he must be here early.
+#弊俊霸 馆靛矫 老嘛 咯扁俊 坷档废 老柄快技夸.
+
+46528:请\提醒\我\在\中午\前\给\他\打\个\电话\.\
+#Please remind me that I must call him up before noon.
+#唱俊霸 沥坷 傈俊 弊俊霸 傈拳且 巴阑 老柄况林技夸.
+
+46529:请\替\我\向\史密斯\先生\问好\.\
+#present my compliments to Mr.Smith.
+#唱甫 措脚窍咯 胶固胶揪俊霸 救何甫 傈秦林技夸.
+
+46530:请\通知\我\(\们\)\您\能否\到会\.\
+#Do let me/us know if you can make it.
+#快府俊霸 寸脚捞 且 荐 乐绰瘤甫 舅妨林技夸.
+
+46531:请\为\我们\播放\你\所\喜爱\的\唱片\.\
+#Please play us your favorite record.
+#快府俊霸 寸脚捞 亮酒窍绰 饭内靛甫 撇绢林技夸.
+
+46532:请\为\我们\这\批\货\加\保\破碎\险\.\
+#Please also cover the Risk of Breakage for this consignment.
+#快府 捞 拳拱俊 颇颊焊氰阑 甸绢林绞矫坷.
+
+46533:请问\,\这个\座位\有\人\吗\?\
+#I beg your pardon.Is this seat taken?
+#角肥钦聪促. 咯扁 磊府 乐嚼聪鳖?
+
+46534:请问\合同\什么时候\能\签字\?\
+#When can the contract be ready for signature?
+#拌距篮 攫力 荤牢阑 且 荐 乐嚼聪鳖?
+
+46535:请问\合同\有没有\法\文本\?\
+#Have you got a contract in French?
+#拌距辑啊 橇尔胶绢肺 等 巴捞 乐嚼聪鳖?
+
+46536:请问\我们\可以\回家\了\吗\?\
+#May we go home,please?
+#快府绰 笼俊 倒酒 哎 荐 乐嚼聪鳖?
+
+46537:请问\现在\我们\可以\回家\了\吗\?\
+#Can we go home now please?
+#瘤陛 快府绰 笼俊 啊档 邓聪鳖?
+
+46538:请\勿\打扰\,\不要\叫醒\我\.\
+#Do not disturb!
+#规秦窍瘤 付技夸!
+
+46539:请\下\一\个\证人\就位\作证\好\吗\?\
+#Will the next witness take the stand?
+#促澜 刘牢篮 磊府肺 啊 刘攫秦 林矫摆嚼聪鳖?
+
+46540:请\相信\我\是\通\情\达\理\的\.\
+#Plwase credit me with some sense!
+#郴啊 荤府 灌篮 巴阑 瓜绢林绞矫夸.
+
+46541:请\想象\出\一\幅\古\埃及\生活\的\画面\.\
+#Try to conjure up a picture of life in ancient Egypt.
+#绊措 捞笼飘 积劝狼 弊覆阑 茄 气 惑惑秦 焊绞矫夸.
+
+46542:请\想\一\想\如何\做\那\件\事\.\
+#Please find how to do it.
+#绢痘霸 弊 老阑 且 巴牢瘤 积阿秦焊绞矫夸.
+
+46543:请\向\车\里面\走\.\免得\门口\拥挤\
+#Pass along the bus,please.
+#涝备俊辑 剐摹遏 崔摹遏窍瘤 富绊 瞒 救栏肺 甸绢啊技夸.
+
+46544:请\写\下\你的\名字\和\地址\.\
+#Please put down your name and address.
+#寸脚狼 捞抚苞 林家甫 利绢林技夸.
+
+46545:请\写\下\你的\全\名\和\地址\.\
+#Please write down your full name and address.
+#寸脚狼 捞抚苞 林家甫 利绢林技夸.
+
+46546:请\选\寄\几\种\质量\中等\的\样品\.\
+#A fair average sample is to be drawn and sent to us.
+#割 辆幅狼 吝埃 殿鞭狼 斑夯阑 榜扼 焊郴林技夸.
+
+46547:请\用\大写\印刷\字体\写\下\你的\名字\.\
+#Please write your name in block letters.
+#喉废 臂磊眉肺 寸脚狼 捞抚阑 利绢林技夸.
+
+46548:请\用\方\体\字\写\你的\姓名\.\
+#Please write your name in blockletters.
+#喉废 臂磊眉肺 寸脚狼 捞抚阑 利绢林技夸.
+
+46549:请\用\夹子\把\这些\纸\夹\在一起\.\
+#Fasten these sheets of paper together with a clip,please.
+#努赋栏肺 捞 辆捞甫 笼绢林技夸.
+
+46550:请\于\7\月初\,\或\更\早\一些\时间\装运\.\
+#Please make the shipment in early July or even earlier if possible.
+#7岿 檬 趣篮 歹 老嘛 急利窍咯 林技夸.
+
+46551:请\于\出发\之前\再\确认\一下\.\
+#Please reconfirm before you leave.
+#免惯窍扁 傈俊 促矫 茄 锅 犬牢窍技夸.
+
+46552:请\于\收到\货款\後\交付\这\包裹\.\
+#Please deliver this package against payment of cost.
+#拳拱措陛阑 罐篮 饶俊 捞 家器甫 林技夸.
+
+46553:请\与\银行\联系\,\将\单据\交出\.\
+#ARRNG WTH BNK TO RELEASE DOCMNTS -arrange with bank to release documents
+#篮青苞 楷遏窍咯 刘葫辑幅甫 力免窍咯 林绞矫坷.
+
+46554:请\预先\接受\我\方\的\谢意\.\
+#Please accept our thanks advance.
+#刚历 快府 螟狼 荤狼甫 罐酒林技夸.
+ 
+46555:请\原谅\,\我\本\不\想\挑起\争论\.\
+#Please forgive me.I didn't mean to start an argument.
+#侩辑窍技夸, 唱绰 夯贰 富促霹阑 矫累窍妨带 巴篮 酒聪菌嚼聪促.
+
+46556:请\原谅\凯\特\今早\不\能\到\校\上课\.\
+#Please excuse Kate's absence from school this morning.
+#纳捞飘啊 坷疵 酒魔 切背俊 搬籍茄 巴俊 措窍咯 了价钦聪促.
+
+46557:请\原谅\我\昨天\对\你\说\过\的\话\.\
+#excuse me for what I said to you yesterday.
+#郴啊 绢力 寸脚俊霸 茄 富阑 侩辑秦林技夸.
+
+46558:请\允许\我\祝贺\你的\成功\.\
+#Allow me to congratulate you on your success.
+#唱肺 窍咯陛 寸脚狼 己傍阑 绵窍窍霸 秦林技夸.
+
+46559:请\再\喝\一\杯\,\再\吃\一\块\蛋糕\.\
+#Have another drink and another of these cakes.
+#茄 儡 歹 付矫绊, 纳劳 茄 炼阿 歹 靛技夸.
+
+46560:请\再\详细\讲\一\讲\您\的\建议\好\吗\?\
+#Would you please enlarge a little on your suggestions?
+#寸脚狼 扒狼甫 歹 磊技洒 富靖秦林矫摆嚼聪鳖?
+
+46561:请\在\本月\底\以前\给\我\答复\.\
+#Please reply to me before the end of this month.
+#捞锅 崔 富 傈 鳖瘤 历俊霸 措翠林技夸.
+
+46562:请\在\我的\帐\上\存\入\十\镑\.\
+#Please credit ￡10 to my account.
+#唱狼 烹厘俊 10颇款靛甫 持绢林技夸.
+
+46563:请\在\这\张\支票\上\填写\姓名\.\
+#Fill in your name on this cheque.
+#捞 荐钎俊 寸脚狼 捞抚阑 利绢林技夸.
+
+46564:请\针对\讨论\的\问题\发言\.\
+#Please speak to the subject under discussion.
+#配沸狼 巩力俊 嘎眠绢 惯攫窍技夸.
+
+46565:请\指明\最\靠近\的\太平\门\位置\.\
+#Please locate the nearest emergency exit.
+#啊厘 啊鳖款 厚惑备 困摹甫 啊福媚 林技夸.
+
+46566:请\注意\机器\的\操作\方法\.\
+#Please note how the machine is operated.
+#捞 扁拌甫 绢痘霸 累悼窍绰瘤 林狼窍技夸.
+
+46567:请\注意\我\方\对\此\事实\属\无\能为\力\.\
+#Please note that this is a matter over which we can exercise no control.
+#快府 螟捞 捞 荤角俊 措窍咯 绢驴 荐 绝澜阑 林狼窍技夸.
+
+46568:请\注意\我\所\告诉\你的\话\.\
+#Attend to what is told to you.
+#郴啊 富窍绰 巴阑 林格窍技夸.
+
+46569:请\注意\这些\包裹\务必\立即\送\出\.\
+#Please see that these parcels are sent off at once.
+#捞繁 家器绰 馆靛矫 官肺 惯价秦具窃阑 林狼窍技夸.
+
+46570:请\转告\他\说\他\应该\打电话\给\我\.\
+#Tell him from me that he should have phoned me.
+#弊俊霸 官肺 郴霸 傈拳秦具 茄促绊 傈秦林技夸.
+
+46571:请\仔细\看看\这\份\分发\的\资料\.\
+#Please read the handout carefully.
+#捞 惯钎 磊丰甫 磊技洒 焊技夸.
+
+46572:琼\的\父母\没有\同意\她的\婚\事\.\
+#Jean's parents refused their consent to her marriage.
+#柳狼 何葛绰 弊赤狼 去荤俊 悼狼窍瘤 臼疽促.
+
+46573:琼\丧\母\以后\我\尽力\劝慰\她\.\
+#I tried to comfort Jean after her mother's death.
+#唱绰 柳狼 绢赣聪啊 倒酒啊脚 饶俊 塞帛 柳阑 困肺窍看促.
+
+46574:琼斯\,\J\O\N\E\S\.\
+#Jonse.J-O-N-S-E.
+#Jonse.J-O-N-S-E.
+
+46575:琼斯\夫人\,\娘家\姓\亚当\.\
+#Mrs.Jones,nee,nee Adams.
+#粮胶 何牢, 模沥 己 酒淬.
+
+46576:琼斯\夫人\自认\是\个\酒徒\.\
+#Mrs Jones is a self-confessed alcoholic.
+#粮胶 何牢篮 舅妮 吝刀磊扼绊 磊牢茄促.
+
+46577:琼斯\教授\上\学期\教\我们\班\上\历史\.\
+#Professor Jones taught history to our class z last term.
+#粮胶背荐绰 瘤抄 切扁俊 快府 馆俊辑 开荤甫 啊福闷促.
+
+46578:琼斯\先生\法语\读\得\很\好\.\
+#Mr.Jones can read French pretty well.
+#粮胶揪绰 阂绢甫 概快 肋 佬阑 临 救促.
+
+46579:琼斯\先生\和\太太\有\三\个\女儿\.\
+#Mr and Mrs Jones have three daughters.
+#粮胶揪 何何俊霸绰 叠捞 悸 乐促.
+
+46580:琼斯\先生\很快\就\会\回来\.\
+#Mr Jones will be back shortly.
+#粮胶揪绰 官肺 倒酒棵 巴捞促.
+
+46581:琼斯\先生\会\说\三\种\语言\.\
+#Mr.Jonesspeaks three languages.
+#粮胶揪绰 伙 俺 惫绢甫 茄促.
+
+46582:琼斯\先生\有\长期\的\心脏病\史\.\
+#Mr Jones has a long history of heart trouble.
+#粮胶揪绰 厘扁埃狼 缴厘捍仿捞 乐促.
+
+46583:琼斯\真的\用\皮带\抽\他的\儿子\.\
+#Jones really belted his son!
+#粮胶绰 柳楼肺 弊狼 酒甸阑 酋措肺 锭啡促! 
+
+46584:琼\一向\意识到\她\惹\得\许多\人\生气\.\
+#Jean's always been very conscious that she annoys many people.
+#柳篮 临梆 弊赤啊 腹篮 荤恩阑 拳唱霸 窍看澜阑 狼侥窍看促.
+
+46585:秋风\于\堆\起来\的\树\叶\散开\了\.\
+#The autumnal breeze caused the heaped-up leaves to unpile.
+#啊阑官恩捞 阶牢 唱沟蕾阑 瑞绢哆啡促.
+
+46586:秋季\是\旅行\的\好\季节\.\
+#Autumn is a good season for travel  .
+#啊阑篮 咯青窍扁俊 亮篮 拌例捞促.
+
+46587:球\从\窗口\飞\进\,\落\在\桌子\上\.\
+#The ball went through the window and landed on the table.
+#杭捞 芒巩俊辑 朝酒 甸绢客 殴磊 困俊 冻绢脸促.
+
+46588:球\从\墙\上\反\弹\回来\,\我\接\住\了\它\.\
+#The ball rebounded from the wall and I caught it.
+#杭捞 寒困俊辑 促矫 脾绢唱客 郴啊 弊巴阑 棱疽促.
+
+46589:球队\出场\时\观众\为\之\欢呼\.\
+#The crowd cheered as the teams arrived.
+#具备评捞 免厘且 锭 包吝篮 券龋甫 窍看促.
+
+46590:球\没有\进\门\,\但\只\差\一\点点\.\
+#The ball didn't quite go into the goal,but it was a near miss.
+#杭捞 榜巩栏肺 甸绢啊瘤 臼疽栏唱, 芭狼 炼陛 瞒捞看促.
+ 
+46591:囚犯\被\严刑\逼供\屈打成招\.\
+#The prisoner was tortured to make him admit to the crime.
+#了荐绰 绊巩栏肺 磊归阑 窍看促.
+
+46592:囚犯\行走\时\,\铁\链\当啷\作响\.\
+#The prisoner's chains clanked as he walked.
+#了荐啊 吧绢哎 锭 艰荤浇捞 崔弊尔芭府哥 家府甫 陈促.
+
+46593:囚犯\由\武装\的\卫队\押送\进来\.\
+#The prisoner was brought in under armed grard.
+#了荐绰 公厘等 龋困捍俊霸 拘价登绢 甸绢吭促.
+
+46594:区别\这\两个\品种\的\是\什么\.\
+#What differentiates these two species?.
+#捞 滴 前辆阑 备喊窍绰 巴篮 公均涝聪鳖?
+
+46595:取出\操\舵\室\里\的\海图\备查\
+#break out charts in the wheel house
+#炼鸥角 救狼 秦档甫 波郴促.
+ 
+46596:取得\资格\後\,\你\打算\在\那\工作\?\
+#Where are you going to work when you qualify ?.
+#磊拜阑 秒垫茄 饶俊 寸脚篮 绢叼俊辑 老且 积阿涝聪鳖?
+
+46597:取\回\那\笔\钱\的\希\很\渺茫\.\
+#There is an offchance of getting the money back.
+#弊 捣阑 登茫绰 促绰 锐噶篮 芭狼 绝促.
+
+46598:去\把\你\手\上\的\脏物\洗\掉\.\
+#Go and wash that filth off your hands.
+#啊辑 寸脚 颊狼 歹矾款 拱龙阑 灸绢 滚府技夸.
+  
+46599:去\赶集\或\去\市场\买\东西\
+#go to market
+#厘俊 啊辑 拱扒阑 荤促.
+
+46600:去\看\点\有趣\的\东西\如何\?\
+#How about seeing something interesting?.
+#犁固乐绰 巴阑 焊矾啊绰 巴捞 绢锭夸?
+
+46601:去\看看\那些\小伙子\是否\要\啤酒\.\
+#See if those fellows want some beer.
+#啊辑 弊 俐篮捞甸捞 钙林甫 盔窍绰瘤 焊技夸.
+
+46602:去\看看\谁\在\那\,\他\要\干\什么\.\
+#Go and see who is there and what he wants.
+#啊辑 穿啊 芭扁俊 乐绊 弊啊 公均阑 窍妨绰瘤 焊技夸.
+
+46603:去年\的\圣诞节\是\个\星期三\.\
+#Christmas Day was a Wednesday last year.
+#累斥狼 己藕例篮 荐夸老捞菌促.
+
+46604:去年\你\通常\在\什么\时\侯\起床\?\
+#What time did you use to get up last year?
+#累斥俊 寸脚篮 焊烹 割 矫俊 老绢车绢夸?
+ 
+46605:去年\全国\耗\煤\量\增加\了\.\
+#The nation's consumption of coal increased last year.
+#累斥俊 傈惫狼 籍藕家葛樊篮 刘啊窍看促.
+
+46606:去年\生活费\用\上涨\了\百分之\十\.\
+#The cost of living increased by 10n[U] last year.
+#累斥 积劝厚侩篮 10%啊 棵耳促.
+
+46607:去年\四月份\你\在\哪里\?\
+#Where were you during the month of April last year?
+#累斥 4岿俊 寸脚篮 绢叼俊 乐菌嚼聪鳖?
+
+46608:去年\他\进\了\大学\研读\近代\史\.\
+#He came up last year to read Modern History.
+#累斥俊 弊绰 措切俊 甸绢啊 辟措荤甫 傍何窍看促.
+
+46609:去年\他们\在\建\一\个\大坝\.\
+#They were building a dam last year.
+#累斥俊 弊甸篮 奴 达阑 扒汲窍绊 乐菌促.
+
+46610:去年\通货膨胀\率\为\百分之\十\.\
+#The rate of inflation was 10n[U] last year.
+#累斥 烹拳曝芒伏篮 10%看促.
+
+46611:去年\我\把\约翰\介绍\给\玛丽\认识\.\
+#I introduced John to Mary last year.
+#累斥俊 唱绰 粮阑 皋府俊霸 家俺矫难 林菌促.
+
+46612:去年\我的\收入\达到\了\五\位\数\.\
+#My income reached five figures last year.
+#累斥俊 唱狼 荐涝篮 5困啊 登菌促.
+
+46613:去年\我们\访问\了\河\上\的\人家\.\
+#We visited a house on the river last year.
+#累斥俊 快府甸篮 窍惑狼 牢啊甫 规巩窍看促.
+
+46614:去年\我们\总共\赚\得\十\万\美元\.\
+#We grossed $100,000 last year.
+#累斥俊 快府绰 葛滴 10父 崔矾甫 国菌促.
+
+46615:去年\夏天\那\条\小河\干涸\了\.\
+#That stream dried up last summer.
+#累斥 咯抚俊 弊 窍玫阑 富耳促.
+
+46616:去年\夏天\下\了\多次\大雨\.\
+#We had heavy rains last summer.
+#累斥 咯抚俊 咯矾锅 奴 厚啊 郴啡促.
+
+46617:去年\销\往\日本\的\工艺品\数量\锐减\.\
+#The volume of annual exported craftwork to Japan dropped drastically last year.
+#累斥俊 老夯俊 颇绰 傍抗前 荐樊篮 措气 临菌促.
+ 
+46618:去\月球\旅行\是\难以\想象\的\.\
+#It's difficult to conceive of travelling to the moon.
+#崔俊 啊绰 咯青篮 惑惑窍扁 绢菲促.
+
+46619:权利\与\义务\是\不可\分\的\.\
+#Rights are inseparable from duties.
+#鼻府客 狼公绰 阂啊盒狼 巴捞促.
+
+46620:全部\房间\在\几\星期\以前\被\预定\了\.\
+#All the rooms were forespoken weeks ago.
+#规篮 傈何 割 林 傈俊 抗距捞 登菌促.
+
+46621:全部\帐目\都\已\结\转\无误\.\
+#All the figures have been properly carried forward.
+#葛电 厘何 拌魂篮 捞固 肯寒窍霸 捞岿矫淖促.
+
+46622:全场\起立\向\舞蹈\演员\们\鼓掌\.\
+#The house rose to the dancers.
+#包按 葛滴啊 老绢辑 错辑甸俊霸 冠荐甫 闷促.
+
+46623:全\城\居民\都\因\轰炸\而\心神不宁\.\
+#The whole city had the jitters from the bombing.
+#己 傈眉 林刮篮 葛滴 气拜栏肺 牢窍咯 救例何例秦窍看促.
+
+46624:全\船\立即\实行\半\灯火\管制\.\
+#The whole ship was dimmed out in no time.
+#硅 傈眉绰 官肺 馆 殿拳包力甫 角矫窍看促.
+
+46625:全\村\的\人\被\冰封\在\村\里\达\一\星期\.\
+#The whole village was frozen in for a week.
+#付阑 傈眉 荤恩甸篮 付阑 救俊辑 老林老 悼救 倔澜俊 挨躯菌促.
+
+46626:全国\人民\团结\在\政府\周围\.\
+#The whole nation rallied to the government.
+#傈 惫刮捞 沥何 林困俊 窜搬窍看促.
+
+46627:全国\铁路\现\已\电气化\了\.\
+#The national railways have now been electrified.
+#傈惫枚肺绰 泅犁 捞固 傈扁拳登菌促.
+
+46628:全神贯注\地\听\演讲\者\说话\
+#hang on the speaker's lips
+#柯 沥脚阑 笼吝窍咯 碍荤啊 窍绰 富阑 佃促.
+
+46629:全\世界\被压迫\的\人民\都\渴望\解放\.\
+#The oppressed people all over the world long for liberation.
+#傈 技拌狼 拘冠寸窍绰 荤恩甸篮 葛滴 秦规阑 哎噶茄促.
+
+46630:全\世界\的\人\都\希\和平\.\
+#The whole world wants peace.
+#傈 技拌 荤恩甸篮 葛滴 乞拳甫 锐噶茄促.
+
+46631:全体\工作\人员\在\罢工\中\.\
+#The whole workforce is on strike.
+#傈眉 畴悼磊甸篮 颇诀吝捞促.
+
+46632:全\校\的\人\都\知道\那\件\事\.\
+#The whole school knows it.
+#切背 傈眉啊 弊 老阑 救促.
+
+46633:缺乏\食物\可能\妨碍\发育\.\
+#Lack of food may stunt the growth.
+#澜侥 搬翘篮 惯腊阑 规秦且 荐 乐促.
+
+46634:缺乏\勇气\使\他们\失去\自由\,\.\
+#Lack of courage cost them their freedom,and finally their lives.
+#侩扁狼 何练篮 弊甸肺 窍咯陛 磊蜡甫 酪霸 窍看促.
+
+46635:缺乏\资料\将会\拖\这\项\工作\的\后\腿\.\
+#Lack of data will bog the work down,
+#磊丰狼 何练篮 捞 累诀阑 阜促弗 辨俊 捞福霸 且 巴捞促.
+
+46636:缺少\资金\对\他\十分\不利\.\
+#Lack of money handicapped him badly.
+#磊陛 何练篮 弊俊霸 酒林 阂府窍促.
+
+46637:确保\机器\妥当\地\接通\了\电源\.\
+#Make sure the machine's connected properly.
+#扁拌啊 嘎霸 傈盔阑 楷搬沁绰瘤甫 焊厘秦扼.
+
+46638:确实\他\并没有\那个\意思\.\
+#assuredly he didn't mean that.
+#犬角洒 弊绰 弊繁 狼荤啊 绝菌促.
+
+46639:确实\他\一点\也\不\象\那个\样子\.\
+#He's not a bit like that really.
+#犬角洒 弊绰 炼陛档 弊犯瘤 臼促.
+
+46640:雀\巢\"\咖啡\"\味道\好极了\.\
+#"Nescafe" --- the perfect cup of coffee.
+#匙胶墨其 目乔狼 咐篮 酒林 亮促.
+
+46641:裙子\刚好\盖\过\我的\膝盖\.\
+#The skirt comes just below my knees.
+#摹付啊 败快 唱狼 公辅阑 丹绰促.
+
+46642:群\猴\在\树枝\之间\到处\晃动\.\
+#The monkeys swung through the branches of the trees.
+#盔件捞甸捞 唱公 啊瘤 荤捞 咯扁历扁俊辑 如甸菌促.
+
+46643:群山\高耸\,\俯瞰\着\山谷\中\的\城镇\.\
+#The mountains towered over the town in the valley.
+#魂甸捞 臭捞 稼酒 拌邦狼 付阑阑 笛矾 轿绊 乐促.
+
+46644:群山\之中\有\一\个\新建\的\大\水库\.\
+#Among the hills is a great,newly built reservoir.
+#魂甸 荤捞俊 货肺 扒汲茄 奴 达捞 乐促.
+
+46645:群众\爆满\,\挤\到\走廊\上来\.\
+#The crowd overflowed into the hall.
+#焙吝甸捞 瞒绊 逞媚辑 汗档鳖瘤 厚笼绊 棵扼吭促.
+
+46646:群众\惊恐\地\向\四处\散开\.\
+#The crowd scattered in fright.
+#焙吝甸篮 愁扼辑 荤规栏肺 瑞绢脸促.
+

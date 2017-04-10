@@ -1,0 +1,3999 @@
+51648:他\因\酗酒\而\头脑\昏\昏\沉沉\.\
+#His brain was muddled with alcohol.
+#弊绰 贱俊 秒秦辑 赣府啊 绢瘤反绊 根氛沁促.
+
+51649:他\因\言行\轻浮\而\失去\朋友\的\尊重\.\
+#He was disconsidered with his friends for his flippancy.
+#弊绰 攫青捞 版贾窍咯 模备狼 粮吝阑 酪菌促.
+
+51650:他\因\一\场\误解\而\感到\苦恼\.\
+#He laboured under a misunderstanding.
+#弊绰 茄 锅狼 坷秦肺 鲍肺况沁促.
+
+51651:他\因\有\勇气\而\受\人\尊敬\.\
+#He is esteemed for his courage.
+#弊绰 侩扁啊 乐绢辑 荤恩甸狼 粮版阑 罐疽促.
+
+51652:他\因\语言学\的\知识\而\着\名\.\
+#He is distinguished for his knowledge of linguistics.
+#弊绰 攫绢切狼 瘤侥栏肺 蜡疙沁促.
+
+51653:他\因\在\上课\时\吸烟\而\被\开除\了\.\
+#He was expelled for smoking in class.
+#弊绰 荐诀矫埃俊 淬硅甫 乔况 卵败车促.
+
+51654:他\因\终\於\能\见到\海\而\欣喜\若\狂\.\
+#He was entranced that he was at last able to see the ocean.
+#弊绰 付魔郴 官促甫 杭 荐 乐霸 登绢 固模 淀捞 扁坏沁促.
+
+51655:他\因\重伤风\而\卧床不起\.\
+#He was laid up with a bad cold.
+#弊绰 缴茄 皑扁肺 魔措俊辑 老绢唱瘤 给沁促.
+
+51656:他\因\注射\毒品\而\陷\於\兴奋\中\.\
+#He's hyped-up on drugs.
+#弊绰 付距阑 嘎绊 蕊盒俊 狐脸促.
+
+51657:他\因\做\错\了事\而\受到\责备\.\
+#He got choked off for doing something wrong.
+#弊绰 老阑 肋给 贸府 秦 龙氓阑 罐疽促.
+
+51658:他\阴郁\的\神情\是\内心\苦恼\的\反映\.\
+#His dark looks are a reflection of his unhappiness.
+#弊狼 快匡茄 钎沥篮 郴缴 绊锄狼 馆康捞促.
+
+51659:他\引进\提高\效率\的\方案\.\
+#He innovated a plan for increased efficiency.
+#弊绰 瓤啦阑 臭捞绰 规救阑 档涝沁促.
+
+51660:他\引用\<\圣经\>\来\支持\他的\信仰\.\
+#He quotes from the Bible to support his beliefs.
+#弊绰 己版阑 牢侩秦 弊狼 脚居阑 瘤瘤沁促.
+
+51661:他\引用\莎\士\比\亚\的\词句\.\
+#He quoted a phrase from Shakespeare.
+#弊绰 嘉劳胶乔绢狼 巩厘阑 牢侩沁促.
+
+51662:他\隐约\谈到\麻烦\即将\来临\.\
+#He spoke darkly of trouble to come.
+#弊绰 坷绰巴捞 锅芭酚促绊 锐固窍霸 富沁促.
+
+51663:他\应付\小孩\有一套\办法\.\
+#He has a way with children.
+#弊绰 酒捞甫 惑措窍绰单 乐绢 扁贱捞 乐促.
+
+51664:他\应该\会\在\几\天\内\回来\.\
+#He's due back in a few days.
+#弊绰 哥磨 郴俊 倒酒客具 且 巴捞促. 
+
+51665:他\应该\受到\惩罚\,\不是\吗\?\
+#He ought to be punished,oughtn't he?
+#弊绰 隆国阑 罐酒具 茄促. 弊犯瘤 臼聪?
+
+51666:他\应邀\演唱\了\几\首\歌曲\.\
+#He lined out a few songs upon request.
+#弊绰 割荐狼 畴贰甫 阂矾崔扼绰 夸没俊 览沁促.
+
+51667:他\赢\我\输\,\抽签\全\看\运气\好坏\.\
+#He won and I lost; that's the luck of the draw.
+#弊啊 捞扁绰瘤 郴啊 瘤绰瘤 惶扁肺 款狼 亮绊 唱惠阑 葛滴 舅 荐 乐促.
+
+51668:他\硬逼\我\买\下\那\辆\汽车\.\
+#He hustled me into buying the car.
+#弊绰 唱俊霸 弊 瞒甫 荤档废 碍夸沁促.
+
+51669:他\硬\挤\上\了\董事长\的\地位\.\
+#He has thrust himself into the position of president.
+#弊绰 荤厘狼 磊府俊 碍力肺 棵耳促.
+
+51670:他\拥有\该\企业\的\一半\股份\.\
+#He holds a half share in the business.
+#弊绰 捞 扁诀 例馆狼 林侥阑 爱绊 乐促.
+
+51671:他\永远\是\俱乐部\里\有\势力\的\人\.\
+#He's an influence for good in the club.
+#弊绰 康盔洒 努反俊辑 技仿捞 乐绰 荤恩捞促.
+
+51672:他\用\远\镜\扫视\地平线\.\
+#He swept the horizon with a telescope.
+#弊绰 噶盔版栏肺 瘤乞急阑 鳃昌 焊疽促.
+
+51673:他\用\菜刀\把\那\南瓜\剖开\.\
+#He clove the pumpkin with his kitchen knife.
+#弊绰 漠肺 弊 龋冠阑 肋耳促.
+
+51674:他\用\出其不意\的\方法\使\我\同意\了\.\
+#He surprised me into consent .
+#弊绰 舵观狼 规过栏肺 快府甫 悼狼窍霸 沁促.
+
+51675:他\用\船\把\我们\送\到\了\海湾\对面\.\
+#He ran us across to the other side of the bay in his boat.
+#弊绰 硅肺 快府甫 秦救 嘎篮祈鳖瘤 单妨促 林菌促.
+
+51676:他\用\锤子\时\把\手指\击伤\了\.\
+#He bashed his finger with a hammer.
+#弊绰 艰噶摹肺 颊啊遏阑 骂绢 促闷促.
+
+51677:他\用\党\的\基金\中饱\私\囊\.\
+#He used the party funds to feather his own nest.
+#弊绰 寸狼 扁陛阑 吝埃俊 超酒 毛促.
+
+51678:他\用\低沉\的\声音\作出\回答\.\
+#He boomed out his answer.
+#弊绰 公芭款 绢炼肺 措翠沁促.
+
+51679:他\用\钉子\把\那\幅\画\固定\好\.\
+#He fixed the picture in position with a nail.
+#弊绰 给栏肺 弊 弊覆阑 绊沥沁促.
+
+51680:他\用\定\击\法\把\球\打\上\果\岭\.\
+#He pitched the ball on to the green.
+#弊绰 沥拜过栏肺 傍阑 苞荐盔栏肺 闷促.
+
+51681:他\用\房子\作\贷款\的\担保\.\
+#He used his house as collateral for the loan.
+#弊绰 笼阑 拱扒蔼阑 摹风绰 淬焊肺 荤侩沁促.
+
+51682:他\用\房子\作\借\钱\的\抵押\.\
+#He used his house as security to borrow the money.
+#弊绰 笼阑 捣阑 呼府绰 淬焊肺 荤侩沁促.
+
+51683:他\用\斧头\劈开\了\那个\箱子\.\
+#He hacked the box apart with his ax.
+#弊绰 档尝肺 弊 惑磊甫 律昂促.
+
+51684:他\用\鹤\嘴\锄\掘\坚硬\的\土地\.\
+#He pecked at the hard ground with a pickaxe.
+#弊绰 邦豹捞肺 窜窜茄 配瘤甫 仆促.
+
+51685:他\用\很\好的\言词\作\了\解释\.\
+#He worded the explanation well.
+#弊绰 瓷槛茄 攫绢肺 函疙沁促.
+
+51686:他\用\贿赂\在\公家\机构\找到\工作\.\
+#He bribed himself into office.
+#弊绰 惫啊扁包俊 锄拱阑 林绢 流诀阑 备沁促.
+
+51687:他\用\几\十\给\自己\凉\.\
+#He fanned himself with his hat.
+#弊绰 葛磊肺 磊脚阑 矫盔窍霸 沁促.
+
+51688:他\用\肩膀\推\开\人群\前进\.\
+#He shouldered his way through the crowd.
+#弊绰 绢柄肺 荤恩甸阑 剐摹绊 菊栏肺 唱艾促.
+
+51689:他\用\浆糊\把\那些\图片\贴\在\里面\.\
+#He pasted the pictures in.
+#弊绰 钱肺 弊 弊覆阑 救俊 嘿看促.
+
+51690:他\用\科学\的\语言\表达\事物\.\
+#He expresses something in terms of science.
+#弊绰 苞切利 攫绢肺 荤拱阑 唱鸥陈促. 
+
+51691:他\用\口\哨\吹\了\一\支\流行\曲调\.\
+#He whistled a popular tune.
+#弊绰 涝栏肺 茄 蜡青窍绰 邦炼甫 戎颇恩 阂范促.
+
+51692:他\用\快\照\拍摄\了\几\个\镜头\.\
+#He snapped off several frames.
+#弊绰 胶忱 迷康栏肺 厘搁阑 嘛菌促.
+
+51693:他\用\篱笆\围\住\那\座\花园\.\
+#He surrounded the garden with a fence.
+#弊绰 匡鸥府肺 拳盔 林困甫 笛范促.
+
+51694:他\用力\把\砖头\扔\进\窗口\.\
+#He hurled a brick through the window.
+#弊绰 塞帛 寒倒阑 芒巩栏肺 带脸促.
+
+51695:他\用力\推\门\,\门\终于\开了\.\
+#He pushed hard against the door and finally it gave in.
+#弊啊 塞帛 巩阑 剐绢, 巩篮 靛叼绢 凯啡促.
+
+51696:他\用\了\很\长\时间\才\打\定\主意\.\
+#It took him a long time to make up his mind.
+#弊绰 坷罚 矫埃俊 芭媚 付澜阑 搬沥沁促.
+
+51697:他\用\零碎\木料\做\了\一\只\船\的\模型\.\
+#He modelled a ship out of bits of wood.
+#弊绰 炼阿抄 格犁肺 硅狼 葛屈阑 窍唱 父甸菌促.
+
+51698:他\用\枪\射\鸟\,\可是\没有\打中\.\
+#He popped at a bird but missed it.
+#弊绰 醚栏肺 货甫 筋疽促. 弊矾唱 嘎眠瘤 给沁促.
+
+51699:他\用\轻蔑\的\口吻\说\了\这\番\话\.\
+#He spat out the words with scorn.
+#弊绰 厚眶绰 富捧肺 捞 富阑 沁促. 
+
+51700:他\用\拳头\使劲\地\挤压\对方\的\脸\.\
+#He ground his fist into his opponent's face.
+#弊绰 林冈栏肺 惑措规狼 倔奔阑 塞帛 剐菌促.
+
+51701:他\用\拳头\在\桌\上\砰\地\重\击\.\
+#He banged the desk with his fist.
+#弊绰 林冈栏肺 氓惑阑 参窍绊 郴府闷促.
+
+51702:他\用\确凿\的\事实\充实\自己的\论点\.\
+#He fleshed out his argument with solid facts.
+#弊绰 犬角茄 荤角肺 磊脚狼 稠痢俊 面角沁促.
+
+51703:他\用\人格\担保\保守\秘密\.\
+#He was put on his honour not to tell the secret.
+#弊绰 牢拜阑 淬焊肺 厚剐阑 焊荐沁促.
+
+51704:他\用\深情\的\一\吻\来\欢迎\她\.\
+#He greeted her with a loving kiss.
+#弊绰 沥促款 虐胶肺 弊赤甫 券康沁促.
+
+51705:他\用\绳\把\骡子\系\在一起\牵\走\了\.\
+#He roped up the mules and led them off.
+#弊绰 瑰临肺 畴货甫 弓绢 缠绊 艾促.
+
+51706:他\用\手\把\墨迹\弄\模糊\了\.\
+#He smudged the ink with his hand.
+#弊绰 颊栏肺 宫利阑 儒府霸 沁促.
+
+51707:他\用\手\四处\摸索\寻找\把手\.\
+#He felt around for the handle.
+#弊绰 颊栏肺 荤规阑 歹惦绢 颊棱捞甫 茫疽促.
+
+51708:他\用\手指\把\代用\粘土\弄\软\了\.\
+#He softened up the plasticine with his fingers.
+#弊绰 颊啊遏栏肺 痢配甫 何靛反霸 林拱范促.
+
+51709:他\用\手指\把\面包\碾\成\碎\末\.\
+#He crumbled the bread in his fingers.
+#弊绰 颊啊遏栏肺 户阑 花酒辑 何荐菌促.
+
+51710:他\用\手指\在\餐\桌\上\咚\咚\地\敲打\.\
+#He drummed his fingers on the table.
+#弊绰 颊啊遏栏肺 殴磊甫 度度 滴靛啡促.
+
+51711:他\用\手指\在\桌\上\咚\咚\地\敲\.\
+#He drummed on the table with his fingers.
+#弊绰 颊啊遏栏肺 抛捞喉阑 度度 滴靛啡促.
+
+51712:他\用\树\篱\围\起\他的\花园\.\
+#He enclosed his garden with a hedge.
+#弊绰 唱公匡鸥府肺 弊狼 拳盔阑 笛范促.
+
+51713:他\用\双\筒\远\镜\看\摩托车\比赛\.\
+#He watched the motorcycle race through his binoculars.
+#弊绰 街噶盔版栏肺 坷配官捞版林甫 焊疽促. 
+
+51714:他\用\水\把\颜料\加以\稀释\.\
+#He diluted the paint with water.
+#弊绰 拱肺 其牢飘甫 锐籍矫淖促.
+
+51715:他\用\他的\车把\我\送\回去\.\
+#He drove me back in his car.
+#弊绰 弊狼 瞒肺 唱甫 单妨促 林菌促.
+
+51716:他\用\糖\来\降低\酒\的\浓度\.\
+#He used sugar to break down the spirits.
+#弊绰 汲帕栏肺 贱狼 丑档甫 撤眠菌促.
+
+51717:他\用\五\十\八\秒\钟\跑\完\全程\.\
+#He ran the course in 58 seconds.
+#弊绰 58檬 悼救 傈内胶甫 肯林沁促.
+
+51718:他\用\小刀\把\自己的\名字\刻\在\墙\上\.\
+#He scratched his name on the wall with a knife.
+#弊绰 累篮 漠肺 磊脚狼 捞抚阑 寒俊 货板促.
+
+51719:他\用\小刀\划\破\了\那\块\布\.\
+#He ripped the cloth with his knife.
+#弊绰 累篮 漠肺 弊 渴皑阑 迈菌促.
+
+51720:他\用\一\把\削\铅笔\刀\撬\开\锁\.\
+#He forced the lock with a penknife.
+#弊绰 楷鞘别绰 漠肺 巩阑 撅瘤肺 厚撇绢 凯菌促.
+
+51721:他\用\一\根\粗大\的\木头\把\墙\撑住\.\
+#He shored up the wall with a thick balk of wood.
+#弊绰 滴波款 唱公配阜栏肺 淬阑 瘤攀沁促.
+
+51722:他\用\一\则\笑话\开始\他的\演说\.\
+#He began his lecture with a joke .
+#弊绰 丑淬栏肺 弊狼 楷汲阑 矫累沁促.
+
+51723:他\用\蒸汽\于\信封\开启\.\
+#He steamed open the envelope.
+#弊绰 刘扁肺 祈瘤豪捧甫 凯菌促.
+
+51724:他\用\指头\咚\咚\地\连\敲\着\桌子\.\
+#He beat a tattoo with his fingers on the table.
+#弊绰 颊啊遏栏肺 殴磊甫 度度 拌加 滴靛啡促.
+
+51725:他\用\纸\把\那些\种子\包\起来\.\
+#He folded the seeds in a piece of paper.
+#弊绰 辆捞肺 弊 揪甸阑 器厘沁促.
+
+51726:他\用\肘\推\着\从\人群\中\挤\过去\.\
+#He elbowed his way through the crowd.
+#弊绰 迫厕摹肺 牢颇甫 剐绊 厚笼绊 艾促.
+
+51727:他\用\庄重\的\声音\宣布\这\一\消息\.\
+#He gave the news out in grave voice.
+#弊绰 公芭款 格家府肺 捞 家侥阑 傈沁促.
+
+51728:他\用\自己的\相机\交换\她的\手表\.\
+#He gave her his camera for her watch.
+#弊绰 磊脚狼 墨皋扼甫 弊赤狼 颊格矫拌客 官操菌促.
+
+51729:他\用\匕\首\刺\进\那个\人\的\心脏\.\
+#He struck the man to the heart with a dagger.
+#弊绰 厚荐肺 弊 荤恩狼 缴厘阑 埋范促.
+
+51730:他\用\黏\土\做\了\一\座\雕像\.\
+#He made a little statue of clay.
+#弊绰 痢配肺 炼阿惑 窍唱甫 父甸菌促.
+
+51731:他\悠闲\地\坐\在\安乐椅\上\.\
+#He settled himself comfortably in an easy chair.
+#弊绰 茄啊酚霸 救遏狼磊俊 旧酒 乐促.
+
+51732:他\由\巴\兹\市\选\出\为\国会\议员\.\
+#He was returned to Parliament for Bath.
+#弊绰 海胶矫俊辑 惫雀狼盔栏肺 急免登菌促.
+
+51733:他\由\一\个\话题\转\到\另\一\个\话题\.\
+#He jumped from one topic to another.
+#弊绰 茄 拳力俊辑 促弗 拳力肺 官操菌促.
+
+51734:他\由于\工作\过度\而\身体\垮\了\.\
+#He broke up under strain.
+#弊绰 老狼 苞吝栏肺 个捞 噶啊脸促.
+
+51735:他\由于\身体\不\好\而\免\服\兵役\.\
+#He is exempt from military service,because of his bad health.
+#弊绰 个捞 亮瘤 臼酒 捍开阑 搁力罐疽促.
+
+51736:他\由于\疼痛\,\脸\都\扭曲\了\.\
+#He grimaced with pain.
+#弊绰 酒颇 倔奔阑 骂仟啡促. 
+
+51737:他\由\於\太\内向\而\怯\于\与\他人\交往\.\
+#He is too shy to mingle with others .
+#弊绰 呈公 郴己利捞绢辑 鸥牢苞 空贰窍绰单 何掺矾况茄促.
+
+51738:他\由\於\自己\不\小心\而\受伤\.\
+#He got injured through his own carelessness.
+#弊绰 胶胶肺 炼缴窍瘤 臼酒 促闷促.
+
+51739:他\犹豫\不\决\,\丧失\了\机会\.\
+#He faltered and lost his chance.
+#弊绰 噶汲捞绊 搬沥窍瘤 给秦辑 扁雀甫 初闷促.
+
+51740:他\有\d\d\马上\来\的\可能\吗\?\
+#Is there any possibility of his coming immediately?.
+#弊绰 溜矫 棵 荐 乐嚼聪鳖?
+
+51741:他\有\透\着\坚强\意志\的\下巴\.\
+#He had a determined chin.
+#弊绰 碍茄 狼瘤甫 唱鸥郴绰 盼阑 爱绊乐促.
+
+51742:他\有\案\发\时\不在\现场\的\充分\证据\.\
+#He has a perfect alibi.
+#弊绰 泅厘何犁牢 面盒茄 刘芭甫 爱绊 乐促.
+
+51743:他\有\充分\的\根据\去\相信\它\.\
+#He has good grounds for believing it.
+#弊绰 瓜阑 父茄 面盒茄 刘芭啊 乐促.
+
+51744:他\有\充分\的\资格\担任\该\工作\.\
+#He is well qualified for the work.
+#弊绰 捞 老阑 何淬且 面盒茄 磊拜阑 爱绊 乐促.
+
+51745:他\有的是\钱\;\他\浑身\铜\臭\.\
+#He stinks of money.
+#弊啊 啊柳 巴篮 捣观俊 绝促. 弊绰 柯个俊辑 备府晨货啊 抄促.
+
+51746:他\有\个\挺\漂亮\的\女朋友\.\
+#He has a knockout of a girlfriend.
+#弊绰 酒林 酒抚促款 局牢捞 乐促.
+
+51747:他\有\好几\年\什么\地方\都\没\去\.\
+#He has been nowhere for years.
+#弊绰 割 斥 悼救 绢恫 镑档 啊瘤 给沁促.
+
+51748:他\有\机会\尽情\地\弹\拉\手\提\琴\.\
+#He had the chance to play the violin to his heart's content.
+#弊绰 官捞棵赴阑 妇帛 楷林且 扁雀啊 乐促.
+
+51749:他\有\几分\承\自\父亲\的\天赋\.\
+#He has some share of his father's genius.
+#弊绰 酒滚瘤狼 玫己阑 炼陛 捞绢 罐疽促. 
+
+51750:他\有\几\分钟\的\时间\同\她\在一起\.\
+#He'd got a few minutes to spend with her.
+#弊绰 割 盒 悼救 弊赤客 窃膊 沁促.
+
+51751:他\有\良好\的\语言\记忆\力\.\
+#He has a good verbal memory.
+#弊绰 亮篮 攫绢 扁撅仿阑 爱绊 乐促.
+
+51752:他\有\领导\作风\而且\能\采取\主动\.\
+#He is dominating and active in manner.
+#弊绰 瘤档仿狼 怕档啊 乐绢 林档鼻阑 啊龙 荐 乐促.
+
+51753:他\有没有\向\你\开口\借\点\钱\?\
+#Did he approach you about lending him some money?
+#弊啊 呈俊霸 捣阑 呼妨 崔扼绊 富阑 沁聪?
+
+51754:他\有生以来\从未\到\国外\.\
+#He's never been abroad in his life.
+#弊绰 怕绢抄 捞贰肺 寇惫俊 唱埃 利捞 绝促.
+
+51755:他\有时\乘\火车\来\,\有时\坐\汽车\来\.\
+#Sometimes he comes by train and sometimes by car.
+#弊绰 绢恫 锭 扁瞒甫 鸥绊 坷芭唱 绢恫 锭绰 瞒甫 鸥绊 柯促.
+
+51756:他\有时\突然\造访\使\我们\惊讶\.\
+#He sometimes surprises us with a sudden visit.
+#弊绰 癌磊扁 茫酒客辑 快府甫 愁扼霸 沁促.
+
+51757:他\有\他人\所\没有\的\宽宏大量\.\
+#He has a patent of generosity.
+#弊绰 鸥牢捞 爱绊 乐瘤 臼篮 承篮 档樊捞 乐促.
+
+51758:他\有\太太\,\还有\四\个\孩子\.\
+#He has a wife and four children besides.
+#弊绰 何牢捞 乐绊 匙 疙狼 酒捞甸捞 乐促.
+
+51759:他\有\向\一边\歪\头\的\习惯\.\
+#He is in the habit of tilting his head to one side.
+#弊绰 茄率栏肺 赣府甫 凹快蹲窍绰 嚼包捞 乐促.
+
+51760:他\有\一\份\好\工作\真\幸运\.\
+#He's fortunate in having a good job.
+#弊绰 亮篮 流厘捞 乐栏聪 沥富 款捞 亮促.
+
+51761:他\有\一\股\神圣\不可\侵犯\的\气息\.\
+#There is an aura of divinity about him.
+#弊绰 魔裹且 荐 绝绰 脚己茄 扁款捞 乐促.
+
+51762:他\有\一\颗\超越\状\之\享受\的\心灵\.\
+#He has a soul above material pleasures.
+#弊绰 惑炔阑 檬岿秦 榴辨 荐 乐绰 付澜捞 乐促.
+
+51763:他\有\一\台\收音机\,\对不对\?\
+#He has radio,doesn't he?
+#弊绰 扼叼坷 茄措啊 乐瘤?弊犯瘤?
+
+51764:他\有\一些\稀奇古怪\的\念头\.\
+#He has some weird ideas.
+#弊绰 扁惯抄 积阿阑 爱绊 乐促.
+
+51765:他\有\足够\的\钱\买\一\辆\新\车\.\
+#He is comfortable enough to buy a new car.
+#弊绰 茄措狼 货 瞒甫 混 面盒茄 捣捞 乐促.
+
+51766:他\有\足以\抵御\任何\气候\的\体格\.\
+#He has a constitution that defies any climate.
+#弊绰 绢恫 扁饶档 练洒 阜酒 尘 眉拜捞 乐促.
+
+51767:他\右\脚\上\的\老\伤\又\发作\了\.\
+#An old injury to his right foot had begun to act up again.
+#弊狼 坷弗率促府狼 坷贰等 惑贸啊 肚 惯累沁促.
+
+51768:他\诱骗\我\把\那\枚\宝石\割爱\.\
+#He beguiled me into parting with the gem.
+#弊绰 弊 焊籍阑 滚府档废 朝 部继促.
+
+51769:他\诱骗\我\承认\事情\是\我\干\的\.\
+#He trapped me into admitting I had done it.
+#郴啊 老阑 茄 巴捞扼绊 牢沥窍档废 弊啊 朝 加看促. 
+
+51770:他\又\把\这\故事\讲\了\一遍\.\
+#He told the story yet again.
+#弊绰 肚 捞 捞具扁甫 茄锅 歹 富沁促.
+
+51771:他\又\闯\了\进来\,\想要\了解\情况\.\
+#He has been poking in again trying to find things out.
+#弊绰 肚 癌磊扁 甸绢坷歹聪 惑炔阑 秦疙窍妨绊 沁促. 
+
+51772:他\又\犯\了\完全\相同\的\错误\.\
+#He has made the very same mistake again.
+#弊绰 肚 肯傈洒 鞍篮 馒坷甫 历龙范促.
+
+51773:他\又\恢复\了\过去\的\坏\习惯\.\
+#He relapsed into his old bad habits.
+#弊绰 肚 苞芭狼 唱慧 嚼包阑 雀汗沁促.
+
+51774:他\又要\花\些\钱\去\修\表\了\.\
+#He had to fork out some money again to have his watch repaired.
+#弊绰 肚 距埃狼 捣阑 结辑 矫拌甫 绊闷促.
+
+51775:他\又\在\摆弄\他的\新\脚踏车\了\.\
+#He's mucking about with his new bicycle again.
+#弊绰 肚 弊狼 货 磊傈芭甫 啊瘤绊 愁疽促. 
+
+51776:他\幼时\受\过\很\好的\教养\.\
+#He has had a good upbringing.
+#弊绰 绢赴矫例俊 亮篮 背腊阑 罐篮 利捞 乐促.
+
+51777:他\迂回\曲折\地\穿过\树林\.\
+#He wound his way through the trees.
+#弊绰 快咯邦例 场俊 荐钱覆阑 烹苞沁促.
+
+51778:他\于\次日\把\练习\交还\给\我们\.\
+#he gave our exercises back to us the next day.
+#弊绰 促澜朝 楷嚼阑 快府甸俊霸 背券秦 林菌促.
+
+51779:他\于\今天早晨\十\时\签字\离\去\.\
+#He signed out at ten this morning.
+#弊绰 坷疵 酒魔 凯矫俊 辑疙窍绊 栋车促.
+
+51780:他\愉快\的\笑\声\消除\了\她的\恐惧\.\
+#His cheerful laughter dispelled her fears.
+#弊狼 蜡蔫茄 眶澜家府绰 弊赤狼 滴妨框阑 绝据促. 
+
+51781:他\与\保守\党员\在\暗中\勾结\.\
+#He's playing footsie with the conservatives.
+#弊绰 焊荐寸盔苞 隔贰 傍葛沁促.
+
+51782:他\与\当时\许多\杰出\的\文人\有\深\交\.\
+#He was intimate with many of the greatest minds of his day.
+#弊绰 寸矫狼 腹篮 吧免茄 巩牢甸苞 表篮 背幅啊 乐菌促.
+
+51783:他\与\房地产\事业\有关系\.\
+#He is concerned with the real estate business.
+#弊绰 何悼魂荤诀苞 蜡包窍促.
+
+51784:他\与\很多\商店\进行\交易\.\
+#He transacts business with a large number of stores.
+#弊绰 腹篮 惑痢苞 公开芭贰甫 茄促.
+
+51785:他\与\亨利\并没有\特别\友好\.\
+#He wasn't particularly friendly with Henry.
+#弊绰 穷府客 搬内 漂喊茄 快龋啊 绝促.
+
+51786:他\与\老师\的\妻子\私\奔\了\.\
+#He ran away with his teacher's wife.
+#弊绰 急积丛狼 何牢苞 档乔青阿阑 国啡促.
+
+51787:他\与\那\犯人\的\相貌\描述\相符\.\
+#He answered the description of the criminal.
+#弊绰 弊 裹牢狼 侩葛客 辑肺 老摹登霸 功荤沁促.
+
+51788:他\与\你\一样\,\有\他的\自尊\心\.\
+#He has his pride,same as you .
+#弊绰 呈贸烦 弊狼 磊粮缴捞 乐绢.
+
+51789:他\与\朋友\讨论\最好\的\方法\.\
+#He argued with his friend about the best method.
+#弊绰 模备甸苞 弥绊狼 规过栏肺 配沸沁促.
+
+51790:他\与\嫌疑犯\的\相貌\描述\相\符合\.\
+#He answers to the description of the suspect.
+#弊绰 侩狼磊狼 侩葛客 何钦登霸 功荤沁促.
+
+51791:他\与\一\个\漂亮\的\红\发\女郎\结婚\了\.\
+#He married a beautiful redhead.
+#弊绰 酒抚促款 河篮 赣府 家赤客 搬去沁促.
+
+51792:他\语气\中\带上\了\威胁\的\成分\.\
+#A tone of menace entered into his voice.
+#弊狼 富捧俊 困蛆狼 夸家啊 淬败 乐促.
+
+51793:他\遇到\困难\时\容易\泄气\.\
+#He's easily disheartened by difficulties.
+#弊绰 帮鄂俊 何碟磨 锭 奖霸 器扁茄促.
+
+51794:他\预测\那\匹\马\会\赢得\那\一\场\赛\马\.\
+#He tipped the horse to win the race.
+#弊绰 弊 富捞 弊 版扁俊辑 捞辨巴捞扼绊 抗螟沁促.
+
+51795:他\预感\到\问题\即将\发生\.\
+#He scented that trouble was brewing.
+#弊绰 巩力啊 梆 惯积且 巴阑 抗皑沁促.
+
+51796:他\预期\U\U\到\五月\时\完成\.\
+#He expects to have finished by May.
+#弊绰 5岿俊 肯己瞪 巴捞扼绊 抗扁沁促.
+
+51797:他\预期\她\终究\会\嫁给\他\.\
+#He envisaged that she would eventually marry him.
+#弊绰 弊赤啊 搬惫篮 弊俊霸 矫笼哎芭扼绊 抗扁沁促.
+
+51798:他\预言\战争\何时\会\爆发\.\
+#He predicted when war would break out.
+#弊绰 傈里捞 攫力啊 惯惯且芭扼绊 抗攫沁促.
+
+51799:他\原\是\个\相当\平常\的\学生\.\
+#He was rather a pedestrian student.
+#弊绰 盔贰 酒林 乞裹茄 切积捞菌促.
+
+51800:他\愿意\参加\这\一\活动\并\捐助\十\元\.\
+#He is willing to stand in and give ten yuan to the funds.
+#弊绰 捞 劝悼狼 曼啊甫 盔沁栏哥 肚茄 10傈阑 何炼沁促.
+
+51801:他\约\出生\于\纪元\1\6\0\0\年\左右\.\
+#He was born c.1600.
+#弊绰 扁盔傈 1600斥码俊 免积沁促.
+
+51802:他\约\好了\给\我们\讲\一次\课\.\
+#He has promised to give us a lecture.
+#弊绰 快府甸俊霸 茄锅 碍狼 且 巴阑 距加沁促.
+
+51803:他\越\老\,\卧床\的\时间\也\越\多\了\.\
+#As he grows older,he spends more of his time in bed.
+#弊绰 茨阑荐废 魔措俊 穿况乐绰 矫埃档 痢痢 腹酒脸促.
+
+51804:他\允诺\过\的\事\是\不会\收回\去\的\.\
+#He will not draw back from what he has promised.
+#弊绰 距加沁带 老篮 例措 秒家窍瘤 臼绰促.
+
+51805:他\允许\我们\走\过\他的\花园\.\
+#He conceded us the right to walk through his garden.
+#弊绰 快府甸俊霸 弊狼 拳盔阑 吧绢啊档 等促绊 倾遏沁促.
+
+51806:他\运气\不\好\遇到\这\场\阵雨\.\
+#He was unfortunately caught in the shower.
+#弊绰 款 唱悔霸 家唱扁甫 父车促.
+
+51807:他\运气\好\,\马上\找到\了\工作\.\
+#Good luck was with him,and he found a job at once.
+#弊绰 款捞 亮酒辑 梆 流厘阑 备沁促.
+
+51808:他\运气\好\,\找到\了\座位\.\
+#He lucked out and found a seat.
+#弊绰 款捞 亮酒辑 谅籍阑 茫疽促.
+
+51809:他\运用\新\理论\去\解决\该\问题\.\
+#He employed a new theory to solve the problem.
+#弊绰 货 捞沸阑 款侩窍咯 捞 巩力甫 秦搬沁促.
+
+51810:他\再度\带领\我\跳\华\尔\兹\舞\.\
+#He waltzed me around again.
+#弊绰 犁瞒 唱俊霸 啃明甫 眠档废 瘤档沁促.
+
+51811:他\再\观察\了\犯罪\的\现场\.\
+#He reviewed the scene of the crime.
+#弊绰 促矫 裹了狼 泅厘阑 包蔓沁促.
+
+51812:他\再三\声明\自己\是\无罪\的\.\
+#He repeated his assertion that he was not guilty.
+#弊绰 犁瞒 磊脚篮 公了扼绊 灌躯促.
+
+51813:他\再也\无法\待\在\那个\地方\.\
+#The place became too warm for him.
+#弊绰 促矫 肚 弊镑俊辑 扁促副 规过捞 绝促.
+
+51814:他\再也\抑制不住\他的\感情\了\.\
+#He could not keep his feelings under any longer.
+#弊绰 促矫 肚 弊狼 皑沥阑 撅力且 绝菌促.
+
+51815:他\在\1\9\3\6\年\成为\英国\国王\.\
+#He became king of England in 1936.
+#弊绰 1936斥俊 康惫狼 惫空捞 登菌促.
+
+51816:他\在\表妹\的\脸颊\上\亲\了\个\响\吻\.\
+#He smacked his cousin on the cheek.
+#弊绰 荤锰狼 杭俊 虐胶甫 沁促.
+
+51817:他\在\别人\面前\很\害羞\且\犹豫\不\决\.\
+#He is very shy and hesitant in company.
+#弊绰 鸥牢狼 搁傈俊辑 何掺矾况 噶汲牢促.
+
+51818:他\在\差不多\三\十\年\前\参加\了\海军\.\
+#He joined the navy nearly 30 years ago.
+#弊绰 芭狼 30斥 傈俊 秦焙俊 曼啊沁促.
+
+51819:他\在\长者\之前\很\是\恭敬\.\
+#He was respectful before his betters.
+#弊绰 急硅捞扁 傈俊 傍版阑 罐疽促.
+
+51820:他\在\车辆\往来\的\道路\中\穿梭\前进\.\
+#He weaved in and out through the traffic.
+#弊绰 瞒甸捞 空贰窍绰 档肺俊辑 菊栏肺 瘤唱艾促.
+
+51821:他\在\吃\早饭\时\匆匆\阅读\信\函\.\
+#He ran through his mail during breakfast.
+#弊绰 酒魔阑 冈阑 锭 官贿 祈瘤甫 佬菌促.
+
+51822:他\在\揣摩\着\他们\行为\反常\的\原因\.\
+#He was feeling after a reason for their unusual conduct.
+#弊绰 弊甸狼 青困啊 捞惑茄 盔牢阑 蝶廉焊绊 乐促.
+
+51823:他\在\船\上\工作\以\付\船\费\.\
+#He worked his passage by doing jobs on the ship.
+#弊绰 硅 困俊辑 老阑 秦辑 硅蔼阑 瘤阂沁促.
+
+51824:他\在\此\次\大选\中\竞选\总统\.\
+#He ran for President in the election.
+#弊绰 捞锅 措急俊辑 措烹飞栏肺 版急登菌促.
+
+51825:他\在\匆忙\之中\忘\了\穿\外衣\.\
+#In his haste,he forgot to put on his coat.
+#弊绰 官慧 客吝俊 寇捧甫 酪绢 滚啡促.
+
+51826:他\在\大选\中\落选\而\失去\职位\.\
+#He was unseated at the general election.
+#弊绰 措急俊辑 倡急登绢 流困甫 酪菌促.
+
+51827:他\在\当代\文坛\是\个\二\流\作家\.\
+#He is a minor talent in contemporary writing.
+#弊绰 寸措巩窜俊辑 捞幅累啊捞促.
+
+51828:他\在\等待\着\听\你的\意见\.\
+#He is waiting to hear your opinion.
+#弊绰 呈狼 狼斑 佃绰 巴阑 扁促府绊 乐促.
+
+51829:他\在\地毯\上\烧\了\一\个\洞\.\
+#He burned a hole in the rug.
+#弊绰 剧藕磊 困俊 备港窍唱甫 怕况陈促. 
+
+51830:他\在\第二次世界大战\中\失\明\.\
+#He was blinded in world war II.
+#弊绰 力 2瞒 技拌措傈俊辑 角疙沁促.
+
+51831:他\在\第\二\回\合\中\被\击\倒\.\
+#He was knocked out in the second round.
+#弊绰 2瞒俊辑 鸥拜寸沁促.
+
+51832:他\在\第\七\回\合\中\被\打倒\了\.\
+#He was laid out in the seventh round.
+#弊绰 7雀俊辑 嘎酒 静矾脸促.
+
+51833:他\在\动工\前\先\把\木头\量\了\一下\.\
+#He measured up the wood before he started.
+#弊绰 傍荤窍扁 傈俊 唱公配阜狼 公霸甫 犁菌促.
+
+51834:他\在\多变\的\一生\中\从\没\丧失\勇气\.\
+#Through all his changing fortunes,he never lost courage.
+#弊绰 函拳啊 腹疽带 老积悼救 侩扁甫 酪篮 利捞 绝促.
+
+51835:他\在\发烧\时\不停\地\胡言乱语\.\
+#During his fever he babbled without stopping.
+#弊绰 凯捞 朝 锭 谗烙绝捞 染汲 荐汲沁促.
+
+51836:他\在\繁重\工作\的\压力\之下\累\坏\了\.\
+#He broke under the strain of heavy work.
+#弊绰 老狼 拘仿捞 公芭况瘤磊 酒林 乔肺沁促.
+
+51837:他\在\房间\到处\找寻\遗失\的\文件\.\
+#He hunted the room for the missing papers.
+#弊绰 规狼 档贸俊辑 酪菌带 辑幅甫 茫疽促.
+
+51838:他\在\房子\里\暴跳如雷\,\乱\摔\东西\.\
+#He stormed about the house,breaking things.
+#弊绰 笼救俊辑 快汾客 鞍捞 朝顿哥 拱扒阑 带脸促.
+
+51839:他\在\房子\里\忙乱\了\一阵\.\
+#He bustled about the house.
+#弊绰 笼俊辑 酒林 官沪促.
+
+51840:他\在\服刑\中\,\他\在\坐牢\.\
+#He is in stir.
+#弊绰 荐皑登菌促.
+
+51841:他\在\服役\时\受\了\三\次\枪伤\.\
+#He was shot three times in the army.
+#弊绰 汗开且 锭 技 瞒肥狼 醚惑阑 涝菌促.
+
+51842:他\在\复印\机\上\复制\了\一\百\份\.\
+#He ran off a hundred copies on the duplicating machine.
+#弊绰 汗荤扁肺 归厘阑 汗荤沁促.
+
+51843:他\在\父亲\赴\亚洲\的\那\一天\出生\.\
+#He was born the day his father left for Asia.
+#弊绰 酒滚瘤啊 酒矫酒肺 啊带 弊朝 怕绢车促.
+
+51844:他\在\该\电影\中\未\演\主角\.\
+#He didn't feature in that movie.
+#弊绰 捞 康拳俊辑 林牢傍栏肺 免楷窍瘤 臼疽促.
+
+51845:他\在\各\道\门上\都\装\了\新\锁\.\
+#He put new locks on the doors.
+#弊绰 阿阿 巩俊促 货 凯艰甫 盲奎促.
+
+51846:他\在\功课\上\遇到\了\困难\.\
+#He's in difficulty with his schoolwork.
+#弊绰 傍何俊辑 绢妨框俊 何碟躯促.
+
+51847:他\在\公共汽车\站\送别\朋友\.\
+#He saw his friend off at the bus station.
+#弊绰 滚胶沥芭厘俊辑 模备甫 价喊沁促.
+
+51848:他\在\公司\的\外事\部\工作\.\
+#He works in the foreign division of the company.
+#弊绰 雀荤狼 惫力苞俊辑 老茄促.
+
+51849:他\在\公园\里\荡\了\一\整天\了\.\
+#He had been bumming around the park all day.
+#弊绰 傍盔俊辑 窍绰 老 绝捞 窍风甫 焊陈促.
+
+51850:他\在\股市\上\遭受\惨\重\的\损失\.\
+#He took a beating in the stock market.
+#弊绰 林侥矫厘俊辑 曼淬茄 颊秦甫 涝菌促.
+
+51851:他\在\拐角\地方\下\了\公共汽车\.\
+#He got off the bus at the corner.
+#弊绰 内呈俊辑 滚胶俊辑 郴啡促.
+
+51852:他\在\灌木\丛\中\爬\着\到处\找\球\.\
+#He scrabbled about in the bush for the ball.
+#弊绰 包格捞 公己茄 镑俊辑 档贸甫 第廉 傍阑 茫疽促.
+
+51853:他\在\国外\的\名气\比\国内\大\.\
+#He is better known abroad than at home.
+#弊绰 惫寇俊辑狼 疙己捞 惫郴焊促 农促.
+
+51854:他\在\过\马路\前\犹豫\了\一下\.\
+#He hesitated before crossing the road.
+#弊绰 档肺甫 扒呈扁 傈俊 距埃 噶汲看促.
+
+51855:他\在\过去\的\记录\中\找寻\资料\.\
+#He is raking through old records for information.
+#弊绰 苞芭狼 扁废俊辑 磊丰甫 茫疽促.
+
+51856:他\在\壕沟\内\一直\坐\到\炮轰\停止\.\
+#He sat out the bombardment in the trench.
+#弊绰 器拜捞 肛免锭鳖瘤 档尔俊 临梆 旧酒 乐菌促.
+
+51857:他\在\黑暗\的\地窖\中\把头\撞\在\墙\上\.\
+#He hit his head against the wall in the dark cellar.
+#弊绰 绢滴款 顶奔俊辑 赣府甫 寒俊 何碟躯促.
+
+51858:他\在\黑暗\之中\看\得\很\不\清楚\.\
+#He saw badly in the dark.
+#弊绰 绢狄加俊辑 沥犬窍霸 杭 荐 绝菌促.
+
+51859:他\在\黑暗\中\勉强\能\辨\出\道路\.\
+#He was just able to discern the road in the dark.
+#弊绰 绢狄加俊辑 埃脚洒 辨阑 侥喊且 荐 乐菌促.
+
+51860:他\在\黑暗\中\摸索\着\走\到\门\囗\.\
+#He felt his way to the door in the dark.
+#弊绰 绢狄加俊辑 歹惦芭府哥 涝备鳖瘤 吧绢艾促.
+
+51861:他\在\黑暗\中\沿\墙壁\摸索\着\找\门\.\
+#He felt along the wall in the dark for the door.
+#弊绰 绢狄加俊辑 寒阑 蝶扼 歹惦芭府哥 巩阑 茫疽促.
+
+51862:他\在\黑暗\中\撞\着\了\一\只\碗\橱\.\
+#In the dark he ran up against a cupboard.
+#弊绰 绢狄加俊辑 蛮厘俊 何碟躯促.
+
+51863:他\在\花园\四周\筑\一道\篱笆\.\
+#He put a fence around the garden.
+#弊绰 拳盔林困俊 匡鸥府甫 闷促.
+
+51864:他\在\会议\上\总是\起\着\分裂\的\作用\.\
+#He is a divisive influence at meetings.
+#弊绰 雀狼俊辑 攫力唱 盒凯利牢 累侩阑 老栏挪促.
+
+51865:他\在\激情\驱使\下\犯\了\罪\.\
+#He committed the crime under the influence of a strong passion.
+#弊绰 拜沥俊 捞缠妨 了甫 瘤菌促.
+
+51866:他\在\技巧\方面\胜\过\所有\的\对手\.\
+#He has outdone all his rivals in skill.
+#弊绰 扁背俊辑 葛电 利荐甫 捞变 利捞 乐促.
+
+51867:他\在\寂寞\和\悲伤\中\度过\他的\余生\.\
+#He passed the remaining years of his life in loneliness and sorrow.
+#弊绰 利阜苞 厚局加俊辑 弊狼 咯积阑 焊陈促.
+
+51868:他\在\交易\方面\十分\精明\.\
+#He is smart in his dealings.
+#弊绰 背开规搁俊辑 概快 醚疙窍促.
+
+51869:他\在教\法语\有\在\学\希腊语\.\
+#He is teaching French and leaning Greek.
+#弊绰 阂绢甫 啊福摹绊 乐绊 锐而绢甫 啊福摹绊 乐促.
+
+51870:他\在\教师\的\对面\坐下\来\.\
+#He sat down opposite to the teacher.
+#弊绰 背荤狼 嘎篮祈俊 旧疽促.
+
+51871:他\在\街\对面\朝\我\吹\了\一\声\口\哨\.\
+#He whistled to me from the other side of the street.
+#弊绰 芭府 嘎篮 祈俊辑 唱俊霸 戎颇恩阑 茄锅 阂范促.
+
+51872:他\在\街\上\撞\上\了\公共汽车\.\
+#He banged into a bus in the street.
+#弊绰 芭府俊辑 滚胶俊 何碟躯促.
+
+51873:他\在\今天\的\赛\马\中\发\大\财\了\.\
+#He really cleaned up at the races today.
+#弊绰 坷疵狼 版付俊辑 都捣阑 国菌促.
+
+51874:他\在\近\距离\对\那\只\动物\射击\.\
+#He fired at the animal point-blank.
+#弊绰 芭府啊 啊鳖款 悼拱俊霸 荤拜沁促.
+
+51875:他\在\旧\书店\偶然\发现\了\这\本\书\.\
+#He happened on the book in a secondhand bookstore.
+#弊绰 坷贰等 辑痢俊辑 快楷洒 捞 氓阑 惯斑沁促.
+
+51876:他\在\距\那儿\不\远\的\地方\等\着\.\
+#He's waiting not far from there.
+#弊绰 弊镑俊辑 钢瘤 臼篮 镑俊辑 扁促府绊 乐促.
+
+51877:他\在\决定\以前\迟疑\了\一下\.\
+#He hesitated before deciding.
+#弊绰 搬沥窍扁 傈俊 噶汲看促.
+
+51878:他\在\考虑\摆\在\他\面前\的\那些\问题\.\
+#His mind ranged over the problems set before him.
+#弊绰 弊狼 搁傈俊 疵绢 初篮 巩力甸阑 绊刮吝捞促.
+
+51879:他\在\考试\开始\前\心情\十分\紧张\.\
+#He got into a state before the examination began.
+#弊绰 矫氰焊扁 傈俊 付澜捞 概快 变厘登菌促.
+
+51880:他\在\裤子\的\膝盖\上\磨\了\一\个\洞\.\
+#He rubbed a hole in the knees of his trousers.
+#弊绰 官瘤狼 公腑俊 备港捞 窍唱 积板促.
+
+51881:他\在\离婚\案\中\被\传讯\出庭\.\
+#He was cited in a divorce case.
+#弊绰 捞去救扒栏肺 过盔俊 家价登绢 免沥沁促.
+
+51882:他\在\离开\以前\把\珠宝\锁\藏\起来\.\
+#He locked up the jewel before going away.
+#弊绰 栋唱扁 傈俊 焊籍阑 凯艰肺 泪迸 见板促.
+
+51883:他\在\练习\打字\弹\钢琴\.\
+#He is practicing on the typewriter (the piano).
+#弊绰 鸥磊唱 乔酒畴甫 摹绰 巴阑 楷嚼吝捞促.
+
+51884:他\在\两\次\世界大战\中\都\打\过\仗\.\
+#He fought in both World Wars.
+#弊绰 2瞒 技拌措傈吝俊 轿款 利捞 乐促.
+
+51885:他\在\两\种\意见\之间\举棋不定\.\
+#He seesawed between two opinions.
+#弊绰 滴 俺狼 狼斑荤捞俊辑 搬沥窍瘤 给沁促.
+
+51886:他\在\淋浴\后\把\身体\擦\干\.\
+#He dried himself down after a shower.
+#弊绰 格垮 饶俊 个阑 篡酒 富啡促.
+
+51887:他\在\领事\馆\工作\已\整整\二\十\年\了\.\
+#He has rounded out twenty years in the consular service.
+#弊绰 康荤包俊辑 老茄 瘤 怖 20斥捞 登菌促.
+
+51888:他\在\炉火\前\伸直\了\身子\.\
+#He stretched himself out in front of the fire.
+#弊绰 阂菊俊辑 个阑 梆霸 桓菌促.
+
+51889:他\在\美国\文学\方面\造诣\很\深\.\
+#He is strong on American literature.
+#弊绰 固惫巩切 规搁俊 炼抗啊 表促.
+
+51890:他\在\美\乃\滋\上\滴\了\数\滴\油\.\
+#He trickled a few drops of oil into the mayonnaise.
+#弊绰 付夸匙令俊 扁抚阑 割 规匡 冻绢哆啡促.
+
+51891:他\在\面谈\中\说\了\不\恰当\的\话\.\
+#At the in terview he made an unfortunate remark.
+#弊绰 搁淬俊辑 阂钦寸茄 富阑 沁促.
+
+51892:他\在\摸索\着\找\电灯\开关\.\
+#He was feeling about for the light switch.
+#弊绰 傈殿 胶困摹 茫酒 歹惦芭府绊 乐菌促.
+
+51893:他\在\那\对\你\来说\是\幸运\的\.\
+#It was fortunate for you that he was there.
+#弊啊 芭扁俊 乐菌带 巴篮 呈俊霸 乐绢 青款捞促.
+
+51894:他\在\那\笔\交易\上\投\下\多少\赌注\?\
+#How much did he staked down on that deal?
+#弊绰 弊 公开 芭贰俊辑 捣阑 倔付唱 撤霸 捧磊沁嚼聪鳖?
+
+51895:他\在\那边\的\商店\买\了\它\.\
+#He bought it at the store over there.
+#弊绰 弊 率狼 惑痢俊辑 弊巴阑 或促.
+
+51896:他\在\那\堆\文件\里\翻\找\着\.\
+#He was rooting about among the piles of papers .
+#弊绰 弊 辑幅 苟摹加俊辑 第廉辑 茫绊 乐绰 吝捞促.
+
+51897:他\在\那个\区\里\当\牙\医生\.\
+#He has set up as a dentist in that district.
+#弊绰 弊 瘤开俊辑 摹苞狼荤啊 登菌促.
+
+51898:他\在\那个\问题\上\搞\错\了\.\
+#He slipped up over that problem.
+#弊绰 弊 巩力俊辑 撇啡促.
+
+51899:他\在\那个\意外\事故\中\受\了\重伤\.\
+#He was badly hurt in the accident.
+#弊绰 弊 捞寇狼 荤绊俊辑 吝惑阑 涝菌促.
+
+51900:他\在\那里\暗自\思\忖\着\倒霉\的\命运\.\
+#He was brooding over his bad luck.
+#弊绰 弊 镑俊辑 唱慧 款疙阑 加栏肺 积阿窍绊 乐促.
+
+51901:他\在\那里\一连\坐\了\几\个\小时\.\
+#He sat there for hours on end.
+#弊绰 弊 镑俊辑 临梆 割 矫埃 悼救 旧酒乐菌促.
+
+51902:他\在\脑\中\衡量\这些\想法\.\
+#He weighed the ideas in his mind.
+#弊绰 赣府 加栏肺 捞矾茄 积阿甸阑 蝶廉 焊疽促.
+
+51903:他\在\钮\孔\里\插\了\一\朵\花\.\
+#He stuck a flower in his buttonhole.
+#弊绰 窜眠 备港俊 茄 价捞 采阑 踩疽促.
+
+51904:他\在\纽约\上\船\前往\欧洲\.\
+#He took ship at New York for Europe.
+#弊绰 春垮俊辑 蜡反鳖瘤 硅甫 鸥绊 艾促.
+
+51905:他\在\农村\度过\了\快乐\的\童年\.\
+#He had a happy childhood in the country.
+#弊绰 丑锰俊辑 榴芭款 蜡斥矫例阑 焊陈促. 
+
+51906:他\在\努力\提高\自己的\英语\水平\.\
+#He is trying hard to pull up his English.
+#弊绰 磊脚狼 康绢 荐霖阑 臭捞妨绊 畴仿 吝捞促.
+
+51907:他\在\盘子\里\堆\满\吃\的\东西\.\
+#He heaped food on the plate.
+#弊绰 立矫俊 冈阑 巴阑 啊垫 淬疽促.
+
+51908:他\在\乒乓球\联\赛\中\取得\了\第\一\名\.\
+#He made off with the first prize in the table tennis tournament.
+#弊绰 殴备 府弊傈俊辑 老殿阑 沁促.
+
+51909:他\在\瓶子\上\贴\了\表示\有\毒\的\标签\.\
+#He labeled the bottle poisonous.
+#弊绰 捍俊 刀捞 钎矫等 迭瘤甫 嘿看促.
+
+51910:他\在\其他\人\后面\慢吞吞\地\行进\.\
+#He dragged behind the others.
+#弊绰 促弗 荤恩 第俊辑 玫玫洒 柳青沁促.
+
+51911:他\在\企图\逃\离\这个\国家\时\被\捕获\.\
+#He was captured trying to escape from the country.
+#弊绰 捞 惫啊甫 栋唱 档噶啊妨绊 矫档沁阑 锭 棱躯促.
+
+51912:他\在\墙\上\钉\一\枚\平头\钉\用\来\挂\画\.\
+#He hammered a tack into the wall to hang a picture.
+#弊绰 寒俊 弊覆阑 吧 给阑 冠疽促.
+
+51913:他\在\墙\上\贴\什么\东西\?\
+#What is he pasting up on the wall?
+#弊绰 寒俊 绢恫 拱扒阑 嘿看聪?
+
+51914:他\在\强大\的\压力\之下\签署\了\协议\.\
+#He was steamrollered into signing the agreement.
+#弊绰 碍茄 拘仿栏肺 蛆狼俊 辑疙沁促.
+
+51915:他\在\人群\中\认出\了\他的\妹妹\.\
+#He picked out his sister in the crowd.
+#弊绰 牢颇 加俊辑 弊狼 咯悼积阑 舅酒好促.
+
+51916:他\在\人群\中\找到\他的\朋友\.\
+#He sought out his friend in the crowd.
+#弊绰 焙吝 加俊辑 弊狼 模备甫 茫疽促.
+
+51917:他\在\任何\方面\都\愿意\帮助\你\.\
+#He is willing to help you in anyway.
+#弊绰 绢恫 规搁捞电 澄 到扁甫 盔茄促.
+
+51918:他\在\沙\拉\中\拌\上油\和\醋\.\
+#He dressed the salad with oil and vinegar.
+#弊绰 荤扼促俊 扁抚苞 檬甫 集菌促.
+
+51919:他\在\上海\游览\了\两个\星期\.\
+#He spent two weeks in Shanghai,looking about two weeks in Shanghai,looking about the city.
+#弊绰 惑秦俊辑 2林 悼救 蜡恩沁促.
+
+51920:他\在\设法\争取\大众\的\支持\.\
+#He was bidding for popular support.
+#弊绰 措氓阑 碍备窍绰单 措吝狼 瘤瘤甫 里秒沁促.
+
+51921:他\在\深\雪\之中\跋涉\了\二\十\哩\.\
+#He trudged 20 miles through the deep snow.
+#弊绰 腹篮 传俊档 20府甫 吧绢艾促. 
+
+51922:他\在\生气\之下\脱\囗\说\出\了\秘密\.\
+#In his anger he blurted out the secret.
+#弊绰 拳啊 唱辑 涝阑 凯绊 厚剐阑 富秦 滚啡促.
+
+51923:他\在\事故\中\失去\了\一\只\眼睛\.\
+#He lost an eye in the accident.
+#弊绰 荤绊肺 茄率 传阑 惑角沁促.
+
+51924:他\在\事故\中\双\腿\丧失\了\功能\.\
+#He lost the use of both legs in the accident.
+#弊绰 荤绊肺 剧率促府狼 扁瓷阑 惑角沁促.
+
+51925:他\在\书本\上\不\想\花\那么\多\钱\.\
+#He hesitated to spend so much money on books.
+#弊绰 氓俊 弊犯霸 腹篮 捣阑 静绊 酵瘤 臼疽促.
+
+51926:他\在\数学\方面\超过\他的\同学\们\.\
+#He towers above his classmates in mathematics.
+#弊绰 荐切俊辑 弊狼 模备甸焊促 肋沁促.
+
+51927:他\在\他\父亲\之后\进入\房间\.\
+#He entered the room after his father.
+#弊绰 弊狼 酒滚瘤 第俊辑 规栏肺 甸绢艾促.
+
+51928:他\在\她\下\公共汽车\时\看到\了\她\.\
+#He saw her as she was getting off the bus.
+#弊绰 弊赤啊 滚胶俊辑 郴副 锭 弊赤甫 焊疽促.
+
+51929:他\在\踢\足球\时\扯\断\了\韧带\.\
+#He tore a ligament playing football.
+#弊绰 绵备甫 且 锭 牢措啊 谗绢脸促.
+
+51930:他\在\天国\,\她\希\追随\他\到\那\
+#He was in heaven,whither she hoped to follow.
+#弊绰 玫惫俊 乐绊 弊赤绰 弊甫 蝶扼 弊镑俊 啊辨 锐噶沁促.
+
+51931:他\在\天\还\没\黑\时\回家\了\.\
+#He went home by daylight.
+#弊绰 朝捞 酒流 绢滴况瘤瘤 臼阑 锭 笼俊 倒酒吭促.
+
+51932:他\在\铁皮\罐头\上\敲\奏\出\曲子\来\.\
+#He beat out a tune on a tin can.
+#弊绰 兵烹 烹炼覆阑 滴靛妨 邦炼甫 楷林沁促.
+
+51933:他\在\听\冗长\的\演讲\时\打\起\瞌睡\来\.\
+#He dozed off during the long lecture.
+#弊绰 瘤风窍绊 厘炔茄 碍楷阑 甸阑 锭 操棍操棍 凉疽促.
+
+51934:他\在\同事\之间\名声\不\隹\.\
+#He is unpopular with his fellow workers.
+#弊绰 悼丰甸 荤捞俊辑 疙己捞 亮瘤 臼促.
+
+51935:他\在\透过\望远镜\看\东西\.\
+#He was looking something through a telescope.
+#弊绰 噶盔版阑 烹秦 荤拱阑 焊绊 乐促.
+
+51936:他\在外\套\的\面\穿\了\一\件\背心\.\
+#He was wearing a vest under his coat.
+#弊绰 寇捧俊 炼尝 窍唱甫 涝菌促.
+
+51937:他\在\我\困难\的\时候\帮助\了\我\.\
+#He helped me in my hour of need.
+#弊绰 郴啊 帮鄂且 锭 唱甫 档吭促.
+
+51938:他\在\我们\班\上\名\列\第\一\.\
+#He stands first in our class.
+#弊绰 快府馆俊辑 老殿阑 沁促.
+
+51939:他\在\西班牙\住\过\一\段\时期\.\
+#He lived for a time in Spain.
+#弊绰 胶其牢俊辑 茄 悼救阑 焊陈促.
+
+51940:他\在\下午\五\点\半\钟\签\退\.\
+#He signed off work at half past five p.m. .
+#弊绰 坷饶 5矫馆俊 硼辟 轿牢阑 沁促.
+
+51941:他\在\相\撞\的\事故\中\被\抛\出去\.\
+#He was shot out in the crash.
+#弊绰 面倒荤绊俊辑 屁败廉 唱吭促.
+
+51942:他\在\乡村\过\富裕\而\舒适\的\生活\.\
+#He lived a rich and comfortable life in the country.
+#弊绰 矫榜俊辑 何蜡窍绊 祈茄 积劝阑 焊陈促.
+
+51943:他\在\乡间\城镇\出生\并\长大\.\
+#He was born and raised in a country town.
+#弊绰 矫榜俊辑 怕绢唱 磊耳促.
+
+51944:他\在\乡间\拥有\广大\的\地产\.\
+#He has a large estate in the country.
+#弊绰 矫榜俊辑 堡措茄 配瘤甫 家蜡窍绊 乐促.
+
+51945:他\在\乡下\拥有\一\大块\地产\.\
+#He is in possession of a large estate in the country.
+#弊绰 矫榜俊辑 奴 顶阑 爱绊 乐促.
+
+51946:他\在\鞋\底\上\划\亮\了\一\根\火柴\.\
+#He scratched a match on the sole of his shoe.
+#弊绰 脚惯关栏肺 己成阑 弊绢 阂阑 嘿看促.
+
+51947:他\在\写\报告\前\把\笔记\重温\一遍\.\
+#He looked through his notes before writing the report.
+#弊绰 焊绊甫 静扁 傈俊 畴飘甫 促矫 焊疽促.
+
+51948:他\在\新\学校\中\感到\茫然不知\所\措\.\
+#He felt completely at sea in his new school.
+#弊绰 货 切背俊辑 绢骂且瘤 隔扼 阜阜沁促.
+
+51949:他\在\许多\清澈\的\溪流\中\沐浴\.\
+#He bathed in many a limpid stream.
+#弊绰 腹绊 柄昌茄 拌邦拱俊辑 格垮沁促.
+
+51950:他\在\选购\套\装\时\总是\细心\挑选\.\
+#He is always very selective when he chooses his suits.
+#弊绰 茄 国阑 混 锭 攫力唱 脚吝窍霸 绊弗促.
+
+51951:他\在\学\舞蹈\,\想\当\舞蹈\家\.\
+#He is learning to be a dancer.
+#弊绰 公侩阑 硅快绊 乐绰单 公侩啊啊 登绊 酵绢 茄促.
+
+51952:他\在\学习\上\花\的\时间\甚\少\.\
+#He spends very little time on his studies.
+#弊绰 切嚼俊 捧磊窍绰 矫埃捞 概快 利促.
+
+51953:他\在\演说\中\掺\了\一点\幽默\.\
+#He leavened his speech with humor.
+#弊绰 楷汲吝俊 距埃狼 蜡赣甫 集菌促.
+
+51954:他\在\宴会\周旋\于\客人\之间\.\
+#He circulated among the guests at the party.
+#弊绰 楷雀俊辑 颊丛甸 荤捞甫 干倒疽促.
+
+51955:他\在\宴会\上\的\作为\令人\深\为\遗憾\.\
+#His behaviour at the party was most regrettable.
+#弊狼 楷雀俊辑狼 青悼篮 荤恩甸俊霸 表篮 蜡皑阑 救败 林菌促.
+
+51956:他\在\业务\部门\工作\;\他\担任\销售\.\
+#He works in sales.
+#弊绰 角公何辑俊辑 老茄促. 弊绰 魄概甫 淬寸茄促.
+
+51957:他\在\业余\时间\努力\进修\德语\.\
+#In his spare time he did all he could to polish up his German.
+#弊绰 咯啊矫埃俊 凯缴洒 刀绢甫 楷荐沁促.
+
+51958:他\在\一次\车祸\中\碰\得\鼻\青眼\肿\.\
+#His face was bunged up in a car accident.
+#弊绰 茄锅狼 瞒荤绊俊辑 何碟囚 传苞 内啊 何菌促.
+
+51959:他\在\一\九\八\二\年\被\委任\为\牧师\.\
+#He was ordained in 1982.
+#弊绰 1982斥俊 格荤肺 困烙登菌促.
+
+51960:他\在\一\九\一\七\年\应召\入伍\.\
+#He was called up in 1917.
+#弊绰 1982斥俊 家笼俊 览窍咯 涝措沁促.
+
+51961:他\在\一\年\内\就\花\光\了\一\大笔\钱财\.\
+#He went through a fortune in a year.
+#弊绰 1斥 悼救 奴 捣阑 葛滴 朝啡促.
+
+51962:他\在\一生\中\会见\了\不少\的\名人\.\
+#He met many famous men in his time.
+#弊绰 老积悼救 腹篮 蜡疙牢阑 雀斑沁促.
+
+51963:他\在\一\所\很\好的\学校\里\受\过\教育\.\
+#He was educated at a very good school.
+#弊绰 酒林 亮篮 切背俊辑 背腊阑 罐篮 利捞 乐促.
+
+51964:他\在\一\张\纸\上\记\下\讲课\的\大纲\.\
+#He made notes for his lecture on a scrap of paper.
+#弊绰 辆捞 茄 厘俊 荐诀茄 郴侩阑 扁废沁促.
+
+51965:他\在\衣袋\里\摸\,\要\找\票子\.\
+#He groped in his pocket for his ticket.
+#弊绰 钎甫 茫栏妨绊 渴林赣聪甫 第脸促.
+
+51966:他\在\遗嘱\中\列入\了\她的\名字\.\
+#He remembered her in his will.
+#弊绰 蜡攫俊 弊赤狼 捞抚阑 持菌促.
+
+51967:他\在\椅子\不\舒服\地动\来\动\去\.\
+#He shifted uncomfortably in his chair.
+#弊绰 狼磊俊辑 阂祈窍霸 捞府历府 框流看促.
+
+51968:他\在\椅子\里\舒服\地\坐下\.\
+#He settled himself in his chair.
+#弊绰 狼磊俊 祈窍霸 旧疽促.
+
+51969:他\在意\外\事件\中\差\一点\受伤\.\
+#He narrowly escaped being hurt in the accident.
+#弊绰 捞寇狼 荤扒俊辑 窍付磐搁 促磨环沁促.
+
+51970:他\在\银行\里\有\一\份\好\差事\.\
+#He has a good job in a bank.
+#弊绰 篮青俊辑 亮篮 老阑 茄促.
+
+51971:他\在\硬\椅子\上\不\舒服\地\扭\来\扭\去\.\
+#He wriggled uncomfortably on the hard chair.
+#弊绰 迭迭茄 狼磊俊辑 阂祈窍霸 个阑 捞府历府 厚厚部疽促.
+
+51972:他\在\用功\读书\以便\能够\通过\考试\.\
+#He is working hard so that he may pass the examination.
+#弊绰 凯缴洒 傍何窍搁 矫氰俊 烹苞且 荐 乐阑 巴捞促.
+
+51973:他\在\邮筒\旁\停\下\,\把\信\投\了\进去\.\
+#He stopped at the pillar-box and dropped the letter in.
+#弊绰 快眉烹 糠俊 辑辑 祈瘤甫 笼绢 持促.
+
+51974:他\在\圆\山\大\饭店\住\了\三\天\.\
+#He checked into the Grand Hotel for a three-day stay.
+#弊绰 盔魂龋炮俊辑 伙老阑 宫菌促.
+
+51975:他\在\远洋\定期\轮船\上当\厨师\.\
+#He shipped as cook aboard an ocean liner.
+#弊绰 盔剧沥扁 绢急俊辑 林规厘捞 登菌促.
+
+51976:他\在\找寻\可以\当\桌子\用\的\东西\.\
+#He was seeking after something to serve as a table.
+#弊绰 氓惑困俊辑 镜父茄 巴阑 茫绊乐菌促.
+
+51977:他\在\这个\城市\不\认识\任何人\.\
+#He did not know anybody in the town.
+#弊绰 捞 档矫俊辑 绢恫 荤恩档 舅瘤 给茄促.
+
+51978:他\在\这\件\事\上\花\了\不少\时间\.\
+#He's taking rather a long time over it.
+#弊绰 捞 老肺 腹篮 矫埃阑 扯厚沁促.
+
+51979:他\在\整\幢\房子\里\到处\寻找\他的\书\.\
+#He went through the whole house hunting for his books.
+#弊绰 柯 笼救 档贸俊辑 弊狼 氓阑 茫酒 第脸促.
+
+51980:他\在\证人\席\上\受到\痛苦\的\折磨\.\
+#He was rather severely handled in the witness box.
+#弊绰 刘牢籍惑俊辑 塞电 矫崔覆阑 罐疽促.
+
+51981:他\在\终点\线\领先\第\二\名\赛\车\三\圈\.\
+#He had a lead of three laps over the secondplace car at the finish.
+#弊绰 辆痢急俊辑 2困瞒甫 菊辑 3官柠甫 倒疽促.
+
+51982:他\在\众目睽睽\之下\做\了\那\件\事\.\
+#He did it in full view of the public.
+#弊绰 腹篮 荤恩甸菊俊辑 弊 老阑 沁促.
+
+51983:他\在\众望所归\的\情况\下\乘胜\前进\.\
+#He rode on the wave of popularity.
+#弊绰 咯矾荤恩甸狼 扁措加俊辑 铰技甫 鸥绊 傈柳沁促.
+
+51984:他\在\桌\上\摊开\一\幅\地图\.\
+#He opened out a map on the table.
+#弊绰 氓惑困俊 瘤档甫 祁闷促.
+
+51985:他\在\桌子\的\抽屉\找到\那\笔\钱\.\
+#He found the money in his desk.
+#弊绰 氓惑狼 辑而俊辑 弊 捣阑 茫疽促.
+
+51986:他\在\着手\创办\新\的\企业\.\
+#He is launched on a new enterprise.
+#弊绰 货 扁诀狼 芒诀阑 馒荐窍绰 吝捞促.
+
+51987:他\在\自己\本国\澳大利亚\从不\知名\.\
+#He was never popular in his native Australia.
+#弊绰 磊脚狼 绊惫牢 坷胶飘饭老府酒俊辑绰 捞抚捞 舅妨瘤瘤 臼疽促.
+
+51988:他\在\走廊\上\烦躁\不安\地\走\来\走\去\.\
+#He fluttered back and forth in the corridor.
+#弊绰 汗档俊辑 炼官缴唱霸 吭促艾促 沁促.
+
+51989:他\在\最后\时刻\退出\了\这\项\计划\.\
+#He cried off the project at the last moment.
+#弊绰 弥饶俊 捞 拌裙俊辑 硼免灯促.
+
+51990:他\在\最近\十\年间\丝毫\没有\改变\.\
+#He hasn't changed a hair in the last ten years.
+#弊绰 弥辟 10斥 悼救 炼陛档 函拳啊 绝菌促.
+
+51991:他\在\作出\决定\前\犹豫\不\决\.\
+#He wavered before deciding.
+#弊绰 搬沥阑 窍扁 傈俊 噶汲看促.
+
+51992:他\在\囗\袋\中\搜寻\打火机\.\
+#He fumbled in his pocket for his lighter.
+#弊绰 林赣聪俊辑 扼捞磐甫 第廉 茫疽促.
+
+51993:他\在\炫耀\他\那\一\簇\胡子\.\
+#He was sporting a moustache.
+#弊绰 弊狼 荐堪阑 凰陈促.
+
+51994:他\暂时\搁下\手\头\的\工作\.\
+#He put his work aside for a time.
+#弊绰 泪矫 荐吝狼 老阑 肛眠菌促.
+
+51995:他\早年\即\展露\出\音乐\的\才能\.\
+#He early showed a talent for music.
+#弊绰 俐篮 矫例 澜厩狼 犁瓷阑 焊看促.
+
+51996:他\责备\我\没\让\他\事先\知道\那\件\事\.\
+#He reproached me for not having let him know about it.
+#弊绰 郴啊 弊俊霸 刚历 弊 老阑 舅瘤给窍霸 茄 巴俊 措秦 氓噶沁促.
+
+51997:他\怎么\试\也\无法\使\马达\转动\起来\.\
+#Try as he would ,he couldn't kick the motor over.
+#弊绰 绢痘霸 秦档 葛磐甫 倒副 规过捞 绝菌促.
+
+51998:他\曾\告诉\过\我\他\不\认识\那个\人\.\
+#He told me he had not known the man.
+#弊绰 弊啊 弊 荤恩阑 葛弗促绊 唱俊霸 老嘛捞 舅妨霖 利捞 乐促.
+
+51999:他\曾\认识\到\他\犯\了\错误\.\
+#He saw that he had made a mistake.
+#弊啊 馒坷甫 裹沁澜阑 老嘛捞 柄崔疽促.
+
+52000:他\曾\提醒\他们\午夜\后\没有\火车\.\
+#He reminded them that there were no trains after midnight.
+#弊绰 茄广吝 捞饶俊 扁瞒啊 绝促绊 弊甸俊霸 老嘛捞 老柄况 林菌促.
+
+52001:他\曾\一度\和\他的\叔\父\闹翻\.\
+#He once fell out with his uncle.
+#弊绰 弊狼 槛何客 茄 瞒肥 促捧菌促.
+
+52002:他\曾\有\过\酒醉\驾\车\的\前科\.\
+#He has had a conviction for drunken driving.
+#弊绰 老骂扁 贱俊 秒秦 瞒甫 款傈茄 傈苞啊 乐促.
+
+52003:他\展现\了\非同小可\的\本事\.\
+#He showed no small skill.
+#弊绰 抗荤酚瘤 臼篮 瓷仿阑 焊看促.
+
+52004:他\战时\赢得\了\乔\治\十字\勋章\.\
+#He won the George Cross during the war.
+#弊绰 傈里矫俊 炼瘤 绞磊绕厘阑 罐疽促.
+
+52005:他\站\得\远远\地\,\没有\来\帮助\我们\.\
+#He stood aloof and did not give us a hand.
+#弊绰 钢府辑 辑辑, 快府甫 档快矾 坷瘤 臼疽促.
+
+52006:他\站\在\F\r\a\s\e\r\那\一\方\.\
+#He is on Fraser's side.
+#弊绰 橇饭历率俊 辑 乐促.
+
+52007:他\站\在\那\,\凝视\着\述\幅\画\.\
+#He stood there with his eyes fixed on the picture.
+#弊绰 弊率俊 辑辑 捞 弊覆阑 览矫沁促.
+
+52008:他\站\在\悬崖\顶\上\眺望\大海\.\
+#He stood on the clifftop looking out to sea.
+#弊绰 例寒 怖措扁俊辑 措秦甫 炼噶沁促.
+
+52009:他\站\在\一\条\陌生\的\街道\上\.\
+#He stood in a strange street.
+#弊绰 掣急 芭府俊 辑 乐促.
+
+52010:他\张\着\囗\一\土\包子\的\样子\.\
+#His mouth was agape in yokel fashion.
+#弊绰 柳户阑 冈栏妨绰 葛嚼栏肺 涝阑 国啡促.
+
+52011:他\招手\要\服务\生\拿\账\单\给\他\.\
+#He beckoned the waiter for their bill.
+#弊绰 颊阑 如甸绢 辆诀盔俊霸 康荐刘阑 弊俊霸 林扼绊 沁促.
+
+52012:他\找到\盖\小\屋\用\的\平坦\地点\.\
+#He found a level site to build the cabin.
+#弊绰 累篮 笼阑 瘤阑 乞藕茄 瘤痢阑 茫疽促.
+
+52013:他\找到\了\适当\的\栖身\处所\.\
+#He found a niche for himself.
+#弊绰 利寸洒 个阑 啊副 镑阑 茫疽促.
+
+52014:他\找\一\本\丢失\的\书\,\终于\找到\了\.\
+#He hunted for a lost book and finally found it.
+#弊绰 酪绢 滚啡带 氓阑 茫酒 搬惫 茫疽促.
+
+52015:他\照料\孩子们\上\床\睡觉\.\
+#He put the children to bed.
+#弊绰 酒捞甸捞 魔措俊辑 磊档废 倒焊疽促.
+
+52016:他\照\习惯\很\早\就\上\床\了\.\
+#He went to bed early,as was his wont.
+#弊绰 嚼包俊 蝶扼 老嘛 冷促.
+
+52017:他\折回\到\他\出发\的\地方\.\
+#He retraced his steps back to where he had started from.
+#弊绰 弊啊 免惯沁带 镑栏肺 登倒酒艾促.
+
+52018:他\这个\派系\脱离\了\该\党\.\
+#His faction split off from the party.
+#弊绰 捞 颇萍俊辑 捞 寸阑 栋车促.
+
+52019:他\这个\人\挺\和善\,\很\爱\讲话\.\
+#He's a friendly chatty sort of person.
+#弊 捞 荤恩篮 概快 馒窍绊 富窍扁甫 亮酒茄促.
+
+52020:他\这么\懒\,\真\难以\评估\他的\能力\.\
+#He's so lazy that it's difficult to assess his ability.
+#弊绰 捞犯霸 霸阑矾辑 沥富 弊狼 瓷仿阑 魄啊抚窍扁 绢菲促,
+
+52021:他\这\三\十\年\来\一直\在\研究\考古学\.\
+#He has been studying archeology these thirty years.
+#弊绰 30斥悼救 临梆 绊绊切阑 楷备沁促.
+
+52022:他\这样\说\,\真是\厚颜无耻\.\
+#It is impudent of him to say so.= He is impudent to say so.
+#弊啊 捞犯霸 富窍聪 沥富 堪摹绝促.
+
+52023:他\这样\议论\女王\真是\为人\所\不齿\!\
+#It was contemptible of him to speak like that about the queen!
+#弊啊 捞犯霸 咯空阑 厚乞窍聪 沥富 荤恩甸捞 戈矫甫 罐绰备唱!
+
+52024:他\真\不错\,\把\事情\弄\得\一团糟\.\
+#He managed to make a mess of it.
+#弊绰 沥富 宝满促. 老阑 茄瞒肥 历龙范促.
+
+52025:他\真的\说\过\那样\的\话\吗\?\
+#Did he really say that?
+#弊绰 沥富 捞繁 富阑 茄 利捞 乐嚼聪鳖?
+
+52026:他\真是\笨\得\令人\难以\置\信\.\
+#It is unbelievable how stupid he is.
+#弊绰 沥富 港没秦辑 荤恩甸狼 脚烙阑 掘扁 绢菲促.
+
+52027:他\真\想不到\发现\房间\打扫\了\.\
+#He was surprised to find his room cleaned.
+#弊绰 规捞 没家等 吧 惯斑且 临篮 积阿摹档 给沁促.
+
+52028:他\真\有点\吃亏\,\得\干\两个\人\的\活\.\
+#It's a bit rough on him,having to do two people's work.
+#弊绰 沥富 粱 颊秦甫 夯促. 滴 荤恩狼 老阑 秦具 茄促.
+
+52029:他\振作\精神\准备\全力以赴\.\
+#He braced every nerve for a supreme effort.
+#弊绰 沥脚阑 柳累窍绊 菊栏肺 傈仿龙林阑 霖厚沁促.
+
+52030:他\整个\假期\过\得\很\愉快\.\
+#He enjoyed every minute of the holiday.
+#弊绰 柯 绒啊扁埃 悼救 概快 榴疤霸 瘤陈促.
+
+52031:他\整理\好\故事\的\线索\,\开始\写作\.\
+#Gathering up the thread of his story,he set about writing.
+#弊绰 老狼 窜辑甫 沥府窍绊 累巩阑 矫累沁促.
+
+52032:他\整天\把\自己\关闭\在\书房\中\.\
+#He shuts himself in his study all day long.
+#弊绰 窍风辆老 磊脚阑 辑痢俊 啊滴菌促.
+
+52033:他\整天\除了\沈\思\外\没\做\任何\事\.\
+#All day he did nothing but contemplate.
+#弊绰 窍风辆老 表捞 积阿窍绰 巴 寇俊 绢恫 老档 窍瘤 臼疽促.
+
+52034:他\整天\在\思路\该\采取\的\步骤\.\
+#He spent the day pondering the steps to be taken.
+#弊绰 窍风辆老 荤绊狼 规氢俊辑 鉴辑甫 秒秦具父 茄促.
+
+52035:他\正\扮演\哈\姆\雷\特\的\角色\.\
+#He is acting Hamlet.
+#弊绰 擒复狼 开且阑 盒厘吝捞促.
+
+52036:他\正\从\苏\格\兰\出发\南下\伦敦\.\
+#He's travelling down to London from Scotland.
+#弊绰 胶内撇罚靛俊辑 免惯秦辑 繁带栏肺 啊绊 乐促.
+
+52037:他\正\积极\锻炼\使\身体\健康\.\
+#He's taking lots of exercise to get into shape.
+#弊绰 利必利栏肺 个阑 扒碍窍霸 窍扁 困秦 楷付吝捞促.
+
+52038:他\正\忙于\移植\一些\卷心菜\秧\.\
+#He is busy pricking out some cabbage seedlings.
+#弊绰 距埃狼 剧硅眠甫 捞侥窍蠢扼 官悔促.
+
+52039:他\正\为\考试\临时\抱佛脚\.\
+#He was boning up for an examination.
+#弊绰 矫氰俊 烙冠秦辑具 傍何俊 颇绊 电促.
+
+52040:他\正在\把\菊花\枝条\插\种\在\盆\里\.\
+#He is potting up chrysanthemum cuttings.
+#弊绰 惫拳 啊瘤甫 拳盒俊 踩绊 乐促.
+
+52041:他\正在\读\昨天\买\的\那\本\书\.\
+#He is reading the book that he bought yesterday.
+#弊绰 绢力 魂 弊 氓阑 佬绊 乐促.
+
+52042:他\正在\海滩\上\懒\懒\散\散\地\闲荡\.\
+#He is lolling about the beach.
+#弊绰 秦函俊辑 茄啊酚霸 蜡蜡磊利 后嫡芭府绊 乐促.
+
+52043:他\正在\看\着\我\修理\机器\.\
+#He is watching me repair the machine.
+#弊绰 郴啊 扁拌 荐府窍绰 巴阑 焊绊 乐促.
+
+52044:他\正在\抹\掉\桌\上\的\灰尘\.\
+#He is dusting off the tables.
+#弊绰 氓惑 困狼 刚瘤甫 篡绊 乐促.
+
+52045:他\正在\努力\扩展\自己的\事业\.\
+#He was trying to expand his business.
+#弊绰 磊脚狼 荤诀阑 犬厘窍妨绊 畴仿窍绊 乐促.
+
+52046:他\正在\努力\想\办法\解决\这个\问题\.\
+#He's trying to figure out a way to solve the problem.
+#弊绰 捞 巩力甫 秦搬且 规过阑 茫蠢扼 畴仿窍绊 乐促.
+
+52047:他\正在\陪\一\批\访问\者\参观\.\
+#He's showing around a party of visitors.
+#弊绰 茄 公府狼 包堡按阑 单府绊 曼包窍绊 乐促.
+
+52048:他\正在\收\听\北京\广播电台\的\广播\.\
+#He is listening in to Radio Beijing.
+# 弊绰 合版 规价惫狼 堡绊甫 佃绊 乐促.
+
+52049:他\正在\死\记\历史\以\应付\考试\.\
+#He's mugging up history for the exam.
+#弊绰 矫氰俊 措厚俊 开荤甫 烹掳肺 寇快绊 乐促.
+
+52050:他\正在\图书馆\里\找\参考书\.\
+#He is raking around in the library for some reference books.
+#弊绰 档辑包俊辑 曼绊辑甫 茫绊 乐促.
+
+52051:他\正在\玩弄\你的\照相机\.\
+#He's meddling with your camera.
+#弊绰 呈狼 荤柳扁甫 促风绊 乐促.
+
+52052:他\正在\温习\数学\,\准备\考试\.\
+#He is getting up his maths for the exam.
+#弊绰 矫氰阑 霖厚秦 荐切阑 馆汗 切嚼窍绊 乐促.
+
+#52053:他\正在\寻找\他的\自来水\笔\.\
+#He is rooting about for his fountain pen.
+#弊绰 弊狼 父斥鞘阑 茫绊 乐促.
+
+52054:他\正在\整理\一\批\笔记\准备\出版\.\
+#He is shaping up a set of notes for publication.
+#弊绰 免魄阑 措厚秦 畴飘甫 沥府窍绊 乐促.
+
+52055:他\正\准备\动手\写\新\的\一\章\.\
+#He is squaring away to write a new chapter.
+#弊绰 货 老 厘阑 静扁 矫累且 霖厚窍绊 乐促.
+
+52056:他\正\喋喋不休\地\讲\他\同学\们\的\事\.\
+#He was yammering about his classmates.
+#弊绰 弊狼 模备狼 老阑 蒋货绝捞 栋甸绊 乐促.
+
+52057:他\证实\了\自己\是\个\有趣\的\伙伴\.\
+#He proved himself to be an amusing companion.
+#弊绰 磊脚篮 犁固乐绰 模备扼绊 刘疙沁促.
+
+52058:他\证实\他\看到\了\那\次\抢劫\.\
+#He testified that he'd seen the robbery.
+#弊绰 弊啊 弊 碍呕阑 焊疽促绊 刘疙沁促.
+
+52059:他\支持\修建\水库\的\计划\.\
+#He sided with the plan to build a reservoir.
+#弊绰 拱芒绊甫 荐府窍绰 拌裙阑 瘤瘤沁促.
+
+52060:他\知道\那\件\事\会\很\感激\的\.\
+#He will be very grateful to know that.
+#弊绰 弊 老捞 概快 皑悼利老 巴阑 舅绊 乐促.
+
+52061:他\知道\如何\为\自己\免除\麻烦\.\
+#He knows how to save himself trouble.
+#弊绰 绢痘霸 秦具 磊脚捞 锅芭肺框阑 乔且 荐 乐绰瘤 舅绊 乐促.
+
+52062:他\知道\他\无法\改变\女儿\的\心意\.\
+#He perceived that he could not make his daughter change her mind.
+#弊绰 叠狼 付澜阑 函拳矫懦 规过捞 绝促绰 巴阑 舅绊 乐促.
+
+52063:他\知道\同志们\会\支持\他\干\到底\的\.\
+#He knew that his comrades will see him through.
+#弊绰 弊啊 场鳖瘤 窍绰 巴俊 悼瘤甸捞 瘤瘤且 巴阑 舅绊乐促.
+
+52064:他\知道\怎样\着手\修理\这\台\机器\.\
+#He knows how to go about repairing the machine.
+#弊绰 捞 扁拌甫 绢痘霸 荐府秦具 且瘤 舅绊 乐促.
+
+52065:他\知道\自己\在\同伴\中\的\评价\如何\.\
+#He knows how he stands with his fellows.
+#弊绰 磊脚捞 悼丰甸 荤捞俊辑 绢痘霸 乞啊登绰瘤 舅绊 乐促.
+
+52066:他\直到\凌晨\两\点钟\才\到家\.\
+#He didn't get home until two o'clock in the morning.
+#弊绰 货寒2矫啊 登辑具 笼俊 档馒沁促.
+
+52067:他\直到\去世\之\日\一直\很\幸福\.\
+#He was happy till the day of his death.
+#弊绰 磷绰 朝鳖瘤 临梆 青汗沁促.
+
+52068:他\直到\三\十\岁\才\开始\绘画\.\
+#It was not until he was thirty that he started to paint.
+#弊绰 30技啊 登辑具 厚肺家 弊覆阑 弊府扁 矫累沁促.
+
+52069:他\直瞪瞪\地\看\了\我\一\眼\.\
+#He gave me a level look.
+#弊绰 拱掺矾固 唱甫 官扼焊疽促.
+
+52070:他\直截了当\地\叫\我\快\走开\.\
+#He told me in no uncertain terms to go away.
+#弊绰 流立 唱俊霸 栋唱扼绊 家府闷促.
+
+52071:他\直\往前\跑\,\怎么\也\不敢\回头\看\.\
+#On and on he ran,never daring to look back.
+#弊绰 梆厘 菊栏肺 顿绢艾绊 皑洒 第倒酒焊瘤 臼疽促.
+
+52072:他\直言\无\隐\地\向\学生\提出\忠告\.\
+#He is free with his advice to his pupils.
+#弊绰 炼陛档 见辫 绝捞 切积甸俊霸 面绊 沁促.
+
+52073:他\执\着\于\自己\所\坚信\的\事\.\
+#He is obdurate in his convictions.
+#弊绰 磊脚捞 被霸 瓜菌带 老俊 笼馒窍绊 乐促.
+
+52074:他\指挥\那\座\新\桥梁\的\建造\工程\.\
+#He directed the building of the new bridge.
+#弊绰 弊 货 促府狼 扒绵傍荤甫 瘤戎沁促.
+
+52075:他\指头\上\的\伤口\最后\会\愈合\结疤\.\
+#The cut on his finger will eventually scar over.
+#弊狼 颊啊遏狼 惑贸绰 付瘤阜俊 蠕磐啊 酒拱巴捞促.
+
+52076:他\只不过\是\工会\的\一\个\喽\罗\罢了\.\
+#He is a mere tool of the labor union.
+#弊绰 窜瘤 畴悼炼钦狼 畴悼磊俊 阂苞窍促.
+
+52077:他\只不过\是\想\知道\事实\真相\.\
+#He merely wants to know the truth.
+#弊绰 窜瘤 荤角狼 柳惑阑 舅绊 酵篮 巴俊 阂苞窍促.
+
+52078:他\只\从\自己的\立场\看\这个\问题\.\
+#He looked at the problem only from his own angle.
+#弊绰 窜瘤 磊脚狼 涝厘俊辑 捞 巩力甫 焊疽促.
+
+52079:他\只\会\配\阿\斯\匹\灵\给\每\一\个人\.\
+#He just doses out aspirin to everybody.
+#弊绰 窜瘤 酒胶乔赴阑 阿 荤恩甸俊霸 唱床临巴捞促.
+
+52080:他\只\看\了\一下\,\又\垂\下\眼帘\了\.\
+#He looked but once,and vail'd eyes again.
+#弊绰 窜瘤 茄锅 焊歹聪 肚 传 皑绊 泪捞 甸菌促.
+
+52081:他\只\身\横越\整个\非洲\大陆\旅行\.\
+#He traversed alone the whole continent of Africa.
+#弊绰 窜瘤 圈肺 傈 酒橇府墨措氟 染窜咯青阑 沁促.
+
+52082:他\只是\个\发育\过\速\的\婴儿\.\
+#He's just an overgrown baby.
+#弊绰 窜瘤 苞加 惯腊茄 康酒捞促.
+
+52083:他\只是\个\名义\上\的\学者\.\
+#He is a scholar in name only.
+#弊绰 窜瘤 捞抚挥牢 切磊捞促.
+
+52084:他\只是\略微\谈到\该\话题\.\
+#He only glanced at the topic.
+#弊绰 窜瘤 捞 拳力甫 炼陛 捞具扁沁促.
+
+52085:他\只\提到\我\议论\的\要点\.\
+#He only adverted to the main points of my argument.
+#弊绰 窜瘤 郴啊 稠狼茄 夸痢阑 力扁沁促.
+
+52086:他\只有\这\一次\说\了\实话\.\
+#For once he was telling the truth.
+#弊绰 窜瘤 捞锅俊 荤角阑 富沁促.
+
+52087:他\致力于\解决\主要\困难\.\
+#He addressed himself to the main difficulty.
+#弊绰 林夸帮鄂茄 痢阑 秦搬窍绰单 林仿沁促.
+
+52088:他\中断\了\和\所有\老\朋友\的\往来\.\
+#He's dropped all his old friends.
+#弊绰 葛电 坷贰等 模备客狼 郴空阑 吝窜沁促.
+
+52089:他\终究\来\了\,\所以\你\赢\了\.\
+#He has come after all,so you win.
+#弊绰 搬惫 吭促.弊贰辑 匙啊 捞板促.
+
+52090:他\终日\无所事事\,\因而\一事\无成\.\
+#He spends so much time fooling around that he never accomplishes anything.
+#弊绰 辆老 酒公巴档 窍绰 老捞 绝促.弊贰辑 绢恫 老档 捞风瘤 给沁促.
+
+52091:他\终\有\一天\会\为\他\所\犯\的\罪\负责\.\
+#He will have to answer for his wrongdoing one day.
+#弊绰 搬惫 绢蠢朝 弊啊 历龙范带 了甫 氓烙瘤霸 瞪 巴捞促.
+
+52092:他\终于\决定\采取\合作\的\态度\.\
+#He decided to play along in the end.
+#弊绰 搬惫 钦过利牢 怕档甫 秒窍扁肺 搬沥沁促.
+
+52093:他\终于\实行\了\尽力\相\助\的\诺言\.\
+#Eventually he came through with his promise to help as best he could.
+#弊绰 搬惫 塞帛 辑肺 到扁肺 茄 攫距阑 角青沁促.
+
+52094:他\终于\转而\谈到\细节\问题\.\
+#At last he descended to particulars.
+#弊绰 搬惫 荤家茄 巩力肺 倒妨 捞具扁沁促
+
+52095:他\终\於\不\再\受\老师\的\折磨\.\
+#At last he was free of his teacher.
+#弊绰 搬惫 促矫绰 急积丛狼 操吝阑 罐瘤 臼疽促.
+
+52096:他\终\於\察觉\到\她\在\做\什么\.\
+#He finally tumbled to what she was doing.
+#弊绰 付魔郴 弊赤啊 公均阑 窍绊 乐绰瘤 包蔓沁促.
+
+52097:他\终\於\戒\掉\了\酗酒\的\习惯\.\
+#He managed to slough off his drinking habit.
+#弊绰 付魔郴 贱 付矫绰 嚼包阑 谗菌促.
+
+52098:他\终\於\克服\了\所有\那些\困难\.\
+#He succeeded in overcoming all those difficulties.
+#弊绰 付魔郴 弊矾茄 葛电 绢妨框阑 必汗沁促.
+
+52099:他\重新\得到\了\过去\的\那\份\工作\.\
+#He got his old job back.
+#弊绰 苞芭狼 弊 老阑 促矫 掘菌促.
+
+52100:他\重新\感受\到\生活\的\真实性\.\
+#He began to feel a realness in life again.
+#弊绰 积劝狼 柳角己阑 促矫 蠢布促.
+
+52101:他\皱\起\眉头\,\面\露\愠\色\.\
+#He screwed his face into a frown.
+#弊绰 传界阑 棵府绊 倔奔俊 拳抄 扁祸捞 开仿沁促.
+
+52102:他\逐渐\适应\了\这\项\工作\.\
+#He is gradually eased in to the word.
+#弊绰 痢痢 捞 老俊 利览窍霸 灯促.
+
+52103:他\住\的\公寓\小\得\象\个\窝\.\
+#His flat's a bit of a hole.
+#弊啊 混带 酒颇飘绰 奔鞍捞 累促.
+
+52104:他\住\在\海\格\特\区\附近\某\处\.\
+#He lives somewhere Highgate way.
+#弊绰 窍捞飘霸捞飘 何辟狼 绢恫 镑俊 混绊 乐促.
+
+52105:他\住\在\临街\的\那个\房间\里\,\
+#He lives in the room that looks on the street.
+#弊绰 芭府俊 辟立茄 弊 规俊 混绊 乐促.
+
+52106:他\住\在\那\楝\房子\的\第\一\层\.\
+#He lives in the firststory of that building.
+#弊绰 弊 扒拱狼 老摸俊 魂促.
+
+52107:他\住\在\什么地方\无人\知晓\.\
+#Where he lives is not known.
+#弊绰 绢恫 荤恩档 舅瘤 给窍绰 镑俊 魂促.
+
+52108:他\住\在\我们\马路\的\对面\.\
+#He lives across the road .
+#弊绰 快府 档肺狼 嘎篮祈俊 魂促.
+
+52109:他\住\在\学校\那边\的\第\五\家\.\
+#He lives five doors above the school.
+#弊绰 切背率狼 促几锅掳 笼俊 魂促.
+
+52110:他\住\在\一\个\远\离\噪音\的\安静\地方\.\
+#He lived in a quiet place free of noise.
+#弊绰 家澜苞 芭府啊 刚 炼侩茄 镑俊 混绊 乐促.
+
+52111:他\住\在\一\楝\装饰\华丽\的\房子\.\
+#He lives in a bravely decked house.
+#弊绰 厘侥捞 拳妨茄 笼俊 混绊 乐促.
+
+52112:他\注定\要\当\我们的\领袖\.\
+#He was preordained to be our leader.
+#弊绰 馆靛矫 快府甸狼 快滴赣府啊 登绢具 茄促.
+
+52113:他\注定\要\过\冒险\的\生活\.\
+#He was predestined to lead an adventurous life.
+#弊绰 葛氰利牢 积劝阑 馆靛矫 瘤郴具 茄促.
+
+52114:他\注定\要\在\艰辛\的\道路\上\跋涉\.\
+#He was destined to plod the path of toil.
+#弊绰 馆靛矫 塞电 档肺俊辑 吧绢啊具 茄促.
+
+52115:他\注定\再也\见\不到\他的\家乡\了\.\
+#He was never to see his home again.
+#弊绰 搬内 促矫绰 弊狼 绊氢阑 焊瘤 给沁促.
+
+52116:他\注意力\十分\集中\地\听\这个\故事\.\
+#He listened to the story with eager attention.
+#弊绰 林狼仿俊 概快 笼吝秦 捞 捞具扁甫 甸菌促.
+
+52117:他\抓\起\一\根\棍棒\向\四\下\乱\打\.\
+#He seized a stick and laid to in all directions.
+#弊绰 规噶捞甫 甸绢 荤规栏肺 绢瘤反霸 锭啡促.
+
+52118:他\抓\起\一\根\棍子\猛\揍\那\条\狗\.\
+#He grabbed a stick and sailed into the dog.
+#弊绰 阜措肺 弊 俺甫 荤吵霸 锭啡促.
+
+52119:他\抓住\那个\男孩子\的\衣领\.\
+#He held the boy by the collar.
+#弊绰 弊 巢磊酒捞狼 渴标阑 棱疽促.
+
+52120:他\抓住\一切\机会\练习\英语\会\话\.\
+#He clutches at every opportunity to practice English conversation.
+#弊绰 康绢雀拳甫 楷嚼且 葛电 扁雀甫 棱绰促.
+
+52121:他\专门\研究生\物\物理学\.\
+#He specializes in biophysics.
+#弊绰 积拱拱府切阑 傈巩利栏肺 楷备茄促
+
+52122:他\转\过\身\来\面对\那\位\侦探\.\
+#He swung round and faced the detective.
+#弊绰 弊 沤沥狼 嘎篮 祈栏肺 个阑 倒啡促.
+
+52123:他\转\开\螺丝\,\取下\门\锁\.\
+#He screwed the lock off the door.
+#弊绰 唱荤甫 倒妨 巩 凯艰甫 话促.
+
+52124:他\赚\的\钱\刚\够\我们\生活\.\
+#He earns just enough for us to live on.
+#弊啊 锅 捣篮 快府甸狼 积劝俊 面盒窍促.
+
+52125:他\赚\的\薪水\是\我的\两\倍\.\
+#He earns double my salary.
+#弊啊 锅 捣篮 郴 岿鞭狼 滴硅捞促.
+
+52126:他\装修\房屋\的\里面\和\外面\.\
+#He decorated his house within and without.
+#弊绰 笼狼 救苞 观阑 厘侥沁促.
+
+52127:他\追求\凯\蒂\已\有\两\年\多\了\.\
+#He has been courting Kate for more than two years.
+#弊啊 纳捞飘甫 蝶弗瘤 2斥咯啊 登菌促.
+
+52128:他\准备\用\英语\讲课\吗\?\
+#Is he going to lecture in English?
+#弊绰 康绢肺 荐诀阑 霖厚沁嚼聪鳖?
+
+52129:他\孜孜不倦\地\用功\读书\.\
+#He plodded away at his lessons.
+#弊绰 何瘤繁洒 凯缴洒 傍何沁促.
+
+52130:他\仔细\察看\钻石\有\无瑕\疵\.\
+#He scrutinized the diamond for flaws.
+#弊绰 焊籍俊 搬痢捞 绝绰瘤 磊技洒 混旗焊疽促.
+
+52131:他\仔细\思考\了\这个\问题\.\
+#He batted the subject around in his head.
+#弊绰 捞 巩力甫 磊技洒 积阿沁促.
+
+52132:他\仔细\搜索\着\天空\寻找\飞机\.\
+#He was scanning the sky for planes.
+#弊绰 厚青扁甫 茫酒 窍疵阑 磊技洒 混岂促.
+
+52133:他\自\1\9\6\0\年\以来\一直\担任\教师\.\
+#He has been a teacher since 1960.
+#弊绰 1960斥 捞贰肺 背荤肺 乐菌促.
+
+52134:他\自白\他\是\如何\做\那\事\的\.\
+#He confessed how he did it.
+#弊绰 弊啊 绢痘霸 弊 老阑 沁绰瘤 磊归沁促.
+
+52135:他\自告奋勇\要\帮\我\搬家\.\
+#He volunteered to help me move.
+#弊绰 郴啊 捞荤窍绰 巴阑 到摆促绊 磊惯利栏肺 唱脊促.
+
+52136:他\自觉\惭愧\而\改掉\恶习\.\
+#He was shamed out of his bad habits.
+#弊绰 胶胶肺 何掺反促绊 蠢尝绊 厩嚼阑 官操菌促.
+
+52137:他\自命不凡\,\洋洋\自得\.\
+#He was blown up with his own conceit.
+#弊绰 胶胶肺 磊脚捞 惹涪窍促绊 咯扁绊 垫狼 剧剧沁促.
+
+52138:他\自\以为\了不起\而\得意\忘形\.\
+#He is swollen with his own importance.
+#弊绰 磊脚捞 措窜窍促绊 咯扁绊 扁坏辑 磊扁 眉搁阑 酪绢滚啡促.
+
+52139:他\自以为是\个\了不起\的\人\.\
+#He thinks he's somebody.
+#弊绰 胶胶肺 措窜茄 荤恩捞扼绊 积阿沁促.
+
+52140:他\自以为是\个\游泳\好手\.\
+#He fancies himself as a good swimmer.
+#弊啊 胶胶肺 惹涪茄 荐康急荐扼绊 积阿沁促.
+
+52141:他\字\写\得\那么\小\,\我\无法\阅读\.\
+#He writes so small I can't read it.
+#弊啊 臂磊甫 呈公 累霸 结, 唱绰 佬阑 荐 绝促.
+
+52142:他\总\爱\过\多\地\给\人家\提\忠告\.\
+#He's too free with his advice.
+#弊绰 亲惑 促弗 荤恩甸俊霸 腹捞 面绊窍辨 亮酒茄促.
+
+52143:他\总是\把\自己的\利益\摆\在\第\一\.\
+#He always puts self first.
+#弊绰 攫力唱 磊脚狼 捞劳阑 刚历 棵妨 初绰促.
+
+52144:他\总是\非得\自行\其\事\不可\.\
+#He must always have his own way.
+#弊绰 亲惑 老阑 胶胶肺 窍瘤 臼栏搁 救等促. 
+
+52145:他\总是\能\预感\到\什么时候\快\下雨\.\
+#He can always smell when rain is coming.
+#弊绰 攫力唱 厚啊 攫力 棵瘤 抗皑且 荐 乐促.
+
+52146:他\总是\认为\人们\不\喜欢\他\.\
+#He imagines that people don't like him.
+#弊绰 攫力唱 荤恩甸捞 弊甫 亮酒窍瘤 臼绰促绊 咯变促.
+
+52147:他\总是\认为\自己\是\道德\家\.\
+#He always fancied himself a moralist.
+#弊绰 攫力唱 磊脚篮 档傣啊扼绊 咯变促.
+
+52148:他\总是\擅自\攫取\他\朋友\的\东西\.\
+#He's always scrounging off his friends.
+#弊绰 攫力唱 弊狼 模备狼 拱扒阑 力岗措肺 化绰促.
+
+52149:他\总是\试图\把\困难\一\语\带\过\.\
+#He always tries to skate over difficulties.
+#弊绰 攫力唱 绢妨框阑 乔窍妨绊 矫档茄促.
+
+52150:他\总是\说\俏皮话\,\笑\我的\大脚\.\
+#He's always making cracks about my big feet.
+#弊绰 攫力唱 郴 惯阑 爱绊 丑淬阑 茄促.
+
+52151:他\总是\为\某\事\对\我\发\牢骚\.\
+#He's always griping at me about something.
+#弊绰 攫力唱 绢恫 老俊 措秦 唱俊霸 阂乞 茄促.
+
+52152:他\总是\无所事事\地\虚\掷\光阴\.\
+#He always wastes his time doing nothing.
+#弊绰 攫力唱 酒公老档 窍瘤 臼绊 矫埃阑 倾厚茄促.
+
+52153:他\总是\向\我\索取\过\高\的\货\价\.\
+#He always charges me too much for his goods.
+#弊绰 攫力唱 唱俊霸 臭篮 拱扒 蔼阑 刀盟秦辑 罐酒辰促.
+
+52154:他\总是\仰仗\着\老板\的\庇护\.\
+#He always shelters himself under his boss.
+#弊绰 攫力唱 荤厘狼 焊龋俊 狼瘤茄促.
+
+52155:他\总是\最后\一\个\弄\明白\.\
+#He's always the last to catch on.
+#弊绰 攫力唱 付瘤阜俊 捞秦茄促.
+
+52156:他\总是\嘁\嘁\喳喳\讲\个\不停\.\
+#He's always twittering on.
+#弊绰 攫力唱 谗烙绝捞 犁肋芭府哥 捞具扁茄促.
+
+52157:他\总是\炫耀\自己的\知识\.\
+#He's always airing his knowledge.
+#弊绰 攫力唱 磊扁狼 瘤侥阑 凰辰促.
+
+52158:他\总算\活\过\了\两\次\世界大战\.\
+#He managed to live through two world wars.
+#弊绰 搬惫 滴 锅狼 傈里俊辑 混酒 巢疽促.
+
+52159:他\总\有\一天\要\变成\白痴\.\
+#He'll finish up by becoming an idiot.
+#弊绰 搬惫 绢蠢朝 官焊肺 函且 巴捞促.
+
+52160:他\纵身\一\跃\,\跳\过\了\墙\.\
+#With one bound,he was over the wall.
+#弊绰 惹陆 顿绢 淬阑 逞菌促.
+
+52161:他\走\到\地窖\找\出\了\一\瓶\葡萄酒\.\
+#He went to his cellar and routed out a bottle of port.
+#弊绰 顶奔肺 吧绢啊 器档林捍阑 茫酒陈促.
+
+52162:他\走\到\栏杆\边\,\弯\身\俯视\.\
+#He went to the parapet and leaned over.
+#弊绰 抄埃栏肺 吧绢啊 个阑 槛咯 郴妨促 焊疽促.
+
+52163:他\走\到\我\面前\,\询问\我的\姓名\.\
+#He came up to me and asked my name.
+#弊绰 郴 菊鳖瘤 吧绢客 唱狼 捞抚阑 拱菌促.
+
+52164:他\走\到\一旁\让\我\进\屋\去\.\
+#He stepped aside for me to go in (the house).
+#弊绰 茄率栏肺 吧绢啊 唱俊霸 规栏肺 甸绢啊扼绊 剧焊沁促.
+
+52165:他\走\得\那么\快\,\我\简直\跟\不\上\了\.\
+#He walked so fast that I could hardly keep up with him.
+#弊绰 沥富 弧府 吧绢啊 唱绰 沥富 蝶扼哎 荐 绝促.
+
+52166:他\走\进来\,\坐\在\我\对面\的\座位\上\.\
+#He came in and took a seat opposite to me.
+#弊绰 吧绢 甸绢客 郴 菊狼 谅籍俊 旧疽促.
+
+52167:他\走\进\一\家\理发\店\去\理发\.\
+#He went into a barber's shop to have his hair cut.
+#弊绰 捞惯窍矾 茄 捞惯家俊 艾促.
+
+52168:他\走\了\,\我\很\高兴\摆脱\了\他\.\
+#He's gone,and I'm glad to be rid of him.
+#弊绰 栋车绊 唱绰 弊俊霸辑 哈绢唱 概快 扁换促.
+
+52169:他\祖父\现在\一定\快\八\十\岁\了\.\
+#His grandfather must now be getting on for eighty.
+#弊狼 炼何绰 泅犁 馆靛矫 梆 80技啊 登菌阑 巴捞促.
+
+52170:他\钻研\大量\古书\,\查考\那些\事实\.\
+#He delved into lots of old books for the facts.
+#弊绰 弊矾茄 荤角阑 炼荤窍妨绊 措樊狼 绊辑甫 表捞 楷备茄促.
+
+52171:他\嘴巴\咯吱\咯吱\作声\吃\饼\乾\.\
+#He munched at the cookies.
+#弊狼 涝篮 荤阿荤阿 家府 郴哥 苞磊甫 冈菌促.
+
+52172:他\嘴\边\浮现\着\微笑\看\着\我\.\
+#He looked at me with a smile on his lips.
+#弊狼 涝篮 固家甫 剁绊 朝 焊绊 乐促.
+
+52173:他\嘴\里\呼\出\的\气息\好象\有\酒\味\.\
+#His breath smelt suspiciously of drink.
+#弊狼 涝俊辑 徽绰 涝辫篮 付摹 贱晨货啊 唱绰 巴 鞍促.
+
+52174:他\醉\了\,\开始\呕吐\起来\.\
+#He was drunk and began casting up.
+#弊绰 贱俊 秒秦 配窍扁 矫累沁促.
+
+52175:他\醉醺醺\地\沿\街\蹒跚\而\来\.\
+#He came reeling up the street,drunk.
+#弊绰 帮靛饭父靛饭 秒秦 辨啊俊辑 厚撇芭府哥 吧绢柯促.
+
+52176:他\最大\的\希\成\了\泡影\.\
+#His dearest hopes crumbled to nothing.
+#弊狼 弥措狼 锐噶篮 拱芭前捞 登菌促.
+
+52177:他\最后\承认\自己\说\了\谎话\.\
+#He finally owned up to having told the lie.
+#弊绰 付瘤阜俊 磊脚捞 芭窿富 茄 巴阑 牢沥沁促.
+
+52178:他\最后\什么\也\没有\得到\.\
+#He got out nothing at last.
+#弊绰 付瘤阜俊 绢恫 巴档 掘瘤 给沁促.
+
+52179:他\最后\一次\出猎\打\到\了\几\只\野鸭\.\
+#He brought down several wild ducks on his last hunting trip.
+#弊绰 付瘤阜 荤成俊辑 割付府狼 具积 坷府甫 棱疽促.
+
+52180:他\最近\看起来\不\像\以前\那样\.\
+#He's not looking like his old self lately.
+#弊绰 弥辟俊 焊酒窍聪 捞傈 鞍瘤 臼促.
+
+52181:他\最\後\的\绝招\是\诉\诸\法律\.\
+#His last recourse was the law.
+#弊狼 付瘤阜 犁埃篮 过伏俊 龋家窍绰 巴捞促.
+
+52182:他\昨天\看见\房间\里\有\人\.\
+#He saw someone in the room yesterday.
+#弊绰 绢力 规救俊 荤恩捞 乐绰 巴阑 焊疽促.
+
+52183:他\昨天\看见\房间\里\有\人\吗\?\
+#Did he see anyone in the room yesterday?
+#弊绰 绢力 规俊 荤恩捞 乐绰 巴阑 焊疽嚼聪鳖?
+
+52184:他\昨天\没\来\,\他的\兄弟\也\没\来\.\
+#He did not come yesterday,nor did his brother.
+#弊绰 绢力 坷瘤 臼疽绊 弊狼 屈档 坷瘤 臼疽促.
+
+52185:他\昨天\没有\看见\房间\里\有\人\.\
+#He didn't see anyone in the room yesterday.
+#弊绰 绢力 规俊 荤恩捞 乐绰 巴阑 焊瘤 给沁促.
+
+52186:他\昨天\收到\家\里\打\来\的\电报\.\
+#He received a telegram from home yesterday.
+#弊绰 绢力 笼俊辑 模 傈焊甫 罐疽促.
+
+52187:他\昨天晚上\十\点钟\在\写\信\.\
+#He was writing a letter at ten last night.
+#弊绰 绢力 历翅 10矫俊 祈瘤甫 静绊 乐菌促.
+
+52188:他\昨晚\看\完\这\本\小说\了\.\
+#He finished reading the novel last night.
+#弊绰 绢力 捞 家汲阑 促 焊疽促.
+
+52189:他\左\思\右\想\如何\做\完\那\工作\.\
+#He reflected how to finish the work.
+#弊绰 绢痘霸 弊 老阑 促 且瘤 捞府历府 积阿沁促.
+
+52190:他\做\得出\任何\卑屈\的\事\.\
+#He would stoop to anything.
+#弊绰 绢恫 厚奔茄 老档 秦尘 荐 乐促.
+
+52191:他\做\的\每\件\事情\都\带有\危险性\.\
+#Danger attended everything he did.
+#弊啊 茄 巴篮 葛滴 困氰己捞 乐促.
+
+52192:他\做\的\事\为\祖国\争\了\光\.\
+#What he does redounds to the credit of our motherland.
+#弊啊 茄 老篮 炼惫阑 困秦 康堡阑 促坯 巴捞促.
+
+52193:他\做\的\与\他\所\说\的\不\一致\.\
+#His behavior does not accord with what he has said.
+#弊啊 茄 巴篮 弊啊 富茄 巴苞 老摹窍瘤 臼绰促.
+
+52194:他\做\了\,\而且\做\得\很\好\.\
+#He did it,and did it well.
+#弊绰 沁绊 肋沁促.
+
+52195:他\做\了\那\件\事\来\刁难\我\.\
+#He did it to spite me.
+#弊绰 弊 老阑 秦辑 唱甫 帮鄂窍霸 沁促.
+
+52196:他\做梦\也\没有\想到\会\这样\.\
+#He little dreamed of it.
+#弊绰 厕俊档 捞犯霸 瞪 临 积阿摹 给沁促.
+
+52197:他\做\那\件\事\的\动机\是\什么\?\
+#What was his motive for doing that?.
+#弊啊 弊 老阑 窍霸 等 悼扁绰 公均涝聪鳖?
+
+52198:他\做\那\件\事\的\理由\不得\而\知\.\
+#The reason why he did it is unknown.
+#弊啊 弊 老阑 窍霸 等 捞蜡绰 舅 荐啊 绝促.
+
+52199:他\做\那\件\事\够\英勇\的\了\.\
+#He was hero enough to do it.
+#弊啊 弊 老阑 窍促聪 酒林 侩皑窍促.
+
+52200:他\做\那\件\事\明白\是\要\使\我\难堪\.\
+#He did it just to spite me.
+#弊啊 弊 老阑 秦辑 犬角洒 朝 帮鄂窍霸 沁促.
+
+52201:他\做\石油\生意\赚\了\一\大笔\钱\.\
+#He made a fortune in oil.
+#弊绰 籍蜡荤诀栏肺 都捣阑 国菌促.
+
+52202:他\做\什么\都\不关\我的\事\.\
+#What he does is no concern of mine.
+#弊啊 公均阑 窍电 唱狼 老苞 公包窍促.
+
+52203:他\做\手势\要\他们\离开\旅馆\.\
+#He signed them to get out of the hotel.
+#弊绰 颊窿栏肺 快府甸俊霸 咯包俊辑 栋唱扼绊 沁促.
+
+52204:他\做\这\事\绝\不\顾及\结果\.\
+#He did it quite without regard to the results.
+#弊啊 捞 老阑 窍绰单 例措 搬苞甫 绊妨窍瘤 臼疽促.
+
+52205:他\作\了\一\个\愤怒\的\手势\.\
+#He made an angry gesture.
+#弊绰 盒畴狼 颊窿阑 沁促.
+
+52206:他\作\了\一系列\有关\世\局\的\演讲\.\
+#He delivered a course of lectures on world affairs.
+#弊绰 技拌沥技客 蜡包茄 碍楷阑 沁促.
+
+52207:他\作\手势\示意\再\来\一\杯\酒\.\
+#He gestured for another drink.
+#弊绰 颊窿栏肺 茄 儡窍磊绊 钎沁促.
+
+52208:他\作证\曾\目击\那\件\意外\事故\.\
+#He witnessed to having seen the accident.
+#弊绰 弊 捞寇狼 荤扒阑 格拜沁促绊 刘疙沁促.
+
+52209:他\坐\的\那\根\树枝\开始\弯\了\.\
+#The branch he was sitting on began to give.
+#弊啊 旧篮 弊 唱沟啊瘤绰 绷绢瘤扁 矫累沁促.
+
+52210:他\坐\在\飞机\的\操纵\装置\前\.\
+#He sat at the controls of the aircraft.
+#弊绰 厚青扁狼 炼沥厘摹 菊俊 旧疽促.
+
+52211:他\坐\在\离\电视机\最\远\的\位子\上\.\
+#He sat on the seat furthermost from the TV set.
+弊绰 TV俊辑 冻绢柳 啊厘 刚 磊府俊 旧疽促.
+
+52212:他\坐\在那儿\凝视\着\窗\外\.\
+#He sat gazing out of the window.
+#弊绰 弊镑俊 旧酒 芒 观阑 览矫沁促.
+
+52213:他\坐\在那儿\仔细\考虑\那\项\设计\.\
+#He sat there mulling over the design.
+#弊绰 弊镑俊 旧酒 磊技洒 弊 汲拌甫 绊妨沁促.
+
+52214:他\坐\在\桌\沿\上\,\两\腿\悬空\.\
+#He sat on the edge of the table dangling his legs.
+#弊绰 氓惑啊 滴 促府甫 吧摹绊 旧疽促
+
+52215:他\坐\着\皱\着\眉头\在\思考\纵横\字谜\.\
+#He sat frowning over a crossword puzzle.
+#弊绰 旧酒辑 传界阑 卖弊府绊 欺榴阑 积阿沁促.
+
+52216:他\摒\弃\一切\忠告\背\道\而\行\.\
+#He acted counter to all advice.
+#弊绰 葛电 面绊甫 滚府绊 缔榜格栏肺 艾促.
+
+52217:他\唠\唠叨\叨\地\谈\他的\工作\.\
+#He prattled on about his job.
+#弊绰 弊狼 老阑 矫掺反霸 捞具扁 沁促.
+
+52218:他\喋喋不休\,\使\我\厌烦\极\了\.\
+#He feeds me up with his chatter.
+#弊绰 浆瘤臼绊 栋甸绢 唱甫 楼刘唱霸 沁促.
+
+52219:他\喋喋不休\地\大\谈\他\度假\的\事\.\
+#He kept rattling on about his holidays.
+#弊绰 弊啊 楷绒俊 焊辰 老阑 浆瘤臼绊 栋甸菌促.
+
+52220:他\喃喃\地\说\他\不\赞成\我\.\
+#He muttered that he would not agree with me.
+#弊绰 弊啊 唱甫 蛮己窍瘤 臼绰促绊 吝倔芭啡促.
+
+52221:他\噗\通\一\声\地\掉\进\河\
+#He fell splash into the river.
+#弊绰 浅耽窍绊 碍啊肺 顿绢甸菌促.
+
+52222:他\怡\然\自得\地\听\那\美妙\的\音乐\.\
+#He listened with pleasure to the beautiful music.
+#弊绰 榴疤霸 父练窍哥 弊 固功茄 澜厩阑 甸菌促.
+
+52223:他\浏览\一下\书\的\一览表\.\
+#He glanced his eye down the list of the books.
+#弊绰 氓狼 老恩钎甫 措面 瑞绢 焊疽促.
+
+52224:他\於\1\9\6\0\年\被\任命\为\教授\.\
+#He was appointed to the professorship in 1960.
+#弊绰 1960斥俊 背荤肺 烙疙登菌促.
+
+52225:他\酩\酊\大\醉\地\回到\家\里\.\
+#He came home roaring drunk.
+#弊绰 帮靛饭 父靛饭 秒秦辑 笼栏肺 倒酒艾促.
+
+52226:他\踉\踉跄\跄\地\走\进\走\出\.\
+#He blundered in and out.
+#弊绰 厚撇芭府哥 吭促艾促 吧绢促虫促.
+
+52227:它\比\我\所\想\的\要\坏\得\多\.\
+#It's infinitely worse than I thought.
+#弊巴篮 郴啊 积阿沁带 巴焊促 歹 唱悔促.
+
+52228:它\不会\有\任何\伤害\的\,\是不是\?\
+#It's not doing any harm,is it?
+#弊巴篮 绢恫 惑贸啊 绝阑 巴捞促. 弊犯瘤?
+
+52229:它\不\能\于\大家\都\中意\2\2\.\
+#That does not suit all tastes.
+#弊巴篮 葛滴狼 妇俊 甸 荐 绝促.
+
+52230:它的\每\一\个\字\都\是\假\的\.\
+#every word of it is false.
+#弊巴狼 概 臂磊绰 葛滴 芭窿捞促.
+
+52231:它的\皮肤\有\一\种\粗糙\感\.\
+#Its skin has a rough feel.
+#弊巴狼 乔何绰 芭模 蠢肠捞 乐促.
+
+52232:它的\起源\仍\是\个\未\解\的\谜\.\
+#Its origin is wrapped in mystery.
+#弊巴狼 扁盔篮 咯傈洒 秦搬登瘤 臼绰 荐荐簿尝促.
+
+52233:它\发出\紫罗兰\似的\香味\.\
+#It smells like violets.
+#弊巴篮 胶配农狼 晨货啊 抄促.
+
+52234:它\可以\用\,\只是\太\长\了\.\
+#That will do except that it is too long.
+#弊巴篮 捞侩且 荐 乐促. 窜瘤 概快 辨促.
+
+52235:它们\大小\不一\,\但\性质\相同\
+#They are different in size but not in kind.
+#弊巴甸狼 农扁绰 促福促. 弊矾唱 己龙篮 鞍促.
+
+52236:它们\似乎\已经\从\地球\表面\消失\了\.\
+#They seem to have disappeared off the face of the earth.
+#弊巴篮 捞固 瘤备钎搁俊辑 荤扼柳 巴 鞍促.
+
+52237:它们\应该\归属\哪一\类\目\?\
+#Under what category do they belong?.
+#弊巴甸篮 馆靛矫 绢恫 亲格俊 蓖加登绢具 窍唱夸?
+
+52238:它们\在\数目\方面\占\优势\.\
+#They exceeded in number.
+#弊巴甸篮 箭磊搁俊辑 快技窍促.
+
+52239:它\起源\于\遥远\的\中世纪\.\
+#It has its roots deep in the Middle Ages.
+#弊巴篮 刚 吝技扁俊 扁盔茄促.
+
+52240:它\声音\很\大\,\但\没有\意义\.\
+#It has much sound but no sense.
+#弊巴狼 家府绰 农促. 弊矾唱 狼固啊 绝促.
+
+52241:它\是\到\目前\为止\所\找到\的\最好\者\.\
+#It's the best yet found.
+#弊巴篮 瘤陛鳖瘤 茫疽带 弥绊狼 荤恩捞促.
+
+52242:它\是\完全\无\风趣\的\幽灵\.\
+#It was a perfectly flavorless Ghost. .
+#弊巴篮 肯傈洒 犁固绝绰 蜡飞捞促.
+
+52243:它\是\一\个\具有\伟大\历史\的\城市\.\
+#It is city with a great history.
+#弊巴篮 困措茄 开荤甫 备厚茄 档矫捞促.
+
+52244:它\是\有用\的\;\更\是\不可\或\缺\的\.\
+#It is useful; indeed,it is indispensable.
+#弊巴篮 蜡侩茄 巴捞促. 歹宽 狐廉辑绰 救瞪 巴捞促.
+
+52245:它\似\比\我\所\预期\的\大\得\多\.\
+#It seemed much larger than I had expected it to be.
+#弊巴篮 郴啊 抗皑沁带 巴焊促 歹 农促.
+
+52246:它\于\桌面\上\留下\伤痕\.\
+#It made a scar on the table.
+#弊巴篮 氓惑困俊 如利阑 巢板促.
+
+52247:它\予\人\彷\佛\是\狐\皮\的\感觉\.\
+#It feels as if it were the fur of a fox.
+#弊巴篮 荤恩甸俊霸 咯快啊磷鞍篮 蠢肠阑 霖促.
+
+52248:它\在\过\了\教堂\不\远\的\地方\.\
+#It's not far beyond the church.
+#弊巴篮 背角阑 瘤唱 钢瘤 臼篮 镑俊 乐促.
+
+52249:它\在\我的\袜子\上\抓\破\了\个\洞\.\
+#It clawed a hole in my stocking.
+#弊巴篮 郴 胶鸥欧阑 且柠绢 备港阑 陈促.
+
+52250:它\这样\还\了得\!\岂有此理\!\
+#The deuce it is !
+#捞贰辑具 登摆绰啊? 绢骂 捞凡 荐 乐绰啊?
+
+52251:她的\花\真是\难看\死\了\.\
+#Her flower arrangement was a monstrosity.
+#弊赤狼 采篮 沥富 焊扁 蠕窍促.
+
+52252:她\皮肤\上\开始\发出\斑点\.\
+#She has begun to come out in spots.
+#弊赤狼 乔何俊 馆痢捞 唱鸥唱扁 矫累沁促.
+
+52253:她\按\开关\把\绿灯\转为\红灯\.\
+#She switched the lights from green to red.
+#弊赤绰 胶困摹甫 喘矾 颇鄂殿阑 弧埃 殿栏肺 官操菌促.
+
+52254:她\按\一下\蜂\音\器\叫\秘书\进来\.\
+#She buzzed her secretary to come.
+#弊赤绰 滚历甫 喘矾 厚辑甫 甸绢 坷扼绊 沁促.
+
+52255:她\暗\地\很\信任\这\位\医生\.\
+#She trusted the doctor implicitly.
+#弊赤绰 篮楷吝俊 捞 狼荤甫 脚烙沁促.
+
+52256:她\暗地里\高兴\得\心花怒放\.\
+#Her heart melted away in secret raptures.
+#弊赤绰 郴缴 扁坏辑 绢驴临 隔耳促.
+
+52257:她\拔\枪\比\该\会\任何\会员\都\快\.\
+#She could outdraw any member of the club.
+#弊赤绰 醚阑 哗绰 巴捞 捞 雀盔狼 绢恫 雀盔焊促 狐福促.
+
+52258:她\把\杯子\倒过来\困\住\了\那\只\昆虫\.\
+#She caught the insect by inverting her cup over it.
+#弊赤绰 呐阑 第笼绢 弊 帮面阑 啊滴菌促.
+
+52259:她\把\不用\的\衣服\收藏\起来\.\
+#She packed away the clothes when they were not needed .
+#弊赤绰 阂鞘夸茄 渴阑 秸促.
+
+52260:她\把\步行\十\英里\不当\一回事\.\
+#She thinks nothing of walking ten miles.
+#弊赤啊 焊青阑 10付老阑 窍绰 巴篮 何寸茄 老捞促.
+
+52261:她\把\缠\结\的\头发\梳\通\了\.\
+#She combed the snarls out of her hair.
+#弊赤绰 钧挪 赣府甫 壶菌促.
+
+52262:她\把\长\靴\擦\得\乾\乾\净\净\.\
+#She scraped her boots clean.
+#弊赤绰 厘拳甫 柄昌窍霸 篡疽促.
+
+52263:她\把\吃\下去\的\东西\都\呕\出来\了\.\
+#She fetched up everything she had eaten.
+#弊赤绰 冈篮 澜侥阑 葛滴 配沁促.
+
+52264:她\把\穿\旧\不用\的\衣服\送给\了\妹妹\.\
+#She gave her castoffs to her younger sister.
+#弊赤绰 坷贰 涝绢 鞘夸绝霸 等 渴阑 悼积俊霸 林菌促.
+
+52265:她\把\辞典\推\到\书桌\的\另\一边\给\他\.\
+#She shoved the dictionary across the desk to him.
+#弊赤绰 荤傈阑 氓惑 茄 率栏肺 剐绢 弊赤俊霸 林菌促.
+
+52266:她\把\第\二\个\盒子\打开\了\.\
+#She unlidded the second box.
+#弊赤绰 滴锅掳 惑磊甫 凯菌促.
+
+52267:她\把\房子\漆\成\令人\心\的\黄色\.\
+#She painted the house a venomous yellow.
+#弊赤绰 规阑 荤恩狼 付澜阑 掺绰 畴鄂祸栏肺 磨沁促.
+
+52268:她\把\孩子\安顿\在\椅子\上\.\
+#She settled her child in a chair.
+#弊赤绰 酒捞甸阑 狼磊俊 旧躯促.
+
+52269:她\把\孩子\抱\在\怀\中\轻\摇\.\
+#She rocked the child in her arms.
+#弊赤绰 酒捞甸阑 啊娇俊 啊罕霸 救疽促.
+
+52270:她\把\孩子们\领\到\一\个\安全\的\地方\.\
+#She led the children to a place of safety.
+#弊赤绰 酒捞甸阑 茄 救傈茄 镑栏肺 缠绊 艾促.
+
+52271:她\把\孩子\迅速\从\火\边\拉开\.\
+#She drew the child away from the fire.
+#弊赤绰 酒捞甸阑 狐福霸 缠绢陈促.
+
+52272:她\把\戒指\轻轻\套\入\手指\.\
+#She slipped the ring on to her finger.
+#弊赤绰 馆瘤甫 啊罕霸 颊啊遏俊 尝菌促.
+
+52273:她\把\句子\留下\没有\说\完\.\
+#She left the sentence unfinished.
+#弊赤绰 巩厘阑 促 富窍瘤 臼绊 巢板促.
+
+52274:她\把\两\片\木头\胶\在一起\.\
+#She glued the two pieces of wood together.
+#弊赤绰 滴 炼阿狼 唱公配阜阑 茄波锅俊 揩菌促.
+
+52275:她\把\毛毯\缠绕\于\身体\上\.\
+#She lapped the blanket around herself.
+#弊赤绰 葛器甫 个俊 皑疽促.
+
+52276:她\把\帽子\戴\得\吊儿郎当\的\.\
+#She wore her hat at a rakish angle.
+#弊赤绰 葛磊甫 扒甸扒甸窍霸 借促.
+
+52277:她\把\每\样\东西\胡乱\塞\进\袋子\
+#She bundled everything into the bags.
+#弊赤绰 阿阿 拱扒阑 啊规俊 绢瘤反霸 笼绢持菌促.
+
+52278:她\把\秘密\向\一\位\朋友\透露\了\.\
+#She imparted the secret to a friend.
+#弊赤绰 厚剐阑 茄 模备俊霸 穿汲沁促
+
+52279:她\把\名单\钉\在\布告\栏\上\.\
+#She pinned the list up on the notice board.
+#弊赤绰 疙窜阑 霸矫魄俊 嘿看促.
+
+52280:她\把\母亲\领\出来\走向\汽车\.\
+#She brought her mother out to the car.
+#弊赤绰 绢赣聪甫 葛矫绊 唱客 瞒肺 吧绢艾促.
+
+52281:她\把\目光\转\离\那\骇\人\的\情景\.\
+#She averted her eyes from the terrible sight.
+#弊赤绰 矫急阑 愁扼款 沥版俊辑 倒啡促.
+
+52282:她\把\那个\小孩\的\衣服\脱\光\.\
+#She stripped the child naked.
+#弊赤绰 弊 酒捞狼 渴阑 葛滴 哈板促.
+
+52283:她\把\那\件\女\服\的\腰身\改\小\了\.\
+#She nipped the waist of the dress in.
+#弊赤绰 弊 咯己汗厘狼 倾府甫 临看促.
+
+52284:她\把\那\植物\从\地\上\拔\起\.\
+#She tore the plant out of the ground.
+#弊赤绰 弊 侥拱阑 顶俊辑 惶疽促.
+
+52285:她\把\女\衫\的\腰部\收\紧\些\.\
+#She caught the dress in at the waist.
+#弊赤绰 咯磊客捞寂明狼 倾府何盒阑 良霸 沁促.
+
+52286:她\把\女\衫\放宽\了\几\厘米\.\
+#She let the dress out several centimetres.
+#弊赤绰 咯磊 客捞寂明甫 割 季摹固磐 承霸 沁促.
+
+52287:她\把\盘子\安置\在\餐\桌\上\.\
+#She set the dish on the table.
+#弊赤绰 立矫甫 殴磊困俊 疵绢 初疽促.
+
+52288:她\把\瓶\中\的\牛乳\全\倒\进\平\底\锅\
+#She emptied the bottle of milk into a saucepan.
+#弊赤绰 捍救狼 快蜡甫 傈何 饶扼捞埔俊 何菌促.
+
+52289:她\把\企业\经营\得\很\成功\.\
+#She conducts her business very successfully.
+#弊赤绰 扁诀阑 概快 己傍利栏肺 版康沁促.
+
+52290:她\把\汽车\喇叭\按\得\嘟\嘟\响\.\
+#She honked the horn of the car.
+#弊赤绰 瞒狼 版利阑 户户窍绊 匡啡促.
+
+52291:她\把\球\丢\了\去\,\他\接\住\了\.\
+#She dropped the ball down and he caught it.
+#弊赤绰 傍阑 带瘤绊 弊绰 罐疽促.
+
+52292:她\把\球\击\出\一\百\五\十\米\.\
+#She drove the ball 150 metres.
+#弊赤绰 傍阑 150固磐 带脸促.
+
+52293:她\把\三\幅\布\缝\接\在一起\.\
+#She joined the three widths of cloth.
+#弊赤绰 伙气狼 搁阑 窃膊 弓菌促.
+
+52294:她\把\生病\的\婴儿\裹\在\毛毯\
+#She enveloped the sick baby in a blanket.
+#弊赤绰 捍电 酒捞甫 葛器俊 皑秸促.
+
+52295:她\把\剩下\的\食物\留\作\晚餐\.\
+#She saved what was left of the food for supper.
+#弊赤绰 巢篮 澜侥阑 历翅栏肺 父甸菌促.
+
+52296:她\把\事情\安排\得\人人\满意\.\
+#She arranged maatters so as to suit everyone.
+#弊赤绰 老阑 荤恩甸捞 阿阿 父练窍霸 硅摹沁促.
+
+52297:她\把\事情\搞\坏\了\,\得\重新\做\过\.\
+#She had screwed up and had to do it all over again.
+#弊赤绰 老阑 肋给秦辑 促矫 秦具父 沁促.
+
+52298:她\把\饰\带\打\成\个\蝴蝶\结\.\
+#She tied the ribbon in a bow.
+#弊赤绰 厘侥前馋阑 府夯栏肺 父甸菌促.
+
+52299:她\把\视线\从\我\身上\移\开\.\
+#She withdrew her eyes from me.
+#弊赤绰 矫急阑 郴 个俊辑 颗板促.
+
+52300:她\把手\放\在\儿子\的\肩膀\上\.\
+#She laid her hand on her son's shoulder.
+#弊赤绰 颊阑 酒甸狼 绢柄俊 初疽促.
+
+52301:她\把\书\借\来\,\为期\两\周\.\
+#She got the book out for a fortnight.
+#弊赤绰 2林甫 扁埃栏肺 氓阑 呼妨吭促.
+
+52302:她\把\所有\的\时间\都\花\在\家庭\上\.\
+#She gives all her time to her family.
+#弊赤绰 葛电 矫埃阑 笼救俊辑 焊陈促.
+
+52303:她\把\他的\来信\全\保存\起来\.\
+#She has kept all the letters from him.
+#弊赤绰 弊狼 翠厘阑 葛滴 焊包沁促.
+
+52304:她\把\他的\信念\了\几\段\给\我\听\.\
+#She read me a few extracts from his letter.
+#弊赤绰 弊狼 脚充阑 割 啊瘤 唱俊霸 甸妨 林菌促.
+
+52305:她\把\他们的\论点\驳\得体\无\完\肤\.\
+#She pulled their argument to pieces.
+#弊赤绰 弊甸狼 稠痢阑 父柳芒捞 登档废 馆冠沁促.
+
+52306:她\把\她的\绘画\长期\出借\给\博物馆\.\
+#She loaned her pictures to the museum.
+#弊赤绰 弊赤狼 弊覆阑 厘扁埃 冠拱包俊 呼妨林菌促.
+
+52307:她\把\她的\女儿\都\嫁\出去\了\.\
+#She has married off all her daughters.
+#弊赤绰 弊赤狼 叠阑 矫笼焊陈促.
+
+52308:她\把\她的\婴儿\抱\在\怀\中\.\
+#She folded her baby in her arms .
+#弊赤绰 弊赤狼 酒扁甫 啊娇俊 救疽促.
+
+52309:她\把\她\所有\的\钱\都\送给\了\穷人\.\
+#She gave away all her money to the poor.
+#弊赤绰 弊赤狼 葛电 捣阑 啊抄茄 荤恩俊霸 焊陈促.
+
+52310:她\把\头发\缠\在\手指\上\使\其\卷曲\.\
+#She twisted her hair round her fingers to make it curl.
+#弊赤绰 赣府墨遏阑 颊啊遏栏肺 厚厚部疽促.
+
+52311:她\把\头发\盘\成\一\个\圆\髻\.\
+#She wears her hair in a bun.
+#弊赤绰 赣府甫 茄单 弓菌促.
+
+52312:她\把\头发\挽\成\圆\面包\状\.\
+#She caught up her hair into a bun.
+#弊赤绰 赣府甫 户葛剧栏肺 叭绢棵啡促.
+
+52313:她\把\头发\用\围巾\包\起来\.\
+#She had her hair bound up in a neckerchief.
+#弊赤绰 赣府甫 荐扒栏肺 皑秸促.
+
+52314:她\把\外\袍\披\在\女儿\的\肩\上\.\
+#She draped the robe around her daughter's shoulders.
+#弊赤绰 寇捧甫 叠狼 绢柄俊 吧闷促.
+
+52315:她\把\碗\掉\在\地\上\,\成\了\碎片\.\
+#She dropped the bowl on the floor,and it broke into fragments.
+#弊赤绰 弊俯阑 顶俊 冻绢哆妨 炼阿阑 陈促.
+
+52316:她\把\我的\沉默\误解\为\答应\.\
+#She misinterpreted my silence as giving consent.
+#弊赤绰 唱狼 魔宫阑 措翠栏肺 坷秦沁促.
+
+52317:她\把\我的\头发\缠绕\在\她的\手指\上\.\
+#She twined her fingers in my hair.
+#弊赤绰 唱狼 赣府甫 弊赤狼 颊啊遏栏肺 部疽促.
+
+52318:她\把\我\拉\到\一旁\,\对\我\耳语\.\
+#She drew me aside and whispered in my ear.
+#弊赤绰 唱甫 茄率栏肺 缠绢寸败 唱俊霸 庇加富肺 捞具扁沁促.
+
+52319:她\把\洗濯\的\衣服\旋转\脱水\变\乾\.\
+#She spun the laundry dry.
+#弊赤绰 技殴茄 渴阑 呕荐窍咯 富啡促.
+
+52320:她\把\现款\存\入\她的\银行\帐户\.\
+#She paid the cash in to her bank account.
+#弊赤绰 泅陛阑 弊赤狼 篮青备谅俊 涝陛沁促.
+
+52321:她\把\鞋子\里\的\沙子\抖\掉\.\
+#She shook the sand from her shoes.
+#弊赤绰 脚惯救狼 葛贰甫 判菌促.
+
+52322:她\把\心中\的\猜\疑\告诉\了\她的\老师\.\
+#She communicated her suspicions to her teacher.
+#弊赤绰 付澜加狼 狼缴阑 弊赤狼 辑积丛俊霸 舅啡促.
+
+52323:她\把\信\从头\到\尾\读\了\一遍\.\
+#She read the letter through.
+#弊赤绰 祈瘤甫 贸澜何磐 场鳖瘤 茄锅 佬菌促.
+
+52324:她\把\信\揉\成\一\团\扔\到\火\里\去\了\.\
+#She screwed up the letter and threw it into the fire.
+#弊赤绰 祈瘤甫 颊栏肺 茄单 苟媚 阂加俊 带脸促.
+
+52325:她\把\一\枚\一角\银币\扔\给\那\乞丐\.\
+#She tossed the beggar a dime.
+#弊赤绰 篮捣 茄 乾阑 芭瘤俊霸 带脸促.
+
+52326:她\把\一些\水\倒\进\提\桶\里\.\
+#She poured some water into the pail.
+#弊赤绰 距埃狼 拱阑 烹俊 今疽促.
+
+52327:她\把\一\张\通知\钉\在\布告\栏\上\.\
+#She tacked a notice to the board.
+#弊赤绰 烹瘤 茄 厘阑 霸矫魄俊 嘿看促.
+
+52328:她\把\椅子\猛地\向\墙\撞\去\.\
+#She banged the chair against the wall.
+#弊赤绰 狼磊甫 芭技霸 寒俊 何碟躯促.
+
+52329:她\把\余下\来\的\布\缝\成\一\条\围裙\.\
+#She made up the remaining cloth into an apron.
+#弊赤绰 巢篮 渴皑阑 菊摹付肺 犁豪沁促.
+
+52330:她\把\钥匙\塞\进\锁\里\转动\了\一下\.\
+#She turned the key in the lock.
+#弊赤绰 凯艰甫 磊拱艰救俊 持绢 倒啡促.
+
+52331:她\把\照片\裱\贴\在\硬\纸\上\.\
+#She mounted the photograph on stiff paper.
+#弊赤绰 荤柳阑 迭迭茄 辆捞困俊 嘿看促.
+
+52332:她\把\这\幅\画\和\那\一\幅\进行\了\对比\.\
+#She made the contrast of this picture with that one.
+#弊赤绰 捞 弊覆苞 弊 弊覆阑 措厚沁促.
+
+52333:她\把\纸\折\成\一\架\玩具\飞机\.\
+#She folded up the paper to make a toy aircraft.
+#弊赤绰 辆捞肺 厚青扁甫 立菌促.
+
+52334:她\把\桌\上\的\杯子\撞\落\在\地\.\
+#She knocked the cup off the table.
+#弊赤绰 氓惑困狼 呐阑 顶俊 冻绢哆啡促.
+
+52335:她\把\自己的\成功\归\因\于\好\运气\.\
+#She attributed her success to good luck.
+#弊赤绰 磊脚狼 己傍阑 青款栏肺 倒啡促.
+
+52336:她\把\自己的\座位\让给\那\位\老人\.\
+#She surrendered her seat to the old man.
+#弊赤绰 磊脚狼 困摹甫 弊 畴牢俊霸 剧焊沁促.
+
+52337:她\把\最\後\的\一\分\钱\花\掉\了\.\
+#She spent her last cent.
+#弊赤绰 付瘤阜 老乾阑 扯厚沁促.
+
+52338:她\把\座位\让给\我\,\真\有\礼貌\.\
+#It was polite of her to offer me her seat.
+#弊赤绰 谅籍阑 唱俊霸 剧焊窍聪 沥富 抗狼官福促.
+
+52339:她\把\馀\暇\时间\用\在\编织\上\.\
+#She employed her spare time in knitting.
+#弊赤绰 巢篮 矫埃悼救 哆霸龙阑 沁促.
+
+52340:她\爸爸\一点\也\不\喜欢\她\.\
+#She doesn't gain on her papa in the least.
+#弊赤狼 酒滚瘤绰 炼陛档 弊赤甫 亮酒窍瘤 臼绰促.
+
+52341:她\扮演\这个\角色\很\成功\.\
+#She carried off the role very well.
+#弊赤啊 捞 开且肺 盒厘茄 巴篮 己傍利捞促.
+
+52342:她\帮\老人\在\床\上\坐\了\起来\.\
+#She sat the old man up in bed.
+#弊赤绰 畴牢捞 魔措俊辑 老绢唱绰 巴阑 档吭促.
+
+52343:她\帮助\母亲\做\厨房\的\工作\.\
+#She helped her mother with the work in the kitchen.
+#弊赤绰 绢赣聪啊 林规老阑 窍绰 巴阑 档吭促.
+
+52344:她\抱怨\说\,\警察\粗暴\地\对待\她\.\
+#she complained that she had been manhandled by the police.
+#弊赤绰 版蔓捞 气仿利栏肺 弊赤甫 措沁促绊 盔噶窍哥 富沁促.
+
+52345:她\抱着\渺茫\的\希\去\申请\.\
+#She applied on the offchance.
+#弊赤绰 噶楷茄 锐噶阑 救绊 脚没窍矾 艾促.
+
+52346:她\悲伤\,\也\难怪\她\如此\.\
+#She was sad,and rightly so.
+#弊赤绰 浇欺辑 绢戮瘤 捞矾沁备唱.
+
+52347:她\被\儿子\的\病\弄\得\慌张\不已\.\
+#She was much perturbed by her son's illness.
+#弊赤绰 酒甸狼 捍俊 酒林 寸炔沁促.
+
+52348:她\被\番茄\酱\弄\脏\了\衣服\.\
+#She spotted her dress with ketchup.
+#弊赤绰 纳慢阑 渴俊 汞囚 歹反躯促.
+
+52349:她\被\留下\来\在那儿\站\着\.\
+#She was left standing there.
+#弊赤绰 弊镑俊 巢酒 辑 乐菌促.
+
+52350:她\被\那个\消息\搅\得\心烦\意\乱\.\
+#She was shaken up by the news.
+#弊赤绰 弊 家侥栏肺 付澜捞 酒林 缴鄂沁促.
+
+52351:她\被\奇怪\的\声响\吓\了\一\跳\.\
+#She was scared at the strange noise.
+#弊赤绰 捞惑茄 家府俊 濒娄 愁耳促.
+
+52352:她\被\认为\是\个\非常\出色\的\政治家\.\
+#She is reckoned to be a very good politician.
+#弊赤啊 舅妨柳 官肺 概快 顿绢抄 沥摹啊捞促.
+
+52353:她\被\认为\与\犯罪\事件\有关\.\
+#She was connected with the crime.
+#弊赤啊 积阿窍绰 巴苞 裹了荤扒苞 蜡包窍促.
+
+52354:她\被\他的\聪明\才智\给\吓\住\了\.\
+#She was cowed by his intelligence.
+#弊赤绰 弊狼 醚疙窃俊 愁耳促.
+
+52355:她\被\他的\花言巧语\骗\住\了\.\
+#She was imposed on by his plausible talk.
+#弊赤绰 弊狼 皑攫捞汲俊 加疽促.
+
+52356:她\被\他的\美容\吸引\住\了\.\
+#She was attracted by his smile.
+#弊赤绰 弊狼 寇葛俊 馆沁促.
+
+52357:她\被\她的\朋友\横\刀\夺\爱\.\
+#She was supplanted in her lover's affections by her friend.
+#弊赤绰 弊赤狼 模备俊 狼秦 趁沥窍霸 荤尔阑 哗狙板促.
+
+52358:她\被\推举\为\模范\工作者\.\
+#She has been held up as a model worker.
+#弊赤绰 葛裹畴悼磊肺 眠玫登菌促.
+
+52359:她\被\烟\呛\得\透\不过\气\来\.\
+#She was suffocated by the smoke.
+#弊赤绰 淬硅楷扁肺 见蒋 荐啊 绝菌促.
+
+52360:她\被\指派\到\实验室\工作\.\
+#She was assigned to the laboratory.
+#弊赤绰 角氰角肺 颇斑登绢 老沁促.
+
+52361:她\奔\上\楼梯\,\两\颊\都\涨\红\了\.\
+#Her cheeks were red after she ran up the stairs.
+#弊赤绰 拌窜栏肺 顿绢棵扼 剧杭捞 惑扁登菌促.
+
+52362:她\表现\出\了\很\大\的\耐心\.\
+#She showed great patience.
+#弊赤绰 奴 牢郴缴阑 焊看促.
+
+52363:她\表现\出\强烈\的\求知\欲\.\
+#She shows great zeal for knowledge.
+#弊赤绰 碍纺茄 瘤侥垮备甫 唱鸥陈促.
+
+52364:她\表现\出\一\种\奇异\的\平静\.\
+#A strange calmness settled upon her.
+#弊赤绰 老辆狼 扁捞茄 乞沥阑 钎泅沁促.
+
+52365:她\病\得\很\重\,\恐怕\就要\死\了\.\
+#She's very ill and I'm afraid she's dying.
+#弊赤绰 捍捞 缴秦辑 酒付 磷阑 巴捞促.
+
+52366:她\病\很\重\,\但\仍然\继续\工作\.\
+#She is very ill,but she still keeps about.
+#弊赤狼 捍捞 缴沁栏唱 咯傈洒 拌加 老沁促.
+
+52367:她\病\了\,\于是\吃\了\些\药\.\
+#She was sick and took some medicine.
+#弊赤绰 捍捞 唱辑 距阑 冈菌促.
+
+52368:她\病\了\一\个\月\,\现在\快\痊愈\了\.\
+#She was ill for a month but she's nearly well now.
+#弊赤绰 茄崔 悼救 酒仆栏唱, 瘤陛篮 芭狼 肯蔫登绢 埃促.
+
+52369:她\病愈\以后\体重\增加\了\.\
+#She is gaining in weight after her recovery from illness.
+#弊赤绰 肯蔫等 饶 眉吝捞 刘啊沁促.
+
+52370:她\病愈\之后\又\出来\走动\了\.\
+#She's going about again after her illness.
+#弊赤绰 肯蔫等 饶 唱客辑 吧菌促.
+
+52371:她\并\非\真的\有病\,\只是\装\出来\的\.\
+#She isn't really ill; it's only pretence.
+#弊赤绰 沥富 捍捞 乐瘤 臼绊 窜瘤 啊厘茄 巴 挥捞促.
+
+52372:她\不常\外出\;\喜欢\独\处\.\
+#She doesn't go out much; she likes to keep herself to herself.
+#弊赤绰 磊林 唱啊瘤 臼绊 去磊 乐绰 巴阑 亮酒茄促.
+
+52373:她\不但\能\讲\而且\能\写\斯\瓦\希\里\语\.\
+#She both speaks and writes Swahili.
+#弊赤绰 胶客洒府绢甫  且 临 舅 挥酒聪扼 镜 临档 救促.
+
+52374:她\不得不\放弃\访问\该\地\的\念头\.\
+#She had to give up the idea of visiting the place.
+#弊赤绰 馆靛矫 捞镑俊 规巩茄促绰 积阿阑 滚啡促.
+
+52375:她\不断\的\吹\毛\求\实在\讨厌\.\
+#Her endless carping is indeed a nuisance.
+#弊赤啊 谗烙绝捞 飘笼阑 棱酒 沥富 锯褂促.
+
+52376:她\不高兴\丈夫\用\那种\粗鲁\的\字眼\.\
+#She hated her husband to use such vulgar words.
+#弊赤绰 巢祈捞 弊繁 芭模 富阑 秦辑 扁盒捞 唱患促.
+
+52377:她\不顾\父母\的\不\悦\而\和\他\结婚\.\
+#She braved her parents displeasure by marrying him.
+#弊赤绰 何葛狼 阂青阑 盔摹 臼疽栏唱 弊客 搬去沁促.
+
+52378:她\不顾\一切\后果\,\决心\这样\做\.\
+#She is determined to do regardless of all consequences.
+#弊赤绰 老眉狼 搬苞甫 积阿窍瘤 臼绊 捞犯霸 窍扁肺 搬沥沁促.
+
+52379:她\不好意思\在\大众\面前\唱歌\.\
+#She is shy about singing in public.
+#弊赤绰 荤恩甸 菊俊辑 畴贰甫 何福绰 巴捞 何掺矾奎促.
+
+52380:她\不\看\着\的\时候\他\就\看\她\.\
+#He looked at her when she was not looking.
+#弊赤啊 焊绊 乐瘤 臼阑 锭 弊绰 弊赤甫 焊疽促.
+
+52381:她\不肯\放弃\自己的\计划\.\
+#She held on to a plan of her own.
+#弊赤绰 磊脚狼 拌裙阑 器扁窍绰单 览窍瘤 臼疽促.
+
+52382:她\不是\善\於\交际\的\那\一\种\女孩\.\
+#She's not a very forthcoming kind of girl.
+#弊赤绰 背力俊 瓷槛茄 弊繁 咯磊局啊 酒聪促.
+
+52383:她\不是\一\个\适合\做\临时\保姆\的\人\.\
+#She is not a fit person to baby-sit.
+#弊赤绰 烙矫焊葛俊 利寸茄 荤恩捞 酒聪促.
+
+52384:她\不停\地\央求\他\给\她\买\件\新\外套\.\
+#She nagged him to buy her a new coat.
+#弊赤绰 拌加 弊俊霸 货 寇捧甫 荤临 巴阑 局盔沁促.
+
+52385:她\不惜\花费\时间\去\帮助\别人\.\
+#She is generous in giving of her time to help others.
+#弊赤绰 矫埃阑 酒尝瘤 臼绊 鸥牢阑 档吭促.
+
+52386:她\不\喜欢\将来\独自\生活\.\
+#She doesn't like the prospect of having to live alone.
+#弊赤绰 菊栏肺 刀脚 积劝阑 亮酒窍瘤 臼绰促.
+
+52387:她\不\相信\他的\声明\是\真实\的\.\
+#She was not persuaded of the truth of his statement.
+#弊赤绰 弊狼 己疙捞 柳角捞扼绊 瓜瘤 臼绰促.
+
+52388:她\不\小心\把\花瓶\打掉\了\.\
+#She knocked the vase off by accident.
+#弊赤绰 炼缴 窍瘤 臼酒 采捍阑 冻绢哆啡促.
+
+52389:她\不屑\接受\我们\提出\的\帮助\.\
+#She scorned our offers of help.
+#弊赤绰 快府啊 扒狼茄 档框阑 荐侩且 啊摹啊 绝菌促.
+
+52390:她\不宜\做\母亲\,\她\不该\生\孩子\.\
+#Motherhood doesn't suit her; she shouldn't have had children.
+#弊赤绰 绢赣聪肺辑 利寸摹 臼绊 酒捞甫 澈酒急 救等促.
+
+52391:她\不\知道\她\自己\在\讲\些\什么\.\
+#She doesn't know what she is talking about.
+#弊赤绰 磊脚捞 公均阑 窍绊 乐绰瘤 葛弗促.
+
+52392:她\不知\怎的\害怕\起来\了\.\
+#Fear crept into her mind.
+#弊赤绰 绢痘霸 滴妨款瘤 葛弗促.
+
+52393:她\不只\能\说\德国\话\也\能\说\法国\话\.\
+#She can speak not only German but also French.
+#弊赤绰 窜瘤 刀绢甫 且荐 绝阑 挥 阂绢绰 且 临 救促.
+
+52394:她\不至于\愚蠢\到\干\出\那样\的\事\来\.\
+#She is not so foolish as to do that.
+#弊赤绰 快敌秦辑 弊矾茄 老阑 且 荐 绝促.
+
+52395:她\不致\于\老实\到\相信\他的\地步\.\
+#She is not so simple as to believe him.
+#弊赤绰 柳角肺 弊狼 贸瘤甫 瓜瘤 臼绰促.
+
+52396:她\采取\手\肘\置\於\膝盖\上\的\姿态\.\
+#She poised her elbow on her knee.
+#弊赤绰 迫格栏肺 弊狼 公腑阑 杯 磊技甫 秒沁促.
+
+52397:她\拆开\信封\,\取出\信\,\展开\信纸\.\
+#She opened the envelope,took out the letter,and unfolded it.
+#弊赤绰 祈瘤豪捧甫 垛绊 祈瘤甫 波郴 祈瘤瘤甫 岂促.
+
+52398:她\常常\凭\冲动\购买\衣服\.\
+#She often buys clothes on impulse.
+#弊赤绰 磊林 面悼利栏肺 渴阑 备概茄促.
+
+52399:她\常常\想起\她的\学生\时代\.\
+#She often remembered her schooldays.
+#弊赤绰 磊林 弊赤狼 切芒矫例阑 积阿茄促.
+
+52400:她\常用\美酒\佳肴\举行\豪华\的\宴会\.\
+#She gives dinner parties in style,with the best food and wine.
+#弊赤绰 磊林 亮篮 贱苞 澜侥栏肺 拳妨茄 楷雀甫 芭青窍帮 茄促.
+
+52401:她\长期\患\病\使\她的\体力\渐渐\耗竭\.\
+#Her long illness gradually sapped her strength.
+#弊赤绰 厘扁埃 捍绊肺 弊赤狼 眉仿捞 痢痢 家葛登菌促.
+
+52402:她\唱歌\使\她的\孩子\入睡\.\
+#She sang her child to sleep.
+#弊赤绰 畴贰甫 阂矾 弊赤狼 酒捞甫 犁奎促.
+
+52403:她\趁\没\人\看见\的\时候\溜\出\了\房间\.\
+#She slid out of the room when no one was looking.
+#弊赤绰 荤恩捞 焊瘤 臼绰 拼阑 鸥辑 规阑 狐廉 唱吭促.
+
+52404:她\成功\地\找到\一\份\新\工作\.\
+#She was successful in finding a new job.
+#弊赤绰 己傍利栏肺 货 流厘阑 备沁促.
+
+52405:她\成天\唠\唠叨\叨\地\找\他\岔子\.\
+#She nagged at him all day long.
+#弊赤绰 窍风辆老 弊狼 角荐甫 部笼绢 富沁促.
+
+52406:她\乘\公共汽车\时\要\呕吐\.\
+#She gets sick when she rides in a bus.
+#弊赤绰 滚胶甫 呕 锭 配窍妨茄促.
+
+52407:她\承担\了\这些\变革\的\责任\.\
+#She undertook responsibility for the changes.
+#弊赤绰 捞矾茄 函酋狼 氓烙阑 瘤绊 乐促.
+
+52408:她\迟到\打乱\了\我们的\计划\.\
+#Her late arrival messes up our plans.
+#弊赤绰 瘤阿秦辑 快府甸狼 拌裙阑 绢瘤反霸 沁促.
+
+52409:她\充沛\的\精力\令人\惊异\.\
+#Her brio astounds everyone.
+#弊赤狼 面盒茄 沥仿篮 荤恩阑 愁扼霸 茄促.
+
+52410:她\踌躇\了\一下\,\然\後\继续\走\.\
+#She hesitated and walked on.
+#弊赤绰 茄锅 赣沟芭府歹聪 拌加 吧菌促.
+
+52411:她\初次\登台\感到\有点\不安\.\
+#She was a bit queasy at her first appearance on the stage.
+#弊赤绰 贸澜 公措俊 棵扼 粱 阂救沁促.
+
+52412:她\出发\去\作\横越\欧洲\的\旅行\.\
+#She set off on a trip across Europe.
+#弊赤绰 蜡反染窜 咯青阑 困秦 免惯沁促.
+
+52413:她\出\高价\购买\那\张\桌子\.\
+#She bid a good price for the table.
+#弊赤绰 绊啊肺 弊 氓惑阑 或促.
+
+52414:她\出去\找\可\吃\的\东西\了\.\
+#She went out for something to eat.
+#弊赤绰 冈阑 巴阑 茫酒 唱艾促.
+
+52415:她\出售\房屋\获得\很\大\收益\.\
+#She did well out of the sale of her house.
+#弊赤绰 规阑 迫酒 奴 荐劳阑 掘菌促.
+
+52416:她\处理\政治\问题\的\方法\很\科学\.\
+#She has a very scientific method of dealing with political problems.
+#弊赤绰 沥摹巩力甫 秦搬窍绰 规过捞 概快 苞切利捞促.
+
+52417:她\处于\易\受\影响\的\年龄\.\
+#She's at a suggestible age.
+#弊赤绰 康氢阑 罐扁 浆款 楷飞捞促.
+
+52418:她\穿戴\着\所有\的\新娘\装饰品\.\
+#She had on all her bridal decorations.
+#弊赤绰 葛电 脚何狼 厘侥前阑 概崔疽促.
+
+52419:她\穿\蓝色\的\服装\总是\很\合适\的\.\
+#Blue always looks very becoming on her.
+#弊赤啊 巢祸汗厘阑 涝篮 巴篮 攫力唱 绢匡赴促.
+
+52420:她\穿\一\件\奶油\色\的\衣服\.\
+#She wore a cream-coloured dress.
+#弊赤绰 茄国狼 快蜡蝴 渴阑 涝菌促.
+
+52421:她\穿着\仅\可\遮\体\的\衣服\.\
+#She wears an abbreviated costume.
+#弊赤绰 个阑 啊府绰 渴阑 涝菌促.
+
+52422:她\穿着\那\条\紧身\裤\,\样子\很\滑稽\.\
+#She looks ridiculous in those tight trousers.
+#弊赤绰 葛剧捞 劳混胶矾况 焊捞绰 个俊 了绰 官瘤甫 涝菌促.
+
+52423:她\穿着\平平\常常\的\衣服\.\
+#She was wearing nondescript clothes.
+#弊赤绰 乞裹茄 渴阑 涝绊 乐促.
+
+52424:她\穿着\实用\的\苏\格\兰\粗\呢\制\衣服\.\
+#She was sensibly dressed in tweeds.
+#弊赤绰 角侩利牢 胶内飘罚靛 飘困聪力 渴阑 涝绊 乐促.
+
+52425:她\穿着\她\最\华丽\的\服饰\.\
+#She's rigged out in her best finery.
+#弊赤绰 弊赤狼 弥绊 拳妨茄 汗厘阑 涝绊 乐促.
+
+52426:她\穿着\一\件\别人\的\外衣\.\
+#She was wearing someone else's coat.
+#弊赤绰 鸥牢狼 寇捧甫 涝绊 乐促.
+
+52427:她\匆匆\地\把\披肩\披\在\肩\上\.\
+#She threw a shawl over her shoulders.
+#弊赤绰 官悔霸 捡阑 绢柄俊 吧闷促.
+
+52428:她\匆匆\走\过来\,\把\别人\推\开\.\
+#She came up in a hurry and pushed the others aside.
+#弊赤绰 官悔霸 吧绢客 鸥牢阑 剐菌促.
+
+52429:她\从\包裹\中\取出\结婚\礼物\.\
+#She unpacked the wedding presents.
+#弊赤绰 操矾固俊辑 搬去 抗拱阑 波陈促.
+
+52430:她\从\报纸\上\剪\下\那\份\广告\.\
+#She cut the advertisement out of the newspaper.
+#弊赤绰 脚巩惑俊辑 弊 堡绊甫 坷啡促.
+
+52431:她\从不\费\神\去\帮助\他人\.\
+#She never puts herself out to help people.
+#弊赤绰 盔贰 鸥牢阑 到绰单 脚版静瘤 臼绰促.
+
+52432:她\从不\太\体谅\我的\感受\.\
+#She never showed much consideration for my feelings.
+#弊赤绰 盔贰 唱狼 皑沥阑 捞秦秦 林瘤 臼绰促.
+
+52433:她\从\姐姐\那儿\借\来\了\这\笔\钱\.\
+#She borrowed the money from her sister.
+#弊赤绰 攫聪俊霸 捞 捣阑 呼妨吭促.
+
+52434:她\从\口袋\里\拿\出\两\码\布\来\.\
+#She took two yards of cloth out of her pocket.
+#弊赤绰 林赣聪俊辑 滴 付甫 波陈促.
+
+52435:她\从来\就\没有\自己的\房子\.\
+#She had never had a room of her own.
+#弊赤绰 盔贰 磊扁狼 规捞 绝促.
+
+52436:她\从前\是\住\在\考\文\垂\这\地方\吗\?\
+#Didn't she use to live in Coventry?
+#弊赤绰 抗傈俊 内亥飘瘤规俊 魂 利捞 乐嚼聪鳖?
+
+52437:她\从\墙角\那边\探\出头\来\.\
+#She poked her head round the corner.
+#弊赤绰 葛辑府俊辑 茫疽促.
+
+52438:她\从\她\弟弟\感染\了\流行\性\腮\腺\炎\.\
+#She got mumps from her brother.
+#弊赤绰 弊赤狼 悼积茄抛辑 蜡青己 捞窍急堪捞 傈堪登菌促.
+
+52439:她\从未\故意\伤害\过\别人\的\心\.\
+#She has never knowingly hurt anybody.
+#弊赤绰 盔贰 绊狼肺 鸥牢狼 付澜阑 促摹霸 茄 利捞 绝促.
+
+52440:她\从\我的\手\中\夺\走\了\那\封\信\.\
+#She twitched the letter out of my hand.
+#弊赤绰 唱狼 颊俊辑 弊 祈瘤甫 哗狙酒 艾促.
+
+52441:她\从\学校\把\小孩\带回\家\.\
+#She fetched her child home from school.
+#弊赤绰 切背俊辑 酒捞甫 笼栏肺 单府绊 吭促.
+
+52442:她\从\一\场\兴奋\的\梦境\中\醒\来\.\
+#She woke up in the middle of an exciting dream.
+#弊赤绰 蕊盒登菌带 厕俊辑 柄绢车促.
+
+52443:她\从\一\个\话题\跳\到\另\一\个\话题\.\
+#She leapt from one topic to another.
+#弊赤绰 茄 拳力俊辑 促弗 拳力肺 顿绢 逞菌促.
+
+52444:她\从\一\九\六\二\年\开始\在\这里\工作\.\
+#She began working here in 1962.
+#弊赤绰 1962斥俊 咯扁俊辑 老窍扁 矫累沁促.
+
+52445:她\从\一\开始\就\不\喜欢\他\.\
+#She took a dislike to him at once.
+#弊赤绰 贸澜何磐 弊甫 亮酒窍瘤 臼疽促.
+
+52446:她\从\一\棵\树\后\跑\了\出来\.\
+#She ran out from behind a tree.
+#弊赤绰 唱公 第俊辑 顿绢 唱吭促.
+
+52447:她\从\婴孩\手\里\夺\去\了\火柴\.\
+#She took the matches away from the baby.
+#弊赤绰 酒捞狼 颊俊辑 己成阑 哗疽菌促.
+
+52448:她\从\整\条\面包\切\下\一片\.\
+#She cut a piece off the loaf.
+#弊赤绰 户 窍唱俊辑 茄 炼阿阑 肋耳促.
+
+52449:她\粗鲁\的\话\伤\了\他的\心\.\
+#Her indelicate remark hurt his feelings.
+#弊赤狼 芭模 富篮 弊狼 付澜阑 促摹霸 沁促.
+
+52450:她\答应\在\六\个\月\之内\还\清\欠款\.\
+#She undertook to pay back the money within six months.
+#弊赤绰 6俺岿 捞郴俊 胡阑 氨摆促绊 措翠沁促.
+
+52451:她\打扮\得\令人\神\魂\颠倒\.\
+#She was dressed to kill.
+#弊赤绰 荤恩阑 倔狐瘤霸 且 沥档肺 盒厘沁促.
+
+52452:她\打发\儿子\到\农村\去\过\暑假\.\
+#She sent her son away for the summer vacation in the countryside.
+#弊赤绰 酒甸阑 丑锰俊 焊郴 咯抚 规切阑 焊郴扼 沁促.
+
+52453:她\打\孩子\,\孩子\逃\开了\.\
+#She hit the child and he ran away.
+#弊赤啊 酒捞甫 锭府磊, 酒捞啊 档噶艾促.
+
+52454:她\打\好了\行李\就\动身\了\.\
+#She packed her bags and left.
+#弊赤绰 咯青咙阑 操府绊 免惯沁促.
+
+52455:她\打开\笼子\,\把\鸟\放\了\.\
+#She opened the cage and let the bird out.
+#弊赤绰 货厘阑 凯绊 货甫 钱绢 林菌促.
+
+52456:她\打开\炉子\,\很快\地\把\饼\放\进去\.\
+#She opened the oven and popped the cake in.
+#弊赤绰 抄肺甫 凯绊 弧府 户阑 笼绢 持菌促.
+
+52457:她\打开\门上\的\锁\,\然后\把门\拉开\.\
+#She unlocked the door and then opened it.
+#弊赤绰 巩狼 磊拱艰甫 楷 第 巩阑 凯菌促.
+
+52458:她\大胆\地\为\自己的\信仰\辩护\.\
+#She spoke up in defence of her beliefs.
+#弊赤绰 措淬窍霸 磊脚狼 脚居阑 函龋沁促.
+
+52459:她\大发\脾气\,\对\着\她的\弟弟\尖\叫\.\
+#She lost her temper and screamed at her brother.
+#弊赤绰 畴惯 措惯窍绊 弊赤狼 悼积俊霸 朝墨酚霸 家府闷促.
+
+52460:她\大概\是\五\十\岁\的\人\吧\.\
+#She is,I'd say,fifty.
+#弊赤绰 酒付 50技老 巴捞促.
+
+52461:她\大\喊\加油\鼓励\那些\孩子们\.\
+#She whipped the children on with shouts of encouragement.
+#弊赤绰 农霸 家府媚 弊 酒捞甸阑 览盔沁促.
+
+52462:她\大为\震惊\,\昏\了\过去\.\
+#she had a shock and conked out.
+#弊赤绰 农霸 愁扼 沥脚阑 酪菌促.
+
+52463:她\戴\的\几\十\好\可爱\哦\!\
+#What an adorable hat she is wearing!
+#弊赤啊 敬 葛磊绰 概快 蓖勘促.
+
+52464:她\戴\了\一\顶\不\相\配\的\几\十\.\
+#She had on an unbecoming hat.
+#弊赤绰 绢匡府瘤 臼绰 葛磊甫 静绊 乐促.
+
+52465:她\戴\上\帽子\,\穿上\外衣\.\
+#She put her hat and coat on.
+#弊赤绰 葛磊甫 静绊 寇捧甫 涝菌促.
+
+52466:她\戴\一\枚\结婚\戒指\,\表示\她\已婚\.\
+#She wear a wedding ring to show that she's married.
+#弊赤绰 搬去 馆瘤甫 尝绊 弊赤啊 扁去磊烙阑 唱鸥陈促.
+
+52467:她\戴\着\一\串\绿色\的\珠子\项链\.\
+#She was wearing a string of green beads.
+#弊赤绰 踌祸备浇狼 格吧捞甫 崔绊 乐促.
+
+52468:她\带领\人们\游览\这\座\城市\.\
+#She guides people around the city.
+#弊赤绰 荤恩甸阑 捞缠绊 捞 档矫甫 蜡恩沁促.
+
+52469:她\带\着\满\脑子\的\新\想法\回来\了\.\
+#She came back bubbling over with new ideas.
+#弊赤绰 赣府加俊 啊垫蛮 货肺款 积阿阑 爱绊 倒酒吭促.
+
+52470:她\担心\他\会\用\棍棒\打\她\.\
+#She was afraid that he would beat her with the stick.
+#弊赤绰 弊啊 阜措扁肺 弊赤甫 锭府鳖毫 捌沥灯促.
+
+52471:她\担心\她\会\重新\陷入\贫穷\的\窘境\.\
+#She was under the apprehension that she would fall back in to poverty.
+#弊赤绰 弊赤啊 促矫 啊抄茄 帮版俊 狐龙鳖 捌沥灯促.
+
+52472:她\当家\,\她的\丈夫\不\过问\家务\.\
+#She ran the family and her husband stood back.
+#弊赤绰 笼救阑 档该绊 弊赤狼 巢祈篮 笼救老俊 包咯窍瘤 臼绰促.
+
+52473:她\当年\初\入社\交界\是\一\件\大事\.\
+#Her coming-out was a big event of the year.
+#弊赤啊 棵秦 檬 背拌俊 涝荤茄 巴篮 奴老促.
+
+52474:她\当然\接受\了\叁\加\宴会\的\邀请\.\
+#naturally,she accepted the invitation to the party.
+#弊赤绰 寸楷洒 楷雀俊 曼啊窍绰 夸没阑 罐疽促.
+
+52475:她\到达\车站\时\天\快\黑\了\.\
+#She arrived at the station towards evening.
+#弊赤啊 沥芭厘俊 档馒沁阑锭 朝捞 绢滴况瘤妨 茄促.
+
+52476:她\到\了\英国\,\后来\又\到\美国\.\
+#She went to England,and then to America.
+#弊赤绰 康惫俊 档馒 饶 固惫俊 艾促.
+
+52477:她\到\哪儿\去\?\去\听\演讲\.\
+#Where is she going? －To attend a lecture.
+#弊赤绰 绢叼俊 艾聪? 碍楷阑 甸栏矾 艾促.
+
+52478:她\到\哪儿\去\?\去\听\演讲\.\
+#Where is e going? －To attend a lecture.
+#弊赤绰 绢叼俊 艾聪? 碍楷阑 甸栏矾 艾促.
+
+52479:她\得到\保证\会\有\固定\的\收入\.\
+#A fixed income has been ensured her.
+#弊赤绰 绊沥等 荐涝阑 乐阑芭扼绰 焊刘阑 掘菌促.
+
+52480:她\得到\满满\一\箱子\珠宝\.\
+#She was given a chestful of jewels.
+#弊赤绰 备浇捞 啊垫蛮 惑磊甫 掘菌促.
+
+52481:她\得到\一\个\不\好的\名誉\.\
+#She acquired a bad reputation.
+#弊赤绰 唱慧 疙己阑 掘菌促.
+
+52482:她的\爱情\慢慢\地\消逝\了\.\
+#Her love has slowly gone out.
+#弊赤狼 荤尔篮 辑辑洒 荤扼脸促.
+
+52483:她的\傲慢\无礼\只\能\使\她\自己\出丑\.\
+#Her arrogance only reflects on herself.
+#弊赤狼 背父篮 公肥秦辑 窜瘤 弊赤磊脚阑 眠窍霸 且 挥捞促.
+
+52484:她的\抱负\被\她的\家庭\扼杀\了\.\
+#Her ambition was strait-jacket by her family.
+#弊赤狼 器何绰 弊赤狼 啊沥俊 狼秦 窿喘啡促.
+
+52485:她的\抱负\之一\是\当\部长\.\
+#One of her ambitions is to become a minister.
+#弊赤狼 器何吝俊 窍唱绰 何厘捞 登绰 巴捞促.
+
+52486:她的\报告\核对\起来\相当\吻合\.\
+#Her statement checks pretty well.
+#弊赤狼 焊绊绰 厚背绰 惑寸洒 钦府利捞促.
+
+52487:她的\悲痛\从\她的\态度\上\可\觉察\到\.\
+#Her distress was sensible from her manner.
+#弊赤狼 绊烹篮 弊赤狼 怕档俊辑 蠢偿 荐 乐促..
+
+52488:她的\病\是\她\想像\出来\的\.\
+#Her bad health is a product of her imagination.
+#弊赤狼 捍篮 弊赤啊 惑惑秦 辰 巴捞促.
+
+52489:她的\财产\由\她\自由\处理\.\
+#Her property is at her disposition.
+#弊赤狼 犁魂篮 弊赤啊 妇措肺 贸府茄促.
+
+52490:她的\绸\衣服\几乎\是\透明\的\.\
+#Her silk dress was almost transparent.
+#弊赤狼 角农 渴篮 芭狼 捧疙茄 巴捞促.
+
+52491:她的\聪颖\是\不言而喻\的\.\
+#Her intelligence is self-evident.
+#弊赤狼 醚疙窃篮 富且 鞘夸啊 绝促.
+
+52492:她的\错误\折磨\着\自己的\良心\.\
+#Her mistake gnawed at her conscience.
+#弊赤狼 馒坷绰 磊脚狼 剧缴阑 绊烹胶反霸 沁促.
+
+52493:她的\答\覆\句\句\都\是\模棱两可\的\.\
+#Her reply was full of ambiguities.
+#弊赤狼 措翠 备备例例 葛滴 局概葛龋窍促.
+
+52494:她的\短\衫\从\椅子\上\滑\下来\.\
+#Her blouse slid from the chair.
+#弊赤狼 陋篮 寂明绰 狼磊俊辑 冻绢脸促.
+
+52495:她的\儿子\使\她\焦虑\不安\.\
+#Her son was an anxiety to her.
+#弊赤狼 酒甸篮 弊赤甫 畴缴檬荤窍霸 沁促.
+
+52496:她的\法语\说\得\非常\流利\.\
+#She speaks French very fluently.
+#弊赤狼 阂绢甫 概快 蜡芒窍霸 富茄促.
+
+52497:她的\分娩\过程\长\达\三\小时\.\
+#She was in labour for three hours.
+#弊赤狼 免魂 苞沥篮 技 矫埃俊 促崔疽促.
+
+52498:她的\父母\强迫\她\嫁给\那个\人\.\
+#Her parents coerced her into marrying the man.
+#弊赤狼 何葛绰 弊赤啊 弊 荤恩俊霸 矫笼啊扼绊 碍夸沁促.
+
+52499:她的\感化\使\我\成\了\较\长进\的\人\.\
+#Her influence made me a better person.
+#弊赤狼 皑拳绰 朝 厚背利 柳焊利牢 荤恩栏肺 函窍霸 沁促.
+
+52500:她的\工作\是\训练\新\工人\.\
+#Her job is breaking new workers in.
+#弊赤狼 老篮 脚烙 畴悼磊甫 绕访矫虐绰 巴捞促.
+
+52501:她的\工作\同\照顾\老年\人\有关\.\
+#Her job has something to do with looking after old people.
+#弊赤狼 老篮 畴牢甸阑 倒焊绰 巴苞 蜡包窍促.
+
+52502:她的\贡献\比\人们\所\想像\的\更\宝贵\.\
+#Her services are more valuable than was supposed.
+#弊赤狼 傍清篮 荤恩甸捞 惑惑茄巴 焊促 歹 绊蓖窍促.
+
+52503:她的\骨灰\撒\在\大海\里\了\.\
+#Her ashes were scattered over the sea.
+#弊赤狼 蜡秦绰 官促俊 谎妨脸促.
+
+52504:她的\孩子们\在\坚持\做\家庭作业\.\
+#Her children were banging away at their homework.
+#弊赤狼 酒捞甸篮 笼救槛力甫 操霖洒 沁促.
+
+52505:她的\喊\声\吸引\了\警察\的\注意\.\
+#Her shouts drew the attention of the police.
+#弊赤狼 窃己篮 版蔓狼 林狼甫 缠菌促.
+
+52506:她的\好奇\心\被\挑\动\了\起来\.\
+#Her curiosity was roused.
+#弊赤狼 龋扁缴捞 惯悼窍扁 矫累沁促.
+
+52507:她的\好心\没有\得到\一点\报偿\.\
+#She got nothing in reward for her kindness.
+#弊赤狼 馒茄 付澜篮 距埃狼 焊惑档 罐瘤 给沁促. 
+
+52508:她的\好意\使\我\深\受\感动\.\
+#I was overwhelmed by her kindness.
+#弊赤狼 龋狼绰 朝 表捞 皑悼矫淖促.
+
+52509:她的\婚礼\再三\天\就要\举行\.\
+#Her wedding is three days ahead.
+#弊赤狼 搬去侥篮 促矫 伙老 悼救 芭青登妨 茄促.
+
+52510:她的\积蓄\因为\生病\全\给\用光\了\.\
+#Her savings have been eaten up by illness.
+#弊赤狼 利陛篮 捍绊肺 葛滴 官蹿车促.
+
+52511:她的\疾病\对\她\起\了\一\种\清醒\作用\.\
+#Her illness had a sobering effect on her.
+#弊赤狼 龙捍篮 弊赤俊霸 老辆狼 阿己狼 累侩阑 沁促.
+
+52512:她的\家人\使\她\与世隔绝\.\
+#Her family insulates her from contact with the world.
+#弊赤狼 啊练篮 弊赤俊霸 技惑狼 寒苞 谗栏扼 沁促.
+
+52513:她的\甲状腺\毛病\又\发作\了\.\
+#Her thyroid was acting up again.
+#弊赤狼 癌惑急 龙捍篮 肚 惯累沁促.
+
+52514:她的\健康\不断\地利\恶化\.\
+#Her health is getting steadily worse.
+#弊赤狼 扒碍篮 谗烙绝捞 厩拳登菌促.
+
+52515:她的\健康\不\允许\她\和\我们\一起\去\.\
+#Her health does not permit her to go with us.
+#弊赤狼 扒碍篮 快府甸苞 窃膊 唱啊绰 巴阑 倾遏窍瘤 臼疽促.
+
+52516:她的\讲\词\背\得\一\字\不\差\.\
+#Her speech was word-perfect.
+#弊赤狼 富篮 茄 臂磊档 撇府瘤 臼绊 寇况脸促.
+
+52517:她的\讲话\声\压低\而\变成\耳语\.\
+#Her voice dropped to a whisper.
+#弊赤狼 富家府绰 撤苗 庇加富捞 登菌促.
+
+52518:她的\经理\批准\她的\工作\.\
+#Her boss approved of her work.
+#弊赤狼 版府绰 弊赤狼 老阑 倾啊沁促.
+
+52519:她的\举止\使\人\联想\到\古代\人\.\
+#There was that in her bearing which suggested an ancient race of man.
+#弊赤狼 青悼芭瘤绰 荤恩俊霸 绊措牢阑 楷惑窍霸 沁促.
+
+52520:她的\卷发\犹如\瀑布\那样\泻\在\两\肩\.\
+#Her hair fell over her shoulders in a cascade of curls.
+#弊赤狼 蚌浇赣府绰 付摹 气器贸烦 弊赤狼 剧绢柄俊 疵绢脸促.
+
+52521:她的\刻薄\话\使\他\预感\到\她的\愤怒\.\
+#Her caustic remark gave him a foretaste of her anger.
+#弊赤狼 趁趣茄 富篮 弊俊霸 弊赤狼 盒畴甫 抗皑窍霸 沁促.
+
+52522:她的\恐惧\不久\就\消除\了\.\
+#Her fears were soon laid to rest.
+#弊赤狼 傍器绰 坷贰瘤 臼酒 荤扼脸促.
+
+52523:她的\恐惧\流露\在\她的\言词\之间\.\
+#Her fear showed itself in her speech.
+#弊赤狼 傍器绰 弊赤狼 富吝俊 唱鸥车促.
+
+52524:她的\来访\并没有\令\我\太\惊讶\.\
+#Her visit did not cause me much surprise.
+#弊赤狼 规巩篮 朝 农霸 愁扼霸 窍瘤 臼疽促.
+
+52525:她的\来信\消除\了\他的\虑\.\
+#Her letter allayed all his anxieties.
+#弊赤狼 翠厘篮 弊狼 辟缴阑 荤扼瘤霸 沁促.
+
+52526:她的\脸\被\碎\玻璃\严重\割\伤\.\
+#Her face was badly lacerated by the broken glass.
+#弊赤狼 倔奔篮 律俺柳 蜡府肺 概快 奴 惑贸啊 车促.
+
+52527:她的\脸\被\一\棵\树\遮住\了\.\
+#Her face was screened by a tree.
+#弊赤狼 倔奔篮 茄 弊风狼 唱公肺 啊妨脸促.
+
+52528:她的\脸\充分\表现\出\喜悦\.\
+#Her face was eloquent of pleasure.
+#弊赤狼 倔奔篮 面盒洒 扁惠捞 唱鸥唱 乐促.
+
+52529:她的\脸色\因\悲伤\而\变\阴沉\.\
+#Her face was overclouded with grief.
+#弊赤狼 倔奔祸篮 浇悄栏肺 绢涤霸 函沁促.
+
+52530:她的\脸\上\露出\失\之\情\.\
+#Her face showed disappointment.
+#弊赤狼 倔奔俊 矫访捞 唱鸥车促.
+
+52531:她的\脸\上\满\是\虫\咬\的\疤痕\.\
+#Her face was covered with insect bites.
+#弊赤狼 倔奔篮 葛滴 国饭 拱赴 惑贸捞促.
+
+52532:她的\脸\上\闪\露出\胜利\的\微笑\.\
+#A smile of triumph lit up her face.
+#弊赤狼 倔奔俊 铰府狼 固家啊 唱鸥车促.
+
+52533:她的\脸\上\显出\伤心\的\样子\.\
+#She had a wounded look on her face.
+#弊赤狼 倔奔俊 惑贸罐篮 葛嚼捞 开开窍促.
+
+52534:她的\脸\上\因\年轻\而\发出\光彩\.\
+#Her face shone with youth .
+#弊赤狼 倔奔篮 俐澜栏肺 堡盲啊 抄促.
+
+52535:她的\脸\上\有\点点\的\雀斑\.\
+#Her face is sprinkled with tiny freckles.
+#弊赤狼 倔奔篮 距埃狼 林辟柄啊 乐促.
+
+52536:她的\脸\显示\她\多么\幸福\.\
+#Her face expressed how happy she was.
+#弊赤狼 倔奔篮 概快 青汗秦 焊看促.
+
+52537:她的\两\颊\突然\涨\得\绯红\.\
+#Blood sprang to her cheeks.
+#弊赤狼 剧杭篮 倒楷 河霸 惑扁登菌促.
+
+52538:她的\每次\演奏\会\都\是\满座\.\
+#Every concert of hers has been a sellout.
+#弊赤狼 概锅 楷林雀绰 谅籍捞 父盔捞促.
+
+52539:她的\美丽\使\他\如痴如醉\.\
+#He is besotted by her beauty.
+#弊赤狼 酒抚促框篮 弊甫 荤尔俊 狐瘤霸 沁促.
+
+52540:她的\美貌\会\使\你\感到\惊讶\.\
+#You'll be surprised how beautiful she is.
+#弊赤狼 固葛绰 呈甫 愁扼霸 且 巴捞促.
+
+52541:她的\美貌\系\得\自\母亲\的\遗传\.\
+#She gets her good looks from her mother.
+#弊赤狼 固葛绰 绢赣聪肺何磐 拱矾罐篮 巴捞促.
+
+52542:她的\美\使\我们\大为\震惊\.\
+#Her beauty knocked us.
+#弊赤狼 酒抚促框篮 快府甸阑 农霸 愁扼霸 沁促.
+
+52543:她的\美\使\我\一时\哑然\失踪\.\
+#Her beauty left me momentarily speechless.
+#弊赤狼 酒抚促框篮 唱甫 老矫俊 酒楷磊角窍霸 沁促.
+
+52544:她的\名字\真是\又\长\又\难\念\!\
+#Her name is quite a mouthful!
+#弊赤狼 捞抚篮 沥富 辨绊 佬扁 绢菲促.
+
+52545:她的\怒气\似乎\已经\消失\了\.\
+#Her anger seems to have burnt out.
+#弊赤狼 畴扁绰 捞固 绝绢柳 巴 鞍促.
+
+52546:她的\票房\记录\胜\过\所有\的\男\明星\.\
+#She outpulls all male stars at the box office.
+#弊赤狼 冠胶坷乔胶俊辑 葛电 巢磊楷局牢阑 捞变 利捞 乐促.
+
+52547:她的\汽车\主要\是\用\来\上班\的\.\
+#She uses her car mostly for her job.
+#弊赤狼 瞒绰 林肺 免辟 且锭 荤侩茄促.
+
+52548:她的\谦虚\完全\是\假装\的\.\
+#Her modesty was all put on.
+#弊赤狼 扳颊篮 肯傈洒 啊厘茄 巴捞促.
+
+52549:她的\前途\不久\就\会\一片\光明\.\
+#Her prospects will clear soon.
+#弊赤狼 傈档绰 梆 灌阑 巴捞促.
+
+52550:她的\去世\使\他\意志\消\沈\.\
+#Her death depressed him .
+#弊赤狼 磷澜篮 弊狼 狼瘤甫 家魔窍霸 沁促.
+
+52551:她\的确\很\漂亮\,\但\并不\讨\人\喜欢\.\
+#She is quite pretty,but uninteresting.
+#弊赤绰 犬角洒 抗悔促. 弊矾唱 搬内 促弗 荤恩甸狼 龙捧甫 罐瘤 臼绰促.
+
+52552:她的\裙子\被\风\吹\得\鼓\了\起来\.\
+#Her skirt ballooned out in the wind.
+#弊赤狼 摹付绰 官恩俊 妻钒芭啡促.
+
+52553:她的\裙子\给\夹\在\门缝\里\扯\破\了\.\
+#She shut her skirt in the door and tore it.
+#弊赤狼 摹付绰 巩拼俊 尝绢 迈绢脸促.
+
+52554:她的\裙子\像\降落伞\般\鼓\起\.\
+#Her skirt billowed out like a parachute.
+#弊赤狼 摹付绰 倡窍魂捞 冻绢瘤淀 妻钒芭啡促.
+
+52555:她的\热情\被\激发\起来\了\.\
+#Her passion flamed out.
+#弊赤狼 凯沥篮 拜悼登菌促.
+
+52556:她的\仁慈\令人\无法\形容\.\
+#Her kindness baffled description.
+#弊赤狼 牢磊窃绰 荤恩栏肺 窍咯陛 屈侩且 荐 绝霸 茄促.
+
+52557:她的\三\个\孩子\老是\碍手碍脚\.\
+#Her three children are always getting underfoot.
+#弊赤狼 技 酒捞甸篮 攫力唱 规秦啊 等促.
+
+52558:她的\三\围\是\3\3\-\2\3\-\3\4\.\
+#Her vitalstatistics are 33-23-34.
+#弊赤狼 啊娇 笛饭, 倾府笛饭,洒橇笛饭绰 33-23-34捞促.
+
+52559:她的\嗓\门\因\激动\而\提\得\越来越\高\.\
+#Her voice rose higher and higher with excitement.
+#弊赤狼 格篮 拜悼登绢 痢痢 臭酒脸促.
+
+52560:她的\深情\厚意\鼓舞\了\他\.\
+#He was heartened by her kindness.
+#弊赤狼 表篮 龋狼绰 弊甫 绊公矫淖促.
+
+52561:她的\神经\疾患\往往\使\她\痉挛\.\
+#Her nervous illness often threw her into convulsions.
+#弊赤狼 脚版龙券篮 辆辆 弊赤甫 版访窍霸 茄促.
+
+52562:她的\声音\和\平常\完全\不同\.\
+#Her voice was quite unlike her usual one.
+#弊赤狼 格家府绰 乞家客 肯傈洒 促福促.
+
+52563:她的\声音\使\我\感到\很\刺耳\.\
+#Her voice rasped on my ears.
+#弊赤狼 格家府绰 唱俊霸 蓖蝶癌霸 蠢尝霸 沁促.
+
+52564:她的\声音\听\起来\象是\压抑\着\似的\.\
+#Her voice sounded muffled up.
+#弊赤狼 格家府绰 佃扁俊 翠翠茄 巴 鞍促.
+
+52565:她的\生命\取决于\这\次\手术\的\结果\.\
+#Her life lies on the result of this operation.
+#弊赤狼 积疙篮 捞锅 荐贱 搬苞俊 崔妨 乐促.
+
+52566:她的\失踪\令人\非常\担忧\.\
+#Her disappearance was very worrying.
+#弊赤狼 角辆篮 荤恩甸阑 概快 捌沥 矫淖促.
+
+52567:她的\手\摸\起来\有\粗糙\的\地方\.\
+#There is a roughness to the feel of her hands.
+#弊赤狼 颊篮 父瘤搁 酒林 芭模 何盒捞 乐促.
+
+52568:她的\手提包\有\两\支\囗\红\.\
+#She had two lipsticks in her purse.
+#弊赤狼 颊瘤癌俊绰 滴 俺狼 赋胶平捞 乐促.
+
+52569:她的\手提箱\喀\一\声\关上\了\.\
+#Her suitcase clicked shut.
+#弊赤狼 颊啊规篮 迭 家府郴哥 磋闷促.
+
+52570:她的\手提箱\装\满\了\衣服\.\
+#Her suitcase was cram-full of clothes.
+#弊赤狼 颊啊规篮 渴栏肺 啊垫窍促.
+
+52571:她的\书\是\一\部\有\价值\的\学术\著作\.\
+#Her book is a fine piece of scholarship.
+#弊赤狼 氓篮 老何 啊摹乐绰 切贱历磊捞促.
+
+52572:她的\双手\搁\在\椅子\的\扶手\上\.\
+#Her hands rested on the arms of her chair.
+#弊赤狼 剧颊篮 狼磊狼 颊棱捞俊 初疽促.
+
+52573:她的\双\腿\在\水\中\剧烈\地\摆动\.\
+#Her legs flailed in the water.
+#弊赤狼 剧 促府绰 拱俊辑 芭技霸 如甸菌促.
+
+52574:她的\私\奔\使\她的\父母\大为\震惊\.\
+#Her elopement astounded her parents.
+#弊赤狼 档乔青阿篮 弊赤狼 何葛丛阑 酒林 愁扼霸 沁促.
+
+52575:她的\态度\有\礼\,\但\很\冷\漠\.\
+#Her manner was polite but remote.
+#弊赤狼 怕档绰 抗狼啊 乐栏唱 概快 趁淬窍促.
+
+52576:她的\谈话\一点\也\不\矫\造作\.\
+#Her talk was very unliterary.
+#弊赤狼 富篮 炼陛档 炼累登瘤 臼疽促.
+
+52577:她的\特长\使\她\很\适合\做\这\项\工作\.\
+#Her special abilities fit her well for the job.
+#弊赤狼 漂隆篮 弊赤甫 捞 老俊 利寸窍霸 辆荤窍霸 沁促.
+
+52578:她的\统治\持续\了\二\十\年\.\
+#Her rule lasted 20 years.
+#弊赤狼 烹摹绰 20斥埃 蜡瘤登菌促.
+
+52579:她的\头发\非常\滑稽\地盘\在\头\上\.\
+#Her hair was done up in a very funny way.
+#弊赤狼 赣府墨遏篮 概快 劳混胶反霸 赣府俊 初咯 乐促.
+
+52580:她的\头发\很\直\,\不\弯曲\.\
+#She has straight,not curly hair.
+#弊赤狼 赣府绰 蚌浇芭府瘤 臼绊 梆促.
+
+52581:她的\头发\看来\很\需要\发夹\夹\起来\.\
+#Her hair seemed to cry aloud for hairpins.
+#弊赤狼 赣府绰 焊酒窍聪 赣府巧阑 踩酒具父 茄促.
+
+52582:她的\头发\露出\于\几\十\外面\.\
+#Her hair had escaped from her hat.
+#弊赤狼 赣府墨遏篮 葛磊 观栏肺 焊看促.
+
+52583:她的\头发\漂亮\地\曲\成\波浪\形\.\
+#Her hair waves in beautiful curls.
+#弊赤狼 赣府绰 抗悔霸 颇档葛剧贸烦 蚌浇芭啡促.
+
+52584:她的\头发\散落\在\衣领\上\.\
+#Her hair straggled over her collar.
+#弊赤狼 赣府墨遏篮 渴漠扼俊 疵绢廉 乐促.
+
+52585:她的\头发\是\天然\卷曲\的\.\
+#Her hair frizzles up naturally.
+#弊赤狼 赣府墨遏篮 盔贰 蚌浇捞促.
+
+52586:她的\头发\是\在\美容\院\做\的\.\
+#She had her hair styled at the beauty parlor.
+#弊赤狼 赣府绰 固侩角俊辑 茄 巴捞促.
+
+52587:她的\头发\在\几\星期\内\就\变\白\了\.\
+#She's gone grey within a few weeks.
+#弊赤狼 赣府墨遏绰 割 林郴俊 窍鹃霸 函沁促.
+
+52588:她的\头\在\桌\上\碰\了\一下\.\
+#She hit her head on the table.
+#弊赤狼 赣府绰 氓惑俊 何碟躯促.
+
+52589:她的\腿\很\漂亮\;\她\有\一\双\美\腿\.\
+#She has nice legs.
+#弊赤狼 促府绰 抗悔促. 
+
+52590:她的\微笑\暗示\她\赞成\我们的\提议\.\
+#Her smile implied her consent to our proposal.
+#弊赤狼 固家绰 弊赤啊 快府甸捞 力狼俊 蛮己茄促绰巴阑 鞠矫茄促.
+
+52591:她的\微笑\使\他\确信\她\是\幸福\的\.\
+#Her smile convinced him that she was happy.
+#弊赤狼 固家绰 弊赤啊 青汗窍促绰 巴阑 弊俊霸 犬角洒 瓜霸 沁促.
+
+52592:她的\微笑\使\她\脸\上\容光焕发\.\
+#Her face was illuminated by a smile.
+#弊赤狼 固家绰 弊赤狼 倔奔阑 券窍霸 沁促.
+
+52593:她的\无礼\惹\得\我\打\了\她\.\
+#Her rudeness provoked me to strike her.
+#弊赤狼 公肥窃篮 郴啊 弊赤甫 锭府霸 沁促.
+
+52594:她的\笑话\引起\一片\笑\声\.\
+#Her joke raised a laugh.
+#弊赤狼 丑淬篮 眶澜家府甫 磊酒陈促.
+
+52595:她的\笑\声\是\那种\表示\欢迎\的\大笑\.\
+#Her laugh is one of those welcome yocks.
+#弊赤狼 眶澜家府绰 券康阑 唱鸥郴绰 奴 眶澜捞促.
+
+52596:她的\笑\声\消除\了\他的\烦恼\.\
+#Her laughter charmed away his cares.
+#弊赤狼 眶澜 家府绰 弊狼 绊刮阑 绝据促.
+
+52597:她的\鞋子\很快\就\穿\破\了\.\
+#Her shoes wore out quickly.
+#弊赤狼 脚惯篮 弧府 脚绢 粹疽促.
+
+52598:她的\新\跑车\成\了\大家\慕\的\对象\.\
+#Her new sports car was the envy of all.
+#弊赤狼 货 胶器明墨绰 葛滴啊 何矾况窍绰 措惑捞 登菌促.
+
+52599:她的\新书\已\成\了\畅销\书\.\
+#Her new book is already a best-seller.
+#弊赤狼 货 氓篮 捞固 海胶飘 伎矾啊 登菌促.
+
+52600:她的\新\著\很快\会\在\书店\摆\出来\.\
+#Her new book will appear in the shops very soon.
+#弊赤狼 货 氓篮 弧府 辑痢俊 柳凯 瞪 巴捞促.
+
+52601:她的\心\因\害怕\而\开始\柁\柁\跳\.\
+#Her heart began to flutter with fear.
+#弊赤狼 付澜篮 滴妨框栏肺 聂聂 顿扁 矫累沁促.
+
+52602:她的\信\读\起来\总是\很\通顺\的\.\
+#Her letters always read well.
+#弊赤狼 祈瘤绰 佬扁俊 攫力唱 概掺反促.
+
+52603:她的\信\是\用\快乐\的\笔调\写\的\.\
+#Her letter were writeen in a happy strain.
+#弊赤狼 祈瘤绰 榴芭款 鞘眉肺 静咯廉 乐促.
+
+52604:她的\行为\越\了\雅\的\界限\.\
+#Her behavior transgressed all boundaries of good taste.
+#弊赤狼 青困绰 棵官弗 茄拌甫 逞绢脊促.
+
+52605:她的\行为\显得\极\不\优雅\.\
+#Her act shows a complete want of delicacy.
+#弊赤狼 青悼篮 酒林 绊惑窍瘤 臼霸 焊看促.
+
+52606:她的\眼睛\充满\着\泪水\.\
+#Her eyes were swimming with tears.
+#弊赤狼 传篮 传拱肺 啊垫窍促.
+
+52607:她的\眼睛\盯住\那些\珠宝\.\
+#Her gaze fastened on the jewels.
+#弊赤狼 传篮 焊籍俊 肛眠绢廉 乐促.
+
+52608:她的\眼睛\非常\传情\动人\.\
+#Her eyes are very telling.
+#弊赤狼 传篮 概快 荤尔胶反促.
+
+52609:她的\眼睛\和\声音\迷\住\了\我\.\
+#Her eyes and voice beguiled me.
+#弊赤狼 传苞 格家府绰 唱甫 圈啡促.
+
+52610:她的\眼睛\流露\出\幸福\的\神情\.\
+#Her eyes said that she was happy.
+#弊赤狼 传俊辑 青汗狼 扁祸捞 甸绢车促.
+
+52611:她的\眼睛\闪烁\着\高兴\的\光芒\.\
+#Her eyes glowed with pleasure.
+#弊赤狼 传俊辑 扁坏窍绰 蝴捞 焊看促.
+
+52612:她的\眼睛\因\好奇\而\闪亮\.\
+#Her eyes kindled with curiosity.
+#弊赤狼 传篮 龋扁缴栏肺 蝴车促.
+
+52613:她的\眼睛\周围\起\皱纹\了\.\
+#She has got wrinkles round her eyes.
+#弊赤狼 传 林困俊 林抚混捞 积板促.
+
+52614:她的\眼镜\蒙\上\了\一\层\水汽\.\
+#Her glasses have misted up.
+#弊赤狼 救版篮 拱扁肺 儒啡促.
+
+52615:她的\一\副\牙齿\仍然\完好\无缺\.\
+#She still has a perfect set of teeth.
+#弊赤狼 摹酒绰 咯傈洒 肯傈 公搬窍促.
+
+52616:她的\一生\全\毁\于\不良\的\健康\状况\.\
+#Her life was blighted by ill health.
+#弊赤狼 老积篮 葛滴 阂樊茄 扒碍 惑怕肺 噶啊脸促.
+
+52617:她的\衣服\和\我的\一样\漂亮\.\
+#Her dress is as pretty as mine.
+#弊赤狼 渴篮 唱狼 巴苞 鞍捞 抗悔促.
+
+52618:她的\衣着\随着\潮流\而\变化\.\
+#She varies her dress as fashion changes.
+#弊赤狼 渴篮 蜡青俊 蝶扼 函拳茄促.
+
+52619:她的\遗体\被\葬\在\那\教堂\的\墓园\中\.\
+#Her body lies in the churchyard.
+#弊赤狼 个篮 弊 背雀狼 公待俊 概厘登菌促.
+
+52620:她的\政治\观点\很\难\使\人\赞同\.\
+#It's hard to sympathize with her political opinions.
+#弊赤狼 沥摹包痢篮 概快 荤恩甸狼 蛮己阑 掘扁 绢菲促.
+
+52621:她的\证言\决定\了\他的\命运\.\
+#His fate was sealed by her testimony.
+#弊赤狼 沥流篮 弊狼 款疙阑 搬沥沁促.
+
+52622:她的\智力\属于\最高\的\等级\.\
+#She's in the top stream.
+#弊赤狼 瘤驱绰 弥绊狼 殿鞭俊 加茄促.
+
+52623:她的\嘴唇\因\激怒\而\抽\着\.\
+#Her lips twitched in exasperation.
+#弊赤狼 涝贱篮 拜畴肺 冻啡促.
+
+52624:她的\嘴\是\她\五官\中\最\好看\的\部分\.\
+#Her mouth is her best feature.
+#弊赤狼 涝篮 弊赤狼 坷包吝俊 啊厘 抗慧 何盒捞促.
+
+52625:她的\腼腆\封\她\有\很\大\帮助\.\
+#Her shyness was her best friend.
+#弊赤狼 何掺矾框篮 弊赤俊霸 奴 档框阑 林菌促.
+
+52626:她\等\学校\里\的\车\来\接\她\.\
+#She waited for the car from the school to call for her.
+#弊赤绰 弊赤甫 单府矾 棵 切背瞒甫 扁促府绊 乐促.
+
+52627:她\等\着\看看\谁\会\从\那\屋子\出来\.\
+#She watched to see who would come out of the house.
+#弊赤绰 穿啊 弊 规俊辑 唱棵 巴牢瘤 扁促府绊 乐促.
+
+52628:她\等\着\瞧\我\会\干\些\什么\.\
+#She watched to see what I would do.
+#弊赤绰 郴啊 公均阑 且 巴牢瘤 瘤难焊绊 乐促.
+
+52629:她\低\哼\摇篮\曲\使\她的\婴儿\入睡\.\
+#She crooned her baby tosleep.
+#弊赤绰 磊厘啊甫 蕊倔芭妨 弊赤狼 酒捞甫 犁奎促.
+
+52630:她\低声\哼\着\歌\哄\婴儿\睡觉\.\
+#She hummed her baby to sleep.
+#弊赤绰 撤篮 格家府肺 畴贰甫 阂矾 酒啊甫 犁奎促.
+
+52631:她\第\二\次\参加\考试\时\考\及格\了\.\
+#She succeeded the second time she took the examination.
+#弊赤绰 滴锅掳 矫氰俊 曼啊且 锭 钦拜沁促.
+
+52632:她\第一次\的\婚姻\不\很\愉快\.\
+#Her first marriage was not very happy.
+#弊赤绰 霉锅掳 搬去捞 榴疤瘤 臼疽促.
+
+52633:她\点点\头\,\笑\了\笑\,\继续\缝\衣服\.\
+#She nodded smiled,and went on stitching.
+#弊赤绰 绊俺甫 掺傣捞绊 眶栏哥 拌加 渴阑 犁豪沁促.
+
+52634:她\点燃\煤气\时\,\响起\了\一\声\爆炸\.\
+#When she lit the gas there was a loud explosion.
+#弊赤绰 啊胶俊 阂阑 嘿老 锭 气惯 家府啊 车促.
+
+52635:她\掉过\头\去\,\不忍\看\那\一\幕\惨象\.\
+#She looked away from the tragic scene.
+#弊赤绰 绊俺甫 冻备绊 弊 曼淬茄 堡版阑 瞒付 杭 荐 绝菌促.
+
+52636:她\跌\了\一\跤\之后\,\脚\踝\肿\了\起来\.\
+#Her ankle swelled up after the fall.
+#弊赤绰 茄锅 逞绢柳 饶 汗荤焕啊 何菌促.
+
+52637:她\懂得\法语\,\英语\更\不用说\.\
+#She knows French,not to speak of English.
+#弊赤绰 阂绢甫 舅绊 乐促. 康绢绰 歹 富且 巴档 绝促.
+
+52638:她\动身\去\找\医生\,\我\没\能\叫\住\他\.\
+#She started for the doctor before I could stop her.
+#弊赤绰 狼荤甫 茫酒 栋车促. 唱绰 弊甫 阂矾 技匡 荐 绝菌促.
+
+52639:她\动手\做\起\各种\家务\工作\来\.\
+#She set to do all the housework.
+#弊赤绰 阿辆 笼救老阑 窍扁 矫累沁促.
+
+52640:她\独自\去\了\,\尚未\回来\.\
+#She went off alone and has not returned.
+#弊赤绰 去磊 啊辑 酒流 倒酒坷瘤 臼疽促.
+
+52641:她\独自\一\人时\,\总是\看书\.\
+#She reads a lot when she's alone.
+#弊赤绰 去磊 乐阑锭 攫力唱 氓阑 夯促
+
+52642:她\对\别人\的\事\太\好奇\了\.\
+#She is too curious about other people's business.
+#弊赤绰 鸥牢狼 老俊 概快 龋扁缴阑 爱绊 乐促.
+
+52643:她\对\陈述\上\的\矛盾\很\感兴趣\.\
+#She was intrigued by the stated contradiction.
+#弊赤绰 柳贱惑狼 葛鉴俊 概快 蕊固甫 爱绊乐促.
+
+52644:她\对待\穷人\仁慈\,\享有\美誉\.\
+#She has the reputation of being kind to the poor.
+#弊赤绰 啊抄茄 荤恩甸俊霸 磊厚肺 措茄促绊 乞魄捞 唱乐促.
+
+52645:她\对\敌人\的\恐吓\毫不\在乎\.\
+#She laughed at the enemy's threats.
+#弊赤绰 利俊 措茄 傍器啊 炼陛档 绝促.
+
+52646:她\对\儿子\之\死\至今\仍\感\悲伤\.\
+#She has not yet got over the loss of her son.
+#弊赤绰 酒甸捞 磷篮 第俊 瘤陛鳖瘤 咯傈洒 浇欺茄促.
+
+52647:她\对\服装\有\好的\审美\眼光\.\
+#She has good taste in clothes.
+#弊赤绰 菩记俊 亮篮 缴固救捞 乐促.
