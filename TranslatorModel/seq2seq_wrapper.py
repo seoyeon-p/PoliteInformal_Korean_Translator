@@ -9,7 +9,7 @@ class Seq2Seq(object):
             xvocab_size, yvocab_size,
             emb_dim, num_layers, ckpt_path,
             lr=0.0001, 
-            epochs=10, model_name='seq2seq_model'):
+            epochs=50000, model_name='seq2seq_model'):
 
         # attach these arguments to self
         self.xseq_len = xseq_len
